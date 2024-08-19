@@ -10,7 +10,7 @@
 [1:9] God is faithful, by whom you were called unto the fellowship of his Son Jesus Christ our Lord.
 [1:10] Now I beseech you, brothers, by the name of our Lord Jesus Christ, that you all speak the same thing, and that there be no divisions among you; but that you be perfectly joined together in the same mind and in the same judgment.
 [1:11] For it hath been declared unto me of you, my brothers, by them which are of the house of Chloe, that there are contentions among you.
-[1:12] Now this I say, that every one of you saith, I am of Paul; and I of Apollos; and I of Cephas; and I of Christ.
+[1:12] Now this I say, that every one of you says, I am of Paul; and I of Apollos; and I of Cephas; and I of Christ.
 [1:13] Is Christ divided? was Paul crucified for you? or were you baptized in the name of Paul?
 [1:14] I thank God that I baptized none of you, but Crispus and Gaius;
 [1:15] Lest any should say that I had baptized in mine own name.
@@ -49,7 +49,7 @@
 [3:1] And I, brothers, could not speak unto you as unto spiritual, but as unto carnal, even as unto babes in Christ.
 [3:2] I have fed you with milk, and not with meat: for hitherto you were not able to bear it, neither yet now are you able.
 [3:3] For you are yet carnal: for whereas there is among you envying, and strife, and divisions, are you not carnal, and walk as men?
-[3:4] For while one saith, I am of Paul; and another, I am of Apollos; are you not carnal?
+[3:4] For while one says, I am of Paul; and another, I am of Apollos; are you not carnal?
 [3:5] Who then is Paul, and who is Apollos, but ministers by whom you believed, even as the Lord gave to every man?
 [3:6] I have planted, Apollos watered; but God gave the increase.
 [3:7] So then neither is he that planteth any thing, neither he that watereth; but God that giveth the increase.
@@ -118,7 +118,7 @@
 [6:13] Meats for the belly, and the belly for meats: but God shall destroy both it and them. Now the body is not for fornication, but for the Lord; and the Lord for the body.
 [6:14] And God hath both raised up the Lord, and will also raise up us by his own power.
 [6:15] Know you not that your bodies are the members of Christ? shall I then take the members of Christ, and make them the members of an harlot? God forbid.
-[6:16] What? know you not that he which is joined to an harlot is one body? for two, saith he, shall be one flesh.
+[6:16] What? know you not that he which is joined to an harlot is one body? for two, says he, shall be one flesh.
 [6:17] But he that is joined unto the Lord is one spirit.
 [6:18] Flee fornication. Every sin that a man doeth is without the body; but he that committeth fornication sinneth against his own body.
 [6:19] What? know you not that your body is the temple of the Holy Ghost which is in you, which you have of God, and you are not your own?
@@ -183,9 +183,9 @@
 [9:5] Have we not power to lead about a sister, a wife, as well as other apostles, and as the brothers of the Lord, and Cephas?
 [9:6] Or I only and Barnabas, have not we power to forbear working?
 [9:7] Who goeth a warfare any time at his own charges? who planteth a vineyard, and eateth not of the fruit thereof? or who feedeth a flock, and eateth not of the milk of the flock?
-[9:8] Say I these things as a man? or saith not the law the same also?
+[9:8] Say I these things as a man? or says not the law the same also?
 [9:9] For it is written in the law of Moses, You shalt not muzzle the mouth of the ox that treadeth out the corn. Doth God take care for oxen?
-[9:10] Or saith he it altogether for our sakes? For our sakes, no doubt, this is written: that he that ploweth should plow in hope; and that he that thresheth in hope should be partaker of his hope.
+[9:10] Or says he it altogether for our sakes? For our sakes, no doubt, this is written: that he that ploweth should plow in hope; and that he that thresheth in hope should be partaker of his hope.
 [9:11] If we have sown unto you spiritual things, is it a great thing if we shall reap your carnal things?
 [9:12] If others be partakers of this power over you, are not we rather? Nevertheless we have not used this power; but suffer all things, lest we should hinder the gospel of Christ.
 [9:13] Do you not know that they which minister about holy things live of the things of the temple? and they which wait at the altar are partakers with the altar?
@@ -334,7 +334,7 @@
 [14:18] I thank my God, I speak with tongues more than you all:
 [14:19] Yet in the church I had rather speak five words with my understanding, that by my voice I might teach others also, than ten thousand words in an unknown tongue.
 [14:20] Brothers, be not children in understanding: howbeit in malice be you children, but in understanding be men.
-[14:21] In the law it is written, With men of other tongues and other lips will I speak unto this people; and yet for all that will they not hear me, saith the Lord.
+[14:21] In the law it is written, With men of other tongues and other lips will I speak unto this people; and yet for all that will they not hear me, says the Lord.
 [14:22] Wherefore tongues are for a sign, not to them that believe, but to them that believe not: but prophesying serveth not for them that believe not, but for them which believe.
 [14:23] If therefore the whole church be come together into one place, and all speak with tongues, and there come in those that are unlearned, or unbelievers, will they not say that you are mad?
 [14:24] But if all prophesy, and there come in one that believeth not, or one unlearned, he is convinced of all, he is judged of all:
@@ -347,7 +347,7 @@
 [14:31] For you may all prophesy one by one, that all may learn, and all may be comforted.
 [14:32] And the spirits of the prophets are subject to the prophets.
 [14:33] For God is not the author of confusion, but of peace, as in all churches of the saints.
-[14:34] Let your women keep silence in the churches: for it is not permitted unto them to speak; but they are commanded to be under obedience as also saith the law.
+[14:34] Let your women keep silence in the churches: for it is not permitted unto them to speak; but they are commanded to be under obedience as also says the law.
 [14:35] And if they will learn any thing, let them ask their husbands at home: for it is a shame for women to speak in the church.
 [14:36] What? came the word of God out from you? or came it unto you only?
 [14:37] If any man think himself to be a prophet, or spiritual, let him acknowledge that the things that I write unto you are the commandments of the Lord.
@@ -380,7 +380,7 @@
 [15:24] Then cometh the end, when he shall have delivered up the kingdom to God, even the Father; when he shall have put down all rule and all authority and power.
 [15:25] For he must reign, till he hath put all enemies under his feet.
 [15:26] The last enemy that shall be destroyed is death.
-[15:27] For he hath put all things under his feet. But when he saith all things are put under him, it is manifest that he is excepted, which did put all things under him.
+[15:27] For he hath put all things under his feet. But when he says all things are put under him, it is manifest that he is excepted, which did put all things under him.
 [15:28] And when all things shall be subdued unto him, then shall the Son also himself be subject unto him that put all things under him, that God may be all in all.
 [15:29] Else what shall they do which are baptized for the dead, if the dead rise not at all? why are they then baptized for the dead?
 [15:30] And why stand we in jeopardy every hour?

@@ -562,7 +562,7 @@ Genesis
 [22:13] And Abraham lifted up his eyes, and looked, and behold behind him a ram caught in a thicket by his horns: and Abraham went and took the ram, and offered him up for a burnt offering in the stead of his son.
 [22:14] And Abraham called the name of that place Jehovahjireh: as it is said to this day, In the mount of the LORD it shall be seen.
 [22:15] And the angel of the LORD called unto Abraham out of heaven the second time,
-[22:16] And said, By myself have I sworn, saith the LORD, for because you have done this thing, and have not withheld your son, your only son:
+[22:16] And said, By myself have I sworn, says the LORD, for because you have done this thing, and have not withheld your son, your only son:
 [22:17] That in blessing I will bless you, and in multiplying I will multiply your seed as the stars of the heaven, and as the sand which is upon the sea shore; and your seed shall possess the gate of his enemies;
 [22:18] And in your seed shall all the nations of the earth be blessed; because you have obeyed my voice.
 [22:19] So Abraham returned unto his young men, and they rose up and went together to Beersheba; and Abraham dwelt at Beersheba.
@@ -931,7 +931,7 @@ Genesis
 [32:1] And Jacob went on his way, and the angels of God met him.
 [32:2] And when Jacob saw them, he said, This is God's host: and he called the name of that place Mahanaim.
 [32:3] And Jacob sent messengers before him to Esau his brother unto the land of Seir, the country of Edom.
-[32:4] And he commanded them, saying, Thus shall you speak unto my lord Esau; Your servant Jacob saith thus, I have sojourned with Laban, and stayed there until now:
+[32:4] And he commanded them, saying, Thus shall you speak unto my lord Esau; Your servant Jacob says thus, I have sojourned with Laban, and stayed there until now:
 [32:5] And I have oxen, and asses, flocks, and menservants, and womenservants: and I have sent to tell my lord, that I may find grace in your sight.
 [32:6] And the messengers returned to Jacob, saying, We came to your brother Esau, and also he cometh to meet you, and four hundred men with him.
 [32:7] Then Jacob was greatly afraid and distressed: and he divided the people that was with him, and the flocks, and herds, and the camels, into two bands;
@@ -1249,7 +1249,7 @@ Genesis
 [41:52] And the name of the second called he Ephraim: For God hath caused me to be fruitful in the land of my affliction.
 [41:53] And the seven years of plenteousness, that was in the land of Egypt, were ended.
 [41:54] And the seven years of dearth began to come, according as Joseph had said: and the dearth was in all lands; but in all the land of Egypt there was bread.
-[41:55] And when all the land of Egypt was famished, the people cried to Pharaoh for bread: and Pharaoh said unto all the Egyptians, Go unto Joseph; what he saith to you, do.
+[41:55] And when all the land of Egypt was famished, the people cried to Pharaoh for bread: and Pharaoh said unto all the Egyptians, Go unto Joseph; what he says to you, do.
 [41:56] And the famine was over all the face of the earth: and Joseph opened all the storehouses, and sold unto the Egyptians; and the famine waxed sore in the land of Egypt.
 [41:57] And all countries came into Egypt to Joseph for to buy corn; because that the famine was so sore in all lands.
 [42:1] Now when Jacob saw that there was corn in Egypt, Jacob said unto his sons, Why do you look one upon another?
@@ -1330,7 +1330,7 @@ Genesis
 [44:4] And when they were gone out of the city, and not yet far off, Joseph said unto his steward, Up, follow after the men; and when you dost overtake them, say unto them, Wherefore have you rewarded evil for good?
 [44:5] Is not this it in which my lord drinketh, and whereby indeed he divineth? you have done evil in so doing.
 [44:6] And he overtook them, and he spake unto them these same words.
-[44:7] And they said unto him, Wherefore saith my lord these words? God forbid that your servants should do according to this thing:
+[44:7] And they said unto him, Wherefore says my lord these words? God forbid that your servants should do according to this thing:
 [44:8] Behold, the money, which we found in our sacks' mouths, we brought again unto you out of the land of Canaan: how then should we steal out of your lord's house silver or gold?
 [44:9] With whomsoever of your servants it be found, both let him die, and we also will be my lord's bondmen.
 [44:10] And he said, Now also let it be according unto your words: he with whom it is found shall be my servant; and you shall be blameless.
@@ -1366,7 +1366,7 @@ Genesis
 [45:6] For these two years hath the famine been in the land: and yet there are five years, in the which there shall neither be earing nor harvest.
 [45:7] And God sent me before you to preserve you a posterity in the earth, and to save your lives by a great deliverance.
 [45:8] So now it was not you that sent me hither, but God: and he hath made me a father to Pharaoh, and lord of all his house, and a ruler throughout all the land of Egypt.
-[45:9] Haste you, and go up to my father, and say unto him, Thus saith your son Joseph, God hath made me lord of all Egypt: come down unto me, tarry not:
+[45:9] Haste you, and go up to my father, and say unto him, Thus says your son Joseph, God hath made me lord of all Egypt: come down unto me, tarry not:
 [45:10] And you shalt dwell in the land of Goshen, and you shalt be near unto me, you, and your children, and your children's children, and your flocks, and your herds, and all that you have:
 [45:11] And there will I nourish you; for yet there are five years of famine; lest you, and your household, and all that you have, come to poverty.
 [45:12] And, behold, your eyes see, and the eyes of my brother Benjamin, that it is my mouth that speaketh unto you.

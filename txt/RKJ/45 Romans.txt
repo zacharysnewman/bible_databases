@@ -78,7 +78,7 @@ Romans
 [3:16] Destruction and misery are in their ways:
 [3:17] And the way of peace have they not known:
 [3:18] There is no fear of God before their eyes.
-[3:19] Now we know that what things soever the law saith, it saith to them who are under the law: that every mouth may be stopped, and all the world may become guilty before God.
+[3:19] Now we know that what things soever the law says, it says to them who are under the law: that every mouth may be stopped, and all the world may become guilty before God.
 [3:20] Therefore by the deeds of the law there shall no flesh be justified in his sight: for by the law is the knowledge of sin.
 [3:21] But now the righteousness of God without the law is manifested, being witnessed by the law and the prophets;
 [3:22] Even the righteousness of God which is by faith of Jesus Christ unto all and upon all them that believe: for there is no difference:
@@ -93,7 +93,7 @@ Romans
 [3:31] Do we then make void the law through faith? God forbid: yea, we establish the law.
 [4:1] What shall we say then that Abraham our father, as pertaining to the flesh, hath found?
 [4:2] For if Abraham were justified by works, he hath whereof to glory; but not before God.
-[4:3] For what saith the scripture? Abraham believed God, and it was counted unto him for righteousness.
+[4:3] For what says the scripture? Abraham believed God, and it was counted unto him for righteousness.
 [4:4] Now to him that worketh is the reward not reckoned of grace, but of debt.
 [4:5] But to him that worketh not, but believeth on him that justifieth the ungodly, his faith is counted for righteousness.
 [4:6] Even as David also describeth the blessedness of the man, unto whom God imputeth righteousness without works,
@@ -238,9 +238,9 @@ Romans
 [9:12] It was said unto her, The elder shall serve the younger.
 [9:13] As it is written, Jacob have I loved, but Esau have I hated.
 [9:14] What shall we say then? Is there unrighteousness with God? God forbid.
-[9:15] For he saith to Moses, I will have mercy on whom I will have mercy, and I will have compassion on whom I will have compassion.
+[9:15] For he says to Moses, I will have mercy on whom I will have mercy, and I will have compassion on whom I will have compassion.
 [9:16] So then it is not of him that willeth, nor of him that runneth, but of God that sheweth mercy.
-[9:17] For the scripture saith unto Pharaoh, Even for this same purpose have I raised you up, that I might shew my power in you, and that my name might be declared throughout all the earth.
+[9:17] For the scripture says unto Pharaoh, Even for this same purpose have I raised you up, that I might shew my power in you, and that my name might be declared throughout all the earth.
 [9:18] Therefore hath he mercy on whom he will have mercy, and whom he will he hardeneth.
 [9:19] You will say then unto me, Why doth he yet find fault? For who hath resisted his will?
 [9:20] Nay but, O man, who art you that repliest against God? Shall the thing formed say to him that formed it, Why have you made me thus?
@@ -248,7 +248,7 @@ Romans
 [9:22] What if God, willing to shew his wrath, and to make his power known, endured with much longsuffering the vessels of wrath fitted to destruction:
 [9:23] And that he might make known the riches of his glory on the vessels of mercy, which he had afore prepared unto glory,
 [9:24] Even us, whom he hath called, not of the Jews only, but also of the Gentiles?
-[9:25] As he saith also in Osee, I will call them my people, which were not my people; and her beloved, which was not beloved.
+[9:25] As he says also in Osee, I will call them my people, which were not my people; and her beloved, which was not beloved.
 [9:26] And it shall come to pass, that in the place where it was said unto them, You are not my people; there shall they be called the children of the living God.
 [9:27] Esaias also crieth concerning Israel, Though the number of the children of Israel be as the sand of the sea, a remnant shall be saved:
 [9:28] For he will finish the work, and cut it short in righteousness: because a short work will the Lord make upon the earth.
@@ -264,29 +264,29 @@ Romans
 [10:5] For Moses describeth the righteousness which is of the law, That the man which doeth those things shall live by them.
 [10:6] But the righteousness which is of faith speaketh on this wise, Say not in your heart, Who shall ascend into heaven? (that is, to bring Christ down from above:)
 [10:7] Or, Who shall descend into the deep? (that is, to bring up Christ again from the dead.)
-[10:8] But what saith it? The word is nigh you, even in your mouth, and in your heart: that is, the word of faith, which we preach;
+[10:8] But what says it? The word is nigh you, even in your mouth, and in your heart: that is, the word of faith, which we preach;
 [10:9] That if you shalt confess with your mouth the Lord Jesus, and shalt believe in your heart that God hath raised him from the dead, you shalt be saved.
 [10:10] For with the heart man believeth unto righteousness; and with the mouth confession is made unto salvation.
-[10:11] For the scripture saith, Whosoever believeth on him shall not be ashamed.
+[10:11] For the scripture says, Whosoever believeth on him shall not be ashamed.
 [10:12] For there is no difference between the Jew and the Greek: for the same Lord over all is rich unto all that call upon him.
 [10:13] For whosoever shall call upon the name of the Lord shall be saved.
 [10:14] How then shall they call on him in whom they have not believed? and how shall they believe in him of whom they have not heard? and how shall they hear without a preacher?
 [10:15] And how shall they preach, except they be sent? as it is written, How beautiful are the feet of them that preach the gospel of peace, and bring glad tidings of good things!
-[10:16] But they have not all obeyed the gospel. For Esaias saith, Lord, who hath believed our report?
+[10:16] But they have not all obeyed the gospel. For Esaias says, Lord, who hath believed our report?
 [10:17] So then faith cometh by hearing, and hearing by the word of God.
 [10:18] But I say, Have they not heard? Yes verily, their sound went into all the earth, and their words unto the ends of the world.
-[10:19] But I say, Did not Israel know? First Moses saith, I will provoke you to jealousy by them that are no people, and by a foolish nation I will anger you.
-[10:20] But Esaias is very bold, and saith, I was found of them that sought me not; I was made manifest unto them that asked not after me.
-[10:21] But to Israel he saith, All day long I have stretched forth my hands unto a disobedient and gainsaying people.
+[10:19] But I say, Did not Israel know? First Moses says, I will provoke you to jealousy by them that are no people, and by a foolish nation I will anger you.
+[10:20] But Esaias is very bold, and says, I was found of them that sought me not; I was made manifest unto them that asked not after me.
+[10:21] But to Israel he says, All day long I have stretched forth my hands unto a disobedient and gainsaying people.
 [11:1] I say then, Hath God cast away his people? God forbid. For I also am an Israelite, of the seed of Abraham, of the tribe of Benjamin.
-[11:2] God hath not cast away his people which he foreknew. Wot you not what the scripture saith of Elias? how he maketh intercession to God against Israel saying,
+[11:2] God hath not cast away his people which he foreknew. Wot you not what the scripture says of Elias? how he maketh intercession to God against Israel saying,
 [11:3] Lord, they have killed your prophets, and digged down your altars; and I am left alone, and they seek my life.
-[11:4] But what saith the answer of God unto him? I have reserved to myself seven thousand men, who have not bowed the knee to the image of Baal.
+[11:4] But what says the answer of God unto him? I have reserved to myself seven thousand men, who have not bowed the knee to the image of Baal.
 [11:5] Even so then at this present time also there is a remnant according to the election of grace.
 [11:6] And if by grace, then is it no more of works: otherwise grace is no more grace. But if it be of works, then it is no more grace: otherwise work is no more work.
 [11:7] What then? Israel hath not obtained that which he seeketh for; but the election hath obtained it, and the rest were blinded.
 [11:8] (According as it is written, God hath given them the spirit of slumber, eyes that they should not see, and ears that they should not hear;) unto this day.
-[11:9] And David saith, Let their table be made a snare, and a trap, and a stumblingblock, and a recompence unto them:
+[11:9] And David says, Let their table be made a snare, and a trap, and a stumblingblock, and a recompence unto them:
 [11:10] Let their eyes be darkened, that they may not see, and bow down their back alway.
 [11:11] I say then, Have they stumbled that they should fall? God forbid: but rather through their fall salvation is come unto the Gentiles, for to provoke them to jealousy.
 [11:12] Now if the fall of them be the riches of the world, and the diminishing of them the riches of the Gentiles; how much more their fulness?
@@ -332,7 +332,7 @@ Romans
 [12:16] Be of the same mind one toward another. Mind not high things, but condescend to men of low estate. Be not wise in your own conceits.
 [12:17] Recompense to no man evil for evil. Provide things honest in the sight of all men.
 [12:18] If it be possible, as much as lieth in you, live peaceably with all men.
-[12:19] Dearly beloved, avenge not yourselves, but rather give place unto wrath: for it is written, Vengeance is mine; I will repay, saith the Lord.
+[12:19] Dearly beloved, avenge not yourselves, but rather give place unto wrath: for it is written, Vengeance is mine; I will repay, says the Lord.
 [12:20] Therefore if your enemy hunger, feed him; if he thirst, give him drink: for in so doing you shalt heap coals of fire on his head.
 [12:21] Be not overcome of evil, but overcome evil with good.
 [13:1] Let every soul be subject unto the higher powers. For there is no power but of God: the powers that be are ordained of God.
@@ -359,7 +359,7 @@ Romans
 [14:8] For whether we live, we live unto the Lord; and whether we die, we die unto the Lord: whether we live therefore, or die, we are the Lord's.
 [14:9] For to this end Christ both died, and rose, and revived, that he might be Lord both of the dead and living.
 [14:10] But why dost you judge your brother? or why dost you set at nought your brother? for we shall all stand before the judgment seat of Christ.
-[14:11] For it is written, As I live, saith the Lord, every knee shall bow to me, and every tongue shall confess to God.
+[14:11] For it is written, As I live, says the Lord, every knee shall bow to me, and every tongue shall confess to God.
 [14:12] So then every one of us shall give account of himself to God.
 [14:13] Let us not therefore judge one another any more: but judge this rather, that no man put a stumblingblock or an occasion to fall in his brother's way.
 [14:14] I know, and am persuaded by the Lord Jesus, that there is nothing unclean of itself: but to him that esteemeth any thing to be unclean, to him it is unclean.
@@ -381,9 +381,9 @@ Romans
 [15:7] Wherefore receive you one another, as Christ also received us to the glory of God.
 [15:8] Now I say that Jesus Christ was a minister of the circumcision for the truth of God, to confirm the promises made unto the fathers:
 [15:9] And that the Gentiles might glorify God for his mercy; as it is written, For this cause I will confess to you among the Gentiles, and sing unto your name.
-[15:10] And again he saith, Rejoice, you Gentiles, with his people.
+[15:10] And again he says, Rejoice, you Gentiles, with his people.
 [15:11] And again, Praise the Lord, all you Gentiles; and laud him, all you people.
-[15:12] And again, Esaias saith, There shall be a root of Jesse, and he that shall rise to reign over the Gentiles; in him shall the Gentiles trust.
+[15:12] And again, Esaias says, There shall be a root of Jesse, and he that shall rise to reign over the Gentiles; in him shall the Gentiles trust.
 [15:13] Now the God of hope fill you with all joy and peace in believing, that you may abound in hope, through the power of the Holy Ghost.
 [15:14] And I myself also am persuaded of you, my brothers, that you also are full of goodness, filled with all knowledge, able also to admonish one another.
 [15:15] Nevertheless, brothers, I have written the more boldly unto you in some sort, as putting you in mind, because of the grace that is given to me of God,

@@ -151,7 +151,7 @@ Judges
 [6:5] For they came up with their cattle and their tents, and they came as grasshoppers for multitude; for both they and their camels were without number: and they entered into the land to destroy it.
 [6:6] And Israel was greatly impoverished because of the Midianites; and the children of Israel cried unto the LORD.
 [6:7] And it came to pass, when the children of Israel cried unto the LORD because of the Midianites,
-[6:8] That the LORD sent a prophet unto the children of Israel, which said unto them, Thus saith the LORD God of Israel, I brought you up from Egypt, and brought you forth out of the house of bondage;
+[6:8] That the LORD sent a prophet unto the children of Israel, which said unto them, Thus says the LORD God of Israel, I brought you up from Egypt, and brought you forth out of the house of bondage;
 [6:9] And I delivered you out of the hand of the Egyptians, and out of the hand of all that oppressed you, and drave them out from before you, and gave you their land;
 [6:10] And I said unto you, I am the LORD your God; fear not the gods of the Amorites, in whose land you dwell: but you have not obeyed my voice.
 [6:11] And there came an angel of the LORD, and sat under an oak which was in Ophrah, that pertained unto Joash the Abiezrite: and his son Gideon threshed wheat by the winepress, to hide it from the Midianites.
@@ -333,7 +333,7 @@ Judges
 [11:12] And Jephthah sent messengers unto the king of the children of Ammon, saying, What have you to do with me, that you art come against me to fight in my land?
 [11:13] And the king of the children of Ammon answered unto the messengers of Jephthah, Because Israel took away my land, when they came up out of Egypt, from Arnon even unto Jabbok, and unto Jordan: now therefore restore those lands again peaceably.
 [11:14] And Jephthah sent messengers again unto the king of the children of Ammon:
-[11:15] And said unto him, Thus saith Jephthah, Israel took not away the land of Moab, nor the land of the children of Ammon:
+[11:15] And said unto him, Thus says Jephthah, Israel took not away the land of Moab, nor the land of the children of Ammon:
 [11:16] But when Israel came up from Egypt, and walked through the wilderness unto the Red sea, and came to Kadesh;
 [11:17] Then Israel sent messengers unto the king of Edom, saying, Let me, I pray you, pass through your land: but the king of Edom would not hearken thereto. And in like manner they sent unto the king of Moab: but he would not consent: and Israel abode in Kadesh.
 [11:18] Then they went along through the wilderness, and compassed the land of Edom, and the land of Moab, and came by the east side of the land of Moab, and pitched on the other side of Arnon, but came not within the border of Moab: for Arnon was the border of Moab.

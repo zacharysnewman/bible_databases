@@ -530,7 +530,7 @@ Numbers
 [14:25] (Now the Amalekites and the Canaanites dwelt in the valley.) Tomorrow turn you, and get you into the wilderness by the way of the Red sea.
 [14:26] And the LORD spake unto Moses and unto Aaron, saying,
 [14:27] How long shall I bear with this evil congregation, which murmur against me? I have heard the murmurings of the children of Israel, which they murmur against me.
-[14:28] Say unto them, As truly as I live, saith the LORD, as you have spoken in mine ears, so will I do to you:
+[14:28] Say unto them, As truly as I live, says the LORD, as you have spoken in mine ears, so will I do to you:
 [14:29] Your carcasses shall fall in this wilderness; and all that were numbered of you, according to your whole number, from twenty years old and upward which have murmured against me.
 [14:30] Doubtless you shall not come into the land, concerning which I sware to make you dwell therein, save Caleb the son of Jephunneh, and Joshua the son of Nun.
 [14:31] But your little ones, which you said should be a prey, them will I bring in, and they shall know the land which you have despised.
@@ -719,7 +719,7 @@ Numbers
 [20:11] And Moses lifted up his hand, and with his rod he smote the rock twice: and the water came out abundantly, and the congregation drank, and their beasts also.
 [20:12] And the LORD spake unto Moses and Aaron, Because you believed me not, to sanctify me in the eyes of the children of Israel, therefore you shall not bring this congregation into the land which I have given them.
 [20:13] This is the water of Meribah; because the children of Israel strove with the LORD, and he was sanctified in them.
-[20:14] And Moses sent messengers from Kadesh unto the king of Edom, Thus saith your brother Israel, You knowest all the travail that hath befallen us:
+[20:14] And Moses sent messengers from Kadesh unto the king of Edom, Thus says your brother Israel, You knowest all the travail that hath befallen us:
 [20:15] How our fathers went down into Egypt, and we have dwelt in Egypt a long time; and the Egyptians vexed us, and our fathers:
 [20:16] And when we cried unto the LORD, he heard our voice, and sent an angel, and hath brought us forth out of Egypt: and, behold, we are in Kadesh, a city in the uttermost of your border:
 [20:17] Let us pass, I pray you, through your country: we will not pass through the fields, or through the vineyards, neither will we drink of the water of the wells: we will go by the king's high way, we will not turn to the right hand nor to the left, until we have passed your borders.
@@ -785,7 +785,7 @@ Numbers
 [22:13] And Balaam rose up in the morning, and said unto the princes of Balak, Get you into your land: for the LORD refuseth to give me leave to go with you.
 [22:14] And the princes of Moab rose up, and they went unto Balak, and said, Balaam refuseth to come with us.
 [22:15] And Balak sent yet again princes, more, and more honorable than they.
-[22:16] And they came to Balaam, and said to him, Thus saith Balak the son of Zippor, Let nothing, I pray you, hinder you from coming unto me:
+[22:16] And they came to Balaam, and said to him, Thus says Balak the son of Zippor, Let nothing, I pray you, hinder you from coming unto me:
 [22:17] For I will promote you unto very great honor, and I will do whatsoever you say unto me: come therefore, I pray you, curse me this people.
 [22:18] And Balaam answered and said unto the servants of Balak, If Balak would give me his house full of silver and gold, I cannot go beyond the word of the LORD my God, to do less or more.
 [22:19] Now therefore, I pray you, tarry you also here this night, that I may know what the LORD will say unto me more.
@@ -853,7 +853,7 @@ Numbers
 [24:10] And Balak's anger was kindled against Balaam, and he smote his hands together: and Balak said unto Balaam, I called you to curse mine enemies, and, behold, you have altogether blessed them these three times.
 [24:11] Therefore now flee you to your place: I thought to promote you unto great honor; but, lo, the LORD hath kept you back from honor.
 [24:12] And Balaam said unto Balak, Spake I not also to your messengers which you sentest unto me, saying,
-[24:13] If Balak would give me his house full of silver and gold, I cannot go beyond the commandment of the LORD, to do either good or bad of mine own mind; but what the LORD saith, that will I speak?
+[24:13] If Balak would give me his house full of silver and gold, I cannot go beyond the commandment of the LORD, to do either good or bad of mine own mind; but what the LORD says, that will I speak?
 [24:14] And now, behold, I go unto my people: come therefore, and I will advertise you what this people shall do to your people in the latter days.
 [24:15] And he took up his parable, and said, Balaam the son of Beor hath said, and the man whose eyes are open hath said:
 [24:16] He hath said, which heard the words of God, and knew the knowledge of the most High, which saw the vision of the Almighty, falling into a trance, but having his eyes open:
@@ -1139,7 +1139,7 @@ Numbers
 [32:24] Build you cities for your little ones, and folds for your sheep; and do that which hath proceeded out of your mouth.
 [32:25] And the children of Gad and the children of Reuben spake unto Moses, saying, Your servants will do as my lord commandeth.
 [32:26] Our little ones, our wives, our flocks, and all our cattle, shall be there in the cities of Gilead:
-[32:27] But your servants will pass over, every man armed for war, before the Lord to battle, as my lord saith.
+[32:27] But your servants will pass over, every man armed for war, before the Lord to battle, as my lord says.
 [32:28] So concerning them Moses commanded Eleazar the priest, and Joshua the son of Nun, and the chief fathers of the tribes of the children of Israel:
 [32:29] And Moses said unto them, If the children of Gad and the children of Reuben will pass with you over Jordan, every man armed to battle, before the LORD, and the land shall be subdued before you; then you shall give them the land of Gilead for a possession:
 [32:30] But if they will not pass over with you armed, they shall have possessions among you in the land of Canaan.

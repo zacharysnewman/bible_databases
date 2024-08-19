@@ -17,7 +17,7 @@ Micah
 [1:16] Make you bald, and poll you for your delicate children; enlarge your baldness as the eagle; for they are gone into captivity from you.
 [2:1] Woe to them that devise iniquity, and work evil upon their beds! when the morning is light, they practise it, because it is in the power of their hand.
 [2:2] And they covet fields, and take them by violence; and houses, and take them away: so they oppress a man and his house, even a man and his heritage.
-[2:3] Therefore thus saith the LORD; Behold, against this family do I devise an evil, from which you shall not remove your necks; neither shall you go haughtily: for this time is evil.
+[2:3] Therefore thus says the LORD; Behold, against this family do I devise an evil, from which you shall not remove your necks; neither shall you go haughtily: for this time is evil.
 [2:4] In that day shall one take up a parable against you, and lament with a doleful lamentation, and say, We be utterly spoiled: he hath changed the portion of my people: how hath he removed it from me! turning away he hath divided our fields.
 [2:5] Therefore you shalt have none that shall cast a cord by lot in the congregation of the LORD.
 [2:6] Prophesy you not, say they to them that prophesy: they shall not prophesy to them, that they shall not take shame.
@@ -32,7 +32,7 @@ Micah
 [3:2] Who hate the good, and love the evil; who pluck off their skin from off them, and their flesh from off their bones;
 [3:3] Who also eat the flesh of my people, and flay their skin from off them; and they break their bones, and chop them in pieces, as for the pot, and as flesh within the caldron.
 [3:4] Then shall they cry unto the LORD, but he will not hear them: he will even hide his face from them at that time, as they have behaved themselves ill in their doings.
-[3:5] Thus saith the LORD concerning the prophets that make my people err, that bite with their teeth, and cry, Peace; and he that putteth not into their mouths, they even prepare war against him.
+[3:5] Thus says the LORD concerning the prophets that make my people err, that bite with their teeth, and cry, Peace; and he that putteth not into their mouths, they even prepare war against him.
 [3:6] Therefore night shall be unto you, that you shall not have a vision; and it shall be dark unto you, that you shall not divine; and the sun shall go down over the prophets, and the day shall be dark over them.
 [3:7] Then shall the seers be ashamed, and the diviners confounded: yea, they shall all cover their lips; for there is no answer of God.
 [3:8] But truly I am full of power by the spirit of the LORD, and of judgment, and of might, to declare unto Jacob his transgression, and to Israel his sin.
@@ -45,7 +45,7 @@ Micah
 [4:3] And he shall judge among many people, and rebuke strong nations afar off; and they shall beat their swords into plowshares, and their spears into pruninghooks: nation shall not lift up a sword against nation, neither shall they learn war any more.
 [4:4] But they shall sit every man under his vine and under his fig tree; and none shall make them afraid: for the mouth of the LORD of hosts hath spoken it.
 [4:5] For all people will walk every one in the name of his god, and we will walk in the name of the LORD our God for ever and ever.
-[4:6] In that day, saith the LORD, will I assemble her that halteth, and I will gather her that is driven out, and her that I have afflicted;
+[4:6] In that day, says the LORD, will I assemble her that halteth, and I will gather her that is driven out, and her that I have afflicted;
 [4:7] And I will make her that halted a remnant, and her that was cast far off a strong nation: and the LORD shall reign over them in mount Zion from henceforth, even for ever.
 [4:8] And you, O tower of the flock, the strong hold of the daughter of Zion, unto you shall it come, even the first dominion; the kingdom shall come to the daughter of Jerusalem.
 [4:9] Now why dost you cry out aloud? is there no king in you? is your counsellor perished? for pangs have taken you as a woman in travail.
@@ -62,13 +62,13 @@ Micah
 [5:7] And the remnant of Jacob shall be in the midst of many people as a dew from the LORD, as the showers upon the grass, that tarrieth not for man, nor waiteth for the sons of men.
 [5:8] And the remnant of Jacob shall be among the Gentiles in the midst of many people as a lion among the beasts of the forest, as a young lion among the flocks of sheep: who, if he go through, both treadeth down, and teareth in pieces, and none can deliver.
 [5:9] Your hand shall be lifted up upon your adversaries, and all your enemies shall be cut off.
-[5:10] And it shall come to pass in that day, saith the LORD, that I will cut off your horses out of the midst of you, and I will destroy your chariots:
+[5:10] And it shall come to pass in that day, says the LORD, that I will cut off your horses out of the midst of you, and I will destroy your chariots:
 [5:11] And I will cut off the cities of your land, and throw down all your strong holds:
 [5:12] And I will cut off witchcrafts out of your hand; and you shalt have no more soothsayers:
 [5:13] Your graven images also will I cut off, and your standing images out of the midst of you; and you shalt no more worship the work of your hands.
 [5:14] And I will pluck up your groves out of the midst of you: so will I destroy your cities.
 [5:15] And I will execute vengeance in anger and fury upon the heathen, such as they have not heard.
-[6:1] Hear you now what the LORD saith; Arise, contend you before the mountains, and let the hills hear your voice.
+[6:1] Hear you now what the LORD says; Arise, contend you before the mountains, and let the hills hear your voice.
 [6:2] Hear you, O mountains, the LORD's controversy, and you strong foundations of the earth: for the LORD hath a controversy with his people, and he will plead with Israel.
 [6:3] O my people, what have I done unto you? and wherein have I wearied you? testify against me.
 [6:4] For I brought you up out of the land of Egypt, and redeemed you out of the house of servants; and I sent before you Moses, Aaron, and Miriam.

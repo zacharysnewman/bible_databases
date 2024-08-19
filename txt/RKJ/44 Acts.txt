@@ -2,7 +2,7 @@ Acts
 [1:1] The former treatise have I made, O Theophilus, of all that Jesus began both to do and teach,
 [1:2] Until the day in which he was taken up, after that he through the Holy Ghost had given commandments unto the apostles whom he had chosen:
 [1:3] To whom also he shewed himself alive after his passion by many infallible proofs, being seen of them forty days, and speaking of the things pertaining to the kingdom of God:
-[1:4] And, being assembled together with them, commanded them that they should not depart from Jerusalem, but wait for the promise of the Father, which, saith he, you have heard of me.
+[1:4] And, being assembled together with them, commanded them that they should not depart from Jerusalem, but wait for the promise of the Father, which, says he, you have heard of me.
 [1:5] For John truly baptized with water; but you shall be baptized with the Holy Ghost not many days hence.
 [1:6] When they therefore were come together, they asked of him, saying, Lord, will you at this time restore again the kingdom to Israel?
 [1:7] And he said unto them, It is not for you to know the times or the seasons, which the Father hath put in his own power.
@@ -41,7 +41,7 @@ Acts
 [2:14] But Peter, standing up with the eleven, lifted up his voice, and said unto them, You men of Judaea, and all you that dwell at Jerusalem, be this known unto you, and hearken to my words:
 [2:15] For these are not drunken, as you suppose, seeing it is but the third hour of the day.
 [2:16] But this is that which was spoken by the prophet Joel;
-[2:17] And it shall come to pass in the last days, saith God, I will pour out of my Spirit upon all flesh: and your sons and your daughters shall prophesy, and your young men shall see visions, and your old men shall dream dreams:
+[2:17] And it shall come to pass in the last days, says God, I will pour out of my Spirit upon all flesh: and your sons and your daughters shall prophesy, and your young men shall see visions, and your old men shall dream dreams:
 [2:18] And on my servants and on my handmaidens I will pour out in those days of my Spirit; and they shall prophesy:
 [2:19] And I will shew wonders in heaven above, and signs in the earth beneath; blood, and fire, and vapour of smoke:
 [2:20] The sun shall be turned into darkness, and the moon into blood, before the great and notable day of the Lord come:
@@ -58,7 +58,7 @@ Acts
 [2:31] He seeing this before spake of the resurrection of Christ, that his soul was not left in hell, neither his flesh did see corruption.
 [2:32] This Jesus hath God raised up, whereof we all are witnesses.
 [2:33] Therefore being by the right hand of God exalted, and having received of the Father the promise of the Holy Ghost, he hath shed forth this, which you now see and hear.
-[2:34] For David is not ascended into the heavens: but he saith himself, The Lord said unto my Lord, Sit you on my right hand,
+[2:34] For David is not ascended into the heavens: but he says himself, The Lord said unto my Lord, Sit you on my right hand,
 [2:35] Until I make your foes your footstool.
 [2:36] Therefore let all the house of Israel know assuredly, that God hath made the same Jesus, whom you have crucified, both Lord and Christ.
 [2:37] Now when they heard this, they were pricked in their heart, and said unto Peter and to the rest of the apostles, Men and brothers, what shall we do?
@@ -239,8 +239,8 @@ Acts
 [7:45] Which also our fathers that came after brought in with Jesus into the possession of the Gentiles, whom God drave out before the face of our fathers, unto the days of David;
 [7:46] Who found favour before God, and desired to find a tabernacle for the God of Jacob.
 [7:47] But Solomon built him an house.
-[7:48] Howbeit the most High dwelleth not in temples made with hands; as saith the prophet,
-[7:49] Heaven is my throne, and earth is my footstool: what house will you build me? saith the Lord: or what is the place of my rest?
+[7:48] Howbeit the most High dwelleth not in temples made with hands; as says the prophet,
+[7:49] Heaven is my throne, and earth is my footstool: what house will you build me? says the Lord: or what is the place of my rest?
 [7:50] Hath not my hand made all these things?
 [7:51] You stiffnecked and uncircumcised in heart and ears, you do always resist the Holy Ghost: as your fathers did, so do you.
 [7:52] Which of the prophets have not your fathers persecuted? and they have slain them which shewed before of the coming of the Just One; of whom you have been now the betrayers and murderers:
@@ -420,7 +420,7 @@ Acts
 [12:5] Peter therefore was kept in prison: but prayer was made without ceasing of the church unto God for him.
 [12:6] And when Herod would have brought him forth, the same night Peter was sleeping between two soldiers, bound with two chains: and the keepers before the door kept the prison.
 [12:7] And, behold, the angel of the Lord came upon him, and a light shined in the prison: and he smote Peter on the side, and raised him up, saying, Arise up quickly. And his chains fell off from his hands.
-[12:8] And the angel said unto him, Gird thyself, and bind on your sandals. And so he did. And he saith unto him, Cast your garment about you, and follow me.
+[12:8] And the angel said unto him, Gird thyself, and bind on your sandals. And so he did. And he says unto him, Cast your garment about you, and follow me.
 [12:9] And he went out, and followed him; and wist not that it was true which was done by the angel; but thought he saw a vision.
 [12:10] When they were past the first and the second ward, they came unto the iron gate that leadeth unto the city; which opened to them of his own accord: and they went out, and passed on through one street; and forthwith the angel departed from him.
 [12:11] And when Peter was come to himself, he said, Now I know of a surety, that the LORD hath sent his angel, and hath delivered me out of the hand of Herod, and from all the expectation of the people of the Jews.
@@ -472,7 +472,7 @@ Acts
 [13:32] And we declare unto you glad tidings, how that the promise which was made unto the fathers,
 [13:33] God hath fulfilled the same unto us their children, in that he hath raised up Jesus again; as it is also written in the second psalm, You art my Son, this day have I begotten you.
 [13:34] And as concerning that he raised him up from the dead, now no more to return to corruption, he said on this wise, I will give you the sure mercies of David.
-[13:35] Wherefore he saith also in another psalm, You shalt not suffer your Holy One to see corruption.
+[13:35] Wherefore he says also in another psalm, You shalt not suffer your Holy One to see corruption.
 [13:36] For David, after he had served his own generation by the will of God, fell on sleep, and was laid unto his fathers, and saw corruption:
 [13:37] But he, whom God raised again, saw no corruption.
 [13:38] Be it known unto you therefore, men and brothers, that through this man is preached unto you the forgiveness of sins:
@@ -534,7 +534,7 @@ Acts
 [15:14] Simeon hath declared how God at the first did visit the Gentiles, to take out of them a people for his name.
 [15:15] And to this agree the words of the prophets; as it is written,
 [15:16] After this I will return, and will build again the tabernacle of David, which is fallen down; and I will build again the ruins thereof, and I will set it up:
-[15:17] That the residue of men might seek after the Lord, and all the Gentiles, upon whom my name is called, saith the Lord, who doeth all these things.
+[15:17] That the residue of men might seek after the Lord, and all the Gentiles, upon whom my name is called, says the Lord, who doeth all these things.
 [15:18] Known unto God are all his works from the beginning of the world.
 [15:19] Wherefore my sentence is, that we trouble not them, which from among the Gentiles are turned to God:
 [15:20] But that we write unto them, that they abstain from pollutions of idols, and from fornication, and from things strangled, and from blood.
@@ -750,7 +750,7 @@ Acts
 [21:8] And the next day we that were of Paul's company departed, and came unto Caesarea: and we entered into the house of Philip the evangelist, which was one of the seven; and abode with him.
 [21:9] And the same man had four daughters, virgins, which did prophesy.
 [21:10] And as we tarried there many days, there came down from Judaea a certain prophet, named Agabus.
-[21:11] And when he was come unto us, he took Paul's girdle, and bound his own hands and feet, and said, Thus saith the Holy Ghost, So shall the Jews at Jerusalem bind the man that owneth this girdle, and shall deliver him into the hands of the Gentiles.
+[21:11] And when he was come unto us, he took Paul's girdle, and bound his own hands and feet, and said, Thus says the Holy Ghost, So shall the Jews at Jerusalem bind the man that owneth this girdle, and shall deliver him into the hands of the Gentiles.
 [21:12] And when we heard these things, both we, and they of that place, besought him not to go up to Jerusalem.
 [21:13] Then Paul answered, What mean you to weep and to break mine heart? for I am ready not to be bound only, but also to die at Jerusalem for the name of the Lord Jesus.
 [21:14] And when he would not be persuaded, we ceased, saying, The will of the Lord be done.
@@ -781,7 +781,7 @@ Acts
 [21:39] But Paul said, I am a man which am a Jew of Tarsus, a city in Cilicia, a citizen of no mean city: and, I beseech you, suffer me to speak unto the people.
 [21:40] And when he had given him licence, Paul stood on the stairs, and beckoned with the hand unto the people. And when there was made a great silence, he spake unto them in the Hebrew tongue, saying,
 [22:1] Men, brothers, and fathers, hear you my defence which I make now unto you.
-[22:2] (And when they heard that he spake in the Hebrew tongue to them, they kept the more silence: and he saith,)
+[22:2] (And when they heard that he spake in the Hebrew tongue to them, they kept the more silence: and he says,)
 [22:3] I am verily a man which am a Jew, born in Tarsus, a city in Cilicia, yet brought up in this city at the feet of Gamaliel, and taught according to the perfect manner of the law of the fathers, and was zealous toward God, as you all are this day.
 [22:4] And I persecuted this way unto the death, binding and delivering into prisons both men and women.
 [22:5] As also the high priest doth bear me witness, and all the estate of the elders: from whom also I received letters unto the brothers, and went to Damascus, to bring them which were there bound unto Jerusalem, for to be punished.

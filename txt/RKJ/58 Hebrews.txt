@@ -4,9 +4,9 @@ Hebrews
 [1:3] Who being the brightness of his glory, and the express image of his person, and upholding all things by the word of his power, when he had by himself purged our sins, sat down on the right hand of the Majesty on high:
 [1:4] Being made so much better than the angels, as he hath by inheritance obtained a more excellent name than they.
 [1:5] For unto which of the angels said he at any time, You art my Son, this day have I begotten you? And again, I will be to him a Father, and he shall be to me a Son?
-[1:6] And again, when he bringeth in the firstbegotten into the world, he saith, And let all the angels of God worship him.
-[1:7] And of the angels he saith, Who maketh his angels spirits, and his ministers a flame of fire.
-[1:8] But unto the Son he saith, Your throne, O God, is for ever and ever: a sceptre of righteousness is the sceptre of your kingdom.
+[1:6] And again, when he bringeth in the firstbegotten into the world, he says, And let all the angels of God worship him.
+[1:7] And of the angels he says, Who maketh his angels spirits, and his ministers a flame of fire.
+[1:8] But unto the Son he says, Your throne, O God, is for ever and ever: a sceptre of righteousness is the sceptre of your kingdom.
 [1:9] You have loved righteousness, and hated iniquity; therefore God, even your God, hath anointed you with the oil of gladness above your fellows.
 [1:10] And, You, Lord, in the beginning have laid the foundation of the earth; and the heavens are the works of your hands:
 [1:11] They shall perish; but you remainest; and they all shall wax old as doth a garment;
@@ -37,7 +37,7 @@ Hebrews
 [3:4] For every house is builded by some man; but he that built all things is God.
 [3:5] And Moses verily was faithful in all his house, as a servant, for a testimony of those things which were to be spoken after;
 [3:6] But Christ as a son over his own house; whose house are we, if we hold fast the confidence and the rejoicing of the hope firm unto the end.
-[3:7] Wherefore (as the Holy Ghost saith, To day if you will hear his voice,
+[3:7] Wherefore (as the Holy Ghost says, To day if you will hear his voice,
 [3:8] Harden not your hearts, as in the provocation, in the day of temptation in the wilderness:
 [3:9] When your fathers tempted me, proved me, and saw my works forty years.
 [3:10] Wherefore I was grieved with that generation, and said, They do alway err in their heart; and they have not known my ways.
@@ -71,7 +71,7 @@ Hebrews
 [5:3] And by reason hereof he ought, as for the people, so also for himself, to offer for sins.
 [5:4] And no man taketh this honour unto himself, but he that is called of God, as was Aaron.
 [5:5] So also Christ glorified not himself to be made an high priest; but he that said unto him, You art my Son, to day have I begotten you.
-[5:6] As he saith also in another place, You art a priest for ever after the order of Melchisedec.
+[5:6] As he says also in another place, You art a priest for ever after the order of Melchisedec.
 [5:7] Who in the days of his flesh, when he had offered up prayers and supplications with strong crying and tears unto him that was able to save him from death, and was heard in that he feared;
 [5:8] Though he were a Son, yet learned he obedience by the things which he suffered;
 [5:9] And being made perfect, he became the author of eternal salvation unto all them that obey him;
@@ -132,15 +132,15 @@ Hebrews
 [8:2] A minister of the sanctuary, and of the true tabernacle, which the Lord pitched, and not man.
 [8:3] For every high priest is ordained to offer gifts and sacrifices: wherefore it is of necessity that this man have somewhat also to offer.
 [8:4] For if he were on earth, he should not be a priest, seeing that there are priests that offer gifts according to the law:
-[8:5] Who serve unto the example and shadow of heavenly things, as Moses was admonished of God when he was about to make the tabernacle: for, See, saith he, that you make all things according to the pattern shewed to you in the mount.
+[8:5] Who serve unto the example and shadow of heavenly things, as Moses was admonished of God when he was about to make the tabernacle: for, See, says he, that you make all things according to the pattern shewed to you in the mount.
 [8:6] But now hath he obtained a more excellent ministry, by how much also he is the mediator of a better covenant, which was established upon better promises.
 [8:7] For if that first covenant had been faultless, then should no place have been sought for the second.
-[8:8] For finding fault with them, he saith, Behold, the days come, saith the Lord, when I will make a new covenant with the house of Israel and with the house of Judah:
-[8:9] Not according to the covenant that I made with their fathers in the day when I took them by the hand to lead them out of the land of Egypt; because they continued not in my covenant, and I regarded them not, saith the Lord.
-[8:10] For this is the covenant that I will make with the house of Israel after those days, saith the Lord; I will put my laws into their mind, and write them in their hearts: and I will be to them a God, and they shall be to me a people:
+[8:8] For finding fault with them, he says, Behold, the days come, says the Lord, when I will make a new covenant with the house of Israel and with the house of Judah:
+[8:9] Not according to the covenant that I made with their fathers in the day when I took them by the hand to lead them out of the land of Egypt; because they continued not in my covenant, and I regarded them not, says the Lord.
+[8:10] For this is the covenant that I will make with the house of Israel after those days, says the Lord; I will put my laws into their mind, and write them in their hearts: and I will be to them a God, and they shall be to me a people:
 [8:11] And they shall not teach every man his neighbour, and every man his brother, saying, Know the Lord: for all shall know me, from the least to the greatest.
 [8:12] For I will be merciful to their unrighteousness, and their sins and their iniquities will I remember no more.
-[8:13] In that he saith, A new covenant, he hath made the first old. Now that which decayeth and waxeth old is ready to vanish away.
+[8:13] In that he says, A new covenant, he hath made the first old. Now that which decayeth and waxeth old is ready to vanish away.
 [9:1] Then verily the first covenant had also ordinances of divine service, and a worldly sanctuary.
 [9:2] For there was a tabernacle made; the first, wherein was the candlestick, and the table, and the shewbread; which is called the sanctuary.
 [9:3] And after the second veil, the tabernacle which is called the Holiest of all;
@@ -173,7 +173,7 @@ Hebrews
 [10:2] For then would they not have ceased to be offered? because that the worshippers once purged should have had no more conscience of sins.
 [10:3] But in those sacrifices there is a remembrance again made of sins every year.
 [10:4] For it is not possible that the blood of bulls and of goats should take away sins.
-[10:5] Wherefore when he cometh into the world, he saith, Sacrifice and offering you wouldest not, but a body have you prepared me:
+[10:5] Wherefore when he cometh into the world, he says, Sacrifice and offering you wouldest not, but a body have you prepared me:
 [10:6] In burnt offerings and sacrifices for sin you have had no pleasure.
 [10:7] Then said I, Lo, I come (in the volume of the book it is written of me,) to do your will, O God.
 [10:8] Above when he said, Sacrifice and offering and burnt offerings and offering for sin you wouldest not, neither hadst pleasure therein; which are offered by the law;
@@ -184,7 +184,7 @@ Hebrews
 [10:13] From henceforth expecting till his enemies be made his footstool.
 [10:14] For by one offering he hath perfected for ever them that are sanctified.
 [10:15] Whereof the Holy Ghost also is a witness to us: for after that he had said before,
-[10:16] This is the covenant that I will make with them after those days, saith the Lord, I will put my laws into their hearts, and in their minds will I write them;
+[10:16] This is the covenant that I will make with them after those days, says the Lord, I will put my laws into their hearts, and in their minds will I write them;
 [10:17] And their sins and iniquities will I remember no more.
 [10:18] Now where remission of these is, there is no more offering for sin.
 [10:19] Having therefore, brothers, boldness to enter into the holiest by the blood of Jesus,
@@ -198,7 +198,7 @@ Hebrews
 [10:27] But a certain fearful looking for of judgment and fiery indignation, which shall devour the adversaries.
 [10:28] He that despised Moses' law died without mercy under two or three witnesses:
 [10:29] Of how much sorer punishment, suppose you, shall he be thought worthy, who hath trodden under foot the Son of God, and hath counted the blood of the covenant, wherewith he was sanctified, an unholy thing, and hath done despite unto the Spirit of grace?
-[10:30] For we know him that hath said, Vengeance belongeth unto me, I will recompense, saith the Lord. And again, The Lord shall judge his people.
+[10:30] For we know him that hath said, Vengeance belongeth unto me, I will recompense, says the Lord. And again, The Lord shall judge his people.
 [10:31] It is a fearful thing to fall into the hands of the living God.
 [10:32] But call to remembrance the former days, in which, after you were illuminated, you endured a great fight of afflictions;
 [10:33] Partly, whilst you were made a gazingstock both by reproaches and afflictions; and partly, whilst you became companions of them that were so used.

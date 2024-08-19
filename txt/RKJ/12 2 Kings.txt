@@ -2,9 +2,9 @@
 [1:1] Then Moab rebelled against Israel after the death of Ahab.
 [1:2] And Ahaziah fell down through a lattice in his upper chamber that was in Samaria, and was sick: and he sent messengers, and said unto them, Go, enquire of Baalzebub the god of Ekron whether I shall recover of this disease.
 [1:3] But the angel of the LORD said to Elijah the Tishbite, Arise, go up to meet the messengers of the king of Samaria, and say unto them, Is it not because there is not a God in Israel, that you go to enquire of Baalzebub the god of Ekron?
-[1:4] Now therefore thus saith the LORD, You shalt not come down from that bed on which you art gone up, but shalt surely die. And Elijah departed.
+[1:4] Now therefore thus says the LORD, You shalt not come down from that bed on which you art gone up, but shalt surely die. And Elijah departed.
 [1:5] And when the messengers turned back unto him, he said unto them, Why are you now turned back?
-[1:6] And they said unto him, There came a man up to meet us, and said unto us, Go, turn again unto the king that sent you, and say unto him, Thus saith the LORD, Is it not because there is not a God in Israel, that you sendest to enquire of Baalzebub the god of Ekron? therefore you shalt not come down from that bed on which you art gone up, but shalt surely die.
+[1:6] And they said unto him, There came a man up to meet us, and said unto us, Go, turn again unto the king that sent you, and say unto him, Thus says the LORD, Is it not because there is not a God in Israel, that you sendest to enquire of Baalzebub the god of Ekron? therefore you shalt not come down from that bed on which you art gone up, but shalt surely die.
 [1:7] And he said unto them, What manner of man was he which came up to meet you, and told you these words?
 [1:8] And they answered him, He was an hairy man, and girt with a girdle of leather about his loins. And he said, It is Elijah the Tishbite.
 [1:9] Then the king sent unto him a captain of fifty with his fifty. And he went up to him: and, behold, he sat on the top of an hill. And he spake unto him, You man of God, the king hath said, Come down.
@@ -14,7 +14,7 @@
 [1:13] And he sent again a captain of the third fifty with his fifty. And the third captain of fifty went up, and came and fell on his knees before Elijah, and besought him, and said unto him, O man of God, I pray you, let my life, and the life of these fifty your servants, be precious in your sight.
 [1:14] Behold, there came fire down from heaven, and burnt up the two captains of the former fifties with their fifties: therefore let my life now be precious in your sight.
 [1:15] And the angel of the LORD said unto Elijah, Go down with him: be not afraid of him. And he arose, and went down with him unto the king.
-[1:16] And he said unto him, Thus saith the LORD, Forasmuch as you have sent messengers to enquire of Baalzebub the god of Ekron, is it not because there is no God in Israel to enquire of his word? therefore you shalt not come down off that bed on which you art gone up, but shalt surely die.
+[1:16] And he said unto him, Thus says the LORD, Forasmuch as you have sent messengers to enquire of Baalzebub the god of Ekron, is it not because there is no God in Israel to enquire of his word? therefore you shalt not come down off that bed on which you art gone up, but shalt surely die.
 [1:17] So he died according to the word of the LORD which Elijah had spoken. And Jehoram reigned in his stead in the second year of Jehoram the son of Jehoshaphat king of Judah; because he had no son.
 [1:18] Now the rest of the acts of Ahaziah which he did, are they not written in the book of the chronicles of the kings of Israel?
 [2:1] And it came to pass, when the LORD would take up Elijah into heaven by a whirlwind, that Elijah went with Elisha from Gilgal.
@@ -37,7 +37,7 @@
 [2:18] And when they came again to him, (for he tarried at Jericho,) he said unto them, Did I not say unto you, Go not?
 [2:19] And the men of the city said unto Elisha, Behold, I pray you, the situation of this city is pleasant, as my lord seeth: but the water is naught, and the ground barren.
 [2:20] And he said, Bring me a new cruse, and put salt therein. And they brought it to him.
-[2:21] And he went forth unto the spring of the waters, and cast the salt in there, and said, Thus saith the LORD, I have healed these waters; there shall not be from thence any more death or barren land.
+[2:21] And he went forth unto the spring of the waters, and cast the salt in there, and said, Thus says the LORD, I have healed these waters; there shall not be from thence any more death or barren land.
 [2:22] So the waters were healed unto this day, according to the saying of Elisha which he spake.
 [2:23] And he went up from thence unto Bethel: and as he was going up by the way, there came forth little children out of the city, and mocked him, and said unto him, Go up, you bald head; go up, you bald head.
 [2:24] And he turned back, and looked on them, and cursed them in the name of the LORD. And there came forth two she bears out of the wood, and tare forty and two children of them.
@@ -57,8 +57,8 @@
 [3:13] And Elisha said unto the king of Israel, What have I to do with you? get you to the prophets of your father, and to the prophets of your mother. And the king of Israel said unto him, Nay: for the LORD hath called these three kings together, to deliver them into the hand of Moab.
 [3:14] And Elisha said, As the LORD of hosts liveth, before whom I stand, surely, were it not that I regard the presence of Jehoshaphat the king of Judah, I would not look toward you, nor see you.
 [3:15] But now bring me a minstrel. And it came to pass, when the minstrel played, that the hand of the LORD came upon him.
-[3:16] And he said, Thus saith the LORD, Make this valley full of ditches.
-[3:17] For thus saith the LORD, You shall not see wind, neither shall you see rain; yet that valley shall be filled with water, that you may drink, both you, and your cattle, and your beasts.
+[3:16] And he said, Thus says the LORD, Make this valley full of ditches.
+[3:17] For thus says the LORD, You shall not see wind, neither shall you see rain; yet that valley shall be filled with water, that you may drink, both you, and your cattle, and your beasts.
 [3:18] And this is but a light thing in the sight of the LORD: he will deliver the Moabites also into your hand.
 [3:19] And you shall smite every fenced city, and every choice city, and shall fell every good tree, and stop all wells of water, and mar every good piece of land with stones.
 [3:20] And it came to pass in the morning, when the meat offering was offered, that, behold, there came water by the way of Edom, and the country was filled with water.
@@ -111,7 +111,7 @@
 [4:40] So they poured out for the men to eat. And it came to pass, as they were eating of the pottage, that they cried out, and said, O you man of God, there is death in the pot. And they could not eat thereof.
 [4:41] But he said, Then bring meal. And he cast it into the pot; and he said, Pour out for the people, that they may eat. And there was no harm in the pot.
 [4:42] And there came a man from Baalshalisha, and brought the man of God bread of the firstfruits, twenty loaves of barley, and full ears of corn in the husk thereof. And he said, Give unto the people, that they may eat.
-[4:43] And his servitor said, What, should I set this before an hundred men? He said again, Give the people, that they may eat: for thus saith the LORD, They shall eat, and shall leave thereof.
+[4:43] And his servitor said, What, should I set this before an hundred men? He said again, Give the people, that they may eat: for thus says the LORD, They shall eat, and shall leave thereof.
 [4:44] So he set it before them, and they did eat, and left thereof, according to the word of the LORD.
 [5:1] Now Naaman, captain of the host of the king of Syria, was a great man with his master, and honorable, because by him the LORD had given deliverance unto Syria: he was also a mighty man in valor, but he was a leper.
 [5:2] And the Syrians had gone out by companies, and had brought away captive out of the land of Israel a little maid; and she waited on Naaman's wife.
@@ -125,7 +125,7 @@
 [5:10] And Elisha sent a messenger unto him, saying, Go and wash in Jordan seven times, and your flesh shall come again to you, and you shalt be clean.
 [5:11] But Naaman was wroth, and went away, and said, Behold, I thought, He will surely come out to me, and stand, and call on the name of the LORD his God, and strike his hand over the place, and recover the leper.
 [5:12] Are not Abana and Pharpar, rivers of Damascus, better than all the waters of Israel? may I not wash in them, and be clean? So he turned and went away in a rage.
-[5:13] And his servants came near, and spake unto him, and said, My father, if the prophet had bid you do some great thing, wouldest you not have done it? how much rather then, when he saith to you, Wash, and be clean?
+[5:13] And his servants came near, and spake unto him, and said, My father, if the prophet had bid you do some great thing, wouldest you not have done it? how much rather then, when he says to you, Wash, and be clean?
 [5:14] Then went he down, and dipped himself seven times in Jordan, according to the saying of the man of God: and his flesh came again like unto the flesh of a little child, and he was clean.
 [5:15] And he returned to the man of God, he and all his company, and came, and stood before him: and he said, Behold, now I know that there is no God in all the earth, but in Israel: now therefore, I pray you, take a blessing of your servant.
 [5:16] But he said, As the LORD liveth, before whom I stand, I will receive none. And he urged him to take it; but he refused.
@@ -173,7 +173,7 @@
 [6:31] Then he said, God do so and more also to me, if the head of Elisha the son of Shaphat shall stand on him this day.
 [6:32] But Elisha sat in his house, and the elders sat with him; and the king sent a man from before him: but ere the messenger came to him, he said to the elders, See you how this son of a murderer hath sent to take away mine head? look, when the messenger cometh, shut the door, and hold him fast at the door: is not the sound of his master's feet behind him?
 [6:33] And while he yet talked with them, behold, the messenger came down unto him: and he said, Behold, this evil is of the LORD; what should I wait for the LORD any longer?
-[7:1] Then Elisha said, Hear you the word of the LORD; Thus saith the LORD, To morrow about this time shall a measure of fine flour be sold for a shekel, and two measures of barley for a shekel, in the gate of Samaria.
+[7:1] Then Elisha said, Hear you the word of the LORD; Thus says the LORD, To morrow about this time shall a measure of fine flour be sold for a shekel, and two measures of barley for a shekel, in the gate of Samaria.
 [7:2] Then a lord on whose hand the king leaned answered the man of God, and said, Behold, if the LORD would make windows in heaven, might this thing be? And he said, Behold, you shalt see it with your eyes, but shalt not eat thereof.
 [7:3] And there were four leprous men at the entering in of the gate: and they said one to another, Why sit we here until we die?
 [7:4] If we say, We will enter into the city, then the famine is in the city, and we shall die there: and if we sit still here, we die also. Now therefore come, and let us fall unto the host of the Syrians: if they save us alive, we shall live; and if they kill us, we shall but die.
@@ -224,30 +224,30 @@
 [8:29] And king Joram went back to be healed in Jezreel of the wounds which the Syrians had given him at Ramah, when he fought against Hazael king of Syria. And Ahaziah the son of Jehoram king of Judah went down to see Joram the son of Ahab in Jezreel, because he was sick.
 [9:1] And Elisha the prophet called one of the children of the prophets, and said unto him, Gird up your loins, and take this box of oil in your hand, and go to Ramothgilead:
 [9:2] And when you come thither, look out there Jehu the son of Jehoshaphat the son of Nimshi, and go in, and make him arise up from among his brothers, and carry him to an inner chamber;
-[9:3] Then take the box of oil, and pour it on his head, and say, Thus saith the LORD, I have anointed you king over Israel. Then open the door, and flee, and tarry not.
+[9:3] Then take the box of oil, and pour it on his head, and say, Thus says the LORD, I have anointed you king over Israel. Then open the door, and flee, and tarry not.
 [9:4] So the young man, even the young man the prophet, went to Ramothgilead.
 [9:5] And when he came, behold, the captains of the host were sitting; and he said, I have an errand to you, O captain. And Jehu said, Unto which of all us? And he said, To you, O captain.
-[9:6] And he arose, and went into the house; and he poured the oil on his head, and said unto him, Thus saith the LORD God of Israel, I have anointed you king over the people of the LORD, even over Israel.
+[9:6] And he arose, and went into the house; and he poured the oil on his head, and said unto him, Thus says the LORD God of Israel, I have anointed you king over the people of the LORD, even over Israel.
 [9:7] And you shalt smite the house of Ahab your master, that I may avenge the blood of my servants the prophets, and the blood of all the servants of the LORD, at the hand of Jezebel.
 [9:8] For the whole house of Ahab shall perish: and I will cut off from Ahab him that pisseth against the wall, and him that is shut up and left in Israel:
 [9:9] And I will make the house of Ahab like the house of Jeroboam the son of Nebat, and like the house of Baasha the son of Ahijah:
 [9:10] And the dogs shall eat Jezebel in the portion of Jezreel, and there shall be none to bury her. And he opened the door, and fled.
 [9:11] Then Jehu came forth to the servants of his lord: and one said unto him, Is all well? wherefore came this mad fellow to you? And he said unto them, You know the man, and his communication.
-[9:12] And they said, It is false; tell us now. And he said, Thus and thus spake he to me, saying, Thus saith the LORD, I have anointed you king over Israel.
+[9:12] And they said, It is false; tell us now. And he said, Thus and thus spake he to me, saying, Thus says the LORD, I have anointed you king over Israel.
 [9:13] Then they hasted, and took every man his garment, and put it under him on the top of the stairs, and blew with trumpets, saying, Jehu is king.
 [9:14] So Jehu the son of Jehoshaphat the son of Nimshi conspired against Joram. (Now Joram had kept Ramothgilead, he and all Israel, because of Hazael king of Syria.
 [9:15] But king Joram was returned to be healed in Jezreel of the wounds which the Syrians had given him, when he fought with Hazael king of Syria.) And Jehu said, If it be your minds, then let none go forth nor escape out of the city to go to tell it in Jezreel.
 [9:16] So Jehu rode in a chariot, and went to Jezreel; for Joram lay there. And Ahaziah king of Judah was come down to see Joram.
 [9:17] And there stood a watchman on the tower in Jezreel, and he spied the company of Jehu as he came, and said, I see a company. And Joram said, Take an horseman, and send to meet them, and let him say, Is it peace?
-[9:18] So there went one on horseback to meet him, and said, Thus saith the king, Is it peace? And Jehu said, What have you to do with peace? turn you behind me. And the watchman told, saying, The messenger came to them, but he cometh not again.
-[9:19] Then he sent out a second on horseback, which came to them, and said, Thus saith the king, Is it peace? And Jehu answered, What have you to do with peace? turn you behind me.
+[9:18] So there went one on horseback to meet him, and said, Thus says the king, Is it peace? And Jehu said, What have you to do with peace? turn you behind me. And the watchman told, saying, The messenger came to them, but he cometh not again.
+[9:19] Then he sent out a second on horseback, which came to them, and said, Thus says the king, Is it peace? And Jehu answered, What have you to do with peace? turn you behind me.
 [9:20] And the watchman told, saying, He came even unto them, and cometh not again: and the driving is like the driving of Jehu the son of Nimshi; for he driveth furiously.
 [9:21] And Joram said, Make ready. And his chariot was made ready. And Joram king of Israel and Ahaziah king of Judah went out, each in his chariot, and they went out against Jehu, and met him in the portion of Naboth the Jezreelite.
 [9:22] And it came to pass, when Joram saw Jehu, that he said, Is it peace, Jehu? And he answered, What peace, so long as the whoredoms of your mother Jezebel and her witchcrafts are so many?
 [9:23] And Joram turned his hands, and fled, and said to Ahaziah, There is treachery, O Ahaziah.
 [9:24] And Jehu drew a bow with his full strength, and smote Jehoram between his arms, and the arrow went out at his heart, and he sunk down in his chariot.
 [9:25] Then said Jehu to Bidkar his captain, Take up, and cast him in the portion of the field of Naboth the Jezreelite: for remember how that, when I and you rode together after Ahab his father, the LORD laid this burden upon him;
-[9:26] Surely I have seen yesterday the blood of Naboth, and the blood of his sons, saith the LORD; and I will requite you in this plat, saith the LORD. Now therefore take and cast him into the plat of ground, according to the word of the LORD.
+[9:26] Surely I have seen yesterday the blood of Naboth, and the blood of his sons, says the LORD; and I will requite you in this plat, says the LORD. Now therefore take and cast him into the plat of ground, according to the word of the LORD.
 [9:27] But when Ahaziah the king of Judah saw this, he fled by the way of the garden house. And Jehu followed after him, and said, Smite him also in the chariot. And they did so at the going up to Gur, which is by Ibleam. And he fled to Megiddo, and died there.
 [9:28] And his servants carried him in a chariot to Jerusalem, and buried him in his sepulchre with his fathers in the city of David.
 [9:29] And in the eleventh year of Joram the son of Ahab began Ahaziah to reign over Judah.
@@ -508,7 +508,7 @@
 [18:16] At that time did Hezekiah cut off the gold from the doors of the temple of the LORD, and from the pillars which Hezekiah king of Judah had overlaid, and gave it to the king of Assyria.
 [18:17] And the king of Assyria sent Tartan and Rabsaris and Rabshakeh from Lachish to king Hezekiah with a great host against Jerusalem. And they went up and came to Jerusalem. And when they were come up, they came and stood by the conduit of the upper pool, which is in the highway of the fuller's field.
 [18:18] And when they had called to the king, there came out to them Eliakim the son of Hilkiah, which was over the household, and Shebna the scribe, and Joah the son of Asaph the recorder.
-[18:19] And Rabshakeh said unto them, Speak you now to Hezekiah, Thus saith the great king, the king of Assyria, What confidence is this wherein you trustest?
+[18:19] And Rabshakeh said unto them, Speak you now to Hezekiah, Thus says the great king, the king of Assyria, What confidence is this wherein you trustest?
 [18:20] You say, (but they are but vain words,) I have counsel and strength for the war. Now on whom dost you trust, that you rebellest against me?
 [18:21] Now, behold, you trustest upon the staff of this bruised reed, even upon Egypt, on which if a man lean, it will go into his hand, and pierce it: so is Pharaoh king of Egypt unto all that trust on him.
 [18:22] But if you say unto me, We trust in the LORD our God: is not that he, whose high places and whose altars Hezekiah hath taken away, and hath said to Judah and Jerusalem, You shall worship before this altar in Jerusalem?
@@ -518,9 +518,9 @@
 [18:26] Then said Eliakim the son of Hilkiah, and Shebna, and Joah, unto Rabshakeh, Speak, I pray you, to your servants in the Syrian language; for we understand it: and talk not with us in the Jews' language in the ears of the people that are on the wall.
 [18:27] But Rabshakeh said unto them, Hath my master sent me to your master, and to you, to speak these words? hath he not sent me to the men which sit on the wall, that they may eat their own dung, and drink their own piss with you?
 [18:28] Then Rabshakeh stood and cried with a loud voice in the Jews' language, and spake, saying, Hear the word of the great king, the king of Assyria:
-[18:29] Thus saith the king, Let not Hezekiah deceive you: for he shall not be able to deliver you out of his hand:
+[18:29] Thus says the king, Let not Hezekiah deceive you: for he shall not be able to deliver you out of his hand:
 [18:30] Neither let Hezekiah make you trust in the LORD, saying, The LORD will surely deliver us, and this city shall not be delivered into the hand of the king of Assyria.
-[18:31] Hearken not to Hezekiah: for thus saith the king of Assyria, Make an agreement with me by a present, and come out to me, and then eat you every man of his own vine, and every one of his fig tree, and drink you every one the waters of his cistern:
+[18:31] Hearken not to Hezekiah: for thus says the king of Assyria, Make an agreement with me by a present, and come out to me, and then eat you every man of his own vine, and every one of his fig tree, and drink you every one the waters of his cistern:
 [18:32] Until I come and take you away to a land like your own land, a land of corn and wine, a land of bread and vineyards, a land of oil olive and of honey, that you may live, and not die: and hearken not unto Hezekiah, when he persuadeth you, saying, The LORD will deliver us.
 [18:33] Hath any of the gods of the nations delivered at all his land out of the hand of the king of Assyria?
 [18:34] Where are the gods of Hamath, and of Arpad? where are the gods of Sepharvaim, Hena, and Ivah? have they delivered Samaria out of mine hand?
@@ -529,10 +529,10 @@
 [18:37] Then came Eliakim the son of Hilkiah, which was over the household, and Shebna the scribe, and Joah the son of Asaph the recorder, to Hezekiah with their clothes rent, and told him the words of Rabshakeh.
 [19:1] And it came to pass, when king Hezekiah heard it, that he rent his clothes, and covered himself with sackcloth, and went into the house of the LORD.
 [19:2] And he sent Eliakim, which was over the household, and Shebna the scribe, and the elders of the priests, covered with sackcloth, to Isaiah the prophet the son of Amoz.
-[19:3] And they said unto him, Thus saith Hezekiah, This day is a day of trouble, and of rebuke, and blasphemy; for the children are come to the birth, and there is not strength to bring forth.
+[19:3] And they said unto him, Thus says Hezekiah, This day is a day of trouble, and of rebuke, and blasphemy; for the children are come to the birth, and there is not strength to bring forth.
 [19:4] It may be the LORD your God will hear all the words of Rabshakeh, whom the king of Assyria his master hath sent to reproach the living God; and will reprove the words which the LORD your God hath heard: wherefore lift up your prayer for the remnant that are left.
 [19:5] So the servants of king Hezekiah came to Isaiah.
-[19:6] And Isaiah said unto them, Thus shall you say to your master, Thus saith the LORD, Be not afraid of the words which you have heard, with which the servants of the king of Assyria have blasphemed me.
+[19:6] And Isaiah said unto them, Thus shall you say to your master, Thus says the LORD, Be not afraid of the words which you have heard, with which the servants of the king of Assyria have blasphemed me.
 [19:7] Behold, I will send a blast upon him, and he shall hear a rumour, and shall return to his own land; and I will cause him to fall by the sword in his own land.
 [19:8] So Rabshakeh returned, and found the king of Assyria warring against Libnah: for he had heard that he was departed from Lachish.
 [19:9] And when he heard say of Tirhakah king of Ethiopia, Behold, he is come out to fight against you: he sent messengers again unto Hezekiah, saying,
@@ -546,7 +546,7 @@
 [19:17] Of a truth, LORD, the kings of Assyria have destroyed the nations and their lands,
 [19:18] And have cast their gods into the fire: for they were no gods, but the work of men's hands, wood and stone: therefore they have destroyed them.
 [19:19] Now therefore, O LORD our God, I beseech you, save you us out of his hand, that all the kingdoms of the earth may know that you art the LORD God, even you only.
-[19:20] Then Isaiah the son of Amoz sent to Hezekiah, saying, Thus saith the LORD God of Israel, That which you have prayed to me against Sennacherib king of Assyria I have heard.
+[19:20] Then Isaiah the son of Amoz sent to Hezekiah, saying, Thus says the LORD God of Israel, That which you have prayed to me against Sennacherib king of Assyria I have heard.
 [19:21] This is the word that the LORD hath spoken concerning him; The virgin the daughter of Zion hath despised you, and laughed you to scorn; the daughter of Jerusalem hath shaken her head at you.
 [19:22] Whom have you reproached and blasphemed? and against whom have you exalted your voice, and lifted up your eyes on high? even against the Holy One of Israel.
 [19:23] By your messengers you have reproached the LORD, and have said, With the multitude of my chariots I am come up to the height of the mountains, to the sides of Lebanon, and will cut down the tall cedar trees thereof, and the choice fir trees thereof: and I will enter into the lodgings of his borders, and into the forest of his Carmel.
@@ -558,17 +558,17 @@
 [19:29] And this shall be a sign unto you, You shall eat this year such things as grow of themselves, and in the second year that which springeth of the same; and in the third year sow you, and reap, and plant vineyards, and eat the fruits thereof.
 [19:30] And the remnant that is escaped of the house of Judah shall yet again take root downward, and bear fruit upward.
 [19:31] For out of Jerusalem shall go forth a remnant, and they that escape out of mount Zion: the zeal of the LORD of hosts shall do this.
-[19:32] Therefore thus saith the LORD concerning the king of Assyria, He shall not come into this city, nor shoot an arrow there, nor come before it with shield, nor cast a bank against it.
-[19:33] By the way that he came, by the same shall he return, and shall not come into this city, saith the LORD.
+[19:32] Therefore thus says the LORD concerning the king of Assyria, He shall not come into this city, nor shoot an arrow there, nor come before it with shield, nor cast a bank against it.
+[19:33] By the way that he came, by the same shall he return, and shall not come into this city, says the LORD.
 [19:34] For I will defend this city, to save it, for mine own sake, and for my servant David's sake.
 [19:35] And it came to pass that night, that the angel of the LORD went out, and smote in the camp of the Assyrians an hundred fourscore and five thousand: and when they arose early in the morning, behold, they were all dead corpses.
 [19:36] So Sennacherib king of Assyria departed, and went and returned, and dwelt at Nineveh.
 [19:37] And it came to pass, as he was worshipping in the house of Nisroch his god, that Adrammelech and Sharezer his sons smote him with the sword: and they escaped into the land of Armenia. And Esarhaddon his son reigned in his stead.
-[20:1] In those days was Hezekiah sick unto death. And the prophet Isaiah the son of Amoz came to him, and said unto him, Thus saith the LORD, Set your house in order; for you shalt die, and not live.
+[20:1] In those days was Hezekiah sick unto death. And the prophet Isaiah the son of Amoz came to him, and said unto him, Thus says the LORD, Set your house in order; for you shalt die, and not live.
 [20:2] Then he turned his face to the wall, and prayed unto the LORD, saying,
 [20:3] I beseech you, O LORD, remember now how I have walked before you in truth and with a perfect heart, and have done that which is good in your sight. And Hezekiah wept sore.
 [20:4] And it came to pass, afore Isaiah was gone out into the middle court, that the word of the LORD came to him, saying,
-[20:5] Turn again, and tell Hezekiah the captain of my people, Thus saith the LORD, the God of David your father, I have heard your prayer, I have seen your tears: behold, I will heal you: on the third day you shalt go up unto the house of the LORD.
+[20:5] Turn again, and tell Hezekiah the captain of my people, Thus says the LORD, the God of David your father, I have heard your prayer, I have seen your tears: behold, I will heal you: on the third day you shalt go up unto the house of the LORD.
 [20:6] And I will add unto your days fifteen years; and I will deliver you and this city out of the hand of the king of Assyria; and I will defend this city for mine own sake, and for my servant David's sake.
 [20:7] And Isaiah said, Take a lump of figs. And they took and laid it on the boil, and he recovered.
 [20:8] And Hezekiah said unto Isaiah, What shall be the sign that the LORD will heal me, and that I shall go up into the house of the LORD the third day?
@@ -580,7 +580,7 @@
 [20:14] Then came Isaiah the prophet unto king Hezekiah, and said unto him, What said these men? and from where came they unto you? And Hezekiah said, They are come from a far country, even from Babylon.
 [20:15] And he said, What have they seen in your house? And Hezekiah answered, All the things that are in mine house have they seen: there is nothing among my treasures that I have not showed them.
 [20:16] And Isaiah said unto Hezekiah, Hear the word of the LORD.
-[20:17] Behold, the days come, that all that is in your house, and that which your fathers have laid up in store unto this day, shall be carried into Babylon: nothing shall be left, saith the LORD.
+[20:17] Behold, the days come, that all that is in your house, and that which your fathers have laid up in store unto this day, shall be carried into Babylon: nothing shall be left, says the LORD.
 [20:18] And of your sons that shall issue from you, which you shalt beget, shall they take away; and they shall be eunuchs in the palace of the king of Babylon.
 [20:19] Then said Hezekiah unto Isaiah, Good is the word of the LORD which you have spoken. And he said, Is it not good, if peace and truth be in my days?
 [20:20] And the rest of the acts of Hezekiah, and all his might, and how he made a pool, and a conduit, and brought water into the city, are they not written in the book of the chronicles of the kings of Judah?
@@ -596,7 +596,7 @@
 [21:9] But they hearkened not: and Manasseh seduced them to do more evil than did the nations whom the LORD destroyed before the children of Israel.
 [21:10] And the LORD spake by his servants the prophets, saying,
 [21:11] Because Manasseh king of Judah hath done these abominations, and hath done wickedly above all that the Amorites did, which were before him, and hath made Judah also to sin with his idols:
-[21:12] Therefore thus saith the LORD God of Israel, Behold, I am bringing such evil upon Jerusalem and Judah, that whosoever heareth of it, both his ears shall tingle.
+[21:12] Therefore thus says the LORD God of Israel, Behold, I am bringing such evil upon Jerusalem and Judah, that whosoever heareth of it, both his ears shall tingle.
 [21:13] And I will stretch over Jerusalem the line of Samaria, and the plummet of the house of Ahab: and I will wipe Jerusalem as a man wipeth a dish, wiping it, and turning it upside down.
 [21:14] And I will forsake the remnant of mine inheritance, and deliver them into the hand of their enemies; and they shall become a prey and a spoil to all their enemies;
 [21:15] Because they have done that which was evil in my sight, and have provoked me to anger, since the day their fathers came forth out of Egypt, even unto this day.
@@ -625,11 +625,11 @@
 [22:12] And the king commanded Hilkiah the priest, and Ahikam the son of Shaphan, and Achbor the son of Michaiah, and Shaphan the scribe, and Asahiah a servant of the king's, saying,
 [22:13] Go you, enquire of the LORD for me, and for the people, and for all Judah, concerning the words of this book that is found: for great is the wrath of the LORD that is kindled against us, because our fathers have not hearkened unto the words of this book, to do according unto all that which is written concerning us.
 [22:14] So Hilkiah the priest, and Ahikam, and Achbor, and Shaphan, and Asahiah, went unto Huldah the prophetess, the wife of Shallum the son of Tikvah, the son of Harhas, keeper of the wardrobe; (now she dwelt in Jerusalem in the college;) and they communed with her.
-[22:15] And she said unto them, Thus saith the LORD God of Israel, Tell the man that sent you to me,
-[22:16] Thus saith the LORD, Behold, I will bring evil upon this place, and upon the inhabitants thereof, even all the words of the book which the king of Judah hath read:
+[22:15] And she said unto them, Thus says the LORD God of Israel, Tell the man that sent you to me,
+[22:16] Thus says the LORD, Behold, I will bring evil upon this place, and upon the inhabitants thereof, even all the words of the book which the king of Judah hath read:
 [22:17] Because they have forsaken me, and have burned incense unto other gods, that they might provoke me to anger with all the works of their hands; therefore my wrath shall be kindled against this place, and shall not be quenched.
-[22:18] But to the king of Judah which sent you to enquire of the LORD, thus shall you say to him, Thus saith the LORD God of Israel, As touching the words which you have heard;
-[22:19] Because your heart was tender, and you have humbled thyself before the LORD, when you heardest what I spake against this place, and against the inhabitants thereof, that they should become a desolation and a curse, and have rent your clothes, and wept before me; I also have heard you, saith the LORD.
+[22:18] But to the king of Judah which sent you to enquire of the LORD, thus shall you say to him, Thus says the LORD God of Israel, As touching the words which you have heard;
+[22:19] Because your heart was tender, and you have humbled thyself before the LORD, when you heardest what I spake against this place, and against the inhabitants thereof, that they should become a desolation and a curse, and have rent your clothes, and wept before me; I also have heard you, says the LORD.
 [22:20] Behold therefore, I will gather you unto your fathers, and you shalt be gathered into your grave in peace; and your eyes shall not see all the evil which I will bring upon this place. And they brought the king word again.
 [23:1] And the king sent, and they gathered unto him all the elders of Judah and of Jerusalem.
 [23:2] And the king went up into the house of the LORD, and all the men of Judah and all the inhabitants of Jerusalem with him, and the priests, and the prophets, and all the people, both small and great: and he read in their ears all the words of the book of the covenant which was found in the house of the LORD.

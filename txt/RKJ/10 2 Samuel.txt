@@ -161,10 +161,10 @@
 [7:2] That the king said unto Nathan the prophet, See now, I dwell in an house of cedar, but the ark of God dwelleth within curtains.
 [7:3] And Nathan said to the king, Go, do all that is in your heart; for the LORD is with you.
 [7:4] And it came to pass that night, that the word of the LORD came unto Nathan, saying,
-[7:5] Go and tell my servant David, Thus saith the LORD, Shalt you build me an house for me to dwell in?
+[7:5] Go and tell my servant David, Thus says the LORD, Shalt you build me an house for me to dwell in?
 [7:6] Whereas I have not dwelt in any house since the time that I brought up the children of Israel out of Egypt, even to this day, but have walked in a tent and in a tabernacle.
 [7:7] In all the places wherein I have walked with all the children of Israel spake I a word with any of the tribes of Israel, whom I commanded to feed my people Israel, saying, Why build you not me an house of cedar?
-[7:8] Now therefore so shalt you say unto my servant David, Thus saith the LORD of hosts, I took you from the sheepcote, from following the sheep, to be ruler over my people, over Israel:
+[7:8] Now therefore so shalt you say unto my servant David, Thus says the LORD of hosts, I took you from the sheepcote, from following the sheep, to be ruler over my people, over Israel:
 [7:9] And I was with you whithersoever you wentest, and have cut off all your enemies out of your sight, and have made you a great name, like unto the name of the great men that are in the earth.
 [7:10] Moreover I will appoint a place for my people Israel, and will plant them, that they may dwell in a place of their own, and move no more; neither shall the children of wickedness afflict them any more, as beforetime,
 [7:11] And as since the time that I commanded judges to be over my people Israel, and have caused you to rest from all your enemies. Also the LORD telleth you that he will make you an house.
@@ -269,11 +269,11 @@
 [12:4] And there came a traveler unto the rich man, and he spared to take of his own flock and of his own herd, to dress for the wayfaring man that was come unto him; but took the poor man's lamb, and dressed it for the man that was come to him.
 [12:5] And David's anger was greatly kindled against the man; and he said to Nathan, As the LORD liveth, the man that hath done this thing shall surely die:
 [12:6] And he shall restore the lamb fourfold, because he did this thing, and because he had no pity.
-[12:7] And Nathan said to David, You art the man. Thus saith the LORD God of Israel, I anointed you king over Israel, and I delivered you out of the hand of Saul;
+[12:7] And Nathan said to David, You art the man. Thus says the LORD God of Israel, I anointed you king over Israel, and I delivered you out of the hand of Saul;
 [12:8] And I gave you your master's house, and your master's wives into your bosom, and gave you the house of Israel and of Judah; and if that had been too little, I would moreover have given unto you such and such things.
 [12:9] Wherefore have you despised the commandment of the LORD, to do evil in his sight? you have killed Uriah the Hittite with the sword, and have taken his wife to be your wife, and have slain him with the sword of the children of Ammon.
 [12:10] Now therefore the sword shall never depart from your house; because you have despised me, and have taken the wife of Uriah the Hittite to be your wife.
-[12:11] Thus saith the LORD, Behold, I will raise up evil against you out of your own house, and I will take your wives before your eyes, and give them unto your neighbor, and he shall lie with your wives in the sight of this sun.
+[12:11] Thus says the LORD, Behold, I will raise up evil against you out of your own house, and I will take your wives before your eyes, and give them unto your neighbor, and he shall lie with your wives in the sight of this sun.
 [12:12] For you didst it secretly: but I will do this thing before all Israel, and before the sun.
 [12:13] And David said unto Nathan, I have sinned against the LORD. And Nathan said unto David, The LORD also hath put away your sin; you shalt not die.
 [12:14] Howbeit, because by this deed you have given great occasion to the enemies of the LORD to blaspheme, the child also that is born unto you shall surely die.
@@ -342,7 +342,7 @@
 [14:7] And, behold, the whole family is risen against your handmaid, and they said, Deliver him that smote his brother, that we may kill him, for the life of his brother whom he slew; and we will destroy the heir also: and so they shall quench my coal which is left, and shall not leave to my husband neither name nor remainder upon the earth.
 [14:8] And the king said unto the woman, Go to your house, and I will give charge concerning you.
 [14:9] And the woman of Tekoah said unto the king, My lord, O king, the iniquity be on me, and on my father's house: and the king and his throne be guiltless.
-[14:10] And the king said, Whoever saith ought unto you, bring him to me, and he shall not touch you any more.
+[14:10] And the king said, Whoever says ought unto you, bring him to me, and he shall not touch you any more.
 [14:11] Then said she, I pray you, let the king remember the LORD your God, that you wouldest not suffer the revengers of blood to destroy any more, lest they destroy my son. And he said, As the LORD liveth, there shall not one hair of your son fall to the earth.
 [14:12] Then the woman said, Let your handmaid, I pray you, speak one word unto my lord the king. And he said, Say on.
 [14:13] And the woman said, Wherefore then have you thought such a thing against the people of God? for the king doth speak this thing as one which is faulty, in that the king doth not fetch home again his banished.
@@ -430,7 +430,7 @@
 [17:2] And I will come upon him while he is weary and weak handed, and will make him afraid: and all the people that are with him shall flee; and I will smite the king only:
 [17:3] And I will bring back all the people unto you: the man whom you seekest is as if all returned: so all the people shall be in peace.
 [17:4] And the saying pleased Absalom well, and all the elders of Israel.
-[17:5] Then said Absalom, Call now Hushai the Archite also, and let us hear likewise what he saith.
+[17:5] Then said Absalom, Call now Hushai the Archite also, and let us hear likewise what he says.
 [17:6] And when Hushai was come to Absalom, Absalom spake unto him, saying, Ahithophel hath spoken after this manner: shall we do after his saying? if not; speak you.
 [17:7] And Hushai said unto Absalom, The counsel that Ahithophel hath given is not good at this time.
 [17:8] For, said Hushai, you knowest your father and his men, that they be mighty men, and they be chafed in their minds, as a bear robbed of her whelps in the field: and your father is a man of war, and will not lodge with the people.
@@ -680,7 +680,7 @@
 [24:9] And Joab gave up the sum of the number of the people unto the king: and there were in Israel eight hundred thousand valiant men that drew the sword; and the men of Judah were five hundred thousand men.
 [24:10] And David's heart smote him after that he had numbered the people. And David said unto the LORD, I have sinned greatly in that I have done: and now, I beseech you, O LORD, take away the iniquity of your servant; for I have done very foolishly.
 [24:11] For when David was up in the morning, the word of the LORD came unto the prophet Gad, David's seer, saying,
-[24:12] Go and say unto David, Thus saith the LORD, I offer you three things; choose you one of them, that I may do it unto you.
+[24:12] Go and say unto David, Thus says the LORD, I offer you three things; choose you one of them, that I may do it unto you.
 [24:13] So Gad came to David, and told him, and said unto him, Shall seven years of famine come unto you in your land? or will you flee three months before your enemies, while they pursue you? or that there be three days' pestilence in your land? now advise, and see what answer I shall return to him that sent me.
 [24:14] And David said unto Gad, I am in a great strait: let us fall now into the hand of the LORD; for his mercies are great: and let me not fall into the hand of man.
 [24:15] So the LORD sent a pestilence upon Israel from the morning even to the time appointed: and there died of the people from Dan even to Beersheba seventy thousand men.

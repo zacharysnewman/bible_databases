@@ -53,10 +53,10 @@
 [2:24] Nay, my sons; for it is no good report that I hear: you make the LORD's people to transgress.
 [2:25] If one man sin against another, the judge shall judge him: but if a man sin against the LORD, who shall entreat for him? Notwithstanding they hearkened not unto the voice of their father, because the LORD would slay them.
 [2:26] And the child Samuel grew on, and was in favor both with the LORD, and also with men.
-[2:27] And there came a man of God unto Eli, and said unto him, Thus saith the LORD, Did I plainly appear unto the house of your father, when they were in Egypt in Pharaoh's house?
+[2:27] And there came a man of God unto Eli, and said unto him, Thus says the LORD, Did I plainly appear unto the house of your father, when they were in Egypt in Pharaoh's house?
 [2:28] And did I choose him out of all the tribes of Israel to be my priest, to offer upon mine altar, to burn incense, to wear an ephod before me? and did I give unto the house of your father all the offerings made by fire of the children of Israel?
 [2:29] Wherefore kick you at my sacrifice and at mine offering, which I have commanded in my habitation; and honorest your sons above me, to make yourselves fat with the chiefest of all the offerings of Israel my people?
-[2:30] Wherefore the LORD God of Israel saith, I said indeed that your house, and the house of your father, should walk before me for ever: but now the LORD saith, Be it far from me; for them that honor me I will honor, and they that despise me shall be lightly esteemed.
+[2:30] Wherefore the LORD God of Israel says, I said indeed that your house, and the house of your father, should walk before me for ever: but now the LORD says, Be it far from me; for them that honor me I will honor, and they that despise me shall be lightly esteemed.
 [2:31] Behold, the days come, that I will cut off your arm, and the arm of your father's house, that there shall not be an old man in your house.
 [2:32] And you shalt see an enemy in my habitation, in all the wealth which God shall give Israel: and there shall not be an old man in your house for ever.
 [2:33] And the man of your, whom I shall not cut off from mine altar, shall be to consume your eyes, and to grieve your heart: and all the increase of your house shall die in the flower of their age.
@@ -183,7 +183,7 @@
 [9:3] And the asses of Kish Saul's father were lost. And Kish said to Saul his son, Take now one of the servants with you, and arise, go seek the asses.
 [9:4] And he passed through mount Ephraim, and passed through the land of Shalisha, but they found them not: then they passed through the land of Shalim, and there they were not: and he passed through the land of the Benjamites, but they found them not.
 [9:5] And when they were come to the land of Zuph, Saul said to his servant that was with him, Come, and let us return; lest my father leave caring for the asses, and take thought for us.
-[9:6] And he said unto him, Behold now, there is in this city a man of God, and he is an honorable man; all that he saith cometh surely to pass: now let us go thither; peradventure he can show us our way that we should go.
+[9:6] And he said unto him, Behold now, there is in this city a man of God, and he is an honorable man; all that he says cometh surely to pass: now let us go thither; peradventure he can show us our way that we should go.
 [9:7] Then said Saul to his servant, But, behold, if we go, what shall we bring the man? for the bread is spent in our vessels, and there is not a present to bring to the man of God: what have we?
 [9:8] And the servant answered Saul again, and said, Behold, I have here at hand the fourth part of a shekel of silver: that will I give to the man of God, to tell us our way.
 [9:9] (Beforetime in Israel, when a man went to inquire of God, thus he spake, Come, and let us go to the seer: for he that is now called a Prophet was beforetime called a Seer.)
@@ -222,7 +222,7 @@
 [10:15] And Saul's uncle said, Tell me, I pray you, what Samuel said unto you.
 [10:16] And Saul said unto his uncle, He told us plainly that the asses were found. But of the matter of the kingdom, whereof Samuel spake, he told him not.
 [10:17] And Samuel called the people together unto the LORD to Mizpeh;
-[10:18] And said unto the children of Israel, Thus saith the LORD God of Israel, I brought up Israel out of Egypt, and delivered you out of the hand of the Egyptians, and out of the hand of all kingdoms, and of them that oppressed you:
+[10:18] And said unto the children of Israel, Thus says the LORD God of Israel, I brought up Israel out of Egypt, and delivered you out of the hand of the Egyptians, and out of the hand of all kingdoms, and of them that oppressed you:
 [10:19] And you have this day rejected your God, who himself saved you out of all your adversities and your tribulations; and you have said unto him, Nay, but set a king over us. Now therefore present yourselves before the LORD by your tribes, and by your thousands.
 [10:20] And when Samuel had caused all the tribes of Israel to come near, the tribe of Benjamin was taken.
 [10:21] When he had caused the tribe of Benjamin to come near by their families, the family of Matri was taken, and Saul the son of Kish was taken: and when they sought him, he could not be found.
@@ -348,7 +348,7 @@
 [14:51] And Kish was the father of Saul; and Ner the father of Abner was the son of Abiel.
 [14:52] And there was sore war against the Philistines all the days of Saul: and when Saul saw any strong man, or any valiant man, he took him unto him.
 [15:1] Samuel also said unto Saul, The LORD sent me to anoint you to be king over his people, over Israel: now therefore hearken you unto the voice of the words of the LORD.
-[15:2] Thus saith the LORD of hosts, I remember that which Amalek did to Israel, how he laid wait for him in the way, when he came up from Egypt.
+[15:2] Thus says the LORD of hosts, I remember that which Amalek did to Israel, how he laid wait for him in the way, when he came up from Egypt.
 [15:3] Now go and smite Amalek, and utterly destroy all that they have, and spare them not; but slay both man and woman, infant and suckling, ox and sheep, camel and ass.
 [15:4] And Saul gathered the people together, and numbered them in Telaim, two hundred thousand footmen, and ten thousand men of Judah.
 [15:5] And Saul came to a city of Amalek, and laid wait in the valley.
@@ -519,7 +519,7 @@
 [19:24] And he stripped off his clothes also, and prophesied before Samuel in like manner, and lay down naked all that day and all that night. Wherefore they say, Is Saul also among the prophets?
 [20:1] And David fled from Naioth in Ramah, and came and said before Jonathan, What have I done? what is mine iniquity? and what is my sin before your father, that he seeketh my life?
 [20:2] And he said unto him, God forbid; you shalt not die: behold, my father will do nothing either great or small, but that he will show it me: and why should my father hide this thing from me? it is not so.
-[20:3] And David sware moreover, and said, Your father certainly knoweth that I have found grace in your eyes; and he saith, Let not Jonathan know this, lest he be grieved: but truly as the LORD liveth, and as your soul liveth, there is but a step between me and death.
+[20:3] And David sware moreover, and said, Your father certainly knoweth that I have found grace in your eyes; and he says, Let not Jonathan know this, lest he be grieved: but truly as the LORD liveth, and as your soul liveth, there is but a step between me and death.
 [20:4] Then said Jonathan unto David, Whatsoever your soul desireth, I will even do it for you.
 [20:5] And David said unto Jonathan, Behold, to morrow is the new moon, and I should not fail to sit with the king at meat: but let me go, that I may hide myself in the field unto the third day at even.
 [20:6] If your father at all miss me, then say, David earnestly asked leave of me that he might run to Bethlehem his city: for there is a yearly sacrifice there for all the family.
@@ -638,7 +638,7 @@
 [24:10] Behold, this day your eyes have seen how that the LORD had delivered you to day into mine hand in the cave: and some bade me kill you: but mine eye spared you; and I said, I will not put forth mine hand against my lord; for he is the LORD's anointed.
 [24:11] Moreover, my father, see, yea, see the skirt of your robe in my hand: for in that I cut off the skirt of your robe, and killed you not, know you and see that there is neither evil nor transgression in mine hand, and I have not sinned against you; yet you huntest my soul to take it.
 [24:12] The LORD judge between me and you, and the LORD avenge me of you: but mine hand shall not be upon you.
-[24:13] As saith the proverb of the ancients, Wickedness proceedeth from the wicked: but mine hand shall not be upon you.
+[24:13] As says the proverb of the ancients, Wickedness proceedeth from the wicked: but mine hand shall not be upon you.
 [24:14] After whom is the king of Israel come out? after whom dost you pursue? after a dead dog, after a flea.
 [24:15] The LORD therefore be judge, and judge between me and you, and see, and plead my cause, and deliver me out of your hand.
 [24:16] And it came to pass, when David had made an end of speaking these words unto Saul, that Saul said, Is this your voice, my son David? And Saul lifted up his voice, and wept.

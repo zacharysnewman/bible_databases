@@ -240,7 +240,7 @@ Proverbs
 [9:1] Wisdom hath builded her house, she hath hewn out her seven pillars:
 [9:2] She hath killed her beasts; she hath mingled her wine; she hath also furnished her table.
 [9:3] She hath sent forth her maidens: she crieth upon the highest places of the city,
-[9:4] Whoso is simple, let him turn in hither: as for him that wanteth understanding, she saith to him,
+[9:4] Whoso is simple, let him turn in hither: as for him that wanteth understanding, she says to him,
 [9:5] Come, eat of my bread, and drink of the wine which I have mingled.
 [9:6] Forsake the foolish, and live; and go in the way of understanding.
 [9:7] He that reproveth a scorner getteth to himself shame: and he that rebuketh a wicked man getteth himself a blot.
@@ -252,7 +252,7 @@ Proverbs
 [9:13] A foolish woman is clamorous: she is simple, and knoweth nothing.
 [9:14] For she sitteth at the door of her house, on a seat in the high places of the city,
 [9:15] To call passengers who go right on their ways:
-[9:16] Whoso is simple, let him turn in hither: and as for him that wanteth understanding, she saith to him,
+[9:16] Whoso is simple, let him turn in hither: and as for him that wanteth understanding, she says to him,
 [9:17] Stolen waters are sweet, and bread eaten in secret is pleasant.
 [9:18] But he knoweth not that the dead are there; and that her guests are in the depths of hell.
 [10:1] The proverbs of Solomon. A wise son maketh a glad father: but a foolish son is the heaviness of his mother.
@@ -566,7 +566,7 @@ Proverbs
 [20:11] Even a child is known by his doings, whether his work be pure, and whether it be right.
 [20:12] The hearing ear, and the seeing eye, the LORD hath made even both of them.
 [20:13] Love not sleep, lest you come to poverty; open your eyes, and you shalt be satisfied with bread.
-[20:14] It is naught, it is naught, saith the buyer: but when he is gone his way, then he boasteth.
+[20:14] It is naught, it is naught, says the buyer: but when he is gone his way, then he boasteth.
 [20:15] There is gold, and a multitude of rubies: but the lips of knowledge are a precious jewel.
 [20:16] Take his garment that is surety for a stranger: and take a pledge of him for a strange woman.
 [20:17] Bread of deceit is sweet to a man; but afterwards his mouth shall be filled with gravel.
@@ -626,7 +626,7 @@ Proverbs
 [22:10] Cast out the scorner, and contention shall go out; yea, strife and reproach shall cease.
 [22:11] He that loveth pureness of heart, for the grace of his lips the king shall be his friend.
 [22:12] The eyes of the LORD preserve knowledge, and he overthroweth the words of the transgressor.
-[22:13] The slothful man saith, There is a lion without, I shall be slain in the streets.
+[22:13] The slothful man says, There is a lion without, I shall be slain in the streets.
 [22:14] The mouth of strange women is a deep pit: he that is abhorred of the LORD shall fall therein.
 [22:15] Foolishness is bound in the heart of a child; but the rod of correction shall drive it far from him.
 [22:16] He that oppresseth the poor to increase his riches, and he that giveth to the rich, shall surely come to want.
@@ -649,7 +649,7 @@ Proverbs
 [23:4] Labour not to be rich: cease from your own wisdom.
 [23:5] Will you set your eyes upon that which is not? for riches certainly make themselves wings; they fly away as an eagle toward heaven.
 [23:6] Eat you not the bread of him that hath an evil eye, neither desire you his dainty meats:
-[23:7] For as he thinketh in his heart, so is he: Eat and drink, saith he to you; but his heart is not with you.
+[23:7] For as he thinketh in his heart, so is he: Eat and drink, says he to you; but his heart is not with you.
 [23:8] The morsel which you have eaten shalt you vomit up, and lose your sweet words.
 [23:9] Speak not in the ears of a fool: for he will despise the wisdom of your words.
 [23:10] Remove not the old landmark; and enter not into the fields of the fatherless:
@@ -701,7 +701,7 @@ Proverbs
 [24:21] My son, fear you the LORD and the king: and meddle not with them that are given to change:
 [24:22] For their calamity shall rise suddenly; and who knoweth the ruin of them both?
 [24:23] These things also belong to the wise. It is not good to have respect of persons in judgment.
-[24:24] He that saith unto the wicked, You are righteous; him shall the people curse, nations shall abhor him:
+[24:24] He that says unto the wicked, You are righteous; him shall the people curse, nations shall abhor him:
 [24:25] But to them that rebuke him shall be delight, and a good blessing shall come upon them.
 [24:26] Every man shall kiss his lips that giveth a right answer.
 [24:27] Prepare your work without, and make it fit for thyself in the field; and afterwards build your house.
@@ -752,13 +752,13 @@ Proverbs
 [26:10] The great God that formed all things both rewardeth the fool, and rewardeth transgressors.
 [26:11] As a dog returneth to his vomit, so a fool returneth to his folly.
 [26:12] See you a man wise in his own conceit? there is more hope of a fool than of him.
-[26:13] The slothful man saith, There is a lion in the way; a lion is in the streets.
+[26:13] The slothful man says, There is a lion in the way; a lion is in the streets.
 [26:14] As the door turneth upon his hinges, so doth the slothful upon his bed.
 [26:15] The slothful hideth his hand in his bosom; it grieveth him to bring it again to his mouth.
 [26:16] The sluggard is wiser in his own conceit than seven men that can render a reason.
 [26:17] He that passeth by, and meddleth with strife belonging not to him, is like one that taketh a dog by the ears.
 [26:18] As a mad man who casteth firebrands, arrows, and death,
-[26:19] So is the man that deceiveth his neighbour, and saith, Am not I in sport?
+[26:19] So is the man that deceiveth his neighbour, and says, Am not I in sport?
 [26:20] Where no wood is, there the fire goeth out: so where there is no talebearer, the strife ceaseth.
 [26:21] As coals are to burning coals, and wood to fire; so is a contentious man to kindle strife.
 [26:22] The words of a talebearer are as wounds, and they go down into the innermost parts of the belly.
@@ -818,7 +818,7 @@ Proverbs
 [28:21] To have respect of persons is not good: for for a piece of bread that man will transgress.
 [28:22] He that hasteth to be rich hath an evil eye, and considereth not that poverty shall come upon him.
 [28:23] He that rebuketh a man afterwards shall find more favour than he that flattereth with the tongue.
-[28:24] Whoso robbeth his father or his mother, and saith, It is no transgression; the same is the companion of a destroyer.
+[28:24] Whoso robbeth his father or his mother, and says, It is no transgression; the same is the companion of a destroyer.
 [28:25] He that is of a proud heart stirreth up strife: but he that putteth his trust in the LORD shall be made fat.
 [28:26] He that trusteth in his own heart is a fool: but whoso walketh wisely, he shall be delivered.
 [28:27] He that giveth unto the poor shall not lack: but he that hideth his eyes shall have many a curse.
@@ -865,11 +865,11 @@ Proverbs
 [30:13] There is a generation, O how lofty are their eyes! and their eyelids are lifted up.
 [30:14] There is a generation, whose teeth are as swords, and their jaw teeth as knives, to devour the poor from off the earth, and the needy from among men.
 [30:15] The horseleach hath two daughters, crying, Give, give. There are three things that are never satisfied, yea, four things say not, It is enough:
-[30:16] The grave; and the barren womb; the earth that is not filled with water; and the fire that saith not, It is enough.
+[30:16] The grave; and the barren womb; the earth that is not filled with water; and the fire that says not, It is enough.
 [30:17] The eye that mocketh at his father, and despiseth to obey his mother, the ravens of the valley shall pick it out, and the young eagles shall eat it.
 [30:18] There be three things which are too wonderful for me, yea, four which I know not:
 [30:19] The way of an eagle in the air; the way of a serpent upon a rock; the way of a ship in the midst of the sea; and the way of a man with a maid.
-[30:20] Such is the way of an adulterous woman; she eateth, and wipeth her mouth, and saith, I have done no wickedness.
+[30:20] Such is the way of an adulterous woman; she eateth, and wipeth her mouth, and says, I have done no wickedness.
 [30:21] For three things the earth is disquieted, and for four which it cannot bear:
 [30:22] For a servant when he reigneth; and a fool when he is filled with meat;
 [30:23] For an odious woman when she is married; and an handmaid that is heir to her mistress.

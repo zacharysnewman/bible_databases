@@ -141,7 +141,7 @@ Luke
 [3:8] Bring forth therefore fruits worthy of repentance, and begin not to say within yourselves, We have Abraham to our father: for I say unto you, That God is able of these stones to raise up children unto Abraham.
 [3:9] And now also the axe is laid unto the root of the trees: every tree therefore which bringeth not forth good fruit is hewn down, and cast into the fire.
 [3:10] And the people asked him, saying, What shall we do then?
-[3:11] He answereth and saith unto them, He that hath two coats, let him impart to him that hath none; and he that hath meat, let him do likewise.
+[3:11] He answereth and says unto them, He that hath two coats, let him impart to him that hath none; and he that hath meat, let him do likewise.
 [3:12] Then came also publicans to be baptized, and said unto him, Master, what shall we do?
 [3:13] And he said unto them, Exact no more than that which is appointed you.
 [3:14] And the soldiers likewise demanded of him, saying, And what shall we do? And he said unto them, Do violence to no man, neither accuse any falsely; and be content with your wages.
@@ -251,7 +251,7 @@ Luke
 [5:36] And he spake also a parable unto them; No man putteth a piece of a new garment upon an old; if otherwise, then both the new maketh a rent, and the piece that was taken out of the new agreeth not with the old.
 [5:37] And no man putteth new wine into old bottles; else the new wine will burst the bottles, and be spilled, and the bottles shall perish.
 [5:38] But new wine must be put into new bottles; and both are preserved.
-[5:39] No man also having drunk old wine straightway desireth new: for he saith, The old is better.
+[5:39] No man also having drunk old wine straightway desireth new: for he says, The old is better.
 [6:1] And it came to pass on the second sabbath after the first, that he went through the corn fields; and his disciples plucked the ears of corn, and did eat, rubbing them in their hands.
 [6:2] And certain of the Pharisees said unto them, Why do you that which is not lawful to do on the sabbath days?
 [6:3] And Jesus answering them said, Have you not read so much as this, what David did, when himself was an hungred, and they which were with him;
@@ -340,7 +340,7 @@ Luke
 [7:37] And, behold, a woman in the city, which was a sinner, when she knew that Jesus sat at meat in the Pharisee's house, brought an alabaster box of ointment,
 [7:38] And stood at his feet behind him weeping, and began to wash his feet with tears, and did wipe them with the hairs of her head, and kissed his feet, and anointed them with the ointment.
 [7:39] Now when the Pharisee which had bidden him saw it, he spake within himself, saying, This man, if he were a prophet, would have known who and what manner of woman this is that toucheth him: for she is a sinner.
-[7:40] And Jesus answering said unto him, Simon, I have somewhat to say unto you. And he saith, Master, say on.
+[7:40] And Jesus answering said unto him, Simon, I have somewhat to say unto you. And he says, Master, say on.
 [7:41] There was a certain creditor which had two debtors: the one owed five hundred pence, and the other fifty.
 [7:42] And when they had nothing to pay, he frankly forgave them both. Tell me therefore, which of them will love him most?
 [7:43] Simon answered and said, I suppose that he, to whom he forgave most. And he said unto him, You have rightly judged.
@@ -534,7 +534,7 @@ Luke
 [11:21] When a strong man armed keepeth his palace, his goods are in peace:
 [11:22] But when a stronger than he shall come upon him, and overcome him, he taketh from him all his armour wherein he trusted, and divideth his spoils.
 [11:23] He that is not with me is against me: and he that gathereth not with me scattereth.
-[11:24] When the unclean spirit is gone out of a man, he walketh through dry places, seeking rest; and finding none, he saith, I will return unto my house where I came out.
+[11:24] When the unclean spirit is gone out of a man, he walketh through dry places, seeking rest; and finding none, he says, I will return unto my house where I came out.
 [11:25] And when he cometh, he findeth it swept and garnished.
 [11:26] Then goeth he, and taketh to him seven other spirits more wicked than himself; and they enter in, and dwell there: and the last state of that man is worse than the first.
 [11:27] And it came to pass, as he spake these things, a certain woman of the company lifted up her voice, and said unto him, Blessed is the womb that bare you, and the paps which you have sucked.
@@ -754,7 +754,7 @@ Luke
 [16:26] And beside all this, between us and you there is a great gulf fixed: so that they which would pass from hence to you cannot; neither can they pass to us, that would come from thence.
 [16:27] Then he said, I pray you therefore, father, that you wouldest send him to my father's house:
 [16:28] For I have five brothers; that he may testify unto them, lest they also come into this place of torment.
-[16:29] Abraham saith unto him, They have Moses and the prophets; let them hear them.
+[16:29] Abraham says unto him, They have Moses and the prophets; let them hear them.
 [16:30] And he said, Nay, father Abraham: but if one went unto them from the dead, they will repent.
 [16:31] And he said unto him, If they hear not Moses and the prophets, neither will they be persuaded, though one rose from the dead.
 [17:1] Then said he unto the disciples, It is impossible but that offences will come: but woe unto him, through whom they come!
@@ -799,7 +799,7 @@ Luke
 [18:3] And there was a widow in that city; and she came unto him, saying, Avenge me of mine adversary.
 [18:4] And he would not for a while: but afterward he said within himself, Though I fear not God, nor regard man;
 [18:5] Yet because this widow troubleth me, I will avenge her, lest by her continual coming she weary me.
-[18:6] And the Lord said, Hear what the unjust judge saith.
+[18:6] And the Lord said, Hear what the unjust judge says.
 [18:7] And shall not God avenge his own elect, which cry day and night unto him, though he bear long with them?
 [18:8] I tell you that he will avenge them speedily. Nevertheless when the Son of man cometh, shall he find faith on the earth?
 [18:9] And he spake this parable unto certain which trusted in themselves that they were righteous, and despised others:
@@ -858,7 +858,7 @@ Luke
 [19:19] And he said likewise to him, Be you also over five cities.
 [19:20] And another came, saying, Lord, behold, here is your pound, which I have kept laid up in a napkin:
 [19:21] For I feared you, because you art an austere man: you takest up that you layedst not down, and reapest that you didst not sow.
-[19:22] And he saith unto him, Out of your own mouth will I judge you, you wicked servant. You knewest that I was an austere man, taking up that I laid not down, and reaping that I did not sow:
+[19:22] And he says unto him, Out of your own mouth will I judge you, you wicked servant. You knewest that I was an austere man, taking up that I laid not down, and reaping that I did not sow:
 [19:23] Wherefore then gavest not you my money into the bank, that at my coming I might have required mine own with usury?
 [19:24] And he said unto them that stood by, Take from him the pound, and give it to him that hath ten pounds.
 [19:25] (And they said unto him, Lord, he hath ten pounds.)
@@ -926,7 +926,7 @@ Luke
 [20:39] Then certain of the scribes answering said, Master, you have well said.
 [20:40] And after that they durst not ask him any question at all.
 [20:41] And he said unto them, How say they that Christ is David's son?
-[20:42] And David himself saith in the book of Psalms, The LORD said unto my Lord, Sit you on my right hand,
+[20:42] And David himself says in the book of Psalms, The LORD said unto my Lord, Sit you on my right hand,
 [20:43] Till I make your enemies your footstool.
 [20:44] David therefore calleth him Lord, how is he then his son?
 [20:45] Then in the audience of all the people he said unto his disciples,
@@ -980,7 +980,7 @@ Luke
 [22:8] And he sent Peter and John, saying, Go and prepare us the passover, that we may eat.
 [22:9] And they said unto him, Where will you that we prepare?
 [22:10] And he said unto them, Behold, when you are entered into the city, there shall a man meet you, bearing a pitcher of water; follow him into the house where he entereth in.
-[22:11] And you shall say unto the goodman of the house, The Master saith unto you, Where is the guestchamber, where I shall eat the passover with my disciples?
+[22:11] And you shall say unto the goodman of the house, The Master says unto you, Where is the guestchamber, where I shall eat the passover with my disciples?
 [22:12] And he shall shew you a large upper room furnished: there make ready.
 [22:13] And they went, and found as he had said unto them: and they made ready the passover.
 [22:14] And when the hour was come, he sat down, and the twelve apostles with him.
@@ -1132,7 +1132,7 @@ Luke
 [24:33] And they rose up the same hour, and returned to Jerusalem, and found the eleven gathered together, and them that were with them,
 [24:34] Saying, The Lord is risen indeed, and hath appeared to Simon.
 [24:35] And they told what things were done in the way, and how he was known of them in breaking of bread.
-[24:36] And as they thus spake, Jesus himself stood in the midst of them, and saith unto them, Peace be unto you.
+[24:36] And as they thus spake, Jesus himself stood in the midst of them, and says unto them, Peace be unto you.
 [24:37] But they were terrified and affrighted, and supposed that they had seen a spirit.
 [24:38] And he said unto them, Why are you troubled? and why do thoughts arise in your hearts?
 [24:39] Behold my hands and my feet, that it is I myself: handle me, and see; for a spirit hath not flesh and bones, as you see me have.

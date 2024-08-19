@@ -95,7 +95,7 @@ Joshua
 [5:11] And they did eat of the old corn of the land on the morrow after the passover, unleavened cakes, and parched corn in the selfsame day.
 [5:12] And the manna ceased on the morrow after they had eaten of the old corn of the land; neither had the children of Israel manna any more; but they did eat of the fruit of the land of Canaan that year.
 [5:13] And it came to pass, when Joshua was by Jericho, that he lifted up his eyes and looked, and, behold, there stood a man over against him with his sword drawn in his hand: and Joshua went unto him, and said unto him, Art you for us, or for our adversaries?
-[5:14] And he said, Nay; but as captain of the host of the LORD am I now come. And Joshua fell on his face to the earth, and did worship, and said unto him, What saith my Lord unto his servant?
+[5:14] And he said, Nay; but as captain of the host of the LORD am I now come. And Joshua fell on his face to the earth, and did worship, and said unto him, What says my Lord unto his servant?
 [5:15] And the captain of the LORD's host said unto Joshua, Loose your shoe from off your foot; for the place whereon you stand is holy. And Joshua did so.
 [6:1] Now Jericho was straitly shut up because of the children of Israel: none went out, and none came in.
 [6:2] And the LORD said unto Joshua, See, I have given into your hand Jericho, and the king thereof, and the mighty men of valor.
@@ -136,7 +136,7 @@ Joshua
 [7:10] And the LORD said unto Joshua, Get you up; wherefore liest you thus upon your face?
 [7:11] Israel hath sinned, and they have also transgressed my covenant which I commanded them: for they have even taken of the accursed thing, and have also stolen, and dissembled also, and they have put it even among their own stuff.
 [7:12] Therefore the children of Israel could not stand before their enemies, but turned their backs before their enemies, because they were accursed: neither will I be with you any more, except you destroy the accursed from among you.
-[7:13] Up, sanctify the people, and say, Sanctify yourselves against to morrow: for thus saith the LORD God of Israel, There is an accursed thing in the midst of you, O Israel: you canst not stand before your enemies, until you take away the accursed thing from among you.
+[7:13] Up, sanctify the people, and say, Sanctify yourselves against to morrow: for thus says the LORD God of Israel, There is an accursed thing in the midst of you, O Israel: you canst not stand before your enemies, until you take away the accursed thing from among you.
 [7:14] In the morning therefore you shall be brought according to your tribes: and it shall be, that the tribe which the LORD taketh shall come according to the families thereof; and the family which the LORD shall take shall come by households; and the household which the LORD shall take shall come man by man.
 [7:15] And it shall be, that he that is taken with the accursed thing shall be burnt with fire, he and all that he hath: because he hath transgressed the covenant of the LORD, and because he hath wrought folly in Israel.
 [7:16] So Joshua rose up early in the morning, and brought Israel by their tribes; and the tribe of Judah was taken:
@@ -589,7 +589,7 @@ Joshua
 [22:13] And the children of Israel sent unto the children of Reuben, and to the children of Gad, and to the half tribe of Manasseh, into the land of Gilead, Phinehas the son of Eleazar the priest,
 [22:14] And with him ten princes, of each chief house a prince throughout all the tribes of Israel; and each one was an head of the house of their fathers among the thousands of Israel.
 [22:15] And they came unto the children of Reuben, and to the children of Gad, and to the half tribe of Manasseh, unto the land of Gilead, and they spake with them, saying,
-[22:16] Thus saith the whole congregation of the LORD, What trespass is this that you have committed against the God of Israel, to turn away this day from following the LORD, in that you have builded you an altar, that you might rebel this day against the LORD?
+[22:16] Thus says the whole congregation of the LORD, What trespass is this that you have committed against the God of Israel, to turn away this day from following the LORD, in that you have builded you an altar, that you might rebel this day against the LORD?
 [22:17] Is the iniquity of Peor too little for us, from which we are not cleansed until this day, although there was a plague in the congregation of the LORD,
 [22:18] But that you must turn away this day from following the LORD? and it will be, seeing you rebel to day against the LORD, that to morrow he will be wroth with the whole congregation of Israel.
 [22:19] Notwithstanding, if the land of your possession be unclean, then pass you over unto the land of the possession of the LORD, wherein the LORD's tabernacle dwelleth, and take possession among us: but rebel not against the LORD, nor rebel against us, in building you an altar beside the altar of the LORD our God.
@@ -625,7 +625,7 @@ Joshua
 [23:15] Therefore it shall come to pass, that as all good things are come upon you, which the LORD your God promised you; so shall the LORD bring upon you all evil things, until he have destroyed you from off this good land which the LORD your God hath given you.
 [23:16] When you have transgressed the covenant of the LORD your God, which he commanded you, and have gone and served other gods, and bowed yourselves to them; then shall the anger of the LORD be kindled against you, and you shall perish quickly from off the good land which he hath given unto you.
 [24:1] And Joshua gathered all the tribes of Israel to Shechem, and called for the elders of Israel, and for their heads, and for their judges, and for their officers; and they presented themselves before God.
-[24:2] And Joshua said unto all the people, Thus saith the LORD God of Israel, Your fathers dwelt on the other side of the flood in old time, even Terah, the father of Abraham, and the father of Nachor: and they served other gods.
+[24:2] And Joshua said unto all the people, Thus says the LORD God of Israel, Your fathers dwelt on the other side of the flood in old time, even Terah, the father of Abraham, and the father of Nachor: and they served other gods.
 [24:3] And I took your father Abraham from the other side of the flood, and led him throughout all the land of Canaan, and multiplied his seed, and gave him Isaac.
 [24:4] And I gave unto Isaac Jacob and Esau: and I gave unto Esau mount Seir, to possess it; but Jacob and his children went down into Egypt.
 [24:5] I sent Moses also and Aaron, and I plagued Egypt, according to that which I did among them: and afterward I brought you out.
