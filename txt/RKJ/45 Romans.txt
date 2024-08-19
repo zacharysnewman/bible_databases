@@ -31,7 +31,7 @@ Romans
 [1:30] Backbiters, haters of God, despiteful, proud, boasters, inventors of evil things, disobedient to parents,
 [1:31] Without understanding, covenantbreakers, without natural affection, implacable, unmerciful:
 [1:32] Who knowing the judgment of God, that they which commit such things are worthy of death, not only do the same, but have pleasure in them that do them.
-[2:1] Therefore you art inexcusable, O man, whosoever you art that judgest: for wherein you judgest another, you condemnest thyself; for you that judgest do the same things.
+[2:1] Therefore you art inexcusable, O man, whoever you art that judgest: for wherein you judgest another, you condemnest thyself; for you that judgest do the same things.
 [2:2] But we are sure that the judgment of God is according to truth against them which commit such things.
 [2:3] And thinkest you this, O man, that judgest them which do such things, and do the same, that you shalt escape the judgment of God?
 [2:4] Or despisest you the riches of his goodness and forbearance and longsuffering; not knowing that the goodness of God leadeth you to repentance?
@@ -256,7 +256,7 @@ Romans
 [9:30] What shall we say then? That the Gentiles, which followed not after righteousness, have attained to righteousness, even the righteousness which is of faith.
 [9:31] But Israel, which followed after the law of righteousness, hath not attained to the law of righteousness.
 [9:32] Wherefore? Because they sought it not by faith, but as it were by the works of the law. For they stumbled at that stumblingstone;
-[9:33] As it is written, Behold, I lay in Sion a stumblingstone and rock of offence: and whosoever believeth on him shall not be ashamed.
+[9:33] As it is written, Behold, I lay in Sion a stumblingstone and rock of offence: and whoever believeth on him shall not be ashamed.
 [10:1] Brothers, my heart's desire and prayer to God for Israel is, that they might be saved.
 [10:2] For I bear them record that they have a zeal of God, but not according to knowledge.
 [10:3] For they being ignorant of God's righteousness, and going about to establish their own righteousness, have not submitted themselves unto the righteousness of God.
@@ -267,9 +267,9 @@ Romans
 [10:8] But what says it? The word is nigh you, even in your mouth, and in your heart: that is, the word of faith, which we preach;
 [10:9] That if you shalt confess with your mouth the Lord Jesus, and shalt believe in your heart that God hath raised him from the dead, you shalt be saved.
 [10:10] For with the heart man believeth unto righteousness; and with the mouth confession is made unto salvation.
-[10:11] For the scripture says, Whosoever believeth on him shall not be ashamed.
+[10:11] For the scripture says, Whoever believeth on him shall not be ashamed.
 [10:12] For there is no difference between the Jew and the Greek: for the same Lord over all is rich unto all that call upon him.
-[10:13] For whosoever shall call upon the name of the Lord shall be saved.
+[10:13] For whoever shall call upon the name of the Lord shall be saved.
 [10:14] How then shall they call on him in whom they have not believed? and how shall they believe in him of whom they have not heard? and how shall they hear without a preacher?
 [10:15] And how shall they preach, except they be sent? as it is written, How beautiful are the feet of them that preach the gospel of peace, and bring glad tidings of good things!
 [10:16] But they have not all obeyed the gospel. For Esaias says, Lord, who hath believed our report?
@@ -336,7 +336,7 @@ Romans
 [12:20] Therefore if your enemy hunger, feed him; if he thirst, give him drink: for in so doing you shalt heap coals of fire on his head.
 [12:21] Be not overcome of evil, but overcome evil with good.
 [13:1] Let every soul be subject unto the higher powers. For there is no power but of God: the powers that be are ordained of God.
-[13:2] Whosoever therefore resisteth the power, resisteth the ordinance of God: and they that resist shall receive to themselves damnation.
+[13:2] Whoever therefore resisteth the power, resisteth the ordinance of God: and they that resist shall receive to themselves damnation.
 [13:3] For rulers are not a terror to good works, but to the evil. Will you then not be afraid of the power? do that which is good, and you shalt have praise of the same:
 [13:4] For he is the minister of God to you for good. But if you do that which is evil, be afraid; for he beareth not the sword in vain: for he is the minister of God, a revenger to execute wrath upon him that doeth evil.
 [13:5] Wherefore you must needs be subject, not only for wrath, but also for conscience sake.

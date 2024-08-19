@@ -157,7 +157,7 @@ Leviticus
 [7:22] And the LORD spake unto Moses, saying,
 [7:23] Speak unto the children of Israel, saying, You shall eat no manner of fat, of ox, or of sheep, or of goat.
 [7:24] And the fat of the beast that dieth of itself, and the fat of that which is torn with beasts, may be used in any other use: but you shall in no wise eat of it.
-[7:25] For whosoever eateth the fat of the beast, of which men offer an offering made by fire unto the LORD, even the soul that eateth it shall be cut off from his people.
+[7:25] For whoever eateth the fat of the beast, of which men offer an offering made by fire unto the LORD, even the soul that eateth it shall be cut off from his people.
 [7:26] Moreover you shall eat no manner of blood, whether it be of fowl or of beast, in any of your dwellings.
 [7:27] Whatsoever soul it be that eateth any manner of blood, even that soul shall be cut off from his people.
 [7:28] And the LORD spake unto Moses, saying,
@@ -274,14 +274,14 @@ Leviticus
 [11:21] Yet these may you eat of every flying creeping thing that goeth upon all four, which have legs above their feet, to leap withal upon the earth;
 [11:22] Even these of them you may eat; the locust after his kind, and the bald locust after his kind, and the beetle after his kind, and the grasshopper after his kind.
 [11:23] But all other flying creeping things, which have four feet, shall be an abomination unto you.
-[11:24] And for these you shall be unclean: whosoever toucheth the carcass of them shall be unclean until the even.
-[11:25] And whosoever beareth ought of the carcass of them shall wash his clothes, and be unclean until the even.
+[11:24] And for these you shall be unclean: whoever toucheth the carcass of them shall be unclean until the even.
+[11:25] And whoever beareth ought of the carcass of them shall wash his clothes, and be unclean until the even.
 [11:26] The carcasses of every beast which divideth the hoof, and is not cloven-footed, nor cheweth the cud, are unclean unto you: every one that toucheth them shall be unclean.
 [11:27] And whatsoever goeth upon his paws, among all manner of beasts that go on all four, those are unclean unto you: whoso toucheth their carcass shall be unclean until the even.
 [11:28] And he that beareth the carcass of them shall wash his clothes, and be unclean until the even: they are unclean unto you.
 [11:29] These also shall be unclean unto you among the creeping things that creep upon the earth; the weasel, and the mouse, and the tortoise after his kind,
 [11:30] And the ferret, and the chameleon, and the lizard, and the snail, and the mole.
-[11:31] These are unclean to you among all that creep: whosoever doth touch them, when they be dead, shall be unclean until the even.
+[11:31] These are unclean to you among all that creep: whoever doth touch them, when they be dead, shall be unclean until the even.
 [11:32] And upon whatsoever any of them, when they are dead, doth fall, it shall be unclean; whether it be any vessel of wood, or raiment, or skin, or sack, whatsoever vessel it be, wherein any work is done, it must be put into water, and it shall be unclean until the even; so it shall be cleansed.
 [11:33] And every earthen vessel, whereinto any of them falleth, whatsoever is in it shall be unclean; and you shall break it.
 [11:34] Of all meat which may be eaten, that on which such water cometh shall be unclean: and all drink that may be drunk in every such vessel shall be unclean.
@@ -426,12 +426,12 @@ Leviticus
 [15:2] Speak unto the children of Israel, and say unto them, When any man hath a running issue out of his flesh, because of his issue he is unclean.
 [15:3] And this shall be his uncleanness in his issue: whether his flesh run with his issue, or his flesh be stopped from his issue, it is his uncleanness.
 [15:4] Every bed, whereon he lieth that hath the issue, is unclean: and every thing, whereon he sitteth, shall be unclean.
-[15:5] And whosoever toucheth his bed shall wash his clothes, and bathe himself in water, and be unclean until the even.
+[15:5] And whoever toucheth his bed shall wash his clothes, and bathe himself in water, and be unclean until the even.
 [15:6] And he that sitteth on any thing whereon he sat that hath the issue shall wash his clothes, and bathe himself in water, and be unclean until the even.
 [15:7] And he that toucheth the flesh of him that hath the issue shall wash his clothes, and bathe himself in water, and be unclean until the even.
 [15:8] And if he that hath the issue spit upon him that is clean; then he shall wash his clothes, and bathe himself in water, and be unclean until the even.
 [15:9] And what saddle soever he rideth upon that hath the issue shall be unclean.
-[15:10] And whosoever toucheth any thing that was under him shall be unclean until the even: and he that beareth any of those things shall wash his clothes, and bathe himself in water, and be unclean until the even.
+[15:10] And whoever toucheth any thing that was under him shall be unclean until the even: and he that beareth any of those things shall wash his clothes, and bathe himself in water, and be unclean until the even.
 [15:11] And whomsoever he toucheth that hath the issue, and hath not rinsed his hands in water, he shall wash his clothes, and bathe himself in water, and be unclean until the even.
 [15:12] And the vessel of earth, that he toucheth which hath the issue, shall be broken: and every vessel of wood shall be rinsed in water.
 [15:13] And when he that hath an issue is cleansed of his issue; then he shall number to himself seven days for his cleansing, and wash his clothes, and bathe his flesh in running water, and shall be clean.
@@ -440,15 +440,15 @@ Leviticus
 [15:16] And if any man's seed of copulation go out from him, then he shall wash all his flesh in water, and be unclean until the even.
 [15:17] And every garment, and every skin, whereon is the seed of copulation, shall be washed with water, and be unclean until the even.
 [15:18] The woman also with whom man shall lie with seed of copulation, they shall both bathe themselves in water, and be unclean until the even.
-[15:19] And if a woman have an issue, and her issue in her flesh be blood, she shall be put apart seven days: and whosoever toucheth her shall be unclean until the even.
+[15:19] And if a woman have an issue, and her issue in her flesh be blood, she shall be put apart seven days: and whoever toucheth her shall be unclean until the even.
 [15:20] And every thing that she lieth upon in her separation shall be unclean: every thing also that she sitteth upon shall be unclean.
-[15:21] And whosoever toucheth her bed shall wash his clothes, and bathe himself in water, and be unclean until the even.
-[15:22] And whosoever toucheth any thing that she sat upon shall wash his clothes, and bathe himself in water, and be unclean until the even.
+[15:21] And whoever toucheth her bed shall wash his clothes, and bathe himself in water, and be unclean until the even.
+[15:22] And whoever toucheth any thing that she sat upon shall wash his clothes, and bathe himself in water, and be unclean until the even.
 [15:23] And if it be on her bed, or on any thing whereon she sitteth, when he toucheth it, he shall be unclean until the even.
 [15:24] And if any man lie with her at all, and her flowers be upon him, he shall be unclean seven days; and all the bed whereon he lieth shall be unclean.
 [15:25] And if a woman have an issue of her blood many days out of the time of her separation, or if it run beyond the time of her separation; all the days of the issue of her uncleanness shall be as the days of her separation: she shall be unclean.
 [15:26] Every bed whereon she lieth all the days of her issue shall be unto her as the bed of her separation: and whatsoever she sitteth upon shall be unclean, as the uncleanness of her separation.
-[15:27] And whosoever toucheth those things shall be unclean, and shall wash his clothes, and bathe himself in water, and be unclean until the even.
+[15:27] And whoever toucheth those things shall be unclean, and shall wash his clothes, and bathe himself in water, and be unclean until the even.
 [15:28] But if she be cleansed of her issue, then she shall number to herself seven days, and after that she shall be clean.
 [15:29] And on the eighth day she shall take unto her two turtles, or two young pigeons, and bring them unto the priest, to the door of the tabernacle of the congregation.
 [15:30] And the priest shall offer the one for a sin offering, and the other for a burnt offering; and the priest shall make an atonement for her before the LORD for the issue of her uncleanness.
@@ -502,7 +502,7 @@ Leviticus
 [17:11] For the life of the flesh is in the blood: and I have given it to you upon the altar to make an atonement for your souls: for it is the blood that maketh an atonement for the soul.
 [17:12] Therefore I said unto the children of Israel, No soul of you shall eat blood, neither shall any stranger that sojourneth among you eat blood.
 [17:13] And whatsoever man there be of the children of Israel, or of the strangers that sojourn among you, which hunteth and catcheth any beast or fowl that may be eaten; he shall even pour out the blood thereof, and cover it with dust.
-[17:14] For it is the life of all flesh; the blood of it is for the life thereof: therefore I said unto the children of Israel, You shall eat the blood of no manner of flesh: for the life of all flesh is the blood thereof: whosoever eateth it shall be cut off.
+[17:14] For it is the life of all flesh; the blood of it is for the life thereof: therefore I said unto the children of Israel, You shall eat the blood of no manner of flesh: for the life of all flesh is the blood thereof: whoever eateth it shall be cut off.
 [17:15] And every soul that eateth that which died of itself, or that which was torn with beasts, whether it be one of your own country, or a stranger, he shall both wash his clothes, and bathe himself in water, and be unclean until the even: then shall he be clean.
 [17:16] But if he wash them not, nor bathe his flesh; then he shall bear his iniquity.
 [18:1] And the LORD spake unto Moses, saying,
@@ -533,7 +533,7 @@ Leviticus
 [18:26] You shall therefore keep my statutes and my judgments, and shall not commit any of these abominations; neither any of your own nation, nor any stranger that sojourneth among you:
 [18:27] (For all these abominations have the men of the land done, which were before you, and the land is defiled;)
 [18:28] That the land spue not you out also, when you defile it, as it spued out the nations that were before you.
-[18:29] For whosoever shall commit any of these abominations, even the souls that commit them shall be cut off from among their people.
+[18:29] For whoever shall commit any of these abominations, even the souls that commit them shall be cut off from among their people.
 [18:30] Therefore shall you keep mine ordinance, that you commit not any one of these abominable customs, which were committed before you, and that you defile not yourselves therein: I am the LORD your God.
 [19:1] And the LORD spake unto Moses, saying,
 [19:2] Speak unto all the congregation of the children of Israel, and say unto them, You shall be holy: for I the LORD your God am holy.
@@ -554,7 +554,7 @@ Leviticus
 [19:17] You shalt not hate your brother in your heart: you shalt in any wise rebuke your neighbor, and not suffer sin upon him.
 [19:18] You shalt not avenge, nor bear any grudge against the children of your people, but you shalt love your neighbor as thyself: I am the LORD.
 [19:19] You shall keep my statutes. You shalt not let your cattle gender with a diverse kind: you shalt not sow your field with mingled seed: neither shall a garment mingled of linen and woolen come upon you.
-[19:20] And whosoever lieth carnally with a woman, that is a bondmaid, betrothed to an husband, and not at all redeemed, nor freedom given her; she shall be scourged; they shall not be put to death, because she was not free.
+[19:20] And whoever lieth carnally with a woman, that is a bondmaid, betrothed to an husband, and not at all redeemed, nor freedom given her; she shall be scourged; they shall not be put to death, because she was not free.
 [19:21] And he shall bring his trespass offering unto the LORD, unto the door of the tabernacle of the congregation, even a ram for a trespass offering.
 [19:22] And the priest shall make an atonement for him with the ram of the trespass offering before the LORD for his sin which he hath done: and the sin which he hath done shall be forgiven him.
 [19:23] And when you shall come into the land, and shall have planted all manner of trees for food, then you shall count the fruit thereof as uncircumcised: three years shall it be as uncircumcised unto you: it shall not be eaten of.
@@ -573,7 +573,7 @@ Leviticus
 [19:36] Just balances, just weights, a just ephah, and a just hin, shall you have: I am the LORD your God, which brought you out of the land of Egypt.
 [19:37] Therefore shall you observe all my statutes, and all my judgments, and do them: I am the LORD.
 [20:1] And the LORD spake unto Moses, saying,
-[20:2] Again, you shalt say to the children of Israel, Whosoever he be of the children of Israel, or of the strangers that sojourn in Israel, that giveth any of his seed unto Molech; he shall surely be put to death: the people of the land shall stone him with stones.
+[20:2] Again, you shalt say to the children of Israel, Whoever he be of the children of Israel, or of the strangers that sojourn in Israel, that giveth any of his seed unto Molech; he shall surely be put to death: the people of the land shall stone him with stones.
 [20:3] And I will set my face against that man, and will cut him off from among his people; because he hath given of his seed unto Molech, to defile my sanctuary, and to profane my holy name.
 [20:4] And if the people of the land do any ways hide their eyes from the man, when he giveth of his seed unto Molech, and kill him not:
 [20:5] Then I will set my face against that man, and against his family, and will cut him off, and all that go a whoring after him, to commit whoredom with Molech, from among their people.
@@ -615,7 +615,7 @@ Leviticus
 [21:14] A widow, or a divorced woman, or profane, or an harlot, these shall he not take: but he shall take a virgin of his own people to wife.
 [21:15] Neither shall he profane his seed among his people: for I the LORD do sanctify him.
 [21:16] And the LORD spake unto Moses, saying,
-[21:17] Speak unto Aaron, saying, Whosoever he be of your seed in their generations that hath any blemish, let him not approach to offer the bread of his God.
+[21:17] Speak unto Aaron, saying, Whoever he be of your seed in their generations that hath any blemish, let him not approach to offer the bread of his God.
 [21:18] For whatsoever man he be that hath a blemish, he shall not approach: a blind man, or a lame, or he that hath a flat nose, or any thing superfluous,
 [21:19] Or a man that is broken-footed, or broken-handed,
 [21:20] Or crookbacked, or a dwarf, or that hath a blemish in his eye, or be scurvy, or scabbed, or hath his stones broken;
@@ -625,9 +625,9 @@ Leviticus
 [21:24] And Moses told it unto Aaron, and to his sons, and unto all the children of Israel.
 [22:1] And the LORD spake unto Moses, saying,
 [22:2] Speak unto Aaron and to his sons, that they separate themselves from the holy things of the children of Israel, and that they profane not my holy name in those things which they hallow unto me: I am the LORD.
-[22:3] Say unto them, Whosoever he be of all your seed among your generations, that goeth unto the holy things, which the children of Israel hallow unto the LORD, having his uncleanness upon him, that soul shall be cut off from my presence: I am the LORD.
+[22:3] Say unto them, Whoever he be of all your seed among your generations, that goeth unto the holy things, which the children of Israel hallow unto the LORD, having his uncleanness upon him, that soul shall be cut off from my presence: I am the LORD.
 [22:4] What man soever of the seed of Aaron is a leper, or hath a running issue; he shall not eat of the holy things, until he be clean. And whoso toucheth any thing that is unclean by the dead, or a man whose seed goeth from him;
-[22:5] Or whosoever toucheth any creeping thing, whereby he may be made unclean, or a man of whom he may take uncleanness, whatsoever uncleanness he hath;
+[22:5] Or whoever toucheth any creeping thing, whereby he may be made unclean, or a man of whom he may take uncleanness, whatsoever uncleanness he hath;
 [22:6] The soul which hath touched any such shall be unclean until even, and shall not eat of the holy things, unless he wash his flesh with water.
 [22:7] And when the sun is down, he shall be clean, and shall afterward eat of the holy things; because it is his food.
 [22:8] That which dieth of itself, or is torn with beasts, he shall not eat to defile himself therewith; I am the LORD.
@@ -643,7 +643,7 @@ Leviticus
 [22:18] Speak unto Aaron, and to his sons, and unto all the children of Israel, and say unto them, Whatsoever he be of the house of Israel, or of the strangers in Israel, that will offer his oblation for all his vows, and for all his freewill offerings, which they will offer unto the LORD for a burnt offering;
 [22:19] You shall offer at your own will a male without blemish, of the beeves, of the sheep, or of the goats.
 [22:20] But whatsoever hath a blemish, that shall you not offer: for it shall not be acceptable for you.
-[22:21] And whosoever offereth a sacrifice of peace offerings unto the LORD to accomplish his vow, or a freewill offering in beeves or sheep, it shall be perfect to be accepted; there shall be no blemish therein.
+[22:21] And whoever offereth a sacrifice of peace offerings unto the LORD to accomplish his vow, or a freewill offering in beeves or sheep, it shall be perfect to be accepted; there shall be no blemish therein.
 [22:22] Blind, or broken, or maimed, or having a wen, or scurvy, or scabbed, you shall not offer these unto the LORD, nor make an offering by fire of them upon the altar unto the LORD.
 [22:23] Either a bullock or a lamb that hath any thing superfluous or lacking in his parts, that may you offer for a freewill offering; but for a vow it shall not be accepted.
 [22:24] You shall not offer unto the LORD that which is bruised, or crushed, or broken, or cut; neither shall you make any offering thereof in your land.
@@ -714,7 +714,7 @@ Leviticus
 [24:12] And they put him in ward, that the mind of the LORD might be showed them.
 [24:13] And the LORD spake unto Moses, saying,
 [24:14] Bring forth him that hath cursed without the camp; and let all that heard him lay their hands upon his head, and let all the congregation stone him.
-[24:15] And you shalt speak unto the children of Israel, saying, Whosoever curseth his God shall bear his sin.
+[24:15] And you shalt speak unto the children of Israel, saying, Whoever curseth his God shall bear his sin.
 [24:16] And he that blasphemeth the name of the LORD, he shall surely be put to death, and all the congregation shall certainly stone him: as well the stranger, as he that is born in the land, when he blasphemeth the name of the Lord, shall be put to death.
 [24:17] And he that killeth any man shall surely be put to death.
 [24:18] And he that killeth a beast shall make it good; beast for beast.

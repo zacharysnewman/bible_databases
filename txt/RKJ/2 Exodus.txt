@@ -297,11 +297,11 @@ Exodus
 [12:12] For I will pass through the land of Egypt this night, and will smite all the firstborn in the land of Egypt, both man and beast; and against all the gods of Egypt I will execute judgment: I am the LORD.
 [12:13] And the blood shall be to you for a token upon the houses where you are: and when I see the blood, I will pass over you, and the plague shall not be upon you to destroy you, when I smite the land of Egypt.
 [12:14] And this day shall be unto you for a memorial; and you shall keep it a feast to the LORD throughout your generations; you shall keep it a feast by an ordinance for ever.
-[12:15] Seven days shall you eat unleavened bread; even the first day you shall put away leaven out of your houses: for whosoever eateth leavened bread from the first day until the seventh day, that soul shall be cut off from Israel.
+[12:15] Seven days shall you eat unleavened bread; even the first day you shall put away leaven out of your houses: for whoever eateth leavened bread from the first day until the seventh day, that soul shall be cut off from Israel.
 [12:16] And in the first day there shall be an holy convocation, and in the seventh day there shall be an holy convocation to you; no manner of work shall be done in them, save that which every man must eat, that only may be done of you.
 [12:17] And you shall observe the feast of unleavened bread; for in this selfsame day have I brought your armies out of the land of Egypt: therefore shall you observe this day in your generations by an ordinance for ever.
 [12:18] In the first month, on the fourteenth day of the month at even, you shall eat unleavened bread, until the one and twentieth day of the month at even.
-[12:19] Seven days shall there be no leaven found in your houses: for whosoever eateth that which is leavened, even that soul shall be cut off from the congregation of Israel, whether he be a stranger, or born in the land.
+[12:19] Seven days shall there be no leaven found in your houses: for whoever eateth that which is leavened, even that soul shall be cut off from the congregation of Israel, whether he be a stranger, or born in the land.
 [12:20] You shall eat nothing leavened; in all your habitations shall you eat unleavened bread.
 [12:21] Then Moses called for all the elders of Israel, and said unto them, Draw out and take you a lamb according to your families, and kill the passover.
 [12:22] And you shall take a bunch of hyssop, and dip it in the blood that is in the basin, and strike the lintel and the two side posts with the blood that is in the basin; and none of you shall go out at the door of his house until the morning.
@@ -504,7 +504,7 @@ Exodus
 [19:9] And the LORD said unto Moses, Lo, I come unto you in a thick cloud, that the people may hear when I speak with you, and believe you for ever. And Moses told the words of the people unto the LORD.
 [19:10] And the LORD said unto Moses, Go unto the people, and sanctify them to day and to morrow, and let them wash their clothes,
 [19:11] And be ready against the third day: for the third day the LORD will come down in the sight of all the people upon mount Sinai.
-[19:12] And you shalt set bounds unto the people round about, saying, Take heed to yourselves, that you go not up into the mount, or touch the border of it: whosoever toucheth the mount shall be surely put to death:
+[19:12] And you shalt set bounds unto the people round about, saying, Take heed to yourselves, that you go not up into the mount, or touch the border of it: whoever toucheth the mount shall be surely put to death:
 [19:13] There shall not an hand touch it, but he shall surely be stoned, or shot through; whether it be beast or man, it shall not live: when the trumpet soundeth long, they shall come up to the mount.
 [19:14] And Moses went down from the mount unto the people, and sanctified the people; and they washed their clothes.
 [19:15] And he said unto the people, Be ready against the third day: come not at your wives.
@@ -598,7 +598,7 @@ Exodus
 [22:16] And if a man entice a maid that is not betrothed, and lie with her, he shall surely endow her to be his wife.
 [22:17] If her father utterly refuse to give her unto him, he shall pay money according to the dowry of virgins.
 [22:18] You shalt not suffer a witch to live.
-[22:19] Whosoever lieth with a beast shall surely be put to death.
+[22:19] Whoever lieth with a beast shall surely be put to death.
 [22:20] He that sacrificeth unto any god, save unto the LORD only, he shall be utterly destroyed.
 [22:21] You shalt neither vex a stranger, nor oppress him: for you were strangers in the land of Egypt.
 [22:22] You shall not afflict any widow, or fatherless child.
@@ -881,12 +881,12 @@ Exodus
 [30:30] And you shalt anoint Aaron and his sons, and consecrate them, that they may minister unto me in the priest's office.
 [30:31] And you shalt speak unto the children of Israel, saying, This shall be an holy anointing oil unto me throughout your generations.
 [30:32] Upon man's flesh shall it not be poured, neither shall you make any other like it, after the composition of it: it is holy, and it shall be holy unto you.
-[30:33] Whosoever compoundeth any like it, or whosoever putteth any of it upon a stranger, shall even be cut off from his people.
+[30:33] Whoever compoundeth any like it, or whoever putteth any of it upon a stranger, shall even be cut off from his people.
 [30:34] And the LORD said unto Moses, Take unto you sweet spices, stacte, and onycha, and galbanum; these sweet spices with pure frankincense: of each shall there be a like weight:
 [30:35] And you shalt make it a perfume, a confection after the art of the apothecary, tempered together, pure and holy:
 [30:36] And you shalt beat some of it very small, and put of it before the testimony in the tabernacle of the congregation, where I will meet with you: it shall be unto you most holy.
 [30:37] And as for the perfume which you shalt make, you shall not make to yourselves according to the composition thereof: it shall be unto you holy for the LORD.
-[30:38] Whosoever shall make like unto that, to smell thereto, shall even be cut off from his people.
+[30:38] Whoever shall make like unto that, to smell thereto, shall even be cut off from his people.
 [31:1] And the LORD spake unto Moses, saying,
 [31:2] See, I have called by name Bezaleel the son of Uri, the son of Hur, of the tribe of Judah:
 [31:3] And I have filled him with the spirit of God, in wisdom, and in understanding, and in knowledge, and in all manner of workmanship,
@@ -900,8 +900,8 @@ Exodus
 [31:11] And the anointing oil, and sweet incense for the holy place: according to all that I have commanded you shall they do.
 [31:12] And the LORD spake unto Moses, saying,
 [31:13] Speak you also unto the children of Israel, saying, Verily my sabbaths you shall keep: for it is a sign between me and you throughout your generations; that you may know that I am the LORD that doth sanctify you.
-[31:14] You shall keep the sabbath therefore; for it is holy unto you: every one that defileth it shall surely be put to death: for whosoever doeth any work therein, that soul shall be cut off from among his people.
-[31:15] Six days may work be done; but in the seventh is the sabbath of rest, holy to the LORD: whosoever doeth any work in the sabbath day, he shall surely be put to death.
+[31:14] You shall keep the sabbath therefore; for it is holy unto you: every one that defileth it shall surely be put to death: for whoever doeth any work therein, that soul shall be cut off from among his people.
+[31:15] Six days may work be done; but in the seventh is the sabbath of rest, holy to the LORD: whoever doeth any work in the sabbath day, he shall surely be put to death.
 [31:16] Wherefore the children of Israel shall keep the sabbath, to observe the sabbath throughout their generations, for a perpetual covenant.
 [31:17] It is a sign between me and the children of Israel for ever: for in six days the LORD made heaven and earth, and on the seventh day he rested, and was refreshed.
 [31:18] And he gave unto Moses, when he had made an end of communing with him upon mount Sinai, two tables of testimony, tables of stone, written with the finger of God.
@@ -928,7 +928,7 @@ Exodus
 [32:21] And Moses said unto Aaron, What did this people unto you, that you have brought so great a sin upon them?
 [32:22] And Aaron said, Let not the anger of my lord wax hot: you knowest the people, that they are set on mischief.
 [32:23] For they said unto me, Make us gods, which shall go before us: for as for this Moses, the man that brought us up out of the land of Egypt, we wot not what is become of him.
-[32:24] And I said unto them, Whosoever hath any gold, let them break it off. So they gave it me: then I cast it into the fire, and there came out this calf.
+[32:24] And I said unto them, Whoever hath any gold, let them break it off. So they gave it me: then I cast it into the fire, and there came out this calf.
 [32:25] And when Moses saw that the people were naked; (for Aaron had made them naked unto their shame among their enemies:)
 [32:26] Then Moses stood in the gate of the camp, and said, Who is on the LORD's side? let him come unto me. And all the sons of Levi gathered themselves together unto him.
 [32:27] And he said unto them, Thus says the LORD God of Israel, Put every man his sword by his side, and go in and out from gate to gate throughout the camp, and slay every man his brother, and every man his companion, and every man his neighbor.
@@ -937,7 +937,7 @@ Exodus
 [32:30] And it came to pass on the morrow, that Moses said unto the people, You have sinned a great sin: and now I will go up unto the LORD; peradventure I shall make an atonement for your sin.
 [32:31] And Moses returned unto the LORD, and said, Oh, this people have sinned a great sin, and have made them gods of gold.
 [32:32] Yet now, if you will forgive their sin--; and if not, blot me, I pray you, out of your book which you have written.
-[32:33] And the LORD said unto Moses, Whosoever hath sinned against me, him will I blot out of my book.
+[32:33] And the LORD said unto Moses, Whoever hath sinned against me, him will I blot out of my book.
 [32:34] Therefore now go, lead the people unto the place of which I have spoken unto you: behold, mine Angel shall go before you: nevertheless in the day when I visit I will visit their sin upon them.
 [32:35] And the LORD plagued the people, because they made the calf, which Aaron made.
 [33:1] And the LORD said unto Moses, Depart, and go up hence, you and the people which you have brought up out of the land of Egypt, unto the land which I sware unto Abraham, to Isaac, and to Jacob, saying, Unto your seed will I give it:
@@ -999,10 +999,10 @@ Exodus
 [34:34] But when Moses went in before the LORD to speak with him, he took the vail off, until he came out. And he came out, and spake unto the children of Israel that which he was commanded.
 [34:35] And the children of Israel saw the face of Moses, that the skin of Moses' face shone: and Moses put the vail upon his face again, until he went in to speak with him.
 [35:1] And Moses gathered all the congregation of the children of Israel together, and said unto them, These are the words which the LORD hath commanded, that you should do them.
-[35:2] Six days shall work be done, but on the seventh day there shall be to you an holy day, a sabbath of rest to the LORD: whosoever doeth work therein shall be put to death.
+[35:2] Six days shall work be done, but on the seventh day there shall be to you an holy day, a sabbath of rest to the LORD: whoever doeth work therein shall be put to death.
 [35:3] You shall kindle no fire throughout your habitations upon the sabbath day.
 [35:4] And Moses spake unto all the congregation of the children of Israel, saying, This is the thing which the LORD commanded, saying,
-[35:5] Take you from among you an offering unto the LORD: whosoever is of a willing heart, let him bring it, an offering of the LORD; gold, and silver, and brass,
+[35:5] Take you from among you an offering unto the LORD: whoever is of a willing heart, let him bring it, an offering of the LORD; gold, and silver, and brass,
 [35:6] And blue, and purple, and scarlet, and fine linen, and goats' hair,
 [35:7] And rams' skins dyed red, and badgers' skins, and shittim wood,
 [35:8] And oil for the light, and spices for anointing oil, and for the sweet incense,

@@ -2,7 +2,7 @@ Ezra
 [1:1] Now in the first year of Cyrus king of Persia, that the word of the LORD by the mouth of Jeremiah might be fulfilled, the LORD stirred up the spirit of Cyrus king of Persia, that he made a proclamation throughout all his kingdom, and put it also in writing, saying,
 [1:2] Thus says Cyrus king of Persia, The LORD God of heaven hath given me all the kingdoms of the earth; and he hath charged me to build him an house at Jerusalem, which is in Judah.
 [1:3] Who is there among you of all his people? his God be with him, and let him go up to Jerusalem, which is in Judah, and build the house of the LORD God of Israel, (he is the God,) which is in Jerusalem.
-[1:4] And whosoever remaineth in any place where he sojourneth, let the men of his place help him with silver, and with gold, and with goods, and with beasts, beside the freewill offering for the house of God that is in Jerusalem.
+[1:4] And whoever remaineth in any place where he sojourneth, let the men of his place help him with silver, and with gold, and with goods, and with beasts, beside the freewill offering for the house of God that is in Jerusalem.
 [1:5] Then rose up the chief of the fathers of Judah and Benjamin, and the priests, and the Levites, with all them whose spirit God had raised, to go up to build the house of the LORD which is in Jerusalem.
 [1:6] And all they that were about them strengthened their hands with vessels of silver, with gold, with goods, and with beasts, and with precious things, beside all that was willingly offered.
 [1:7] Also Cyrus the king brought forth the vessels of the house of the LORD, which Nebuchadnezzar had brought forth out of Jerusalem, and had put them in the house of his gods;
@@ -144,7 +144,7 @@ Ezra
 [6:8] Moreover I make a decree what you shall do to the elders of these Jews for the building of this house of God: that of the king's goods, even of the tribute beyond the river, forthwith expenses be given unto these men, that they be not hindered.
 [6:9] And that which they have need of, both young bullocks, and rams, and lambs, for the burnt offerings of the God of heaven, wheat, salt, wine, and oil, according to the appointment of the priests which are at Jerusalem, let it be given them day by day without fail:
 [6:10] That they may offer sacrifices of sweet savours unto the God of heaven, and pray for the life of the king, and of his sons.
-[6:11] Also I have made a decree, that whosoever shall alter this word, let timber be pulled down from his house, and being set up, let him be hanged thereon; and let his house be made a dunghill for this.
+[6:11] Also I have made a decree, that whoever shall alter this word, let timber be pulled down from his house, and being set up, let him be hanged thereon; and let his house be made a dunghill for this.
 [6:12] And the God that hath caused his name to dwell there destroy all kings and people, that shall put to their hand to alter and to destroy this house of God which is at Jerusalem. I Darius have made a decree; let it be done with speed.
 [6:13] Then Tatnai, governor on this side the river, Shetharboznai, and their companions, according to that which Darius the king had sent, so they did speedily.
 [6:14] And the elders of the Jews builded, and they prospered through the prophesying of Haggai the prophet and Zechariah the son of Iddo. And they builded, and finished it, according to the commandment of the God of Israel, and according to the commandment of Cyrus, and Darius, and Artaxerxes king of Persia.
@@ -181,7 +181,7 @@ Ezra
 [7:23] Whatsoever is commanded by the God of heaven, let it be diligently done for the house of the God of heaven: for why should there be wrath against the realm of the king and his sons?
 [7:24] Also we certify you, that touching any of the priests and Levites, singers, porters, Nethinims, or ministers of this house of God, it shall not be lawful to impose toll, tribute, or custom, upon them.
 [7:25] And you, Ezra, after the wisdom of your God, that is in your hand, set magistrates and judges, which may judge all the people that are beyond the river, all such as know the laws of your God; and teach you them that know them not.
-[7:26] And whosoever will not do the law of your God, and the law of the king, let judgment be executed speedily upon him, whether it be unto death, or to banishment, or to confiscation of goods, or to imprisonment.
+[7:26] And whoever will not do the law of your God, and the law of the king, let judgment be executed speedily upon him, whether it be unto death, or to banishment, or to confiscation of goods, or to imprisonment.
 [7:27] Blessed be the LORD God of our fathers, which hath put such a thing as this in the king's heart, to beautify the house of the LORD which is in Jerusalem:
 [7:28] And hath extended mercy unto me before the king, and his counsellors, and before all the king's mighty princes. And I was strengthened as the hand of the LORD my God was upon me, and I gathered together out of Israel chief men to go up with me.
 [8:1] These are now the chief of their fathers, and this is the genealogy of them that went up with me from Babylon, in the reign of Artaxerxes the king.
@@ -242,7 +242,7 @@ Ezra
 [10:5] Then arose Ezra, and made the chief priests, the Levites, and all Israel, to swear that they should do according to this word. And they sware.
 [10:6] Then Ezra rose up from before the house of God, and went into the chamber of Johanan the son of Eliashib: and when he came thither, he did eat no bread, nor drink water: for he mourned because of the transgression of them that had been carried away.
 [10:7] And they made proclamation throughout Judah and Jerusalem unto all the children of the captivity, that they should gather themselves together unto Jerusalem;
-[10:8] And that whosoever would not come within three days, according to the counsel of the princes and the elders, all his substance should be forfeited, and himself separated from the congregation of those that had been carried away.
+[10:8] And that whoever would not come within three days, according to the counsel of the princes and the elders, all his substance should be forfeited, and himself separated from the congregation of those that had been carried away.
 [10:9] Then all the men of Judah and Benjamin gathered themselves together unto Jerusalem within three days. It was the ninth month, on the twentieth day of the month; and all the people sat in the street of the house of God, trembling because of this matter, and for the great rain.
 [10:10] And Ezra the priest stood up, and said unto them, You have transgressed, and have taken strange wives, to increase the trespass of Israel.
 [10:11] Now therefore make confession unto the LORD God of your fathers, and do his pleasure: and separate yourselves from the people of the land, and from the strange wives.

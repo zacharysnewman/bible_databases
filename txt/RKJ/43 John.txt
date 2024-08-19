@@ -89,8 +89,8 @@ John
 [3:12] If I have told you earthly things, and you believe not, how shall you believe, if I tell you of heavenly things?
 [3:13] And no man hath ascended up to heaven, but he that came down from heaven, even the Son of man which is in heaven.
 [3:14] And as Moses lifted up the serpent in the wilderness, even so must the Son of man be lifted up:
-[3:15] That whosoever believeth in him should not perish, but have eternal life.
-[3:16] For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.
+[3:15] That whoever believeth in him should not perish, but have eternal life.
+[3:16] For God so loved the world, that he gave his only begotten Son, that whoever believeth in him should not perish, but have everlasting life.
 [3:17] For God sent not his Son into the world to condemn the world; but that the world through him might be saved.
 [3:18] He that believeth on him is not condemned: but he that believeth not is condemned already, because he hath not believed in the name of the only begotten Son of God.
 [3:19] And this is the condemnation, that light is come into the world, and men loved darkness rather than light, because their deeds were evil.
@@ -123,8 +123,8 @@ John
 [4:10] Jesus answered and said unto her, If you knewest the gift of God, and who it is that says to you, Give me to drink; you wouldest have asked of him, and he would have given you living water.
 [4:11] The woman says unto him, Sir, you have nothing to draw with, and the well is deep: from where then have you that living water?
 [4:12] Art you greater than our father Jacob, which gave us the well, and drank thereof himself, and his children, and his cattle?
-[4:13] Jesus answered and said unto her, Whosoever drinketh of this water shall thirst again:
-[4:14] But whosoever drinketh of the water that I shall give him shall never thirst; but the water that I shall give him shall be in him a well of water springing up into everlasting life.
+[4:13] Jesus answered and said unto her, Whoever drinketh of this water shall thirst again:
+[4:14] But whoever drinketh of the water that I shall give him shall never thirst; but the water that I shall give him shall be in him a well of water springing up into everlasting life.
 [4:15] The woman says unto him, Sir, give me this water, that I thirst not, neither come hither to draw.
 [4:16] Jesus says unto her, Go, call your husband, and come hither.
 [4:17] The woman answered and said, I have no husband. Jesus said unto her, You have well said, I have no husband:
@@ -168,7 +168,7 @@ John
 [5:1] After this there was a feast of the Jews; and Jesus went up to Jerusalem.
 [5:2] Now there is at Jerusalem by the sheep market a pool, which is called in the Hebrew tongue Bethesda, having five porches.
 [5:3] In these lay a great multitude of impotent folk, of blind, halt, withered, waiting for the moving of the water.
-[5:4] For an angel went down at a certain season into the pool, and troubled the water: whosoever then first after the troubling of the water stepped in was made whole of whatsoever disease he had.
+[5:4] For an angel went down at a certain season into the pool, and troubled the water: whoever then first after the troubling of the water stepped in was made whole of whatsoever disease he had.
 [5:5] And a certain man was there, which had an infirmity thirty and eight years.
 [5:6] When Jesus saw him lie, and knew that he had been now a long time in that case, he says unto him, Will you be made whole?
 [5:7] The impotent man answered him, Sir, I have no man, when the water is troubled, to put me into the pool: but while I am coming, another steppeth down before me.
@@ -369,7 +369,7 @@ John
 [8:31] Then said Jesus to those Jews which believed on him, If you continue in my word, then are you my disciples indeed;
 [8:32] And you shall know the truth, and the truth shall make you free.
 [8:33] They answered him, We be Abraham's seed, and were never in bondage to any man: how say you, You shall be made free?
-[8:34] Jesus answered them, Verily, verily, I say unto you, Whosoever committeth sin is the servant of sin.
+[8:34] Jesus answered them, Verily, verily, I say unto you, Whoever committeth sin is the servant of sin.
 [8:35] And the servant abideth not in the house for ever: but the Son abideth ever.
 [8:36] If the Son therefore shall make you free, you shall be free indeed.
 [8:37] I know that you are Abraham's seed; but you seek to kill me, because my word hath no place in you.
@@ -503,7 +503,7 @@ John
 [11:23] Jesus says unto her, Your brother shall rise again.
 [11:24] Martha says unto him, I know that he shall rise again in the resurrection at the last day.
 [11:25] Jesus said unto her, I am the resurrection, and the life: he that believeth in me, though he were dead, yet shall he live:
-[11:26] And whosoever liveth and believeth in me shall never die. Believest you this?
+[11:26] And whoever liveth and believeth in me shall never die. Believest you this?
 [11:27] She says unto him, Yea, Lord: I believe that you art the Christ, the Son of God, which should come into the world.
 [11:28] And when she had so said, she went her way, and called Mary her sister secretly, saying, The Master is come, and calleth for you.
 [11:29] As soon as she heard that, she arose quickly, and came unto him.
@@ -580,7 +580,7 @@ John
 [12:43] For they loved the praise of men more than the praise of God.
 [12:44] Jesus cried and said, He that believeth on me, believeth not on me, but on him that sent me.
 [12:45] And he that seeth me seeth him that sent me.
-[12:46] I am come a light into the world, that whosoever believeth on me should not abide in darkness.
+[12:46] I am come a light into the world, that whoever believeth on me should not abide in darkness.
 [12:47] And if any man hear my words, and believe not, I judge him not: for I came not to judge the world, but to save the world.
 [12:48] He that rejecteth me, and receiveth not my words, hath one that judgeth him: the word that I have spoken, the same shall judge him in the last day.
 [12:49] For I have not spoken of myself; but the Father which sent me, he gave me a commandment, what I should say, and what I should speak.
@@ -682,7 +682,7 @@ John
 [15:26] But when the Comforter is come, whom I will send unto you from the Father, even the Spirit of truth, which proceedeth from the Father, he shall testify of me:
 [15:27] And you also shall bear witness, because you have been with me from the beginning.
 [16:1] These things have I spoken unto you, that you should not be offended.
-[16:2] They shall put you out of the synagogues: yea, the time cometh, that whosoever killeth you will think that he doeth God service.
+[16:2] They shall put you out of the synagogues: yea, the time cometh, that whoever killeth you will think that he doeth God service.
 [16:3] And these things will they do unto you, because they have not known the Father, nor me.
 [16:4] But these things have I told you, that when the time shall come, you may remember that I told you of them. And these things I said not unto you at the beginning, because I was with you.
 [16:5] But now I go my way to him that sent me; and none of you asketh me, Where goest you?
@@ -791,7 +791,7 @@ John
 [19:9] And went again into the judgment hall, and says unto Jesus, Where art you? But Jesus gave him no answer.
 [19:10] Then says Pilate unto him, Speakest you not unto me? knowest you not that I have power to crucify you, and have power to release you?
 [19:11] Jesus answered, You couldest have no power at all against me, except it were given you from above: therefore he that delivered me unto you hath the greater sin.
-[19:12] And from thenceforth Pilate sought to release him: but the Jews cried out, saying, If you let this man go, you art not Caesar's friend: whosoever maketh himself a king speaketh against Caesar.
+[19:12] And from thenceforth Pilate sought to release him: but the Jews cried out, saying, If you let this man go, you art not Caesar's friend: whoever maketh himself a king speaketh against Caesar.
 [19:13] When Pilate therefore heard that saying, he brought Jesus forth, and sat down in the judgment seat in a place that is called the Pavement, but in the Hebrew, Gabbatha.
 [19:14] And it was the preparation of the passover, and about the sixth hour: and he says unto the Jews, Behold your King!
 [19:15] But they cried out, Away with him, away with him, crucify him. Pilate says unto them, Shall I crucify your King? The chief priests answered, We have no king but Caesar.

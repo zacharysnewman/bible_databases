@@ -167,7 +167,7 @@ Proverbs
 [6:26] For by means of a whorish woman a man is brought to a piece of bread: and the adultress will hunt for the precious life.
 [6:27] Can a man take fire in his bosom, and his clothes not be burned?
 [6:28] Can one go upon hot coals, and his feet not be burned?
-[6:29] So he that goeth in to his neighbour's wife; whosoever toucheth her shall not be innocent.
+[6:29] So he that goeth in to his neighbour's wife; whoever toucheth her shall not be innocent.
 [6:30] Men do not despise a thief, if he steal to satisfy his soul when he is hungry;
 [6:31] But if he be found, he shall restore sevenfold; he shall give all the substance of his house.
 [6:32] But whoso committeth adultery with a woman lacketh understanding: he that doeth it destroyeth his own soul.
@@ -553,7 +553,7 @@ Proverbs
 [19:27] Cease, my son, to hear the instruction that causeth to err from the words of knowledge.
 [19:28] An ungodly witness scorneth judgment: and the mouth of the wicked devoureth iniquity.
 [19:29] Judgments are prepared for scorners, and stripes for the back of fools.
-[20:1] Wine is a mocker, strong drink is raging: and whosoever is deceived thereby is not wise.
+[20:1] Wine is a mocker, strong drink is raging: and whoever is deceived thereby is not wise.
 [20:2] The fear of a king is as the roaring of a lion: whoso provoketh him to anger sinneth against his own soul.
 [20:3] It is an honour for a man to cease from strife: but every fool will be meddling.
 [20:4] The sluggard will not plow by reason of the cold; therefore shall he beg in harvest, and have nothing.
@@ -783,7 +783,7 @@ Proverbs
 [27:13] Take his garment that is surety for a stranger, and take a pledge of him for a strange woman.
 [27:14] He that blesseth his friend with a loud voice, rising early in the morning, it shall be counted a curse to him.
 [27:15] A continual dropping in a very rainy day and a contentious woman are alike.
-[27:16] Whosoever hideth her hideth the wind, and the ointment of his right hand, which bewrayeth itself.
+[27:16] Whoever hideth her hideth the wind, and the ointment of his right hand, which bewrayeth itself.
 [27:17] Iron sharpeneth iron; so a man sharpeneth the countenance of his friend.
 [27:18] Whoso keepeth the fig tree shall eat the fruit thereof: so he that waiteth on his master shall be honoured.
 [27:19] As in water face answereth to face, so the heart of man to man.

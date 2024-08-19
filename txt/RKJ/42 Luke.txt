@@ -298,7 +298,7 @@ Luke
 [6:44] For every tree is known by his own fruit. For of thorns men do not gather figs, nor of a bramble bush gather they grapes.
 [6:45] A good man out of the good treasure of his heart bringeth forth that which is good; and an evil man out of the evil treasure of his heart bringeth forth that which is evil: for of the abundance of the heart his mouth speaketh.
 [6:46] And why call you me, Lord, Lord, and do not the things which I say?
-[6:47] Whosoever cometh to me, and heareth my sayings, and doeth them, I will shew you to whom he is like:
+[6:47] Whoever cometh to me, and heareth my sayings, and doeth them, I will shew you to whom he is like:
 [6:48] He is like a man which built an house, and digged deep, and laid the foundation on a rock: and when the flood arose, the stream beat vehemently upon that house, and could not shake it: for it was founded upon a rock.
 [6:49] But he that heareth, and doeth not, is like a man that without a foundation built an house upon the earth; against which the stream did beat vehemently, and immediately it fell; and the ruin of that house was great.
 [7:1] Now when he had ended all his sayings in the audience of the people, he entered into Capernaum.
@@ -323,7 +323,7 @@ Luke
 [7:20] When the men were come unto him, they said, John Baptist hath sent us unto you, saying, Art you he that should come? or look we for another?
 [7:21] And in that same hour he cured many of their infirmities and plagues, and of evil spirits; and unto many that were blind he gave sight.
 [7:22] Then Jesus answering said unto them, Go your way, and tell John what things you have seen and heard; how that the blind see, the lame walk, the lepers are cleansed, the deaf hear, the dead are raised, to the poor the gospel is preached.
-[7:23] And blessed is he, whosoever shall not be offended in me.
+[7:23] And blessed is he, whoever shall not be offended in me.
 [7:24] And when the messengers of John were departed, he began to speak unto the people concerning John, What went you out into the wilderness for to see? A reed shaken with the wind?
 [7:25] But what went you out for to see? A man clothed in soft raiment? Behold, they which are gorgeously apparelled, and live delicately, are in kings' courts.
 [7:26] But what went you out for to see? A prophet? Yea, I say unto you, and much more than a prophet.
@@ -368,7 +368,7 @@ Luke
 [8:15] But that on the good ground are they, which in an honest and good heart, having heard the word, keep it, and bring forth fruit with patience.
 [8:16] No man, when he hath lighted a candle, covereth it with a vessel, or putteth it under a bed; but setteth it on a candlestick, that they which enter in may see the light.
 [8:17] For nothing is secret, that shall not be made manifest; neither any thing hid, that shall not be known and come abroad.
-[8:18] Take heed therefore how you hear: for whosoever hath, to him shall be given; and whosoever hath not, from him shall be taken even that which he seemeth to have.
+[8:18] Take heed therefore how you hear: for whoever hath, to him shall be given; and whoever hath not, from him shall be taken even that which he seemeth to have.
 [8:19] Then came to him his mother and his brothers, and could not come at him for the press.
 [8:20] And it was told him by certain which said, Your mother and your brothers stand without, desiring to see you.
 [8:21] And he answered and said unto them, My mother and my brothers are these which hear the word of God, and do it.
@@ -411,7 +411,7 @@ Luke
 [9:2] And he sent them to preach the kingdom of God, and to heal the sick.
 [9:3] And he said unto them, Take nothing for your journey, neither staves, nor scrip, neither bread, neither money; neither have two coats apiece.
 [9:4] And whatsoever house you enter into, there abide, and thence depart.
-[9:5] And whosoever will not receive you, when you go out of that city, shake off the very dust from your feet for a testimony against them.
+[9:5] And whoever will not receive you, when you go out of that city, shake off the very dust from your feet for a testimony against them.
 [9:6] And they departed, and went through the towns, preaching the gospel, and healing every where.
 [9:7] Now Herod the tetrarch heard of all that was done by him: and he was perplexed, because that it was said of some, that John was risen from the dead;
 [9:8] And of some, that Elias had appeared; and of others, that one of the old prophets was risen again.
@@ -430,9 +430,9 @@ Luke
 [9:21] And he straitly charged them, and commanded them to tell no man that thing;
 [9:22] Saying, The Son of man must suffer many things, and be rejected of the elders and chief priests and scribes, and be slain, and be raised the third day.
 [9:23] And he said to them all, If any man will come after me, let him deny himself, and take up his cross daily, and follow me.
-[9:24] For whosoever will save his life shall lose it: but whosoever will lose his life for my sake, the same shall save it.
+[9:24] For whoever will save his life shall lose it: but whoever will lose his life for my sake, the same shall save it.
 [9:25] For what is a man advantaged, if he gain the whole world, and lose himself, or be cast away?
-[9:26] For whosoever shall be ashamed of me and of my words, of him shall the Son of man be ashamed, when he shall come in his own glory, and in his Father's, and of the holy angels.
+[9:26] For whoever shall be ashamed of me and of my words, of him shall the Son of man be ashamed, when he shall come in his own glory, and in his Father's, and of the holy angels.
 [9:27] But I tell you of a truth, there be some standing here, which shall not taste of death, till they see the kingdom of God.
 [9:28] And it came to pass about an eight days after these sayings, he took Peter and John and James, and went up into a mountain to pray.
 [9:29] And as he prayed, the fashion of his countenance was altered, and his raiment was white and glistering.
@@ -454,7 +454,7 @@ Luke
 [9:45] But they understood not this saying, and it was hid from them, that they perceived it not: and they feared to ask him of that saying.
 [9:46] Then there arose a reasoning among them, which of them should be greatest.
 [9:47] And Jesus, perceiving the thought of their heart, took a child, and set him by him,
-[9:48] And said unto them, Whosoever shall receive this child in my name receiveth me: and whosoever shall receive me receiveth him that sent me: for he that is least among you all, the same shall be great.
+[9:48] And said unto them, Whoever shall receive this child in my name receiveth me: and whoever shall receive me receiveth him that sent me: for he that is least among you all, the same shall be great.
 [9:49] And John answered and said, Master, we saw one casting out devils in your name; and we forbad him, because he followeth not with us.
 [9:50] And Jesus said unto him, Forbid him not: for he that is not against us is for us.
 [9:51] And it came to pass, when the time was come that he should be received up, he stedfastly set his face to go to Jerusalem,
@@ -572,9 +572,9 @@ Luke
 [12:5] But I will forewarn you whom you shall fear: Fear him, which after he hath killed hath power to cast into hell; yea, I say unto you, Fear him.
 [12:6] Are not five sparrows sold for two farthings, and not one of them is forgotten before God?
 [12:7] But even the very hairs of your head are all numbered. Fear not therefore: you are of more value than many sparrows.
-[12:8] Also I say unto you, Whosoever shall confess me before men, him shall the Son of man also confess before the angels of God:
+[12:8] Also I say unto you, Whoever shall confess me before men, him shall the Son of man also confess before the angels of God:
 [12:9] But he that denieth me before men shall be denied before the angels of God.
-[12:10] And whosoever shall speak a word against the Son of man, it shall be forgiven him: but unto him that blasphemeth against the Holy Ghost it shall not be forgiven.
+[12:10] And whoever shall speak a word against the Son of man, it shall be forgiven him: but unto him that blasphemeth against the Holy Ghost it shall not be forgiven.
 [12:11] And when they bring you unto the synagogues, and unto magistrates, and powers, take you no thought how or what thing you shall answer, or what you shall say:
 [12:12] For the Holy Ghost shall teach you in the same hour what you ought to say.
 [12:13] And one of the company said unto him, Master, speak to my brother, that he divide the inheritance with me.
@@ -669,7 +669,7 @@ Luke
 [14:8] When you art bidden of any man to a wedding, sit not down in the highest room; lest a more honourable man than you be bidden of him;
 [14:9] And he that bade you and him come and say to you, Give this man place; and you begin with shame to take the lowest room.
 [14:10] But when you art bidden, go and sit down in the lowest room; that when he that bade you cometh, he may say unto you, Friend, go up higher: then shalt you have worship in the presence of them that sit at meat with you.
-[14:11] For whosoever exalteth himself shall be abased; and he that humbleth himself shall be exalted.
+[14:11] For whoever exalteth himself shall be abased; and he that humbleth himself shall be exalted.
 [14:12] Then said he also to him that bade him, When you makest a dinner or a supper, call not your friends, nor your brothers, neither your kinsmen, nor your rich neighbours; lest they also bid you again, and a recompence be made you.
 [14:13] But when you makest a feast, call the poor, the maimed, the lame, the blind:
 [14:14] And you shalt be blessed; for they cannot recompense you: for you shalt be recompensed at the resurrection of the just.
@@ -685,13 +685,13 @@ Luke
 [14:24] For I say unto you, That none of those men which were bidden shall taste of my supper.
 [14:25] And there went great multitudes with him: and he turned, and said unto them,
 [14:26] If any man come to me, and hate not his father, and mother, and wife, and children, and brothers, and sisters, yea, and his own life also, he cannot be my disciple.
-[14:27] And whosoever doth not bear his cross, and come after me, cannot be my disciple.
+[14:27] And whoever doth not bear his cross, and come after me, cannot be my disciple.
 [14:28] For which of you, intending to build a tower, sitteth not down first, and counteth the cost, whether he have sufficient to finish it?
 [14:29] Lest haply, after he hath laid the foundation, and is not able to finish it, all that behold it begin to mock him,
 [14:30] Saying, This man began to build, and was not able to finish.
 [14:31] Or what king, going to make war against another king, sitteth not down first, and consulteth whether he be able with ten thousand to meet him that cometh against him with twenty thousand?
 [14:32] Or else, while the other is yet a great way off, he sendeth an ambassage, and desireth conditions of peace.
-[14:33] So likewise, whosoever he be of you that forsaketh not all that he hath, he cannot be my disciple.
+[14:33] So likewise, whoever he be of you that forsaketh not all that he hath, he cannot be my disciple.
 [14:34] Salt is good: but if the salt have lost his savour, wherewith shall it be seasoned?
 [14:35] It is neither fit for the land, nor yet for the dunghill; but men cast it out. He that hath ears to hear, let him hear.
 [15:1] Then drew near unto him all the publicans and sinners for to hear him.
@@ -743,7 +743,7 @@ Luke
 [16:15] And he said unto them, You are they which justify yourselves before men; but God knoweth your hearts: for that which is highly esteemed among men is abomination in the sight of God.
 [16:16] The law and the prophets were until John: since that time the kingdom of God is preached, and every man presseth into it.
 [16:17] And it is easier for heaven and earth to pass, than one tittle of the law to fail.
-[16:18] Whosoever putteth away his wife, and marrieth another, committeth adultery: and whosoever marrieth her that is put away from her husband committeth adultery.
+[16:18] Whoever putteth away his wife, and marrieth another, committeth adultery: and whoever marrieth her that is put away from her husband committeth adultery.
 [16:19] There was a certain rich man, which was clothed in purple and fine linen, and fared sumptuously every day:
 [16:20] And there was a certain beggar named Lazarus, which was laid at his gate, full of sores,
 [16:21] And desiring to be fed with the crumbs which fell from the rich man's table: moreover the dogs came and licked his sores.
@@ -789,7 +789,7 @@ Luke
 [17:30] Even thus shall it be in the day when the Son of man is revealed.
 [17:31] In that day, he which shall be upon the housetop, and his stuff in the house, let him not come down to take it away: and he that is in the field, let him likewise not return back.
 [17:32] Remember Lot's wife.
-[17:33] Whosoever shall seek to save his life shall lose it; and whosoever shall lose his life shall preserve it.
+[17:33] Whoever shall seek to save his life shall lose it; and whoever shall lose his life shall preserve it.
 [17:34] I tell you, in that night there shall be two men in one bed; the one shall be taken, and the other shall be left.
 [17:35] Two women shall be grinding together; the one shall be taken, and the other left.
 [17:36] Two men shall be in the field; the one shall be taken, and the other left.
@@ -810,7 +810,7 @@ Luke
 [18:14] I tell you, this man went down to his house justified rather than the other: for every one that exalteth himself shall be abased; and he that humbleth himself shall be exalted.
 [18:15] And they brought unto him also infants, that he would touch them: but when his disciples saw it, they rebuked them.
 [18:16] But Jesus called them unto him, and said, Suffer little children to come unto me, and forbid them not: for of such is the kingdom of God.
-[18:17] Verily I say unto you, Whosoever shall not receive the kingdom of God as a little child shall in no wise enter therein.
+[18:17] Verily I say unto you, Whoever shall not receive the kingdom of God as a little child shall in no wise enter therein.
 [18:18] And a certain ruler asked him, saying, Good Master, what shall I do to inherit eternal life?
 [18:19] And Jesus said unto him, Why callest you me good? none is good, save one, that is, God.
 [18:20] You knowest the commandments, Do not commit adultery, Do not kill, Do not steal, Do not bear false witness, Honour your father and your mother.
@@ -902,7 +902,7 @@ Luke
 [20:15] So they cast him out of the vineyard, and killed him. What therefore shall the lord of the vineyard do unto them?
 [20:16] He shall come and destroy these husbandmen, and shall give the vineyard to others. And when they heard it, they said, God forbid.
 [20:17] And he beheld them, and said, What is this then that is written, The stone which the builders rejected, the same is become the head of the corner?
-[20:18] Whosoever shall fall upon that stone shall be broken; but on whomsoever it shall fall, it will grind him to powder.
+[20:18] Whoever shall fall upon that stone shall be broken; but on whomsoever it shall fall, it will grind him to powder.
 [20:19] And the chief priests and the scribes the same hour sought to lay hands on him; and they feared the people: for they perceived that he had spoken this parable against them.
 [20:20] And they watched him, and sent forth spies, which should feign themselves just men, that they might take hold of his words, that so they might deliver him unto the power and authority of the governor.
 [20:21] And they asked him, saying, Master, we know that you say and teachest rightly, neither acceptest you the person of any, but teachest the way of God truly:

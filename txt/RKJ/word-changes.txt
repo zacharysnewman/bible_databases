@@ -18,3 +18,4 @@ weepest -> weep
 whence, whither -> where
 wilt -> will
 saith -> says
+whosoever -> whoever

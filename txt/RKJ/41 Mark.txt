@@ -106,7 +106,7 @@ Mark
 [3:32] And the multitude sat about him, and they said unto him, Behold, your mother and your brothers without seek for you.
 [3:33] And he answered them, saying, Who is my mother, or my brothers?
 [3:34] And he looked round about on them which sat about him, and said, Behold my mother and my brothers!
-[3:35] For whosoever shall do the will of God, the same is my brother, and my sister, and mother.
+[3:35] For whoever shall do the will of God, the same is my brother, and my sister, and mother.
 [4:1] And he began again to teach by the sea side: and there was gathered unto him a great multitude, so that he entered into a ship, and sat in the sea; and the whole multitude was by the sea on the land.
 [4:2] And he taught them many things by parables, and said unto them in his doctrine,
 [4:3] Hearken; Behold, there went out a sower to sow:
@@ -201,7 +201,7 @@ Mark
 [6:8] And commanded them that they should take nothing for their journey, save a staff only; no scrip, no bread, no money in their purse:
 [6:9] But be shod with sandals; and not put on two coats.
 [6:10] And he said unto them, In what place soever you enter into an house, there abide till you depart from that place.
-[6:11] And whosoever shall not receive you, nor hear you, when you depart thence, shake off the dust under your feet for a testimony against them. Verily I say unto you, It shall be more tolerable for Sodom and Gomorrha in the day of judgment, than for that city.
+[6:11] And whoever shall not receive you, nor hear you, when you depart thence, shake off the dust under your feet for a testimony against them. Verily I say unto you, It shall be more tolerable for Sodom and Gomorrha in the day of judgment, than for that city.
 [6:12] And they went out, and preached that men should repent.
 [6:13] And they cast out many devils, and anointed with oil many that were sick, and healed them.
 [6:14] And king Herod heard of him; (for his name was spread abroad:) and he said, That John the Baptist was risen from the dead, and therefore mighty works do shew forth themselves in him.
@@ -317,11 +317,11 @@ Mark
 [8:31] And he began to teach them, that the Son of man must suffer many things, and be rejected of the elders, and of the chief priests, and scribes, and be killed, and after three days rise again.
 [8:32] And he spake that saying openly. And Peter took him, and began to rebuke him.
 [8:33] But when he had turned about and looked on his disciples, he rebuked Peter, saying, Get you behind me, Satan: for you savourest not the things that be of God, but the things that be of men.
-[8:34] And when he had called the people unto him with his disciples also, he said unto them, Whosoever will come after me, let him deny himself, and take up his cross, and follow me.
-[8:35] For whosoever will save his life shall lose it; but whosoever shall lose his life for my sake and the gospel's, the same shall save it.
+[8:34] And when he had called the people unto him with his disciples also, he said unto them, Whoever will come after me, let him deny himself, and take up his cross, and follow me.
+[8:35] For whoever will save his life shall lose it; but whoever shall lose his life for my sake and the gospel's, the same shall save it.
 [8:36] For what shall it profit a man, if he shall gain the whole world, and lose his own soul?
 [8:37] Or what shall a man give in exchange for his soul?
-[8:38] Whosoever therefore shall be ashamed of me and of my words in this adulterous and sinful generation; of him also shall the Son of man be ashamed, when he cometh in the glory of his Father with the holy angels.
+[8:38] Whoever therefore shall be ashamed of me and of my words in this adulterous and sinful generation; of him also shall the Son of man be ashamed, when he cometh in the glory of his Father with the holy angels.
 [9:1] And he said unto them, Verily I say unto you, That there be some of them that stand here, which shall not taste of death, till they have seen the kingdom of God come with power.
 [9:2] And after six days Jesus taketh with him Peter, and James, and John, and leadeth them up into an high mountain apart by themselves: and he was transfigured before them.
 [9:3] And his raiment became shining, exceeding white as snow; so as no fuller on earth can white them.
@@ -358,12 +358,12 @@ Mark
 [9:34] But they held their peace: for by the way they had disputed among themselves, who should be the greatest.
 [9:35] And he sat down, and called the twelve, and says unto them, If any man desire to be first, the same shall be last of all, and servant of all.
 [9:36] And he took a child, and set him in the midst of them: and when he had taken him in his arms, he said unto them,
-[9:37] Whosoever shall receive one of such children in my name, receiveth me: and whosoever shall receive me, receiveth not me, but him that sent me.
+[9:37] Whoever shall receive one of such children in my name, receiveth me: and whoever shall receive me, receiveth not me, but him that sent me.
 [9:38] And John answered him, saying, Master, we saw one casting out devils in your name, and he followeth not us: and we forbad him, because he followeth not us.
 [9:39] But Jesus said, Forbid him not: for there is no man which shall do a miracle in my name, that can lightly speak evil of me.
 [9:40] For he that is not against us is on our part.
-[9:41] For whosoever shall give you a cup of water to drink in my name, because you belong to Christ, verily I say unto you, he shall not lose his reward.
-[9:42] And whosoever shall offend one of these little ones that believe in me, it is better for him that a millstone were hanged about his neck, and he were cast into the sea.
+[9:41] For whoever shall give you a cup of water to drink in my name, because you belong to Christ, verily I say unto you, he shall not lose his reward.
+[9:42] And whoever shall offend one of these little ones that believe in me, it is better for him that a millstone were hanged about his neck, and he were cast into the sea.
 [9:43] And if your hand offend you, cut it off: it is better for you to enter into life maimed, than having two hands to go into hell, into the fire that never shall be quenched:
 [9:44] Where their worm dieth not, and the fire is not quenched.
 [9:45] And if your foot offend you, cut it off: it is better for you to enter halt into life, than having two feet to be cast into hell, into the fire that never shall be quenched:
@@ -382,11 +382,11 @@ Mark
 [10:8] And they twain shall be one flesh: so then they are no more twain, but one flesh.
 [10:9] What therefore God hath joined together, let not man put asunder.
 [10:10] And in the house his disciples asked him again of the same matter.
-[10:11] And he says unto them, Whosoever shall put away his wife, and marry another, committeth adultery against her.
+[10:11] And he says unto them, Whoever shall put away his wife, and marry another, committeth adultery against her.
 [10:12] And if a woman shall put away her husband, and be married to another, she committeth adultery.
 [10:13] And they brought young children to him, that he should touch them: and his disciples rebuked those that brought them.
 [10:14] But when Jesus saw it, he was much displeased, and said unto them, Suffer the little children to come unto me, and forbid them not: for of such is the kingdom of God.
-[10:15] Verily I say unto you, Whosoever shall not receive the kingdom of God as a little child, he shall not enter therein.
+[10:15] Verily I say unto you, Whoever shall not receive the kingdom of God as a little child, he shall not enter therein.
 [10:16] And he took them up in his arms, put his hands upon them, and blessed them.
 [10:17] And when he was gone forth into the way, there came one running, and kneeled to him, and asked him, Good Master, what shall I do that I may inherit eternal life?
 [10:18] And Jesus said unto him, Why callest you me good? there is none good but one, that is, God.
@@ -414,8 +414,8 @@ Mark
 [10:40] But to sit on my right hand and on my left hand is not mine to give; but it shall be given to them for whom it is prepared.
 [10:41] And when the ten heard it, they began to be much displeased with James and John.
 [10:42] But Jesus called them to him, and says unto them, You know that they which are accounted to rule over the Gentiles exercise lordship over them; and their great ones exercise authority upon them.
-[10:43] But so shall it not be among you: but whosoever will be great among you, shall be your minister:
-[10:44] And whosoever of you will be the chiefest, shall be servant of all.
+[10:43] But so shall it not be among you: but whoever will be great among you, shall be your minister:
+[10:44] And whoever of you will be the chiefest, shall be servant of all.
 [10:45] For even the Son of man came not to be ministered unto, but to minister, and to give his life a ransom for many.
 [10:46] And they came to Jericho: and as he went out of Jericho with his disciples and a great number of people, blind Bartimaeus, the son of Timaeus, sat by the highway side begging.
 [10:47] And when he heard that it was Jesus of Nazareth, he began to cry out, and say, Jesus, you son of David, have mercy on me.
@@ -446,7 +446,7 @@ Mark
 [11:20] And in the morning, as they passed by, they saw the fig tree dried up from the roots.
 [11:21] And Peter calling to remembrance says unto him, Master, behold, the fig tree which you cursedst is withered away.
 [11:22] And Jesus answering says unto them, Have faith in God.
-[11:23] For verily I say unto you, That whosoever shall say unto this mountain, Be you removed, and be you cast into the sea; and shall not doubt in his heart, but shall believe that those things which he says shall come to pass; he shall have whatsoever he says.
+[11:23] For verily I say unto you, That whoever shall say unto this mountain, Be you removed, and be you cast into the sea; and shall not doubt in his heart, but shall believe that those things which he says shall come to pass; he shall have whatsoever he says.
 [11:24] Therefore I say unto you, What things soever you desire, when you pray, believe that you receive them, and you shall have them.
 [11:25] And when you stand praying, forgive, if you have ought against any: that your Father also which is in heaven may forgive you your trespasses.
 [11:26] But if you do not forgive, neither will your Father which is in heaven forgive your trespasses.
