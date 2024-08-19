@@ -1,7 +1,5 @@
 # Public Domain Bible Versions
 
-https://scrollmapper.github.io/
-
 Here you will find the following bible versions in sql, sqlite, xml, csv, json, txt, and md format:
 
 - **King James Version (KJV)**
