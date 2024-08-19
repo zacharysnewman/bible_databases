@@ -2141,7 +2141,7 @@ Psalms
 [120:5] Woe is me, that I sojourn in Mesech, that I dwell in the tents of Kedar!
 [120:6] My soul hath long dwelt with him that hateth peace.
 [120:7] I am for peace: but when I speak, they are for war.
-[121:1] I will lift up mine eyes unto the hills, from whence cometh my help.
+[121:1] I will lift up mine eyes unto the hills, from where cometh my help.
 [121:2] My help cometh from the LORD, which made heaven and earth.
 [121:3] He will not suffer your foot to be moved: he that keepeth you will not slumber.
 [121:4] Behold, he that keepeth Israel shall neither slumber nor sleep.
@@ -2152,7 +2152,7 @@ Psalms
 [122:1] I was glad when they said unto me, Let us go into the house of the LORD.
 [122:2] Our feet shall stand within your gates, O Jerusalem.
 [122:3] Jerusalem is builded as a city that is compact together:
-[122:4] Whither the tribes go up, the tribes of the LORD, unto the testimony of Israel, to give thanks unto the name of the LORD.
+[122:4] Where the tribes go up, the tribes of the LORD, unto the testimony of Israel, to give thanks unto the name of the LORD.
 [122:5] For there are set thrones of judgment, the thrones of the house of David.
 [122:6] Pray for the peace of Jerusalem: they shall prosper that love you.
 [122:7] Peace be within your walls, and prosperity within your palaces.
@@ -2305,7 +2305,7 @@ Psalms
 [139:4] For there is not a word in my tongue, but, lo, O LORD, you knowest it altogether.
 [139:5] You have beset me behind and before, and laid your hand upon me.
 [139:6] Such knowledge is too wonderful for me; it is high, I cannot attain unto it.
-[139:7] Whither shall I go from your spirit? or whither shall I flee from your presence?
+[139:7] Where shall I go from your spirit? or where shall I flee from your presence?
 [139:8] If I ascend up into heaven, you art there: if I make my bed in hell, behold, you art there.
 [139:9] If I take the wings of the morning, and dwell in the uttermost parts of the sea;
 [139:10] Even there shall your hand lead me, and your right hand shall hold me.

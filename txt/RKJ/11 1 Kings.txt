@@ -87,13 +87,13 @@
 [2:33] Their blood shall therefore return upon the head of Joab, and upon the head of his seed for ever: but upon David, and upon his seed, and upon his house, and upon his throne, shall there be peace for ever from the LORD.
 [2:34] So Benaiah the son of Jehoiada went up, and fell upon him, and slew him: and he was buried in his own house in the wilderness.
 [2:35] And the king put Benaiah the son of Jehoiada in his room over the host: and Zadok the priest did the king put in the room of Abiathar.
-[2:36] And the king sent and called for Shimei, and said unto him, Build you an house in Jerusalem, and dwell there, and go not forth thence any whither.
+[2:36] And the king sent and called for Shimei, and said unto him, Build you an house in Jerusalem, and dwell there, and go not forth thence any where.
 [2:37] For it shall be, that on the day you goest out, and passest over the brook Kidron, you shalt know for certain that you shalt surely die: your blood shall be upon your own head.
 [2:38] And Shimei said unto the king, The saying is good: as my lord the king hath said, so will your servant do. And Shimei dwelt in Jerusalem many days.
 [2:39] And it came to pass at the end of three years, that two of the servants of Shimei ran away unto Achish son of Maachah king of Gath. And they told Shimei, saying, Behold, your servants be in Gath.
 [2:40] And Shimei arose, and saddled his ass, and went to Gath to Achish to seek his servants: and Shimei went, and brought his servants from Gath.
 [2:41] And it was told Solomon that Shimei had gone from Jerusalem to Gath, and was come again.
-[2:42] And the king sent and called for Shimei, and said unto him, Did I not make you to swear by the LORD, and protested unto you, saying, Know for a certain, on the day you goest out, and walkest abroad any whither, that you shalt surely die? and you saidst unto me, The word that I have heard is good.
+[2:42] And the king sent and called for Shimei, and said unto him, Did I not make you to swear by the LORD, and protested unto you, saying, Know for a certain, on the day you goest out, and walkest abroad any where, that you shalt surely die? and you saidst unto me, The word that I have heard is good.
 [2:43] Why then have you not kept the oath of the LORD, and the commandment that I have charged you with?
 [2:44] The king said moreover to Shimei, You knowest all the wickedness which your heart is privy to, that you didst to David my father: therefore the LORD shall return your wickedness upon your own head;
 [2:45] And king Solomon shall be blessed, and the throne of David shall be established before the LORD for ever.
@@ -313,7 +313,7 @@
 [8:44] If your people go out to battle against their enemy, whithersoever you shalt send them, and shall pray unto the LORD toward the city which you have chosen, and toward the house that I have built for your name:
 [8:45] Then hear you in heaven their prayer and their supplication, and maintain their cause.
 [8:46] If they sin against you, (for there is no man that sinneth not,) and you be angry with them, and deliver them to the enemy, so that they carry them away captives unto the land of the enemy, far or near;
-[8:47] Yet if they shall bethink themselves in the land whither they were carried captives, and repent, and make supplication unto you in the land of them that carried them captives, saying, We have sinned, and have done perversely, we have committed wickedness;
+[8:47] Yet if they shall bethink themselves in the land where they were carried captives, and repent, and make supplication unto you in the land of them that carried them captives, saying, We have sinned, and have done perversely, we have committed wickedness;
 [8:48] And so return unto you with all their heart, and with all their soul, in the land of their enemies, which led them away captive, and pray unto you toward their land, which you gavest unto their fathers, the city which you have chosen, and the house which I have built for your name:
 [8:49] Then hear you their prayer and their supplication in heaven your dwelling place, and maintain their cause,
 [8:50] And forgive your people that have sinned against you, and all their transgressions wherein they have transgressed against you, and give them compassion before them who carried them captive, that they may have compassion on them:
@@ -632,9 +632,9 @@
 [18:7] And as Obadiah was in the way, behold, Elijah met him: and he knew him, and fell on his face, and said, Art you that my lord Elijah?
 [18:8] And he answered him, I am: go, tell your lord, Behold, Elijah is here.
 [18:9] And he said, What have I sinned, that you wouldest deliver your servant into the hand of Ahab, to slay me?
-[18:10] As the LORD your God liveth, there is no nation or kingdom, whither my lord hath not sent to seek you: and when they said, He is not there; he took an oath of the kingdom and nation, that they found you not.
+[18:10] As the LORD your God liveth, there is no nation or kingdom, where my lord hath not sent to seek you: and when they said, He is not there; he took an oath of the kingdom and nation, that they found you not.
 [18:11] And now you say, Go, tell your lord, Behold, Elijah is here.
-[18:12] And it shall come to pass, as soon as I am gone from you, that the Spirit of the LORD shall carry you whither I know not; and so when I come and tell Ahab, and he cannot find you, he shall slay me: but I your servant fear the LORD from my youth.
+[18:12] And it shall come to pass, as soon as I am gone from you, that the Spirit of the LORD shall carry you where I know not; and so when I come and tell Ahab, and he cannot find you, he shall slay me: but I your servant fear the LORD from my youth.
 [18:13] Was it not told my lord what I did when Jezebel slew the prophets of the LORD, how I hid an hundred men of the LORD's prophets by fifty in a cave, and fed them with bread and water?
 [18:14] And now you say, Go, tell your lord, Behold, Elijah is here: and he shall slay me.
 [18:15] And Elijah said, As the LORD of hosts liveth, before whom I stand, I will surely show myself unto him to day.
@@ -750,7 +750,7 @@
 [21:15] And it came to pass, when Jezebel heard that Naboth was stoned, and was dead, that Jezebel said to Ahab, Arise, take possession of the vineyard of Naboth the Jezreelite, which he refused to give you for money: for Naboth is not alive, but dead.
 [21:16] And it came to pass, when Ahab heard that Naboth was dead, that Ahab rose up to go down to the vineyard of Naboth the Jezreelite, to take possession of it.
 [21:17] And the word of the LORD came to Elijah the Tishbite, saying,
-[21:18] Arise, go down to meet Ahab king of Israel, which is in Samaria: behold, he is in the vineyard of Naboth, whither he is gone down to possess it.
+[21:18] Arise, go down to meet Ahab king of Israel, which is in Samaria: behold, he is in the vineyard of Naboth, where he is gone down to possess it.
 [21:19] And you shalt speak unto him, saying, Thus saith the LORD, Have you killed, and also taken possession? And you shalt speak unto him, saying, Thus saith the LORD, In the place where dogs licked the blood of Naboth shall dogs lick your blood, even your.
 [21:20] And Ahab said to Elijah, Have you found me, O mine enemy? And he answered, I have found you: because you have sold thyself to work evil in the sight of the LORD.
 [21:21] Behold, I will bring evil upon you, and will take away your posterity, and will cut off from Ahab him that pisseth against the wall, and him that is shut up and left in Israel,

@@ -387,7 +387,7 @@ Matthew
 [12:41] The men of Nineveh shall rise in judgment with this generation, and shall condemn it: because they repented at the preaching of Jonas; and, behold, a greater than Jonas is here.
 [12:42] The queen of the south shall rise up in the judgment with this generation, and shall condemn it: for she came from the uttermost parts of the earth to hear the wisdom of Solomon; and, behold, a greater than Solomon is here.
 [12:43] When the unclean spirit is gone out of a man, he walketh through dry places, seeking rest, and findeth none.
-[12:44] Then he saith, I will return into my house from whence I came out; and when he is come, he findeth it empty, swept, and garnished.
+[12:44] Then he saith, I will return into my house from where I came out; and when he is come, he findeth it empty, swept, and garnished.
 [12:45] Then goeth he, and taketh with himself seven other spirits more wicked than himself, and they enter in and dwell there: and the last state of that man is worse than the first. Even so shall it be also unto this wicked generation.
 [12:46] While he yet talked to the people, behold, his mother and his brothers stood without, desiring to speak with him.
 [12:47] Then one said unto him, Behold, your mother and your brothers stand without, desiring to speak with you.
@@ -420,7 +420,7 @@ Matthew
 [13:24] Another parable put he forth unto them, saying, The kingdom of heaven is likened unto a man which sowed good seed in his field:
 [13:25] But while men slept, his enemy came and sowed tares among the wheat, and went his way.
 [13:26] But when the blade was sprung up, and brought forth fruit, then appeared the tares also.
-[13:27] So the servants of the householder came and said unto him, Sir, didst not you sow good seed in your field? from whence then hath it tares?
+[13:27] So the servants of the householder came and said unto him, Sir, didst not you sow good seed in your field? from where then hath it tares?
 [13:28] He said unto them, An enemy hath done this. The servants said unto him, Wilt you then that we go and gather them up?
 [13:29] But he said, Nay; lest while you gather up the tares, you root up also the wheat with them.
 [13:30] Let both grow together until the harvest: and in the time of harvest I will say to the reapers, Gather you together first the tares, and bind them in bundles to burn them: but gather the wheat into my barn.
@@ -447,9 +447,9 @@ Matthew
 [13:51] Jesus saith unto them, Have you understood all these things? They say unto him, Yea, Lord.
 [13:52] Then said he unto them, Therefore every scribe which is instructed unto the kingdom of heaven is like unto a man that is an householder, which bringeth forth out of his treasure things new and old.
 [13:53] And it came to pass, that when Jesus had finished these parables, he departed thence.
-[13:54] And when he was come into his own country, he taught them in their synagogue, insomuch that they were astonished, and said, Whence hath this man this wisdom, and these mighty works?
+[13:54] And when he was come into his own country, he taught them in their synagogue, insomuch that they were astonished, and said, Where hath this man this wisdom, and these mighty works?
 [13:55] Is not this the carpenter's son? is not his mother called Mary? and his brothers, James, and Joses, and Simon, and Judas?
-[13:56] And his sisters, are they not all with us? Whence then hath this man all these things?
+[13:56] And his sisters, are they not all with us? Where then hath this man all these things?
 [13:57] And they were offended in him. But Jesus said unto them, A prophet is not without honour, save in his own country, and in his own house.
 [13:58] And he did not many mighty works there because of their unbelief.
 [14:1] At that time Herod the tetrarch heard of the fame of Jesus,
@@ -520,7 +520,7 @@ Matthew
 [15:30] And great multitudes came unto him, having with them those that were lame, blind, dumb, maimed, and many others, and cast them down at Jesus' feet; and he healed them:
 [15:31] Insomuch that the multitude wondered, when they saw the dumb to speak, the maimed to be whole, the lame to walk, and the blind to see: and they glorified the God of Israel.
 [15:32] Then Jesus called his disciples unto him, and said, I have compassion on the multitude, because they continue with me now three days, and have nothing to eat: and I will not send them away fasting, lest they faint in the way.
-[15:33] And his disciples say unto him, Whence should we have so much bread in the wilderness, as to fill so great a multitude?
+[15:33] And his disciples say unto him, Where should we have so much bread in the wilderness, as to fill so great a multitude?
 [15:34] And Jesus saith unto them, How many loaves have you? And they said, Seven, and a few little fishes.
 [15:35] And he commanded the multitude to sit down on the ground.
 [15:36] And he took the seven loaves and the fishes, and gave thanks, and brake them, and gave to his disciples, and the disciples to the multitude.
@@ -705,7 +705,7 @@ Matthew
 [21:22] And all things, whatsoever you shall ask in prayer, believing, you shall receive.
 [21:23] And when he was come into the temple, the chief priests and the elders of the people came unto him as he was teaching, and said, By what authority do you these things? and who gave you this authority?
 [21:24] And Jesus answered and said unto them, I also will ask you one thing, which if you tell me, I in like wise will tell you by what authority I do these things.
-[21:25] The baptism of John, whence was it? from heaven, or of men? And they reasoned with themselves, saying, If we shall say, From heaven; he will say unto us, Why did you not then believe him?
+[21:25] The baptism of John, where was it? from heaven, or of men? And they reasoned with themselves, saying, If we shall say, From heaven; he will say unto us, Why did you not then believe him?
 [21:26] But if we shall say, Of men; we fear the people; for all hold John as a prophet.
 [21:27] And they answered Jesus, and said, We cannot tell. And he said unto them, Neither tell I you by what authority I do these things.
 [21:28] But what think you? A certain man had two sons; and he came to the first, and said, Son, go work to day in my vineyard.

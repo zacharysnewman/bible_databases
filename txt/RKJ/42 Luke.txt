@@ -41,7 +41,7 @@ Luke
 [1:40] And entered into the house of Zacharias, and saluted Elisabeth.
 [1:41] And it came to pass, that, when Elisabeth heard the salutation of Mary, the babe leaped in her womb; and Elisabeth was filled with the Holy Ghost:
 [1:42] And she spake out with a loud voice, and said, Blessed art you among women, and blessed is the fruit of your womb.
-[1:43] And whence is this to me, that the mother of my Lord should come to me?
+[1:43] And where is this to me, that the mother of my Lord should come to me?
 [1:44] For, lo, as soon as the voice of your salutation sounded in mine ears, the babe leaped in my womb for joy.
 [1:45] And blessed is she that believed: for there shall be a performance of those things which were told her from the Lord.
 [1:46] And Mary said, My soul doth magnify the Lord,
@@ -469,7 +469,7 @@ Luke
 [9:60] Jesus said unto him, Let the dead bury their dead: but go you and preach the kingdom of God.
 [9:61] And another also said, Lord, I will follow you; but let me first go bid them farewell, which are at home at my house.
 [9:62] And Jesus said unto him, No man, having put his hand to the plough, and looking back, is fit for the kingdom of God.
-[10:1] After these things the LORD appointed other seventy also, and sent them two and two before his face into every city and place, whither he himself would come.
+[10:1] After these things the LORD appointed other seventy also, and sent them two and two before his face into every city and place, where he himself would come.
 [10:2] Therefore said he unto them, The harvest truly is great, but the labourers are few: pray you therefore the Lord of the harvest, that he would send forth labourers into his harvest.
 [10:3] Go your ways: behold, I send you forth as lambs among wolves.
 [10:4] Carry neither purse, nor scrip, nor shoes: and salute no man by the way.
@@ -534,7 +534,7 @@ Luke
 [11:21] When a strong man armed keepeth his palace, his goods are in peace:
 [11:22] But when a stronger than he shall come upon him, and overcome him, he taketh from him all his armour wherein he trusted, and divideth his spoils.
 [11:23] He that is not with me is against me: and he that gathereth not with me scattereth.
-[11:24] When the unclean spirit is gone out of a man, he walketh through dry places, seeking rest; and finding none, he saith, I will return unto my house whence I came out.
+[11:24] When the unclean spirit is gone out of a man, he walketh through dry places, seeking rest; and finding none, he saith, I will return unto my house where I came out.
 [11:25] And when he cometh, he findeth it swept and garnished.
 [11:26] Then goeth he, and taketh to him seven other spirits more wicked than himself; and they enter in, and dwell there: and the last state of that man is worse than the first.
 [11:27] And it came to pass, as he spake these things, a certain woman of the company lifted up her voice, and said unto him, Blessed is the womb that bare you, and the paps which you have sucked.
@@ -648,9 +648,9 @@ Luke
 [13:22] And he went through the cities and villages, teaching, and journeying toward Jerusalem.
 [13:23] Then said one unto him, Lord, are there few that be saved? And he said unto them,
 [13:24] Strive to enter in at the strait gate: for many, I say unto you, will seek to enter in, and shall not be able.
-[13:25] When once the master of the house is risen up, and hath shut to the door, and you begin to stand without, and to knock at the door, saying, Lord, Lord, open unto us; and he shall answer and say unto you, I know you not whence you are:
+[13:25] When once the master of the house is risen up, and hath shut to the door, and you begin to stand without, and to knock at the door, saying, Lord, Lord, open unto us; and he shall answer and say unto you, I know you not where you are:
 [13:26] Then shall you begin to say, We have eaten and drunk in your presence, and you have taught in our streets.
-[13:27] But he shall say, I tell you, I know you not whence you are; depart from me, all you workers of iniquity.
+[13:27] But he shall say, I tell you, I know you not where you are; depart from me, all you workers of iniquity.
 [13:28] There shall be weeping and gnashing of teeth, when you shall see Abraham, and Isaac, and Jacob, and all the prophets, in the kingdom of God, and you yourselves thrust out.
 [13:29] And they shall come from the east, and from the west, and from the north, and from the south, and shall sit down in the kingdom of God.
 [13:30] And, behold, there are last which shall be first, and there are first which shall be last.
@@ -891,7 +891,7 @@ Luke
 [20:4] The baptism of John, was it from heaven, or of men?
 [20:5] And they reasoned with themselves, saying, If we shall say, From heaven; he will say, Why then believed you him not?
 [20:6] But and if we say, Of men; all the people will stone us: for they be persuaded that John was a prophet.
-[20:7] And they answered, that they could not tell whence it was.
+[20:7] And they answered, that they could not tell where it was.
 [20:8] And Jesus said unto them, Neither tell I you by what authority I do these things.
 [20:9] Then began he to speak to the people this parable; A certain man planted a vineyard, and let it forth to husbandmen, and went into a far country for a long time.
 [20:10] And at the season he sent a servant to the husbandmen, that they should give him of the fruit of the vineyard: but the husbandmen beat him, and sent him away empty.
@@ -1124,7 +1124,7 @@ Luke
 [24:25] Then he said unto them, O fools, and slow of heart to believe all that the prophets have spoken:
 [24:26] Ought not Christ to have suffered these things, and to enter into his glory?
 [24:27] And beginning at Moses and all the prophets, he expounded unto them in all the scriptures the things concerning himself.
-[24:28] And they drew nigh unto the village, whither they went: and he made as though he would have gone further.
+[24:28] And they drew nigh unto the village, where they went: and he made as though he would have gone further.
 [24:29] But they constrained him, saying, Abide with us: for it is toward evening, and the day is far spent. And he went in to tarry with them.
 [24:30] And it came to pass, as he sat at meat with them, he took bread, and blessed it, and brake, and gave to them.
 [24:31] And their eyes were opened, and they knew him; and he vanished out of their sight.

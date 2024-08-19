@@ -192,7 +192,7 @@ Mark
 [5:42] And straightway the damsel arose, and walked; for she was of the age of twelve years. And they were astonished with a great astonishment.
 [5:43] And he charged them straitly that no man should know it; and commanded that something should be given her to eat.
 [6:1] And he went out from thence, and came into his own country; and his disciples follow him.
-[6:2] And when the sabbath day was come, he began to teach in the synagogue: and many hearing him were astonished, saying, From whence hath this man these things? and what wisdom is this which is given unto him, that even such mighty works are wrought by his hands?
+[6:2] And when the sabbath day was come, he began to teach in the synagogue: and many hearing him were astonished, saying, From where hath this man these things? and what wisdom is this which is given unto him, that even such mighty works are wrought by his hands?
 [6:3] Is not this the carpenter, the son of Mary, the brother of James, and Joses, and of Juda, and Simon? and are not his sisters here with us? And they were offended at him.
 [6:4] But Jesus, said unto them, A prophet is not without honour, but in his own country, and among his own kin, and in his own house.
 [6:5] And he could there do no mighty work, save that he laid his hands upon a few sick folk, and healed them.
@@ -287,7 +287,7 @@ Mark
 [8:1] In those days the multitude being very great, and having nothing to eat, Jesus called his disciples unto him, and saith unto them,
 [8:2] I have compassion on the multitude, because they have now been with me three days, and have nothing to eat:
 [8:3] And if I send them away fasting to their own houses, they will faint by the way: for divers of them came from far.
-[8:4] And his disciples answered him, From whence can a man satisfy these men with bread here in the wilderness?
+[8:4] And his disciples answered him, From where can a man satisfy these men with bread here in the wilderness?
 [8:5] And he asked them, How many loaves have you? And they said, Seven.
 [8:6] And he commanded the people to sit down on the ground: and he took the seven loaves, and gave thanks, and brake, and gave to his disciples to set before them; and they did set them before the people.
 [8:7] And they had a few small fishes: and he blessed, and commanded to set them also before them.
@@ -493,7 +493,7 @@ Mark
 [12:34] And when Jesus saw that he answered discreetly, he said unto him, You art not far from the kingdom of God. And no man after that durst ask him any question.
 [12:35] And Jesus answered and said, while he taught in the temple, How say the scribes that Christ is the son of David?
 [12:36] For David himself said by the Holy Ghost, The LORD said to my Lord, Sit you on my right hand, till I make your enemies your footstool.
-[12:37] David therefore himself calleth him Lord; and whence is he then his son? And the common people heard him gladly.
+[12:37] David therefore himself calleth him Lord; and where is he then his son? And the common people heard him gladly.
 [12:38] And he said unto them in his doctrine, Beware of the scribes, which love to go in long clothing, and love salutations in the marketplaces,
 [12:39] And the chief seats in the synagogues, and the uppermost rooms at feasts:
 [12:40] Which devour widows' houses, and for a pretence make long prayers: these shall receive greater damnation.

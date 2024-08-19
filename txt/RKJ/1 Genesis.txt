@@ -77,7 +77,7 @@ Genesis
 [3:20] And Adam called his wife's name Eve; because she was the mother of all living.
 [3:21] Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them.
 [3:22] And the LORD God said, Behold, the man is become as one of us, to know good and evil: and now, lest he put forth his hand, and take also of the tree of life, and eat, and live for ever:
-[3:23] Therefore the LORD God sent him forth from the garden of Eden, to till the ground from whence he was taken.
+[3:23] Therefore the LORD God sent him forth from the garden of Eden, to till the ground from where he was taken.
 [3:24] So he drove out the man; and he placed at the east of the garden of Eden Cherubims, and a flaming sword which turned every way, to keep the way of the tree of life.
 [4:1] And Adam knew Eve his wife; and she conceived, and bare Cain, and said, I have gotten a man from the LORD.
 [4:2] And she again bare his brother Abel. And Abel was a keeper of sheep, but Cain was a tiller of the ground.
@@ -388,7 +388,7 @@ Genesis
 [16:5] And Sarai said unto Abram, My wrong be upon you: I have given my maid into your bosom; and when she saw that she had conceived, I was despised in her eyes: the LORD judge between me and you.
 [16:6] But Abram said unto Sarai, Behold, your maid is in your hand; do to her as it pleaseth you. And when Sarai dealt hardly with her, she fled from her face.
 [16:7] And the angel of the LORD found her by a fountain of water in the wilderness, by the fountain in the way to Shur.
-[16:8] And he said, Hagar, Sarai's maid, whence camest you? and whither wilt you go? And she said, I flee from the face of my mistress Sarai.
+[16:8] And he said, Hagar, Sarai's maid, where camest you? and where wilt you go? And she said, I flee from the face of my mistress Sarai.
 [16:9] And the angel of the LORD said unto her, Return to your mistress, and submit thyself under her hands.
 [16:10] And the angel of the LORD said unto her, I will multiply your seed exceedingly, that it shall not be numbered for multitude.
 [16:11] And the angel of the LORD said unto her, Behold, you art with child and shalt bear a son, and shalt call his name Ishmael; because the LORD hath heard your affliction.
@@ -507,7 +507,7 @@ Genesis
 [20:10] And Abimelech said unto Abraham, What saw you, that you have done this thing?
 [20:11] And Abraham said, Because I thought, Surely the fear of God is not in this place; and they will slay me for my wife's sake.
 [20:12] And yet indeed she is my sister; she is the daughter of my father, but not the daughter of my mother; and she became my wife.
-[20:13] And it came to pass, when God caused me to wander from my father's house, that I said unto her, This is your kindness which you shalt show unto me; at every place whither we shall come, say of me, He is my brother.
+[20:13] And it came to pass, when God caused me to wander from my father's house, that I said unto her, This is your kindness which you shalt show unto me; at every place where we shall come, say of me, He is my brother.
 [20:14] And Abimelech took sheep, and oxen, and menservants, and womenservants, and gave them unto Abraham, and restored him Sarah his wife.
 [20:15] And Abimelech said, Behold, my land is before you: dwell where it pleaseth you.
 [20:16] And unto Sarah he said, Behold, I have given your brother a thousand pieces of silver: behold, he is to you a covering of the eyes, unto all that are with you, and with all other: thus she was reproved.
@@ -595,7 +595,7 @@ Genesis
 [24:2] And Abraham said unto his eldest servant of his house, that ruled over all that he had, Put, I pray you, your hand under my thigh:
 [24:3] And I will make you swear by the LORD, the God of heaven, and the God of the earth, that you shalt not take a wife unto my son of the daughters of the Canaanites, among whom I dwell:
 [24:4] But you shalt go unto my country, and to my kindred, and take a wife unto my son Isaac.
-[24:5] And the servant said unto him, Peradventure the woman will not be willing to follow me unto this land: must I needs bring your son again unto the land from whence you camest?
+[24:5] And the servant said unto him, Peradventure the woman will not be willing to follow me unto this land: must I needs bring your son again unto the land from where you camest?
 [24:6] And Abraham said unto him, Beware you that you bring not my son thither again.
 [24:7] The LORD God of heaven, which took me from my father's house, and from the land of my kindred, and which spake unto me, and that sware unto me, saying, Unto your seed will I give this land; he shall send his angel before you, and you shalt take a wife unto my son from thence.
 [24:8] And if the woman will not be willing to follow you, then you shalt be clear from this my oath: only bring not my son thither again.
@@ -787,7 +787,7 @@ Genesis
 [28:12] And he dreamed, and behold a ladder set up on the earth, and the top of it reached to heaven: and behold the angels of God ascending and descending on it.
 [28:13] And, behold, the LORD stood above it, and said, I am the LORD God of Abraham your father, and the God of Isaac: the land whereon you liest, to you will I give it, and to your seed;
 [28:14] And your seed shall be as the dust of the earth, and you shalt spread abroad to the west, and to the east, and to the north, and to the south: and in you and in your seed shall all the families of the earth be blessed.
-[28:15] And, behold, I am with you, and will keep you in all places whither you goest, and will bring you again into this land; for I will not leave you, until I have done that which I have spoken to you of.
+[28:15] And, behold, I am with you, and will keep you in all places where you goest, and will bring you again into this land; for I will not leave you, until I have done that which I have spoken to you of.
 [28:16] And Jacob awaked out of his sleep, and he said, Surely the LORD is in this place; and I knew it not.
 [28:17] And he was afraid, and said, How dreadful is this place! this is none other but the house of God, and this is the gate of heaven.
 [28:18] And Jacob rose up early in the morning, and took the stone that he had put for his pillows, and set it up for a pillar, and poured oil upon the top of it.
@@ -798,7 +798,7 @@ Genesis
 [29:1] Then Jacob went on his journey, and came into the land of the people of the east.
 [29:2] And he looked, and behold a well in the field, and, lo, there were three flocks of sheep lying by it; for out of that well they watered the flocks: and a great stone was upon the well's mouth.
 [29:3] And thither were all the flocks gathered: and they rolled the stone from the well's mouth, and watered the sheep, and put the stone again upon the well's mouth in his place.
-[29:4] And Jacob said unto them, My brothers, whence be you? And they said, Of Haran are we.
+[29:4] And Jacob said unto them, My brothers, where be you? And they said, Of Haran are we.
 [29:5] And he said unto them, Know you Laban the son of Nahor? And they said, We know him.
 [29:6] And he said unto them, Is he well? And they said, He is well: and, behold, Rachel his daughter cometh with the sheep.
 [29:7] And he said, Lo, it is yet high day, neither is it time that the cattle should be gathered together: water you the sheep, and go and feed them.
@@ -944,7 +944,7 @@ Genesis
 [32:14] Two hundred she goats, and twenty he goats, two hundred ewes, and twenty rams,
 [32:15] Thirty milch camels with their colts, forty kine, and ten bulls, twenty she asses, and ten foals.
 [32:16] And he delivered them into the hand of his servants, every drove by themselves; and said unto his servants, Pass over before me, and put a space betwixt drove and drove.
-[32:17] And he commanded the foremost, saying, When Esau my brother meeteth you, and asketh you, saying, Whose art you? and whither goest you? and whose are these before you?
+[32:17] And he commanded the foremost, saying, When Esau my brother meeteth you, and asketh you, saying, Whose art you? and where goest you? and whose are these before you?
 [32:18] Then you shalt say, They be your servant Jacob's; it is a present sent unto my lord Esau: and, behold, also he is behind us.
 [32:19] And so commanded he the second, and the third, and all that followed the droves, saying, On this manner shall you speak unto Esau, when you find him.
 [32:20] And say you moreover, Behold, your servant Jacob is behind us. For he said, I will appease him with the present that goeth before me, and afterward I will see his face; peradventure he will accept of me.
@@ -1112,7 +1112,7 @@ Genesis
 [37:27] Come, and let us sell him to the Ishmaelites, and let not our hand be upon him; for he is our brother and our flesh. And his brothers were content.
 [37:28] Then there passed by Midianites merchantmen; and they drew and lifted up Joseph out of the pit, and sold Joseph to the Ishmaelites for twenty pieces of silver: and they brought Joseph into Egypt.
 [37:29] And Reuben returned unto the pit; and, behold, Joseph was not in the pit; and he rent his clothes.
-[37:30] And he returned unto his brothers, and said, The child is not; and I, whither shall I go?
+[37:30] And he returned unto his brothers, and said, The child is not; and I, where shall I go?
 [37:31] And they took Joseph's coat, and killed a kid of the goats, and dipped the coat in the blood;
 [37:32] And they sent the coat of many colors, and they brought it to their father; and said, This have we found: know now whether it be your son's coat or no.
 [37:33] And he knew it, and said, It is my son's coat; an evil beast hath devoured him; Joseph is without doubt rent in pieces.
@@ -1258,7 +1258,7 @@ Genesis
 [42:4] But Benjamin, Joseph's brother, Jacob sent not with his brothers; for he said, Lest peradventure mischief befall him.
 [42:5] And the sons of Israel came to buy corn among those that came: for the famine was in the land of Canaan.
 [42:6] And Joseph was the governor over the land, and he it was that sold to all the people of the land: and Joseph's brothers came, and bowed down themselves before him with their faces to the earth.
-[42:7] And Joseph saw his brothers, and he knew them, but made himself strange unto them, and spake roughly unto them; and he said unto them, Whence come you? And they said, From the land of Canaan to buy food.
+[42:7] And Joseph saw his brothers, and he knew them, but made himself strange unto them, and spake roughly unto them; and he said unto them, Where come you? And they said, From the land of Canaan to buy food.
 [42:8] And Joseph knew his brothers, but they knew not him.
 [42:9] And Joseph remembered the dreams which he dreamed of them, and said unto them, You are spies; to see the nakedness of the land you are come.
 [42:10] And they said unto him, Nay, my lord, but to buy food are your servants come.

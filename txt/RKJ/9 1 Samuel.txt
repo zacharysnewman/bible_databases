@@ -218,7 +218,7 @@
 [10:11] And it came to pass, when all that knew him beforetime saw that, behold, he prophesied among the prophets, then the people said one to another, What is this that is come unto the son of Kish? Is Saul also among the prophets?
 [10:12] And one of the same place answered and said, But who is their father? Therefore it became a proverb, Is Saul also among the prophets?
 [10:13] And when he had made an end of prophesying, he came to the high place.
-[10:14] And Saul's uncle said unto him and to his servant, Whither went you? And he said, To seek the asses: and when we saw that they were no where, we came to Samuel.
+[10:14] And Saul's uncle said unto him and to his servant, Where went you? And he said, To seek the asses: and when we saw that they were no where, we came to Samuel.
 [10:15] And Saul's uncle said, Tell me, I pray you, what Samuel said unto you.
 [10:16] And Saul said unto his uncle, He told us plainly that the asses were found. But of the matter of the kingdom, whereof Samuel spake, he told him not.
 [10:17] And Samuel called the people together unto the LORD to Mizpeh;
@@ -658,7 +658,7 @@
 [25:8] Ask your young men, and they will show you. Wherefore let the young men find favor in your eyes: for we come in a good day: give, I pray you, whatsoever cometh to your hand unto your servants, and to your son David.
 [25:9] And when David's young men came, they spake to Nabal according to all those words in the name of David, and ceased.
 [25:10] And Nabal answered David's servants, and said, Who is David? and who is the son of Jesse? there be many servants now a days that break away every man from his master.
-[25:11] Shall I then take my bread, and my water, and my flesh that I have killed for my shearers, and give it unto men, whom I know not whence they be?
+[25:11] Shall I then take my bread, and my water, and my flesh that I have killed for my shearers, and give it unto men, whom I know not where they be?
 [25:12] So David's young men turned their way, and went again, and came and told him all those sayings.
 [25:13] And David said unto his men, Gird you on every man his sword. And they girded on every man his sword; and David also girded on his sword: and there went up after David about four hundred men; and two hundred abode by the stuff.
 [25:14] But one of the young men told Abigail, Nabal's wife, saying, Behold, David sent messengers out of the wilderness to salute our master; and he railed on them.
@@ -726,7 +726,7 @@
 [27:7] And the time that David dwelt in the country of the Philistines was a full year and four months.
 [27:8] And David and his men went up, and invaded the Geshurites, and the Gezrites, and the Amalekites: for those nations were of old the inhabitants of the land, as you goest to Shur, even unto the land of Egypt.
 [27:9] And David smote the land, and left neither man nor woman alive, and took away the sheep, and the oxen, and the asses, and the camels, and the apparel, and returned, and came to Achish.
-[27:10] And Achish said, Whither have you made a road to day? And David said, Against the south of Judah, and against the south of the Jerahmeelites, and against the south of the Kenites.
+[27:10] And Achish said, Where have you made a road to day? And David said, Against the south of Judah, and against the south of the Jerahmeelites, and against the south of the Kenites.
 [27:11] And David saved neither man nor woman alive, to bring tidings to Gath, saying, Lest they should tell on us, saying, So did David, and so will be his manner all the while he dwelleth in the country of the Philistines.
 [27:12] And Achish believed David, saying, He hath made his people Israel utterly to abhor him; therefore he shall be my servant for ever.
 [28:1] And it came to pass in those days, that the Philistines gathered their armies together for warfare, to fight with Israel. And Achish said unto David, Know you assuredly, that you shalt go out with me to battle, you and your men.
@@ -777,7 +777,7 @@
 [30:10] But David pursued, he and four hundred men: for two hundred abode behind, which were so faint that they could not go over the brook Besor.
 [30:11] And they found an Egyptian in the field, and brought him to David, and gave him bread, and he did eat; and they made him drink water;
 [30:12] And they gave him a piece of a cake of figs, and two clusters of raisins: and when he had eaten, his spirit came again to him: for he had eaten no bread, nor drunk any water, three days and three nights.
-[30:13] And David said unto him, To whom belongest you? and whence art you? And he said, I am a young man of Egypt, servant to an Amalekite; and my master left me, because three days agone I fell sick.
+[30:13] And David said unto him, To whom belongest you? and where art you? And he said, I am a young man of Egypt, servant to an Amalekite; and my master left me, because three days agone I fell sick.
 [30:14] We made an invasion upon the south of the Cherethites, and upon the coast which belongeth to Judah, and upon the south of Caleb; and we burned Ziklag with fire.
 [30:15] And David said to him, Canst you bring me down to this company? And he said, Swear unto me by God, that you wilt neither kill me, nor deliver me into the hands of my master, and I will bring you down to this company.
 [30:16] And when he had brought him down, behold, they were spread abroad upon all the earth, eating and drinking, and dancing, because of all the great spoil that they had taken out of the land of the Philistines, and out of the land of Judah.

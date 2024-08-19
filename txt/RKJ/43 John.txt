@@ -46,7 +46,7 @@ John
 [1:45] Philip findeth Nathanael, and saith unto him, We have found him, of whom Moses in the law, and the prophets, did write, Jesus of Nazareth, the son of Joseph.
 [1:46] And Nathanael said unto him, Can there any good thing come out of Nazareth? Philip saith unto him, Come and see.
 [1:47] Jesus saw Nathanael coming to him, and saith of him, Behold an Israelite indeed, in whom is no guile!
-[1:48] Nathanael saith unto him, Whence knowest you me? Jesus answered and said unto him, Before that Philip called you, when you wast under the fig tree, I saw you.
+[1:48] Nathanael saith unto him, Where knowest you me? Jesus answered and said unto him, Before that Philip called you, when you wast under the fig tree, I saw you.
 [1:49] Nathanael answered and saith unto him, Rabbi, you art the Son of God; you art the King of Israel.
 [1:50] Jesus answered and said unto him, Because I said unto you, I saw you under the fig tree, believest you? you shalt see greater things than these.
 [1:51] And he saith unto him, Verily, verily, I say unto you, Hereafter you shall see heaven open, and the angels of God ascending and descending upon the Son of man.
@@ -58,7 +58,7 @@ John
 [2:6] And there were set there six waterpots of stone, after the manner of the purifying of the Jews, containing two or three firkins apiece.
 [2:7] Jesus saith unto them, Fill the waterpots with water. And they filled them up to the brim.
 [2:8] And he saith unto them, Draw out now, and bear unto the governor of the feast. And they bare it.
-[2:9] When the ruler of the feast had tasted the water that was made wine, and knew not whence it was: (but the servants which drew the water knew;) the governor of the feast called the bridegroom,
+[2:9] When the ruler of the feast had tasted the water that was made wine, and knew not where it was: (but the servants which drew the water knew;) the governor of the feast called the bridegroom,
 [2:10] And saith unto him, Every man at the beginning doth set forth good wine; and when men have well drunk, then that which is worse: but you have kept the good wine until now.
 [2:11] This beginning of miracles did Jesus in Cana of Galilee, and manifested forth his glory; and his disciples believed on him.
 [2:12] After this he went down to Capernaum, he, and his mother, and his brothers, and his disciples: and they continued there not many days.
@@ -82,7 +82,7 @@ John
 [3:5] Jesus answered, Verily, verily, I say unto you, Except a man be born of water and of the Spirit, he cannot enter into the kingdom of God.
 [3:6] That which is born of the flesh is flesh; and that which is born of the Spirit is spirit.
 [3:7] Marvel not that I said unto you, You must be born again.
-[3:8] The wind bloweth where it listeth, and you hearest the sound thereof, but canst not tell whence it cometh, and whither it goeth: so is every one that is born of the Spirit.
+[3:8] The wind bloweth where it listeth, and you hearest the sound thereof, but canst not tell where it cometh, and where it goeth: so is every one that is born of the Spirit.
 [3:9] Nicodemus answered and said unto him, How can these things be?
 [3:10] Jesus answered and said unto him, Art you a master of Israel, and knowest not these things?
 [3:11] Verily, verily, I say unto you, We speak that we do know, and testify that we have seen; and you receive not our witness.
@@ -121,7 +121,7 @@ John
 [4:8] (For his disciples were gone away unto the city to buy meat.)
 [4:9] Then saith the woman of Samaria unto him, How is it that you, being a Jew, askest drink of me, which am a woman of Samaria? for the Jews have no dealings with the Samaritans.
 [4:10] Jesus answered and said unto her, If you knewest the gift of God, and who it is that saith to you, Give me to drink; you wouldest have asked of him, and he would have given you living water.
-[4:11] The woman saith unto him, Sir, you have nothing to draw with, and the well is deep: from whence then have you that living water?
+[4:11] The woman saith unto him, Sir, you have nothing to draw with, and the well is deep: from where then have you that living water?
 [4:12] Art you greater than our father Jacob, which gave us the well, and drank thereof himself, and his children, and his cattle?
 [4:13] Jesus answered and said unto her, Whosoever drinketh of this water shall thirst again:
 [4:14] But whosoever drinketh of the water that I shall give him shall never thirst; but the water that I shall give him shall be in him a well of water springing up into everlasting life.
@@ -216,7 +216,7 @@ John
 [6:2] And a great multitude followed him, because they saw his miracles which he did on them that were diseased.
 [6:3] And Jesus went up into a mountain, and there he sat with his disciples.
 [6:4] And the passover, a feast of the Jews, was nigh.
-[6:5] When Jesus then lifted up his eyes, and saw a great company come unto him, he saith unto Philip, Whence shall we buy bread, that these may eat?
+[6:5] When Jesus then lifted up his eyes, and saw a great company come unto him, he saith unto Philip, Where shall we buy bread, that these may eat?
 [6:6] And this he said to prove him: for he himself knew what he would do.
 [6:7] Philip answered him, Two hundred pennyworth of bread is not sufficient for them, that every one of them may take a little.
 [6:8] One of his disciples, Andrew, Simon Peter's brother, saith unto him,
@@ -232,7 +232,7 @@ John
 [6:18] And the sea arose by reason of a great wind that blew.
 [6:19] So when they had rowed about five and twenty or thirty furlongs, they see Jesus walking on the sea, and drawing nigh unto the ship: and they were afraid.
 [6:20] But he saith unto them, It is I; be not afraid.
-[6:21] Then they willingly received him into the ship: and immediately the ship was at the land whither they went.
+[6:21] Then they willingly received him into the ship: and immediately the ship was at the land where they went.
 [6:22] The day following, when the people which stood on the other side of the sea saw that there was none other boat there, save that one whereinto his disciples were entered, and that Jesus went not with his disciples into the boat, but that his disciples were gone away alone;
 [6:23] (Howbeit there came other boats from Tiberias nigh unto the place where they did eat bread, after that the Lord had given thanks:)
 [6:24] When the people therefore saw that Jesus was not there, neither his disciples, they also took shipping, and came to Capernaum, seeking for Jesus.
@@ -309,15 +309,15 @@ John
 [7:24] Judge not according to the appearance, but judge righteous judgment.
 [7:25] Then said some of them of Jerusalem, Is not this he, whom they seek to kill?
 [7:26] But, lo, he speaketh boldly, and they say nothing unto him. Do the rulers know indeed that this is the very Christ?
-[7:27] Howbeit we know this man whence he is: but when Christ cometh, no man knoweth whence he is.
-[7:28] Then cried Jesus in the temple as he taught, saying, You both know me, and you know whence I am: and I am not come of myself, but he that sent me is true, whom you know not.
+[7:27] Howbeit we know this man where he is: but when Christ cometh, no man knoweth where he is.
+[7:28] Then cried Jesus in the temple as he taught, saying, You both know me, and you know where I am: and I am not come of myself, but he that sent me is true, whom you know not.
 [7:29] But I know him: for I am from him, and he hath sent me.
 [7:30] Then they sought to take him: but no man laid hands on him, because his hour was not yet come.
 [7:31] And many of the people believed on him, and said, When Christ cometh, will he do more miracles than these which this man hath done?
 [7:32] The Pharisees heard that the people murmured such things concerning him; and the Pharisees and the chief priests sent officers to take him.
 [7:33] Then said Jesus unto them, Yet a little while am I with you, and then I go unto him that sent me.
 [7:34] You shall seek me, and shall not find me: and where I am, thither you cannot come.
-[7:35] Then said the Jews among themselves, Whither will he go, that we shall not find him? will he go unto the dispersed among the Gentiles, and teach the Gentiles?
+[7:35] Then said the Jews among themselves, Where will he go, that we shall not find him? will he go unto the dispersed among the Gentiles, and teach the Gentiles?
 [7:36] What manner of saying is this that he said, You shall seek me, and shall not find me: and where I am, thither you cannot come?
 [7:37] In the last day, that great day of the feast, Jesus stood and cried, saying, If any man thirst, let him come unto me, and drink.
 [7:38] He that believeth on me, as the scripture hath said, out of his belly shall flow rivers of living water.
@@ -349,15 +349,15 @@ John
 [8:11] She said, No man, Lord. And Jesus said unto her, Neither do I condemn you: go, and sin no more.
 [8:12] Then spake Jesus again unto them, saying, I am the light of the world: he that followeth me shall not walk in darkness, but shall have the light of life.
 [8:13] The Pharisees therefore said unto him, You bearest record of thyself; your record is not true.
-[8:14] Jesus answered and said unto them, Though I bear record of myself, yet my record is true: for I know whence I came, and whither I go; but you cannot tell whence I come, and whither I go.
+[8:14] Jesus answered and said unto them, Though I bear record of myself, yet my record is true: for I know where I came, and where I go; but you cannot tell where I come, and where I go.
 [8:15] You judge after the flesh; I judge no man.
 [8:16] And yet if I judge, my judgment is true: for I am not alone, but I and the Father that sent me.
 [8:17] It is also written in your law, that the testimony of two men is true.
 [8:18] I am one that bear witness of myself, and the Father that sent me beareth witness of me.
 [8:19] Then said they unto him, Where is your Father? Jesus answered, You neither know me, nor my Father: if you had known me, you should have known my Father also.
 [8:20] These words spake Jesus in the treasury, as he taught in the temple: and no man laid hands on him; for his hour was not yet come.
-[8:21] Then said Jesus again unto them, I go my way, and you shall seek me, and shall die in your sins: whither I go, you cannot come.
-[8:22] Then said the Jews, Will he kill himself? because he saith, Whither I go, you cannot come.
+[8:21] Then said Jesus again unto them, I go my way, and you shall seek me, and shall die in your sins: where I go, you cannot come.
+[8:22] Then said the Jews, Will he kill himself? because he saith, Where I go, you cannot come.
 [8:23] And he said unto them, You are from beneath; I am from above: you are of this world; I am not of this world.
 [8:24] I said therefore unto you, that you shall die in your sins: for if you believe not that I am he, you shall die in your sins.
 [8:25] Then said they unto him, Who art you? And Jesus saith unto them, Even the same that I said unto you from the beginning.
@@ -423,8 +423,8 @@ John
 [9:26] Then said they to him again, What did he to you? how opened he your eyes?
 [9:27] He answered them, I have told you already, and you did not hear: wherefore would you hear it again? will you also be his disciples?
 [9:28] Then they reviled him, and said, You art his disciple; but we are Moses' disciples.
-[9:29] We know that God spake unto Moses: as for this fellow, we know not from whence he is.
-[9:30] The man answered and said unto them, Why herein is a marvellous thing, that you know not from whence he is, and yet he hath opened mine eyes.
+[9:29] We know that God spake unto Moses: as for this fellow, we know not from where he is.
+[9:30] The man answered and said unto them, Why herein is a marvellous thing, that you know not from where he is, and yet he hath opened mine eyes.
 [9:31] Now we know that God heareth not sinners: but if any man be a worshipper of God, and doeth his will, him he heareth.
 [9:32] Since the world began was it not heard that any man opened the eyes of one that was born blind.
 [9:33] If this man were not of God, he could do nothing.
@@ -569,7 +569,7 @@ John
 [12:32] And I, if I be lifted up from the earth, will draw all men unto me.
 [12:33] This he said, signifying what death he should die.
 [12:34] The people answered him, We have heard out of the law that Christ abideth for ever: and how say you, The Son of man must be lifted up? who is this Son of man?
-[12:35] Then Jesus said unto them, Yet a little while is the light with you. Walk while you have the light, lest darkness come upon you: for he that walketh in darkness knoweth not whither he goeth.
+[12:35] Then Jesus said unto them, Yet a little while is the light with you. Walk while you have the light, lest darkness come upon you: for he that walketh in darkness knoweth not where he goeth.
 [12:36] While you have light, believe in the light, that you may be the children of light. These things spake Jesus, and departed, and did hide himself from them.
 [12:37] But though he had done so many miracles before them, yet they believed not on him:
 [12:38] That the saying of Esaias the prophet might be fulfilled, which he spake, Lord, who hath believed our report? and to whom hath the arm of the Lord been revealed?
@@ -617,17 +617,17 @@ John
 [13:30] He then having received the sop went immediately out: and it was night.
 [13:31] Therefore, when he was gone out, Jesus said, Now is the Son of man glorified, and God is glorified in him.
 [13:32] If God be glorified in him, God shall also glorify him in himself, and shall straightway glorify him.
-[13:33] Little children, yet a little while I am with you. You shall seek me: and as I said unto the Jews, Whither I go, you cannot come; so now I say to you.
+[13:33] Little children, yet a little while I am with you. You shall seek me: and as I said unto the Jews, Where I go, you cannot come; so now I say to you.
 [13:34] A new commandment I give unto you, That you love one another; as I have loved you, that you also love one another.
 [13:35] By this shall all men know that you are my disciples, if you have love one to another.
-[13:36] Simon Peter said unto him, Lord, whither goest you? Jesus answered him, Whither I go, you canst not follow me now; but you shalt follow me afterwards.
+[13:36] Simon Peter said unto him, Lord, where goest you? Jesus answered him, Where I go, you canst not follow me now; but you shalt follow me afterwards.
 [13:37] Peter said unto him, Lord, why cannot I follow you now? I will lay down my life for your sake.
 [13:38] Jesus answered him, Wilt you lay down your life for my sake? Verily, verily, I say unto you, The cock shall not crow, till you have denied me thrice.
 [14:1] Let not your heart be troubled: you believe in God, believe also in me.
 [14:2] In my Father's house are many mansions: if it were not so, I would have told you. I go to prepare a place for you.
 [14:3] And if I go and prepare a place for you, I will come again, and receive you unto myself; that where I am, there you may be also.
-[14:4] And whither I go you know, and the way you know.
-[14:5] Thomas saith unto him, Lord, we know not whither you goest; and how can we know the way?
+[14:4] And where I go you know, and the way you know.
+[14:5] Thomas saith unto him, Lord, we know not where you goest; and how can we know the way?
 [14:6] Jesus saith unto him, I am the way, the truth, and the life: no man cometh unto the Father, but by me.
 [14:7] If you had known me, you should have known my Father also: and from henceforth you know him, and have seen him.
 [14:8] Philip saith unto him, Lord, shew us the Father, and it sufficeth us.
@@ -685,7 +685,7 @@ John
 [16:2] They shall put you out of the synagogues: yea, the time cometh, that whosoever killeth you will think that he doeth God service.
 [16:3] And these things will they do unto you, because they have not known the Father, nor me.
 [16:4] But these things have I told you, that when the time shall come, you may remember that I told you of them. And these things I said not unto you at the beginning, because I was with you.
-[16:5] But now I go my way to him that sent me; and none of you asketh me, Whither goest you?
+[16:5] But now I go my way to him that sent me; and none of you asketh me, Where goest you?
 [16:6] But because I have said these things unto you, sorrow hath filled your heart.
 [16:7] Nevertheless I tell you the truth; It is expedient for you that I go away: for if I go not away, the Comforter will not come unto you; but if I depart, I will send him unto you.
 [16:8] And when he is come, he will reprove the world of sin, and of righteousness, and of judgment:
@@ -759,7 +759,7 @@ John
 [18:17] Then saith the damsel that kept the door unto Peter, Art not you also one of this man's disciples? He saith, I am not.
 [18:18] And the servants and officers stood there, who had made a fire of coals; for it was cold: and they warmed themselves: and Peter stood with them, and warmed himself.
 [18:19] The high priest then asked Jesus of his disciples, and of his doctrine.
-[18:20] Jesus answered him, I spake openly to the world; I ever taught in the synagogue, and in the temple, whither the Jews always resort; and in secret have I said nothing.
+[18:20] Jesus answered him, I spake openly to the world; I ever taught in the synagogue, and in the temple, where the Jews always resort; and in secret have I said nothing.
 [18:21] Why askest you me? ask them which heard me, what I have said unto them: behold, they know what I said.
 [18:22] And when he had thus spoken, one of the officers which stood by struck Jesus with the palm of his hand, saying, Answerest you the high priest so?
 [18:23] Jesus answered him, If I have spoken evil, bear witness of the evil: but if well, why smitest you me?
@@ -788,7 +788,7 @@ John
 [19:6] When the chief priests therefore and officers saw him, they cried out, saying, Crucify him, crucify him. Pilate saith unto them, Take you him, and crucify him: for I find no fault in him.
 [19:7] The Jews answered him, We have a law, and by our law he ought to die, because he made himself the Son of God.
 [19:8] When Pilate therefore heard that saying, he was the more afraid;
-[19:9] And went again into the judgment hall, and saith unto Jesus, Whence art you? But Jesus gave him no answer.
+[19:9] And went again into the judgment hall, and saith unto Jesus, Where art you? But Jesus gave him no answer.
 [19:10] Then saith Pilate unto him, Speakest you not unto me? knowest you not that I have power to crucify you, and have power to release you?
 [19:11] Jesus answered, You couldest have no power at all against me, except it were given you from above: therefore he that delivered me unto you hath the greater sin.
 [19:12] And from thenceforth Pilate sought to release him: but the Jews cried out, saying, If you let this man go, you art not Caesar's friend: whosoever maketh himself a king speaketh against Caesar.
@@ -870,7 +870,7 @@ John
 [21:15] So when they had dined, Jesus saith to Simon Peter, Simon, son of Jonas, love you me more than these? He saith unto him, Yea, Lord; you knowest that I love you. He saith unto him, Feed my lambs.
 [21:16] He saith to him again the second time, Simon, son of Jonas, love you me? He saith unto him, Yea, Lord; you knowest that I love you. He saith unto him, Feed my sheep.
 [21:17] He saith unto him the third time, Simon, son of Jonas, love you me? Peter was grieved because he said unto him the third time, Love you me? And he said unto him, Lord, you knowest all things; you knowest that I love you. Jesus saith unto him, Feed my sheep.
-[21:18] Verily, verily, I say unto you, When you wast young, you girdest thyself, and walkedst whither you wouldest: but when you shalt be old, you shalt stretch forth your hands, and another shall gird you, and carry you whither you wouldest not.
+[21:18] Verily, verily, I say unto you, When you wast young, you girdest thyself, and walkedst where you wouldest: but when you shalt be old, you shalt stretch forth your hands, and another shall gird you, and carry you where you wouldest not.
 [21:19] This spake he, signifying by what death he should glorify God. And when he had spoken this, he saith unto him, Follow me.
 [21:20] Then Peter, turning about, seeth the disciple whom Jesus loved following; which also leaned on his breast at supper, and said, Lord, which is he that betrayeth you?
 [21:21] Peter seeing him saith to Jesus, Lord, and what shall this man do?

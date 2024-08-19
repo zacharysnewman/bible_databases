@@ -137,7 +137,7 @@
 [5:22] And he said, All is well. My master hath sent me, saying, Behold, even now there be come to me from mount Ephraim two young men of the sons of the prophets: give them, I pray you, a talent of silver, and two changes of garments.
 [5:23] And Naaman said, Be content, take two talents. And he urged him, and bound two talents of silver in two bags, with two changes of garments, and laid them upon two of his servants; and they bare them before him.
 [5:24] And when he came to the tower, he took them from their hand, and bestowed them in the house: and he let the men go, and they departed.
-[5:25] But he went in, and stood before his master. And Elisha said unto him, Whence come you, Gehazi? And he said, Your servant went no whither.
+[5:25] But he went in, and stood before his master. And Elisha said unto him, Where come you, Gehazi? And he said, Your servant went no where.
 [5:26] And he said unto him, Went not mine heart with you, when the man turned again from his chariot to meet you? Is it a time to receive money, and to receive garments, and oliveyards, and vineyards, and sheep, and oxen, and menservants, and maidservants?
 [5:27] The leprosy therefore of Naaman shall cleave unto you, and unto your seed for ever. And he went out from his presence a leper as white as snow.
 [6:1] And the sons of the prophets said unto Elisha, Behold now, the place where we dwell with you is too strait for us.
@@ -166,7 +166,7 @@
 [6:24] And it came to pass after this, that Benhadad king of Syria gathered all his host, and went up, and besieged Samaria.
 [6:25] And there was a great famine in Samaria: and, behold, they besieged it, until an ass's head was sold for fourscore pieces of silver, and the fourth part of a cab of dove's dung for five pieces of silver.
 [6:26] And as the king of Israel was passing by upon the wall, there cried a woman unto him, saying, Help, my lord, O king.
-[6:27] And he said, If the LORD do not help you, whence shall I help you? out of the barnfloor, or out of the winepress?
+[6:27] And he said, If the LORD do not help you, where shall I help you? out of the barnfloor, or out of the winepress?
 [6:28] And the king said unto her, What aileth you? And she answered, This woman said unto me, Give your son, that we may eat him to day, and we will eat my son to morrow.
 [6:29] So we boiled my son, and did eat him: and I said unto her on the next day, Give your son, that we may eat him: and she hath hid her son.
 [6:30] And it came to pass, when the king heard the words of the woman, that he rent his clothes; and he passed by upon the wall, and the people looked, and, behold, he had sackcloth within upon his flesh.
@@ -577,7 +577,7 @@
 [20:11] And Isaiah the prophet cried unto the LORD: and he brought the shadow ten degrees backward, by which it had gone down in the dial of Ahaz.
 [20:12] At that time Berodachbaladan, the son of Baladan, king of Babylon, sent letters and a present unto Hezekiah: for he had heard that Hezekiah had been sick.
 [20:13] And Hezekiah hearkened unto them, and showed them all the house of his precious things, the silver, and the gold, and the spices, and the precious ointment, and all the house of his armor, and all that was found in his treasures: there was nothing in his house, nor in all his dominion, that Hezekiah showed them not.
-[20:14] Then came Isaiah the prophet unto king Hezekiah, and said unto him, What said these men? and from whence came they unto you? And Hezekiah said, They are come from a far country, even from Babylon.
+[20:14] Then came Isaiah the prophet unto king Hezekiah, and said unto him, What said these men? and from where came they unto you? And Hezekiah said, They are come from a far country, even from Babylon.
 [20:15] And he said, What have they seen in your house? And Hezekiah answered, All the things that are in mine house have they seen: there is nothing among my treasures that I have not showed them.
 [20:16] And Isaiah said unto Hezekiah, Hear the word of the LORD.
 [20:17] Behold, the days come, that all that is in your house, and that which your fathers have laid up in store unto this day, shall be carried into Babylon: nothing shall be left, saith the LORD.

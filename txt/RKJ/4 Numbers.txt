@@ -431,7 +431,7 @@ Numbers
 [11:10] Then Moses heard the people weep throughout their families, every man in the door of his tent: and the anger of the LORD was kindled greatly; Moses also was displeased.
 [11:11] And Moses said unto the LORD, Wherefore have you afflicted your servant? and wherefore have I not found favor in your sight, that you layest the burden of all this people upon me?
 [11:12] Have I conceived all this people? have I begotten them, that you should say unto me, Carry them in your bosom, as a nursing father beareth the sucking child, unto the land which you swarest unto their fathers?
-[11:13] Whence should I have flesh to give unto all this people? for they weep unto me, saying, Give us flesh, that we may eat.
+[11:13] Where should I have flesh to give unto all this people? for they weep unto me, saying, Give us flesh, that we may eat.
 [11:14] I am not able to bear all this people alone, because it is too heavy for me.
 [11:15] And if you deal thus with me, kill me, I pray you, out of hand, if I have found favor in your sight; and let me not see my wretchedness.
 [11:16] And the LORD said unto Moses, Gather unto me seventy men of the elders of Israel, whom you knowest to be the elders of the people, and officers over them; and bring them unto the tabernacle of the congregation, that they may stand there with you.
@@ -496,7 +496,7 @@ Numbers
 [13:24] The place was called the brook Eshcol, because of the cluster of grapes which the children of Israel cut down from thence.
 [13:25] And they returned from searching of the land after forty days.
 [13:26] And they went and came to Moses, and to Aaron, and to all the congregation of the children of Israel, unto the wilderness of Paran, to Kadesh; and brought back word unto them, and unto all the congregation, and showed them the fruit of the land.
-[13:27] And they told him, and said, We came unto the land whither you sentest us, and surely it floweth with milk and honey; and this is the fruit of it.
+[13:27] And they told him, and said, We came unto the land where you sentest us, and surely it floweth with milk and honey; and this is the fruit of it.
 [13:28] Nevertheless the people be strong that dwell in the land, and the cities are walled, and very great: and moreover we saw the children of Anak there.
 [13:29] The Amalekites dwell in the land of the south: and the Hittites, and the Jebusites, and the Amorites, dwell in the mountains: and the Canaanites dwell by the sea, and by the coast of Jordan.
 [13:30] And Caleb stilled the people before Moses, and said, Let us go up at once, and possess it; for we are well able to overcome it.
@@ -565,7 +565,7 @@ Numbers
 [15:15] One ordinance shall be both for you of the congregation, and also for the stranger that sojourneth with you, an ordinance for ever in your generations: as you are, so shall the stranger be before the LORD.
 [15:16] One law and one manner shall be for you, and for the stranger that sojourneth with you.
 [15:17] And the LORD spake unto Moses, saying,
-[15:18] Speak unto the children of Israel, and say unto them, When you come into the land whither I bring you,
+[15:18] Speak unto the children of Israel, and say unto them, When you come into the land where I bring you,
 [15:19] Then it shall be, that, when you eat of the bread of the land, you shall offer up an heave offering unto the LORD.
 [15:20] You shall offer up a cake of the first of your dough for an heave offering: as you do the heave offering of the threshingfloor, so shall you heave it.
 [15:21] Of the first of your dough you shall give unto the LORD an heave offering in your generations.
@@ -823,7 +823,7 @@ Numbers
 [23:10] Who can count the dust of Jacob, and the number of the fourth part of Israel? Let me die the death of the righteous, and let my last end be like his!
 [23:11] And Balak said unto Balaam, What have you done unto me? I took you to curse mine enemies, and, behold, you have blessed them altogether.
 [23:12] And he answered and said, Must I not take heed to speak that which the LORD hath put in my mouth?
-[23:13] And Balak said unto him, Come, I pray you, with me unto another place, from whence you may see them: you shalt see but the utmost part of them, and shalt not see them all: and curse me them from thence.
+[23:13] And Balak said unto him, Come, I pray you, with me unto another place, from where you may see them: you shalt see but the utmost part of them, and shalt not see them all: and curse me them from thence.
 [23:14] And he brought him into the field of Zophim, to the top of Pisgah, and built seven altars, and offered a bullock and a ram on every altar.
 [23:15] And he said unto Balak, Stand here by your burnt offering, while I meet the LORD yonder.
 [23:16] And the LORD met Balaam, and put a word in his mouth, and said, Go again unto Balak, and say thus.
@@ -1264,8 +1264,8 @@ Numbers
 [35:22] But if he thrust him suddenly without enmity, or have cast upon him any thing without laying of wait,
 [35:23] Or with any stone, wherewith a man may die, seeing him not, and cast it upon him, that he die, and was not his enemy, neither sought his harm:
 [35:24] Then the congregation shall judge between the slayer and the revenger of blood according to these judgments:
-[35:25] And the congregation shall deliver the slayer out of the hand of the revenger of blood, and the congregation shall restore him to the city of his refuge, whither he was fled: and he shall abide in it unto the death of the high priest, which was anointed with the holy oil.
-[35:26] But if the slayer shall at any time come without the border of the city of his refuge, whither he was fled;
+[35:25] And the congregation shall deliver the slayer out of the hand of the revenger of blood, and the congregation shall restore him to the city of his refuge, where he was fled: and he shall abide in it unto the death of the high priest, which was anointed with the holy oil.
+[35:26] But if the slayer shall at any time come without the border of the city of his refuge, where he was fled;
 [35:27] And the revenger of blood find him without the borders of the city of his refuge, and the revenger of blood kill the slayer; he shall not be guilty of blood:
 [35:28] Because he should have remained in the city of his refuge until the death of the high priest: but after the death of the high priest the slayer shall return into the land of his possession.
 [35:29] So these things shall be for a statute of judgment unto you throughout your generations in all your dwellings.

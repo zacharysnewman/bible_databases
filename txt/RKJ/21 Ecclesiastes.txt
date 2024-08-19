@@ -5,7 +5,7 @@ Ecclesiastes
 [1:4] One generation passeth away, and another generation cometh: but the earth abideth for ever.
 [1:5] The sun also ariseth, and the sun goeth down, and hasteth to his place where he arose.
 [1:6] The wind goeth toward the south, and turneth about unto the north; it whirleth about continually, and the wind returneth again according to his circuits.
-[1:7] All the rivers run into the sea; yet the sea is not full; unto the place from whence the rivers come, thither they return again.
+[1:7] All the rivers run into the sea; yet the sea is not full; unto the place from where the rivers come, thither they return again.
 [1:8] All things are full of labour; man cannot utter it: the eye is not satisfied with seeing, nor the ear filled with hearing.
 [1:9] The thing that hath been, it is that which shall be; and that which is done is that which shall be done: and there is no new thing under the sun.
 [1:10] Is there any thing whereof it may be said, See, this is new? it hath been already of old time, which was before us.
@@ -168,7 +168,7 @@ Ecclesiastes
 [9:7] Go your way, eat your bread with joy, and drink your wine with a merry heart; for God now accepteth your works.
 [9:8] Let your garments be always white; and let your head lack no ointment.
 [9:9] Live joyfully with the wife whom you love all the days of the life of your vanity, which he hath given you under the sun, all the days of your vanity: for that is your portion in this life, and in your labour which you takest under the sun.
-[9:10] Whatsoever your hand findeth to do, do it with your might; for there is no work, nor device, nor knowledge, nor wisdom, in the grave, whither you goest.
+[9:10] Whatsoever your hand findeth to do, do it with your might; for there is no work, nor device, nor knowledge, nor wisdom, in the grave, where you goest.
 [9:11] I returned, and saw under the sun, that the race is not to the swift, nor the battle to the strong, neither yet bread to the wise, nor yet riches to men of understanding, nor yet favour to men of skill; but time and chance happeneth to them all.
 [9:12] For man also knoweth not his time: as the fishes that are taken in an evil net, and as the birds that are caught in the snare; so are the sons of men snared in an evil time, when it falleth suddenly upon them.
 [9:13] This wisdom have I seen also under the sun, and it seemed great unto me:

@@ -507,7 +507,7 @@ Leviticus
 [17:16] But if he wash them not, nor bathe his flesh; then he shall bear his iniquity.
 [18:1] And the LORD spake unto Moses, saying,
 [18:2] Speak unto the children of Israel, and say unto them, I am the LORD your God.
-[18:3] After the doings of the land of Egypt, wherein you dwelt, shall you not do: and after the doings of the land of Canaan, whither I bring you, shall you not do: neither shall you walk in their ordinances.
+[18:3] After the doings of the land of Egypt, wherein you dwelt, shall you not do: and after the doings of the land of Canaan, where I bring you, shall you not do: neither shall you walk in their ordinances.
 [18:4] You shall do my judgments, and keep mine ordinances, to walk therein: I am the LORD your God.
 [18:5] You shall therefore keep my statutes, and my judgments: which if a man do, he shall live in them: I am the LORD.
 [18:6] None of you shall approach to any that is near of kin to him, to uncover their nakedness: I am the LORD.
@@ -593,7 +593,7 @@ Leviticus
 [20:19] And you shalt not uncover the nakedness of your mother's sister, nor of your father's sister: for he uncovereth his near kin: they shall bear their iniquity.
 [20:20] And if a man shall lie with his uncle's wife, he hath uncovered his uncle's nakedness: they shall bear their sin; they shall die childless.
 [20:21] And if a man shall take his brother's wife, it is an unclean thing: he hath uncovered his brother's nakedness; they shall be childless.
-[20:22] You shall therefore keep all my statutes, and all my judgments, and do them: that the land, whither I bring you to dwell therein, spue you not out.
+[20:22] You shall therefore keep all my statutes, and all my judgments, and do them: that the land, where I bring you to dwell therein, spue you not out.
 [20:23] And you shall not walk in the manners of the nation, which I cast out before you: for they committed all these things, and therefore I abhorred them.
 [20:24] But I have said unto you, You shall inherit their land, and I will give it unto you to possess it, a land that floweth with milk and honey: I am the LORD your God, which have separated you from other people.
 [20:25] You shall therefore put difference between clean beasts and unclean, and between unclean fowls and clean: and you shall not make your souls abominable by beast, or by fowl, or by any manner of living thing that creepeth on the ground, which I have separated from you as unclean.

@@ -10,7 +10,7 @@ Ezekiel
 [1:9] Their wings were joined one to another; they turned not when they went; they went every one straight forward.
 [1:10] As for the likeness of their faces, they four had the face of a man, and the face of a lion, on the right side: and they four had the face of an ox on the left side; they four also had the face of an eagle.
 [1:11] Thus were their faces: and their wings were stretched upward; two wings of every one were joined one to another, and two covered their bodies.
-[1:12] And they went every one straight forward: whither the spirit was to go, they went; and they turned not when they went.
+[1:12] And they went every one straight forward: where the spirit was to go, they went; and they turned not when they went.
 [1:13] As for the likeness of the living creatures, their appearance was like burning coals of fire, and like the appearance of lamps: it went up and down among the living creatures; and the fire was bright, and out of the fire went forth lightning.
 [1:14] And the living creatures ran and returned as the appearance of a flash of lightning.
 [1:15] Now as I beheld the living creatures, behold one wheel upon the earth by the living creatures, with his four faces.
@@ -76,7 +76,7 @@ Ezekiel
 [4:10] And your meat which you shalt eat shall be by weight, twenty shekels a day: from time to time shalt you eat it.
 [4:11] You shalt drink also water by measure, the sixth part of an hin: from time to time shalt you drink.
 [4:12] And you shalt eat it as barley cakes, and you shalt bake it with dung that cometh out of man, in their sight.
-[4:13] And the LORD said, Even thus shall the children of Israel eat their defiled bread among the Gentiles, whither I will drive them.
+[4:13] And the LORD said, Even thus shall the children of Israel eat their defiled bread among the Gentiles, where I will drive them.
 [4:14] Then said I, Ah Lord GOD! behold, my soul hath not been polluted: for from my youth up even till now have I not eaten of that which dieth of itself, or is torn in pieces; neither came there abominable flesh into my mouth.
 [4:15] Then he said unto me, Lo, I have given you cow's dung for man's dung, and you shalt prepare your bread therewith.
 [4:16] Moreover he said unto me, Son of man, behold, I will break the staff of bread in Jerusalem: and they shall eat bread by weight, and with care; and they shall drink water by measure, and with astonishment:
@@ -106,7 +106,7 @@ Ezekiel
 [6:6] In all your dwellingplaces the cities shall be laid waste, and the high places shall be desolate; that your altars may be laid waste and made desolate, and your idols may be broken and cease, and your images may be cut down, and your works may be abolished.
 [6:7] And the slain shall fall in the midst of you, and you shall know that I am the LORD.
 [6:8] Yet will I leave a remnant, that you may have some that shall escape the sword among the nations, when you shall be scattered through the countries.
-[6:9] And they that escape of you shall remember me among the nations whither they shall be carried captives, because I am broken with their whorish heart, which hath departed from me, and with their eyes, which go a whoring after their idols: and they shall lothe themselves for the evils which they have committed in all their abominations.
+[6:9] And they that escape of you shall remember me among the nations where they shall be carried captives, because I am broken with their whorish heart, which hath departed from me, and with their eyes, which go a whoring after their idols: and they shall lothe themselves for the evils which they have committed in all their abominations.
 [6:10] And they shall know that I am the LORD, and that I have not said in vain that I would do this evil unto them.
 [6:11] Thus saith the Lord GOD; Smite with your hand, and stamp with your foot, and say, Alas for all the evil abominations of the house of Israel! for they shall fall by the sword, by the famine, and by the pestilence.
 [6:12] He that is far off shall die of the pestilence; and he that is near shall fall by the sword; and he that remaineth and is besieged shall die by the famine: thus will I accomplish my fury upon them.
@@ -178,7 +178,7 @@ Ezekiel
 [10:8] And there appeared in the cherubims the form of a man's hand under their wings.
 [10:9] And when I looked, behold the four wheels by the cherubims, one wheel by one cherub, and another wheel by another cherub: and the appearance of the wheels was as the colour of a beryl stone.
 [10:10] And as for their appearances, they four had one likeness, as if a wheel had been in the midst of a wheel.
-[10:11] When they went, they went upon their four sides; they turned not as they went, but to the place whither the head looked they followed it; they turned not as they went.
+[10:11] When they went, they went upon their four sides; they turned not as they went, but to the place where the head looked they followed it; they turned not as they went.
 [10:12] And their whole body, and their backs, and their hands, and their wings, and the wheels, were full of eyes round about, even the wheels that they four had.
 [10:13] As for the wheels, it was cried unto them in my hearing, O wheel.
 [10:14] And every one had four faces: the first face was the face of a cherub, and the second face was the face of a man, and the third the face of a lion, and the fourth the face of an eagle.
@@ -230,7 +230,7 @@ Ezekiel
 [12:13] My net also will I spread upon him, and he shall be taken in my snare: and I will bring him to Babylon to the land of the Chaldeans; yet shall he not see it, though he shall die there.
 [12:14] And I will scatter toward every wind all that are about him to help him, and all his bands; and I will draw out the sword after them.
 [12:15] And they shall know that I am the LORD, when I shall scatter them among the nations, and disperse them in the countries.
-[12:16] But I will leave a few men of them from the sword, from the famine, and from the pestilence; that they may declare all their abominations among the heathen whither they come; and they shall know that I am the LORD.
+[12:16] But I will leave a few men of them from the sword, from the famine, and from the pestilence; that they may declare all their abominations among the heathen where they come; and they shall know that I am the LORD.
 [12:17] Moreover the word of the LORD came to me, saying,
 [12:18] Son of man, eat your bread with quaking, and drink your water with trembling and with carefulness;
 [12:19] And say unto the people of the land, Thus saith the Lord GOD of the inhabitants of Jerusalem, and of the land of Israel; They shall eat their bread with carefulness, and drink their water with astonishment, that her land may be desolate from all that is therein, because of the violence of all them that dwell therein.
@@ -730,7 +730,7 @@ Ezekiel
 [29:10] Behold, therefore I am against you, and against your rivers, and I will make the land of Egypt utterly waste and desolate, from the tower of Syene even unto the border of Ethiopia.
 [29:11] No foot of man shall pass through it, nor foot of beast shall pass through it, neither shall it be inhabited forty years.
 [29:12] And I will make the land of Egypt desolate in the midst of the countries that are desolate, and her cities among the cities that are laid waste shall be desolate forty years: and I will scatter the Egyptians among the nations, and will disperse them through the countries.
-[29:13] Yet thus saith the Lord GOD; At the end of forty years will I gather the Egyptians from the people whither they were scattered:
+[29:13] Yet thus saith the Lord GOD; At the end of forty years will I gather the Egyptians from the people where they were scattered:
 [29:14] And I will bring again the captivity of Egypt, and will cause them to return into the land of Pathros, into the land of their habitation; and they shall be there a base kingdom.
 [29:15] It shall be the basest of the kingdoms; neither shall it exalt itself any more above the nations: for I will diminish them, that they shall no more rule over the nations.
 [29:16] And it shall be no more the confidence of the house of Israel, which bringeth their iniquity to remembrance, when they shall look after them: but they shall know that I am the Lord GOD.
@@ -913,9 +913,9 @@ Ezekiel
 [36:17] Son of man, when the house of Israel dwelt in their own land, they defiled it by their own way and by their doings: their way was before me as the uncleanness of a removed woman.
 [36:18] Wherefore I poured my fury upon them for the blood that they had shed upon the land, and for their idols wherewith they had polluted it:
 [36:19] And I scattered them among the heathen, and they were dispersed through the countries: according to their way and according to their doings I judged them.
-[36:20] And when they entered unto the heathen, whither they went, they profaned my holy name, when they said to them, These are the people of the LORD, and are gone forth out of his land.
-[36:21] But I had pity for mine holy name, which the house of Israel had profaned among the heathen, whither they went.
-[36:22] Therefore say unto the house of Israel, thus saith the Lord GOD; I do not this for your sakes, O house of Israel, but for mine holy name's sake, which you have profaned among the heathen, whither you went.
+[36:20] And when they entered unto the heathen, where they went, they profaned my holy name, when they said to them, These are the people of the LORD, and are gone forth out of his land.
+[36:21] But I had pity for mine holy name, which the house of Israel had profaned among the heathen, where they went.
+[36:22] Therefore say unto the house of Israel, thus saith the Lord GOD; I do not this for your sakes, O house of Israel, but for mine holy name's sake, which you have profaned among the heathen, where you went.
 [36:23] And I will sanctify my great name, which was profaned among the heathen, which you have profaned in the midst of them; and the heathen shall know that I am the LORD, saith the Lord GOD, when I shall be sanctified in you before their eyes.
 [36:24] For I will take you from among the heathen, and gather you out of all countries, and will bring you into your own land.
 [36:25] Then will I sprinkle clean water upon you, and you shall be clean: from all your filthiness, and from all your idols, will I cleanse you.
@@ -952,7 +952,7 @@ Ezekiel
 [37:18] And when the children of your people shall speak unto you, saying, Wilt you not shew us what you meanest by these?
 [37:19] Say unto them, Thus saith the Lord GOD; Behold, I will take the stick of Joseph, which is in the hand of Ephraim, and the tribes of Israel his fellows, and will put them with him, even with the stick of Judah, and make them one stick, and they shall be one in mine hand.
 [37:20] And the sticks whereon you writest shall be in your hand before their eyes.
-[37:21] And say unto them, Thus saith the Lord GOD; Behold, I will take the children of Israel from among the heathen, whither they be gone, and will gather them on every side, and bring them into their own land:
+[37:21] And say unto them, Thus saith the Lord GOD; Behold, I will take the children of Israel from among the heathen, where they be gone, and will gather them on every side, and bring them into their own land:
 [37:22] And I will make them one nation in the land upon the mountains of Israel; and one king shall be king to them all: and they shall be no more two nations, neither shall they be divided into two kingdoms any more at all.
 [37:23] Neither shall they defile themselves any more with their idols, nor with their detestable things, nor with any of their transgressions: but I will save them out of all their dwellingplaces, wherein they have sinned, and will cleanse them: so shall they be my people, and I will be their God.
 [37:24] And David my servant shall be king over them; and they all shall have one shepherd: they shall also walk in my judgments, and observe my statutes, and do them.
@@ -1222,7 +1222,7 @@ Ezekiel
 [47:6] And he said unto me, Son of man, have you seen this? Then he brought me, and caused me to return to the brink of the river.
 [47:7] Now when I had returned, behold, at the bank of the river were very many trees on the one side and on the other.
 [47:8] Then said he unto me, These waters issue out toward the east country, and go down into the desert, and go into the sea: which being brought forth into the sea, the waters shall be healed.
-[47:9] And it shall come to pass, that every thing that liveth, which moveth, whithersoever the rivers shall come, shall live: and there shall be a very great multitude of fish, because these waters shall come thither: for they shall be healed; and every thing shall live whither the river cometh.
+[47:9] And it shall come to pass, that every thing that liveth, which moveth, whithersoever the rivers shall come, shall live: and there shall be a very great multitude of fish, because these waters shall come thither: for they shall be healed; and every thing shall live where the river cometh.
 [47:10] And it shall come to pass, that the fishers shall stand upon it from Engedi even unto Eneglaim; they shall be a place to spread forth nets; their fish shall be according to their kinds, as the fish of the great sea, exceeding many.
 [47:11] But the miry places thereof and the marishes thereof shall not be healed; they shall be given to salt.
 [47:12] And by the river upon the bank thereof, on this side and on that side, shall grow all trees for meat, whose leaf shall not fade, neither shall the fruit thereof be consumed: it shall bring forth new fruit according to his months, because their waters they issued out of the sanctuary: and the fruit thereof shall be for meat, and the leaf thereof for medicine.

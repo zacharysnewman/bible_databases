@@ -208,7 +208,7 @@ Jeremiah
 [7:34] Then will I cause to cease from the cities of Judah, and from the streets of Jerusalem, the voice of mirth, and the voice of gladness, the voice of the bridegroom, and the voice of the bride: for the land shall be desolate.
 [8:1] At that time, saith the LORD, they shall bring out the bones of the kings of Judah, and the bones of his princes, and the bones of the priests, and the bones of the prophets, and the bones of the inhabitants of Jerusalem, out of their graves:
 [8:2] And they shall spread them before the sun, and the moon, and all the host of heaven, whom they have loved, and whom they have served, and after whom they have walked, and whom they have sought, and whom they have worshipped: they shall not be gathered, nor be buried; they shall be for dung upon the face of the earth.
-[8:3] And death shall be chosen rather than life by all the residue of them that remain of this evil family, which remain in all the places whither I have driven them, saith the LORD of hosts.
+[8:3] And death shall be chosen rather than life by all the residue of them that remain of this evil family, which remain in all the places where I have driven them, saith the LORD of hosts.
 [8:4] Moreover you shalt say unto them, Thus saith the LORD; Shall they fall, and not arise? shall he turn away, and not return?
 [8:5] Why then is this people of Jerusalem slidden back by a perpetual backsliding? they hold fast deceit, they refuse to return.
 [8:6] I hearkened and heard, but they spake not aright: no man repented him of his wickedness, saying, What have I done? every one turned to his course, as the horse rusheth into the battle.
@@ -369,7 +369,7 @@ Jeremiah
 [14:21] Do not abhor us, for your name's sake, do not disgrace the throne of your glory: remember, break not your covenant with us.
 [14:22] Are there any among the vanities of the Gentiles that can cause rain? or can the heavens give showers? art not you he, O LORD our God? therefore we will wait upon you: for you have made all these things.
 [15:1] Then said the LORD unto me, Though Moses and Samuel stood before me, yet my mind could not be toward this people: cast them out of my sight, and let them go forth.
-[15:2] And it shall come to pass, if they say unto you, Whither shall we go forth? then you shalt tell them, Thus saith the LORD; Such as are for death, to death; and such as are for the sword, to the sword; and such as are for the famine, to the famine; and such as are for the captivity, to the captivity.
+[15:2] And it shall come to pass, if they say unto you, Where shall we go forth? then you shalt tell them, Thus saith the LORD; Such as are for death, to death; and such as are for the sword, to the sword; and such as are for the famine, to the famine; and such as are for the captivity, to the captivity.
 [15:3] And I will appoint over them four kinds, saith the LORD: the sword to slay, and the dogs to tear, and the fowls of the heaven, and the beasts of the earth, to devour and destroy.
 [15:4] And I will cause them to be removed into all kingdoms of the earth, because of Manasseh the son of Hezekiah king of Judah, for that which he did in Jerusalem.
 [15:5] For who shall have pity upon you, O Jerusalem? or who shall bemoan you? or who shall go aside to ask how you do?
@@ -403,7 +403,7 @@ Jeremiah
 [16:12] And you have done worse than your fathers; for, behold, you walk every one after the imagination of his evil heart, that they may not hearken unto me:
 [16:13] Therefore will I cast you out of this land into a land that you know not, neither you nor your fathers; and there shall you serve other gods day and night; where I will not shew you favour.
 [16:14] Therefore, behold, the days come, saith the LORD, that it shall no more be said, The LORD liveth, that brought up the children of Israel out of the land of Egypt;
-[16:15] But, The LORD liveth, that brought up the children of Israel from the land of the north, and from all the lands whither he had driven them: and I will bring them again into their land that I gave unto their fathers.
+[16:15] But, The LORD liveth, that brought up the children of Israel from the land of the north, and from all the lands where he had driven them: and I will bring them again into their land that I gave unto their fathers.
 [16:16] Behold, I will send for many fishers, saith the LORD, and they shall fish them; and after will I send for many hunters, and they shall hunt them from every mountain, and from every hill, and out of the holes of the rocks.
 [16:17] For mine eyes are upon all their ways: they are not hid from my face, neither is their iniquity hid from mine eyes.
 [16:18] And first I will recompense their iniquity and their sin double; because they have defiled my land, they have filled mine inheritance with the carcases of their detestable and abominable things.
@@ -473,7 +473,7 @@ Jeremiah
 [19:11] And shalt say unto them, Thus saith the LORD of hosts; Even so will I break this people and this city, as one breaketh a potter's vessel, that cannot be made whole again: and they shall bury them in Tophet, till there be no place to bury.
 [19:12] Thus will I do unto this place, saith the LORD, and to the inhabitants thereof, and even make this city as Tophet:
 [19:13] And the houses of Jerusalem, and the houses of the kings of Judah, shall be defiled as the place of Tophet, because of all the houses upon whose roofs they have burned incense unto all the host of heaven, and have poured out drink offerings unto other gods.
-[19:14] Then came Jeremiah from Tophet, whither the LORD had sent him to prophesy; and he stood in the court of the LORD's house; and said to all the people,
+[19:14] Then came Jeremiah from Tophet, where the LORD had sent him to prophesy; and he stood in the court of the LORD's house; and said to all the people,
 [19:15] Thus saith the LORD of hosts, the God of Israel; Behold, I will bring upon this city and upon all her towns all the evil that I have pronounced against it, because they have hardened their necks, that they might not hear my words.
 [20:1] Now Pashur the son of Immer the priest, who was also chief governor in the house of the LORD, heard that Jeremiah prophesied these things.
 [20:2] Then Pashur smote Jeremiah the prophet, and put him in the stocks that were in the high gate of Benjamin, which was by the house of the LORD.
@@ -518,7 +518,7 @@ Jeremiah
 [22:9] Then they shall answer, Because they have forsaken the covenant of the LORD their God, and worshipped other gods, and served them.
 [22:10] Weep you not for the dead, neither bemoan him: but weep sore for him that goeth away: for he shall return no more, nor see his native country.
 [22:11] For thus saith the LORD touching Shallum the son of Josiah king of Judah, which reigned instead of Josiah his father, which went forth out of this place; He shall not return thither any more:
-[22:12] But he shall die in the place whither they have led him captive, and shall see this land no more.
+[22:12] But he shall die in the place where they have led him captive, and shall see this land no more.
 [22:13] Woe unto him that buildeth his house by unrighteousness, and his chambers by wrong; that useth his neighbour's service without wages, and giveth him not for his work;
 [22:14] That saith, I will build me a wide house and large chambers, and cutteth him out windows; and it is cieled with cedar, and painted with vermilion.
 [22:15] Shalt you reign, because you closest thyself in cedar? did not your father eat and drink, and do judgment and justice, and then it was well with him?
@@ -539,12 +539,12 @@ Jeremiah
 [22:30] Thus saith the LORD, Write you this man childless, a man that shall not prosper in his days: for no man of his seed shall prosper, sitting upon the throne of David, and ruling any more in Judah.
 [23:1] Woe be unto the pastors that destroy and scatter the sheep of my pasture! saith the LORD.
 [23:2] Therefore thus saith the LORD God of Israel against the pastors that feed my people; You have scattered my flock, and driven them away, and have not visited them: behold, I will visit upon you the evil of your doings, saith the LORD.
-[23:3] And I will gather the remnant of my flock out of all countries whither I have driven them, and will bring them again to their folds; and they shall be fruitful and increase.
+[23:3] And I will gather the remnant of my flock out of all countries where I have driven them, and will bring them again to their folds; and they shall be fruitful and increase.
 [23:4] And I will set up shepherds over them which shall feed them: and they shall fear no more, nor be dismayed, neither shall they be lacking, saith the LORD.
 [23:5] Behold, the days come, saith the LORD, that I will raise unto David a righteous Branch, and a King shall reign and prosper, and shall execute judgment and justice in the earth.
 [23:6] In his days Judah shall be saved, and Israel shall dwell safely: and this is his name whereby he shall be called, THE LORD OUR RIGHTEOUSNESS.
 [23:7] Therefore, behold, the days come, saith the LORD, that they shall no more say, The LORD liveth, which brought up the children of Israel out of the land of Egypt;
-[23:8] But, The LORD liveth, which brought up and which led the seed of the house of Israel out of the north country, and from all countries whither I had driven them; and they shall dwell in their own land.
+[23:8] But, The LORD liveth, which brought up and which led the seed of the house of Israel out of the north country, and from all countries where I had driven them; and they shall dwell in their own land.
 [23:9] Mine heart within me is broken because of the prophets; all my bones shake; I am like a drunken man, and like a man whom wine hath overcome, because of the LORD, and because of the words of his holiness.
 [23:10] For the land is full of adulterers; for because of swearing the land mourneth; the pleasant places of the wilderness are dried up, and their course is evil, and their force is not right.
 [23:11] For both prophet and priest are profane; yea, in my house have I found their wickedness, saith the LORD.
@@ -585,7 +585,7 @@ Jeremiah
 [24:6] For I will set mine eyes upon them for good, and I will bring them again to this land: and I will build them, and not pull them down; and I will plant them, and not pluck them up.
 [24:7] And I will give them an heart to know me, that I am the LORD: and they shall be my people, and I will be their God: for they shall return unto me with their whole heart.
 [24:8] And as the evil figs, which cannot be eaten, they are so evil; surely thus saith the LORD, So will I give Zedekiah the king of Judah, and his princes, and the residue of Jerusalem, that remain in this land, and them that dwell in the land of Egypt:
-[24:9] And I will deliver them to be removed into all the kingdoms of the earth for their hurt, to be a reproach and a proverb, a taunt and a curse, in all places whither I shall drive them.
+[24:9] And I will deliver them to be removed into all the kingdoms of the earth for their hurt, to be a reproach and a proverb, a taunt and a curse, in all places where I shall drive them.
 [24:10] And I will send the sword, the famine, and the pestilence, among them, till they be consumed from off the land that I gave unto them and to their fathers.
 [25:1] The word that came to Jeremiah concerning all the people of Judah in the fourth year of Jehoiakim the son of Josiah king of Judah, that was the first year of Nebuchadrezzar king of Babylon;
 [25:2] The which Jeremiah the prophet spake unto all the people of Judah, and to all the inhabitants of Jerusalem, saying,
@@ -694,18 +694,18 @@ Jeremiah
 [29:4] Thus saith the LORD of hosts, the God of Israel, unto all that are carried away captives, whom I have caused to be carried away from Jerusalem unto Babylon;
 [29:5] Build you houses, and dwell in them; and plant gardens, and eat the fruit of them;
 [29:6] Take you wives, and beget sons and daughters; and take wives for your sons, and give your daughters to husbands, that they may bear sons and daughters; that you may be increased there, and not diminished.
-[29:7] And seek the peace of the city whither I have caused you to be carried away captives, and pray unto the LORD for it: for in the peace thereof shall you have peace.
+[29:7] And seek the peace of the city where I have caused you to be carried away captives, and pray unto the LORD for it: for in the peace thereof shall you have peace.
 [29:8] For thus saith the LORD of hosts, the God of Israel; Let not your prophets and your diviners, that be in the midst of you, deceive you, neither hearken to your dreams which you cause to be dreamed.
 [29:9] For they prophesy falsely unto you in my name: I have not sent them, saith the LORD.
 [29:10] For thus saith the LORD, That after seventy years be accomplished at Babylon I will visit you, and perform my good word toward you, in causing you to return to this place.
 [29:11] For I know the thoughts that I think toward you, saith the LORD, thoughts of peace, and not of evil, to give you an expected end.
 [29:12] Then shall you call upon me, and you shall go and pray unto me, and I will hearken unto you.
 [29:13] And you shall seek me, and find me, when you shall search for me with all your heart.
-[29:14] And I will be found of you, saith the LORD: and I will turn away your captivity, and I will gather you from all the nations, and from all the places whither I have driven you, saith the LORD; and I will bring you again into the place whence I caused you to be carried away captive.
+[29:14] And I will be found of you, saith the LORD: and I will turn away your captivity, and I will gather you from all the nations, and from all the places where I have driven you, saith the LORD; and I will bring you again into the place where I caused you to be carried away captive.
 [29:15] Because you have said, The LORD hath raised us up prophets in Babylon;
 [29:16] Know that thus saith the LORD of the king that sitteth upon the throne of David, and of all the people that dwelleth in this city, and of your brothers that are not gone forth with you into captivity;
 [29:17] Thus saith the LORD of hosts; Behold, I will send upon them the sword, the famine, and the pestilence, and will make them like vile figs, that cannot be eaten, they are so evil.
-[29:18] And I will persecute them with the sword, with the famine, and with the pestilence, and will deliver them to be removed to all the kingdoms of the earth, to be a curse, and an astonishment, and an hissing, and a reproach, among all the nations whither I have driven them:
+[29:18] And I will persecute them with the sword, with the famine, and with the pestilence, and will deliver them to be removed to all the kingdoms of the earth, to be a curse, and an astonishment, and an hissing, and a reproach, among all the nations where I have driven them:
 [29:19] Because they have not hearkened to my words, saith the LORD, which I sent unto them by my servants the prophets, rising up early and sending them; but you would not hear, saith the LORD.
 [29:20] Hear you therefore the word of the LORD, all you of the captivity, whom I have sent from Jerusalem to Babylon:
 [29:21] Thus saith the LORD of hosts, the God of Israel, of Ahab the son of Kolaiah, and of Zedekiah the son of Maaseiah, which prophesy a lie unto you in my name; Behold, I will deliver them into the hand of Nebuchadrezzar king of Babylon; and he shall slay them before your eyes;
@@ -730,7 +730,7 @@ Jeremiah
 [30:8] For it shall come to pass in that day, saith the LORD of hosts, that I will break his yoke from off your neck, and will burst your bonds, and strangers shall no more serve themselves of him:
 [30:9] But they shall serve the LORD their God, and David their king, whom I will raise up unto them.
 [30:10] Therefore fear you not, O my servant Jacob, saith the LORD; neither be dismayed, O Israel: for, lo, I will save you from afar, and your seed from the land of their captivity; and Jacob shall return, and shall be in rest, and be quiet, and none shall make him afraid.
-[30:11] For I am with you, saith the LORD, to save you: though I make a full end of all nations whither I have scattered you, yet I will not make a full end of you: but I will correct you in measure, and will not leave you altogether unpunished.
+[30:11] For I am with you, saith the LORD, to save you: though I make a full end of all nations where I have scattered you, yet I will not make a full end of you: but I will correct you in measure, and will not leave you altogether unpunished.
 [30:12] For thus saith the LORD, Your bruise is incurable, and your wound is grievous.
 [30:13] There is none to plead your cause, that you may be bound up: you have no healing medicines.
 [30:14] All your lovers have forgotten you; they seek you not; for I have wounded you with the wound of an enemy, with the chastisement of a cruel one, for the multitude of your iniquity; because your sins were increased.
@@ -820,7 +820,7 @@ Jeremiah
 [32:34] But they set their abominations in the house, which is called by my name, to defile it.
 [32:35] And they built the high places of Baal, which are in the valley of the son of Hinnom, to cause their sons and their daughters to pass through the fire unto Molech; which I commanded them not, neither came it into my mind, that they should do this abomination, to cause Judah to sin.
 [32:36] And now therefore thus saith the LORD, the God of Israel, concerning this city, whereof you say, It shall be delivered into the hand of the king of Babylon by the sword, and by the famine, and by the pestilence;
-[32:37] Behold, I will gather them out of all countries, whither I have driven them in mine anger, and in my fury, and in great wrath; and I will bring them again unto this place, and I will cause them to dwell safely:
+[32:37] Behold, I will gather them out of all countries, where I have driven them in mine anger, and in my fury, and in great wrath; and I will bring them again unto this place, and I will cause them to dwell safely:
 [32:38] And they shall be my people, and I will be their God:
 [32:39] And I will give them one heart, and one way, that they may fear me for ever, for the good of them, and of their children after them:
 [32:40] And I will make an everlasting covenant with them, that I will not turn away from them, to do them good; but I will put my fear in their hearts, that they shall not depart from me.
@@ -997,7 +997,7 @@ Jeremiah
 [40:1] The word that came to Jeremiah from the LORD, after that Nebuzaradan the captain of the guard had let him go from Ramah, when he had taken him being bound in chains among all that were carried away captive of Jerusalem and Judah, which were carried away captive unto Babylon.
 [40:2] And the captain of the guard took Jeremiah, and said unto him, The LORD your God hath pronounced this evil upon this place.
 [40:3] Now the LORD hath brought it, and done according as he hath said: because you have sinned against the LORD, and have not obeyed his voice, therefore this thing is come upon you.
-[40:4] And now, behold, I loose you this day from the chains which were upon your hand. If it seem good unto you to come with me into Babylon, come; and I will look well unto you: but if it seem ill unto you to come with me into Babylon, forbear: behold, all the land is before you: whither it seemeth good and convenient for you to go, thither go.
+[40:4] And now, behold, I loose you this day from the chains which were upon your hand. If it seem good unto you to come with me into Babylon, come; and I will look well unto you: but if it seem ill unto you to come with me into Babylon, forbear: behold, all the land is before you: where it seemeth good and convenient for you to go, thither go.
 [40:5] Now while he was not yet gone back, he said, Go back also to Gedaliah the son of Ahikam the son of Shaphan, whom the king of Babylon hath made governor over the cities of Judah, and dwell with him among the people: or go wheresoever it seemeth convenient unto you to go. So the captain of the guard gave him victuals and a reward, and let him go.
 [40:6] Then went Jeremiah unto Gedaliah the son of Ahikam to Mizpah; and dwelt with him among the people that were left in the land.
 [40:7] Now when all the captains of the forces which were in the fields, even they and their men, heard that the king of Babylon had made Gedaliah the son of Ahikam governor in the land, and had committed unto him men, and women, and children, and of the poor of the land, of them that were not carried away captive to Babylon;
@@ -1005,7 +1005,7 @@ Jeremiah
 [40:9] And Gedaliah the son of Ahikam the son of Shaphan sware unto them and to their men, saying, Fear not to serve the Chaldeans: dwell in the land, and serve the king of Babylon, and it shall be well with you.
 [40:10] As for me, behold, I will dwell at Mizpah, to serve the Chaldeans, which will come unto us: but you, gather you wine, and summer fruits, and oil, and put them in your vessels, and dwell in your cities that you have taken.
 [40:11] Likewise when all the Jews that were in Moab, and among the Ammonites, and in Edom, and that were in all the countries, heard that the king of Babylon had left a remnant of Judah, and that he had set over them Gedaliah the son of Ahikam the son of Shaphan;
-[40:12] Even all the Jews returned out of all places whither they were driven, and came to the land of Judah, to Gedaliah, unto Mizpah, and gathered wine and summer fruits very much.
+[40:12] Even all the Jews returned out of all places where they were driven, and came to the land of Judah, to Gedaliah, unto Mizpah, and gathered wine and summer fruits very much.
 [40:13] Moreover Johanan the son of Kareah, and all the captains of the forces that were in the fields, came to Gedaliah to Mizpah,
 [40:14] And said unto him, Dost you certainly know that Baalis the king of the Ammonites hath sent Ishmael the son of Nethaniah to slay you? But Gedaliah the son of Ahikam believed them not.
 [40:15] Then Johanan the son of Kareah spake to Gedaliah in Mizpah secretly saying, Let me go, I pray you, and I will slay Ishmael the son of Nethaniah, and no man shall know it: wherefore should he slay you, that all the Jews which are gathered unto you should be scattered, and the remnant in Judah perish?
@@ -1049,12 +1049,12 @@ Jeremiah
 [42:19] The LORD hath said concerning you, O you remnant of Judah; Go you not into Egypt: know certainly that I have admonished you this day.
 [42:20] For you dissembled in your hearts, when you sent me unto the LORD your God, saying, Pray for us unto the LORD our God; and according unto all that the LORD our God shall say, so declare unto us, and we will do it.
 [42:21] And now I have this day declared it to you; but you have not obeyed the voice of the LORD your God, nor any thing for the which he hath sent me unto you.
-[42:22] Now therefore know certainly that you shall die by the sword, by the famine, and by the pestilence, in the place whither you desire to go and to sojourn.
+[42:22] Now therefore know certainly that you shall die by the sword, by the famine, and by the pestilence, in the place where you desire to go and to sojourn.
 [43:1] And it came to pass, that when Jeremiah had made an end of speaking unto all the people all the words of the LORD their God, for which the LORD their God had sent him to them, even all these words,
 [43:2] Then spake Azariah the son of Hoshaiah, and Johanan the son of Kareah, and all the proud men, saying unto Jeremiah, You speakest falsely: the LORD our God hath not sent you to say, Go not into Egypt to sojourn there:
 [43:3] But Baruch the son of Neriah setteth you on against us, for to deliver us into the hand of the Chaldeans, that they might put us to death, and carry us away captives into Babylon.
 [43:4] So Johanan the son of Kareah, and all the captains of the forces, and all the people, obeyed not the voice of the LORD, to dwell in the land of Judah.
-[43:5] But Johanan the son of Kareah, and all the captains of the forces, took all the remnant of Judah, that were returned from all nations, whither they had been driven, to dwell in the land of Judah;
+[43:5] But Johanan the son of Kareah, and all the captains of the forces, took all the remnant of Judah, that were returned from all nations, where they had been driven, to dwell in the land of Judah;
 [43:6] Even men, and women, and children, and the king's daughters, and every person that Nebuzaradan the captain of the guard had left with Gedaliah the son of Ahikam the son of Shaphan, and Jeremiah the prophet, and Baruch the son of Neriah.
 [43:7] So they came into the land of Egypt: for they obeyed not the voice of the LORD: thus came they even to Tahpanhes.
 [43:8] Then came the word of the LORD unto Jeremiah in Tahpanhes, saying,
@@ -1070,7 +1070,7 @@ Jeremiah
 [44:5] But they hearkened not, nor inclined their ear to turn from their wickedness, to burn no incense unto other gods.
 [44:6] Wherefore my fury and mine anger was poured forth, and was kindled in the cities of Judah and in the streets of Jerusalem; and they are wasted and desolate, as at this day.
 [44:7] Therefore now thus saith the LORD, the God of hosts, the God of Israel; Wherefore commit you this great evil against your souls, to cut off from you man and woman, child and suckling, out of Judah, to leave you none to remain;
-[44:8] In that you provoke me unto wrath with the works of your hands, burning incense unto other gods in the land of Egypt, whither you be gone to dwell, that you might cut yourselves off, and that you might be a curse and a reproach among all the nations of the earth?
+[44:8] In that you provoke me unto wrath with the works of your hands, burning incense unto other gods in the land of Egypt, where you be gone to dwell, that you might cut yourselves off, and that you might be a curse and a reproach among all the nations of the earth?
 [44:9] Have you forgotten the wickedness of your fathers, and the wickedness of the kings of Judah, and the wickedness of their wives, and your own wickedness, and the wickedness of your wives, which they have committed in the land of Judah, and in the streets of Jerusalem?
 [44:10] They are not humbled even unto this day, neither have they feared, nor walked in my law, nor in my statutes, that I set before you and before your fathers.
 [44:11] Therefore thus saith the LORD of hosts, the God of Israel; Behold, I will set my face against you for evil, and to cut off all Judah.
@@ -1097,7 +1097,7 @@ Jeremiah
 [45:2] Thus saith the LORD, the God of Israel, unto you, O Baruch:
 [45:3] You didst say, Woe is me now! for the LORD hath added grief to my sorrow; I fainted in my sighing, and I find no rest.
 [45:4] Thus shalt you say unto him, The LORD saith thus; Behold, that which I have built will I break down, and that which I have planted I will pluck up, even this whole land.
-[45:5] And seekest you great things for thyself? seek them not: for, behold, I will bring evil upon all flesh, saith the LORD: but your life will I give unto you for a prey in all places whither you goest.
+[45:5] And seekest you great things for thyself? seek them not: for, behold, I will bring evil upon all flesh, saith the LORD: but your life will I give unto you for a prey in all places where you goest.
 [46:1] The word of the LORD which came to Jeremiah the prophet against the Gentiles;
 [46:2] Against Egypt, against the army of Pharaohnecho king of Egypt, which was by the river Euphrates in Carchemish, which Nebuchadrezzar king of Babylon smote in the fourth year of Jehoiakim the son of Josiah king of Judah.
 [46:3] Order you the buckler and shield, and draw near to battle.
@@ -1125,7 +1125,7 @@ Jeremiah
 [46:25] The LORD of hosts, the God of Israel, saith; Behold, I will punish the multitude of No, and Pharaoh, and Egypt, with their gods, and their kings; even Pharaoh, and all them that trust in him:
 [46:26] And I will deliver them into the hand of those that seek their lives, and into the hand of Nebuchadrezzar king of Babylon, and into the hand of his servants: and afterward it shall be inhabited, as in the days of old, saith the LORD.
 [46:27] But fear not you, O my servant Jacob, and be not dismayed, O Israel: for, behold, I will save you from afar off, and your seed from the land of their captivity; and Jacob shall return, and be in rest and at ease, and none shall make him afraid.
-[46:28] Fear you not, O Jacob my servant, saith the LORD: for I am with you; for I will make a full end of all the nations whither I have driven you: but I will not make a full end of you, but correct you in measure; yet will I not leave you wholly unpunished.
+[46:28] Fear you not, O Jacob my servant, saith the LORD: for I am with you; for I will make a full end of all the nations where I have driven you: but I will not make a full end of you, but correct you in measure; yet will I not leave you wholly unpunished.
 [47:1] The word of the LORD that came to Jeremiah the prophet against the Philistines, before that Pharaoh smote Gaza.
 [47:2] Thus saith the LORD; Behold, waters rise up out of the north, and shall be an overflowing flood, and shall overflow the land, and all that is therein; the city, and them that dwell therein: then the men shall cry, and all the inhabitants of the land shall howl.
 [47:3] At the noise of the stamping of the hoofs of his strong horses, at the rushing of his chariots, and at the rumbling of his wheels, the fathers shall not look back to their children for feebleness of hands;
@@ -1215,7 +1215,7 @@ Jeremiah
 [49:33] And Hazor shall be a dwelling for dragons, and a desolation for ever: there shall no man abide there, nor any son of man dwell in it.
 [49:34] The word of the LORD that came to Jeremiah the prophet against Elam in the beginning of the reign of Zedekiah king of Judah, saying,
 [49:35] Thus saith the LORD of hosts; Behold, I will break the bow of Elam, the chief of their might.
-[49:36] And upon Elam will I bring the four winds from the four quarters of heaven, and will scatter them toward all those winds; and there shall be no nation whither the outcasts of Elam shall not come.
+[49:36] And upon Elam will I bring the four winds from the four quarters of heaven, and will scatter them toward all those winds; and there shall be no nation where the outcasts of Elam shall not come.
 [49:37] For I will cause Elam to be dismayed before their enemies, and before them that seek their life: and I will bring evil upon them, even my fierce anger, saith the LORD; and I will send the sword after them, till I have consumed them:
 [49:38] And I will set my throne in Elam, and will destroy from thence the king and the princes, saith the LORD.
 [49:39] But it shall come to pass in the latter days, that I will bring again the captivity of Elam, saith the LORD.

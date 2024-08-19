@@ -20,8 +20,8 @@ Joshua
 [2:1] And Joshua the son of Nun sent out of Shittim two men to spy secretly, saying, Go view the land, even Jericho. And they went, and came into an harlot's house, named Rahab, and lodged there.
 [2:2] And it was told the king of Jericho, saying, Behold, there came men in hither to night of the children of Israel to search out the country.
 [2:3] And the king of Jericho sent unto Rahab, saying, Bring forth the men that are come to you, which are entered into your house: for they be come to search out all the country.
-[2:4] And the woman took the two men, and hid them, and said thus, There came men unto me, but I wist not whence they were:
-[2:5] And it came to pass about the time of shutting of the gate, when it was dark, that the men went out: whither the men went I wot not: pursue after them quickly; for you shall overtake them.
+[2:4] And the woman took the two men, and hid them, and said thus, There came men unto me, but I wist not where they were:
+[2:5] And it came to pass about the time of shutting of the gate, when it was dark, that the men went out: where the men went I wot not: pursue after them quickly; for you shall overtake them.
 [2:6] But she had brought them up to the roof of the house, and hid them with the stalks of flax, which she had laid in order upon the roof.
 [2:7] And the men pursued after them the way to Jordan unto the fords: and as soon as they which pursued after them were gone out, they shut the gate.
 [2:8] And before they were laid down, she came up unto them upon the roof;
@@ -192,7 +192,7 @@ Joshua
 [9:5] And old shoes and clouted upon their feet, and old garments upon them; and all the bread of their provision was dry and mouldy.
 [9:6] And they went to Joshua unto the camp at Gilgal, and said unto him, and to the men of Israel, We be come from a far country: now therefore make you a league with us.
 [9:7] And the men of Israel said unto the Hivites, Peradventure you dwell among us; and how shall we make a league with you?
-[9:8] And they said unto Joshua, We are your servants. And Joshua said unto them, Who are you? and from whence come you?
+[9:8] And they said unto Joshua, We are your servants. And Joshua said unto them, Who are you? and from where come you?
 [9:9] And they said unto him, From a very far country your servants are come because of the name of the LORD your God: for we have heard the fame of him, and all that he did in Egypt,
 [9:10] And all that he did to the two kings of the Amorites, that were beyond Jordan, to Sihon king of Heshbon, and to Og king of Bashan, which was at Ashtaroth.
 [9:11] Wherefore our elders and all the inhabitants of our country spake to us, saying, Take victuals with you for the journey, and go to meet them, and say unto them, We are your servants: therefore now make you a league with us.
@@ -525,7 +525,7 @@ Joshua
 [20:3] That the slayer that killeth any person unawares and unwittingly may flee thither: and they shall be your refuge from the avenger of blood.
 [20:4] And when he that doth flee unto one of those cities shall stand at the entering of the gate of the city, and shall declare his cause in the ears of the elders of that city, they shall take him into the city unto them, and give him a place, that he may dwell among them.
 [20:5] And if the avenger of blood pursue after him, then they shall not deliver the slayer up into his hand; because he smote his neighbor unwittingly, and hated him not beforetime.
-[20:6] And he shall dwell in that city, until he stand before the congregation for judgment, and until the death of the high priest that shall be in those days: then shall the slayer return, and come unto his own city, and unto his own house, unto the city from whence he fled.
+[20:6] And he shall dwell in that city, until he stand before the congregation for judgment, and until the death of the high priest that shall be in those days: then shall the slayer return, and come unto his own city, and unto his own house, unto the city from where he fled.
 [20:7] And they appointed Kedesh in Galilee in mount Naphtali, and Shechem in mount Ephraim, and Kirjatharba, which is Hebron, in the mountain of Judah.
 [20:8] And on the other side Jordan by Jericho eastward, they assigned Bezer in the wilderness upon the plain out of the tribe of Reuben, and Ramoth in Gilead out of the tribe of Gad, and Golan in Bashan out of the tribe of Manasseh.
 [20:9] These were the cities appointed for all the children of Israel, and for the stranger that sojourneth among them, that whosoever killeth any person at unawares might flee thither, and not die by the hand of the avenger of blood, until he stood before the congregation.
