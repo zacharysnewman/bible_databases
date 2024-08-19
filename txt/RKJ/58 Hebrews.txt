@@ -7,8 +7,8 @@ Hebrews
 [1:6] And again, when he bringeth in the firstbegotten into the world, he saith, And let all the angels of God worship him.
 [1:7] And of the angels he saith, Who maketh his angels spirits, and his ministers a flame of fire.
 [1:8] But unto the Son he saith, Your throne, O God, is for ever and ever: a sceptre of righteousness is the sceptre of your kingdom.
-[1:9] You hast loved righteousness, and hated iniquity; therefore God, even your God, hath anointed you with the oil of gladness above your fellows.
-[1:10] And, You, Lord, in the beginning hast laid the foundation of the earth; and the heavens are the works of your hands:
+[1:9] You have loved righteousness, and hated iniquity; therefore God, even your God, hath anointed you with the oil of gladness above your fellows.
+[1:10] And, You, Lord, in the beginning have laid the foundation of the earth; and the heavens are the works of your hands:
 [1:11] They shall perish; but you remainest; and they all shall wax old as doth a garment;
 [1:12] And as a vesture shalt you fold them up, and they shall be changed: but you art the same, and your years shall not fail.
 [1:13] But to which of the angels said he at any time, Sit on my right hand, until I make your enemies your footstool?
@@ -20,7 +20,7 @@ Hebrews
 [2:5] For unto the angels hath he not put in subjection the world to come, whereof we speak.
 [2:6] But one in a certain place testified, saying, What is man, that you art mindful of him? or the son of man that you visitest him?
 [2:7] You madest him a little lower than the angels; you crownedst him with glory and honour, and didst set him over the works of your hands:
-[2:8] You hast put all things in subjection under his feet. For in that he put all in subjection under him, he left nothing that is not put under him. But now we see not yet all things put under him.
+[2:8] You have put all things in subjection under his feet. For in that he put all in subjection under him, he left nothing that is not put under him. But now we see not yet all things put under him.
 [2:9] But we see Jesus, who was made a little lower than the angels for the suffering of death, crowned with glory and honour; that he by the grace of God should taste death for every man.
 [2:10] For it became him, for whom are all things, and by whom are all things, in bringing many sons unto glory, to make the captain of their salvation perfect through sufferings.
 [2:11] For both he that sanctifieth and they who are sanctified are all of one: for which cause he is not ashamed to call them brethren,
@@ -173,8 +173,8 @@ Hebrews
 [10:2] For then would they not have ceased to be offered? because that the worshippers once purged should have had no more conscience of sins.
 [10:3] But in those sacrifices there is a remembrance again made of sins every year.
 [10:4] For it is not possible that the blood of bulls and of goats should take away sins.
-[10:5] Wherefore when he cometh into the world, he saith, Sacrifice and offering you wouldest not, but a body hast you prepared me:
-[10:6] In burnt offerings and sacrifices for sin you hast had no pleasure.
+[10:5] Wherefore when he cometh into the world, he saith, Sacrifice and offering you wouldest not, but a body have you prepared me:
+[10:6] In burnt offerings and sacrifices for sin you have had no pleasure.
 [10:7] Then said I, Lo, I come (in the volume of the book it is written of me,) to do your will, O God.
 [10:8] Above when he said, Sacrifice and offering and burnt offerings and offering for sin you wouldest not, neither hadst pleasure therein; which are offered by the law;
 [10:9] Then said he, Lo, I come to do your will, O God. He taketh away the first, that he may establish the second.

@@ -55,9 +55,9 @@ Exodus
 [3:7] And the LORD said, I have surely seen the affliction of my people which are in Egypt, and have heard their cry by reason of their taskmasters; for I know their sorrows;
 [3:8] And I am come down to deliver them out of the hand of the Egyptians, and to bring them up out of that land unto a good land and a large, unto a land flowing with milk and honey; unto the place of the Canaanites, and the Hittites, and the Amorites, and the Perizzites, and the Hivites, and the Jebusites.
 [3:9] Now therefore, behold, the cry of the children of Israel is come unto me: and I have also seen the oppression wherewith the Egyptians oppress them.
-[3:10] Come now therefore, and I will send you unto Pharaoh, that you mayest bring forth my people the children of Israel out of Egypt.
+[3:10] Come now therefore, and I will send you unto Pharaoh, that you may bring forth my people the children of Israel out of Egypt.
 [3:11] And Moses said unto God, Who am I, that I should go unto Pharaoh, and that I should bring forth the children of Israel out of Egypt?
-[3:12] And he said, Certainly I will be with you; and this shall be a token unto you, that I have sent you: When you hast brought forth the people out of Egypt, you shall serve God upon this mountain.
+[3:12] And he said, Certainly I will be with you; and this shall be a token unto you, that I have sent you: When you have brought forth the people out of Egypt, you shall serve God upon this mountain.
 [3:13] And Moses said unto God, Behold, when I come unto the children of Israel, and shall say unto them, The God of your fathers hath sent me unto you; and they shall say to me, What is his name? what shall I say unto them?
 [3:14] And God said unto Moses, I AM THAT I AM: and he said, Thus shalt you say unto the children of Israel, I AM hath sent me unto you.
 [3:15] And God said moreover unto Moses, Thus shalt you say unto the children of Israel, the LORD God of your fathers, the God of Abraham, the God of Isaac, and the God of Jacob, hath sent me unto you: this is my name for ever, and this is my memorial unto all generations.
@@ -77,7 +77,7 @@ Exodus
 [4:7] And he said, Put your hand into your bosom again. And he put his hand into his bosom again; and plucked it out of his bosom, and, behold, it was turned again as his other flesh.
 [4:8] And it shall come to pass, if they will not believe you, neither hearken to the voice of the first sign, that they will believe the voice of the latter sign.
 [4:9] And it shall come to pass, if they will not believe also these two signs, neither hearken unto your voice, that you shalt take of the water of the river, and pour it upon the dry land: and the water which you takest out of the river shall become blood upon the dry land.
-[4:10] And Moses said unto the LORD, O my LORD, I am not eloquent, neither heretofore, nor since you hast spoken unto your servant: but I am slow of speech, and of a slow tongue.
+[4:10] And Moses said unto the LORD, O my LORD, I am not eloquent, neither heretofore, nor since you have spoken unto your servant: but I am slow of speech, and of a slow tongue.
 [4:11] And the LORD said unto him, Who hath made man's mouth? or who maketh the dumb, or deaf, or the seeing, or the blind? have not I the LORD?
 [4:12] Now therefore go, and I will be with your mouth, and teach you what you shalt say.
 [4:13] And he said, O my LORD, send, I pray you, by the hand of him whom you wilt send.
@@ -120,8 +120,8 @@ Exodus
 [5:19] And the officers of the children of Israel did see that they were in evil case, after it was said, You shall not minish ought from your bricks of your daily task.
 [5:20] And they met Moses and Aaron, who stood in the way, as they came forth from Pharaoh:
 [5:21] And they said unto them, The LORD look upon you, and judge; because you have made our savor to be abhorred in the eyes of Pharaoh, and in the eyes of his servants, to put a sword in their hand to slay us.
-[5:22] And Moses returned unto the LORD, and said, LORD, wherefore hast you so evil entreated this people? why is it that you hast sent me?
-[5:23] For since I came to Pharaoh to speak in your name, he hath done evil to this people; neither hast you delivered your people at all.
+[5:22] And Moses returned unto the LORD, and said, LORD, wherefore have you so evil entreated this people? why is it that you have sent me?
+[5:23] For since I came to Pharaoh to speak in your name, he hath done evil to this people; neither have you delivered your people at all.
 [6:1] Then the LORD said unto Moses, Now shalt you see what I will do to Pharaoh: for with a strong hand shall he let them go, and with a strong hand shall he drive them out of his land.
 [6:2] And God spake unto Moses, and said unto him, I am the LORD:
 [6:3] And I appeared unto Abraham, unto Isaac, and unto Jacob, by the name of God Almighty, but by my name JEHOVAH was I not known to them.
@@ -186,7 +186,7 @@ Exodus
 [8:7] And the magicians did so with their enchantments, and brought up frogs upon the land of Egypt.
 [8:8] Then Pharaoh called for Moses and Aaron, and said, Entreat the LORD, that he may take away the frogs from me, and from my people; and I will let the people go, that they may do sacrifice unto the LORD.
 [8:9] And Moses said unto Pharaoh, Glory over me: when shall I entreat for you, and for your servants, and for your people, to destroy the frogs from you and your houses, that they may remain in the river only?
-[8:10] And he said, To morrow. And he said, Be it according to your word: that you mayest know that there is none like unto the LORD our God.
+[8:10] And he said, To morrow. And he said, Be it according to your word: that you may know that there is none like unto the LORD our God.
 [8:11] And the frogs shall depart from you, and from your houses, and from your servants, and from your people; they shall remain in the river only.
 [8:12] And Moses and Aaron went out from Pharaoh: and Moses cried unto the LORD because of the frogs which he had brought against Pharaoh.
 [8:13] And the LORD did according to the word of Moses; and the frogs died out of the houses, out of the villages, and out of the fields.
@@ -198,7 +198,7 @@ Exodus
 [8:19] Then the magicians said unto Pharaoh, This is the finger of God: and Pharaoh's heart was hardened, and he hearkened not unto them; as the LORD had said.
 [8:20] And the LORD said unto Moses, Rise up early in the morning, and stand before Pharaoh; lo, he cometh forth to the water; and say unto him, Thus saith the LORD, Let my people go, that they may serve me.
 [8:21] Else, if you wilt not let my people go, behold, I will send swarms of flies upon you, and upon your servants, and upon your people, and into your houses: and the houses of the Egyptians shall be full of swarms of flies, and also the ground whereon they are.
-[8:22] And I will sever in that day the land of Goshen, in which my people dwell, that no swarms of flies shall be there; to the end you mayest know that I am the LORD in the midst of the earth.
+[8:22] And I will sever in that day the land of Goshen, in which my people dwell, that no swarms of flies shall be there; to the end you may know that I am the LORD in the midst of the earth.
 [8:23] And I will put a division between my people and your people: to morrow shall this sign be.
 [8:24] And the LORD did so; and there came a grievous swarm of flies into the house of Pharaoh, and into his servants' houses, and into all the land of Egypt: the land was corrupted by reason of the swarm of flies.
 [8:25] And Pharaoh called for Moses and for Aaron, and said, Go you, sacrifice to your God in the land.
@@ -222,12 +222,12 @@ Exodus
 [9:11] And the magicians could not stand before Moses because of the boils; for the boil was upon the magicians, and upon all the Egyptians.
 [9:12] And the LORD hardened the heart of Pharaoh, and he hearkened not unto them; as the LORD had spoken unto Moses.
 [9:13] And the LORD said unto Moses, Rise up early in the morning, and stand before Pharaoh, and say unto him, Thus saith the LORD God of the Hebrews, Let my people go, that they may serve me.
-[9:14] For I will at this time send all my plagues upon your heart, and upon your servants, and upon your people; that you mayest know that there is none like me in all the earth.
+[9:14] For I will at this time send all my plagues upon your heart, and upon your servants, and upon your people; that you may know that there is none like me in all the earth.
 [9:15] For now I will stretch out my hand, that I may smite you and your people with pestilence; and you shalt be cut off from the earth.
 [9:16] And in very deed for this cause have I raised you up, for to show in you my power; and that my name may be declared throughout all the earth.
 [9:17] As yet exaltest you thyself against my people, that you wilt not let them go?
 [9:18] Behold, to morrow about this time I will cause it to rain a very grievous hail, such as hath not been in Egypt since the foundation thereof even until now.
-[9:19] Send therefore now, and gather your cattle, and all that you hast in the field; for upon every man and beast which shall be found in the field, and shall not be brought home, the hail shall come down upon them, and they shall die.
+[9:19] Send therefore now, and gather your cattle, and all that you have in the field; for upon every man and beast which shall be found in the field, and shall not be brought home, the hail shall come down upon them, and they shall die.
 [9:20] He that feared the word of the LORD among the servants of Pharaoh made his servants and his cattle flee into the houses:
 [9:21] And he that regarded not the word of the LORD left his servants and his cattle in the field.
 [9:22] And the LORD said unto Moses, Stretch forth your hand toward heaven, that there may be hail in all the land of Egypt, upon man, and upon beast, and upon every herb of the field, throughout the land of Egypt.
@@ -237,7 +237,7 @@ Exodus
 [9:26] Only in the land of Goshen, where the children of Israel were, was there no hail.
 [9:27] And Pharaoh sent, and called for Moses and Aaron, and said unto them, I have sinned this time: the LORD is righteous, and I and my people are wicked.
 [9:28] Entreat the LORD (for it is enough) that there be no more mighty thunderings and hail; and I will let you go, and you shall stay no longer.
-[9:29] And Moses said unto him, As soon as I am gone out of the city, I will spread abroad my hands unto the LORD; and the thunder shall cease, neither shall there be any more hail; that you mayest know how that the earth is the LORD's.
+[9:29] And Moses said unto him, As soon as I am gone out of the city, I will spread abroad my hands unto the LORD; and the thunder shall cease, neither shall there be any more hail; that you may know how that the earth is the LORD's.
 [9:30] But as for you and your servants, I know that you will not yet fear the LORD God.
 [9:31] And the flax and the barley was smitten: for the barley was in the ear, and the flax was bolled.
 [9:32] But the wheat and the rye were not smitten: for they were not grown up.
@@ -245,7 +245,7 @@ Exodus
 [9:34] And when Pharaoh saw that the rain and the hail and the thunders were ceased, he sinned yet more, and hardened his heart, he and his servants.
 [9:35] And the heart of Pharaoh was hardened, neither would he let the children of Israel go; as the LORD had spoken by Moses.
 [10:1] And the LORD said unto Moses, Go in unto Pharaoh: for I have hardened his heart, and the heart of his servants, that I might show these my signs before him:
-[10:2] And that you mayest tell in the ears of your son, and of your son's son, what things I have wrought in Egypt, and my signs which I have done among them; that you may know how that I am the LORD.
+[10:2] And that you may tell in the ears of your son, and of your son's son, what things I have wrought in Egypt, and my signs which I have done among them; that you may know how that I am the LORD.
 [10:3] And Moses and Aaron came in unto Pharaoh, and said unto him, Thus saith the LORD God of the Hebrews, How long wilt you refuse to humble thyself before me? let my people go, that they may serve me.
 [10:4] Else, if you refuse to let my people go, behold, to morrow will I bring the locusts into your coast:
 [10:5] And they shall cover the face of the earth, that one cannot be able to see the earth: and they shall eat the residue of that which is escaped, which remaineth unto you from the hail, and shall eat every tree which groweth for you out of the field:
@@ -271,8 +271,8 @@ Exodus
 [10:25] And Moses said, You must give us also sacrifices and burnt offerings, that we may sacrifice unto the LORD our God.
 [10:26] Our cattle also shall go with us; there shall not an hoof be left behind; for thereof must we take to serve the LORD our God; and we know not with what we must serve the LORD, until we come thither.
 [10:27] But the LORD hardened Pharaoh's heart, and he would not let them go.
-[10:28] And Pharaoh said unto him, Get you from me, take heed to thyself, see my face no more; for in that day you seest my face you shalt die.
-[10:29] And Moses said, You hast spoken well, I will see your face again no more.
+[10:28] And Pharaoh said unto him, Get you from me, take heed to thyself, see my face no more; for in that day you see my face you shalt die.
+[10:29] And Moses said, You have spoken well, I will see your face again no more.
 [11:1] And the LORD said unto Moses, Yet will I bring one plague more upon Pharaoh, and upon Egypt; afterwards he will let you go hence: when he shall let you go, he shall surely thrust you out hence altogether.
 [11:2] Speak now in the ears of the people, and let every man borrow of his neighbor, and every woman of her neighbor, jewels of silver and jewels of gold.
 [11:3] And the LORD gave the people favor in the sight of the Egyptians. Moreover the man Moses was very great in the land of Egypt, in the sight of Pharaoh's servants, and in the sight of the people.
@@ -326,7 +326,7 @@ Exodus
 [12:41] And it came to pass at the end of the four hundred and thirty years, even the selfsame day it came to pass, that all the hosts of the LORD went out from the land of Egypt.
 [12:42] It is a night to be much observed unto the LORD for bringing them out from the land of Egypt: this is that night of the LORD to be observed of all the children of Israel in their generations.
 [12:43] And the LORD said unto Moses and Aaron, This is the ordinance of the passover: There shall no stranger eat thereof:
-[12:44] But every man's servant that is bought for money, when you hast circumcised him, then shall he eat thereof.
+[12:44] But every man's servant that is bought for money, when you have circumcised him, then shall he eat thereof.
 [12:45] A foreigner and an hired servant shall not eat thereof.
 [12:46] In one house shall it be eaten; you shalt not carry forth ought of the flesh abroad out of the house; neither shall you break a bone thereof.
 [12:47] All the congregation of Israel shall keep it.
@@ -345,7 +345,7 @@ Exodus
 [13:9] And it shall be for a sign unto you upon your hand, and for a memorial between your eyes, that the LORD's law may be in your mouth: for with a strong hand hath the LORD brought you out of Egypt.
 [13:10] You shalt therefore keep this ordinance in his season from year to year.
 [13:11] And it shall be when the LORD shall bring you into the land of the Canaanites, as he sware unto you and to your fathers, and shall give it you,
-[13:12] That you shalt set apart unto the LORD all that openeth the matrix, and every firstling that cometh of a beast which you hast; the males shall be the LORD's.
+[13:12] That you shalt set apart unto the LORD all that openeth the matrix, and every firstling that cometh of a beast which you have; the males shall be the LORD's.
 [13:13] And every firstling of an ass you shalt redeem with a lamb; and if you wilt not redeem it, then you shalt break his neck: and all the firstborn of man among your children shalt you redeem.
 [13:14] And it shall be when your son asketh you in time to come, saying, What is this? that you shalt say unto him, By strength of hand the LORD brought us out from Egypt, from the house of bondage:
 [13:15] And it came to pass, when Pharaoh would hardly let us go, that the LORD slew all the firstborn in the land of Egypt, both the firstborn of man, and the firstborn of beast: therefore I sacrifice to the LORD all that openeth the matrix, being males; but all the firstborn of my children I redeem.
@@ -366,7 +366,7 @@ Exodus
 [14:8] And the LORD hardened the heart of Pharaoh king of Egypt, and he pursued after the children of Israel: and the children of Israel went out with an high hand.
 [14:9] But the Egyptians pursued after them, all the horses and chariots of Pharaoh, and his horsemen, and his army, and overtook them encamping by the sea, beside Pihahiroth, before Baalzephon.
 [14:10] And when Pharaoh drew nigh, the children of Israel lifted up their eyes, and, behold, the Egyptians marched after them; and they were sore afraid: and the children of Israel cried out unto the LORD.
-[14:11] And they said unto Moses, Because there were no graves in Egypt, hast you taken us away to die in the wilderness? wherefore hast you dealt thus with us, to carry us forth out of Egypt?
+[14:11] And they said unto Moses, Because there were no graves in Egypt, have you taken us away to die in the wilderness? wherefore have you dealt thus with us, to carry us forth out of Egypt?
 [14:12] Is not this the word that we did tell you in Egypt, saying, Let us alone, that we may serve the Egyptians? For it had been better for us to serve the Egyptians, than that we should die in the wilderness.
 [14:13] And Moses said unto the people, Fear you not, stand still, and see the salvation of the LORD, which he will show to you to day: for the Egyptians whom you have seen to day, you shall see them again no more for ever.
 [14:14] The LORD shall fight for you, and you shall hold your peace.
@@ -393,17 +393,17 @@ Exodus
 [15:4] Pharaoh's chariots and his host hath he cast into the sea: his chosen captains also are drowned in the Red sea.
 [15:5] The depths have covered them: they sank into the bottom as a stone.
 [15:6] Your right hand, O LORD, is become glorious in power: your right hand, O LORD, hath dashed in pieces the enemy.
-[15:7] And in the greatness of your excellency you hast overthrown them that rose up against you: you sentest forth your wrath, which consumed them as stubble.
+[15:7] And in the greatness of your excellency you have overthrown them that rose up against you: you sentest forth your wrath, which consumed them as stubble.
 [15:8] And with the blast of your nostrils the waters were gathered together, the floods stood upright as an heap, and the depths were congealed in the heart of the sea.
 [15:9] The enemy said, I will pursue, I will overtake, I will divide the spoil; my lust shall be satisfied upon them; I will draw my sword, my hand shall destroy them.
 [15:10] You didst blow with your wind, the sea covered them: they sank as lead in the mighty waters.
 [15:11] Who is like unto you, O LORD, among the gods? who is like you, glorious in holiness, fearful in praises, doing wonders?
 [15:12] You stretchedst out your right hand, the earth swallowed them.
-[15:13] You in your mercy hast led forth the people which you hast redeemed: you hast guided them in your strength unto your holy habitation.
+[15:13] You in your mercy have led forth the people which you have redeemed: you have guided them in your strength unto your holy habitation.
 [15:14] The people shall hear, and be afraid: sorrow shall take hold on the inhabitants of Palestina.
 [15:15] Then the dukes of Edom shall be amazed; the mighty men of Moab, trembling shall take hold upon them; all the inhabitants of Canaan shall melt away.
-[15:16] Fear and dread shall fall upon them; by the greatness of your arm they shall be as still as a stone; till your people pass over, O LORD, till the people pass over, which you hast purchased.
-[15:17] You shalt bring them in, and plant them in the mountain of your inheritance, in the place, O LORD, which you hast made for you to dwell in, in the Sanctuary, O LORD, which your hands have established.
+[15:16] Fear and dread shall fall upon them; by the greatness of your arm they shall be as still as a stone; till your people pass over, O LORD, till the people pass over, which you have purchased.
+[15:17] You shalt bring them in, and plant them in the mountain of your inheritance, in the place, O LORD, which you have made for you to dwell in, in the Sanctuary, O LORD, which your hands have established.
 [15:18] The LORD shall reign for ever and ever.
 [15:19] For the horse of Pharaoh went in with his chariots and with his horsemen into the sea, and the LORD brought again the waters of the sea upon them; but the children of Israel went on dry land in the midst of the sea.
 [15:20] And Miriam the prophetess, the sister of Aaron, took a timbrel in her hand; and all the women went out after her with timbrels and with dances.
@@ -452,7 +452,7 @@ Exodus
 [16:36] Now an omer is the tenth part of an ephah.
 [17:1] And all the congregation of the children of Israel journeyed from the wilderness of Sin, after their journeys, according to the commandment of the LORD, and pitched in Rephidim: and there was no water for the people to drink.
 [17:2] Wherefore the people did chide with Moses, and said, Give us water that we may drink. And Moses said unto them, Why chide you with me? wherefore do you tempt the LORD?
-[17:3] And the people thirsted there for water; and the people murmured against Moses, and said, Wherefore is this that you hast brought us up out of Egypt, to kill us and our children and our cattle with thirst?
+[17:3] And the people thirsted there for water; and the people murmured against Moses, and said, Wherefore is this that you have brought us up out of Egypt, to kill us and our children and our cattle with thirst?
 [17:4] And Moses cried unto the LORD, saying, What shall I do unto this people? they be almost ready to stone me.
 [17:5] And the LORD said unto Moses, Go on before the people, and take with you of the elders of Israel; and your rod, wherewith you smotest the river, take in your hand, and go.
 [17:6] Behold, I will stand before you there upon the rock in Horeb; and you shalt smite the rock, and there shall come water out of it, that the people may drink. And Moses did so in the sight of the elders of Israel.
@@ -479,12 +479,12 @@ Exodus
 [18:11] Now I know that the LORD is greater than all gods: for in the thing wherein they dealt proudly he was above them.
 [18:12] And Jethro, Moses' father in law, took a burnt offering and sacrifices for God: and Aaron came, and all the elders of Israel, to eat bread with Moses' father in law before God.
 [18:13] And it came to pass on the morrow, that Moses sat to judge the people: and the people stood by Moses from the morning unto the evening.
-[18:14] And when Moses' father in law saw all that he did to the people, he said, What is this thing that you doest to the people? why sittest you thyself alone, and all the people stand by you from morning unto even?
+[18:14] And when Moses' father in law saw all that he did to the people, he said, What is this thing that you do to the people? why sittest you thyself alone, and all the people stand by you from morning unto even?
 [18:15] And Moses said unto his father in law, Because the people come unto me to inquire of God:
 [18:16] When they have a matter, they come unto me; and I judge between one and another, and I do make them know the statutes of God, and his laws.
-[18:17] And Moses' father in law said unto him, The thing that you doest is not good.
+[18:17] And Moses' father in law said unto him, The thing that you do is not good.
 [18:18] You wilt surely wear away, both you, and this people that is with you: for this thing is too heavy for you; you art not able to perform it thyself alone.
-[18:19] Hearken now unto my voice, I will give you counsel, and God shall be with you: Be you for the people to God-ward, that you mayest bring the causes unto God:
+[18:19] Hearken now unto my voice, I will give you counsel, and God shall be with you: Be you for the people to God-ward, that you may bring the causes unto God:
 [18:20] And you shalt teach them ordinances and laws, and shalt show them the way wherein they must walk, and the work that they must do.
 [18:21] Moreover you shalt provide out of all the people able men, such as fear God, men of truth, hating covetousness; and place such over them, to be rulers of thousands, and rulers of hundreds, rulers of fifties, and rulers of tens:
 [18:22] And let them judge the people at all seasons: and it shall be, that every great matter they shall bring unto you, but every small matter they shall judge: so shall it be easier for thyself, and they shall bear the burden with you.
@@ -542,7 +542,7 @@ Exodus
 [20:22] And the LORD said unto Moses, Thus you shalt say unto the children of Israel, You have seen that I have talked with you from heaven.
 [20:23] You shall not make with me gods of silver, neither shall you make unto you gods of gold.
 [20:24] An altar of earth you shalt make unto me, and shalt sacrifice thereon your burnt offerings, and your peace offerings, your sheep, and your oxen: in all places where I record my name I will come unto you, and I will bless you.
-[20:25] And if you wilt make me an altar of stone, you shalt not build it of hewn stone: for if you lift up your tool upon it, you hast polluted it.
+[20:25] And if you wilt make me an altar of stone, you shalt not build it of hewn stone: for if you lift up your tool upon it, you have polluted it.
 [20:26] Neither shalt you go up by steps unto mine altar, that your nakedness be not discovered thereon.
 [21:1] Now these are the judgments which you shalt set before them.
 [21:2] If you buy an Hebrew servant, six years he shall serve: and in the seventh he shall go out free for nothing.
@@ -626,7 +626,7 @@ Exodus
 [23:13] And in all things that I have said unto you be circumspect: and make no mention of the name of other gods, neither let it be heard out of your mouth.
 [23:14] Three times you shalt keep a feast unto me in the year.
 [23:15] You shalt keep the feast of unleavened bread: (you shalt eat unleavened bread seven days, as I commanded you, in the time appointed of the month Abib; for in it you camest out from Egypt: and none shall appear before me empty:)
-[23:16] And the feast of harvest, the firstfruits of your labors, which you hast sown in the field: and the feast of ingathering, which is in the end of the year, when you hast gathered in your labors out of the field.
+[23:16] And the feast of harvest, the firstfruits of your labors, which you have sown in the field: and the feast of ingathering, which is in the end of the year, when you have gathered in your labors out of the field.
 [23:17] Three items in the year all your males shall appear before the LORD God.
 [23:18] You shalt not offer the blood of my sacrifice with leavened bread; neither shall the fat of my sacrifice remain until the morning.
 [23:19] The first of the firstfruits of your land you shalt bring into the house of the LORD your God. You shalt not seethe a kid in his mother's milk.
@@ -655,7 +655,7 @@ Exodus
 [24:9] Then went up Moses, and Aaron, Nadab, and Abihu, and seventy of the elders of Israel:
 [24:10] And they saw the God of Israel: and there was under his feet as it were a paved work of a sapphire stone, and as it were the body of heaven in his clearness.
 [24:11] And upon the nobles of the children of Israel he laid not his hand: also they saw God, and did eat and drink.
-[24:12] And the LORD said unto Moses, Come up to me into the mount, and be there: and I will give you tables of stone, and a law, and commandments which I have written; that you mayest teach them.
+[24:12] And the LORD said unto Moses, Come up to me into the mount, and be there: and I will give you tables of stone, and a law, and commandments which I have written; that you may teach them.
 [24:13] And Moses rose up, and his minister Joshua: and Moses went up into the mount of God.
 [24:14] And he said unto the elders, Tarry you here for us, until we come again unto you: and, behold, Aaron and Hur are with you: if any man have any matters to do, let him come unto them.
 [24:15] And Moses went up into the mount, and a cloud covered the mount.
@@ -734,7 +734,7 @@ Exodus
 [26:30] And you shalt rear up the tabernacle according to the fashion thereof which was showed you in the mount.
 [26:31] And you shalt make a vail of blue, and purple, and scarlet, and fine twined linen of cunning work: with cherubim shall it be made:
 [26:32] And you shalt hang it upon four pillars of shittim wood overlaid with gold: their hooks shall be of gold, upon the four sockets of silver.
-[26:33] And you shalt hang up the vail under the taches, that you mayest bring in thither within the vail the ark of the testimony: and the vail shall divide unto you between the holy place and the most holy.
+[26:33] And you shalt hang up the vail under the taches, that you may bring in thither within the vail the ark of the testimony: and the vail shall divide unto you between the holy place and the most holy.
 [26:34] And you shalt put the mercy seat upon the ark of the testimony in the most holy place.
 [26:35] And you shalt set the table without the vail, and the candlestick over against the table on the side of the tabernacle toward the south: and you shalt put the table on the north side.
 [26:36] And you shalt make an hanging for the door of the tent, of blue, and purple, and scarlet, and fine twined linen, wrought with needlework.
@@ -838,7 +838,7 @@ Exodus
 [29:33] And they shall eat those things wherewith the atonement was made, to consecrate and to sanctify them: but a stranger shall not eat thereof, because they are holy.
 [29:34] And if ought of the flesh of the consecrations, or of the bread, remain unto the morning, then you shalt burn the remainder with fire: it shall not be eaten, because it is holy.
 [29:35] And thus shalt you do unto Aaron, and to his sons, according to all things which I have commanded you: seven days shalt you consecrate them.
-[29:36] And you shalt offer every day a bullock for a sin offering for atonement: and you shalt cleanse the altar, when you hast made an atonement for it, and you shalt anoint it, to sanctify it.
+[29:36] And you shalt offer every day a bullock for a sin offering for atonement: and you shalt cleanse the altar, when you have made an atonement for it, and you shalt anoint it, to sanctify it.
 [29:37] Seven days you shalt make an atonement for the altar, and sanctify it; and it shall be an altar most holy: whatsoever toucheth the altar shall be holy.
 [29:38] Now this is that which you shalt offer upon the altar; two lambs of the first year day by day continually.
 [29:39] The one lamb you shalt offer in the morning; and the other lamb you shalt offer at even:
@@ -915,7 +915,7 @@ Exodus
 [32:8] They have turned aside quickly out of the way which I commanded them: they have made them a molten calf, and have worshipped it, and have sacrificed thereunto, and said, These be your gods, O Israel, which have brought you up out of the land of Egypt.
 [32:9] And the LORD said unto Moses, I have seen this people, and, behold, it is a stiffnecked people:
 [32:10] Now therefore let me alone, that my wrath may wax hot against them, and that I may consume them: and I will make of you a great nation.
-[32:11] And Moses besought the LORD his God, and said, LORD, why doth your wrath wax hot against your people, which you hast brought forth out of the land of Egypt with great power, and with a mighty hand?
+[32:11] And Moses besought the LORD his God, and said, LORD, why doth your wrath wax hot against your people, which you have brought forth out of the land of Egypt with great power, and with a mighty hand?
 [32:12] Wherefore should the Egyptians speak, and say, For mischief did he bring them out, to slay them in the mountains, and to consume them from the face of the earth? Turn from your fierce wrath, and repent of this evil against your people.
 [32:13] Remember Abraham, Isaac, and Israel, your servants, to whom you swarest by your own self, and saidst unto them, I will multiply your seed as the stars of heaven, and all this land that I have spoken of will I give unto your seed, and they shall inherit it for ever.
 [32:14] And the LORD repented of the evil which he thought to do unto his people.
@@ -925,7 +925,7 @@ Exodus
 [32:18] And he said, It is not the voice of them that shout for mastery, neither is it the voice of them that cry for being overcome: but the noise of them that sing do I hear.
 [32:19] And it came to pass, as soon as he came nigh unto the camp, that he saw the calf, and the dancing: and Moses' anger waxed hot, and he cast the tables out of his hands, and brake them beneath the mount.
 [32:20] And he took the calf which they had made, and burnt it in the fire, and ground it to powder, and strewed it upon the water, and made the children of Israel drink of it.
-[32:21] And Moses said unto Aaron, What did this people unto you, that you hast brought so great a sin upon them?
+[32:21] And Moses said unto Aaron, What did this people unto you, that you have brought so great a sin upon them?
 [32:22] And Aaron said, Let not the anger of my lord wax hot: you knowest the people, that they are set on mischief.
 [32:23] For they said unto me, Make us gods, which shall go before us: for as for this Moses, the man that brought us up out of the land of Egypt, we wot not what is become of him.
 [32:24] And I said unto them, Whosoever hath any gold, let them break it off. So they gave it me: then I cast it into the fire, and there came out this calf.
@@ -936,11 +936,11 @@ Exodus
 [32:29] For Moses had said, Consecrate yourselves today to the LORD, even every man upon his son, and upon his brother; that he may bestow upon you a blessing this day.
 [32:30] And it came to pass on the morrow, that Moses said unto the people, You have sinned a great sin: and now I will go up unto the LORD; peradventure I shall make an atonement for your sin.
 [32:31] And Moses returned unto the LORD, and said, Oh, this people have sinned a great sin, and have made them gods of gold.
-[32:32] Yet now, if you wilt forgive their sin--; and if not, blot me, I pray you, out of your book which you hast written.
+[32:32] Yet now, if you wilt forgive their sin--; and if not, blot me, I pray you, out of your book which you have written.
 [32:33] And the LORD said unto Moses, Whosoever hath sinned against me, him will I blot out of my book.
 [32:34] Therefore now go, lead the people unto the place of which I have spoken unto you: behold, mine Angel shall go before you: nevertheless in the day when I visit I will visit their sin upon them.
 [32:35] And the LORD plagued the people, because they made the calf, which Aaron made.
-[33:1] And the LORD said unto Moses, Depart, and go up hence, you and the people which you hast brought up out of the land of Egypt, unto the land which I sware unto Abraham, to Isaac, and to Jacob, saying, Unto your seed will I give it:
+[33:1] And the LORD said unto Moses, Depart, and go up hence, you and the people which you have brought up out of the land of Egypt, unto the land which I sware unto Abraham, to Isaac, and to Jacob, saying, Unto your seed will I give it:
 [33:2] And I will send an angel before you; and I will drive out the Canaanite, the Amorite, and the Hittite, and the Perizzite, the Hivite, and the Jebusite:
 [33:3] Unto a land flowing with milk and honey: for I will not go up in the midst of you; for you art a stiffnecked people: lest I consume you in the way.
 [33:4] And when the people heard these evil tidings, they mourned: and no man did put on him his ornaments.
@@ -951,12 +951,12 @@ Exodus
 [33:9] And it came to pass, as Moses entered into the tabernacle, the cloudy pillar descended, and stood at the door of the tabernacle, and the Lord talked with Moses.
 [33:10] And all the people saw the cloudy pillar stand at the tabernacle door: and all the people rose up and worshipped, every man in his tent door.
 [33:11] And the LORD spake unto Moses face to face, as a man speaketh unto his friend. And he turned again into the camp: but his servant Joshua, the son of Nun, a young man, departed not out of the tabernacle.
-[33:12] And Moses said unto the LORD, See, you sayest unto me, Bring up this people: and you hast not let me know whom you wilt send with me. Yet you hast said, I know you by name, and you hast also found grace in my sight.
+[33:12] And Moses said unto the LORD, See, you sayest unto me, Bring up this people: and you have not let me know whom you wilt send with me. Yet you have said, I know you by name, and you have also found grace in my sight.
 [33:13] Now therefore, I pray you, if I have found grace in your sight, show me now your way, that I may know you, that I may find grace in your sight: and consider that this nation is your people.
 [33:14] And he said, My presence shall go with you, and I will give you rest.
 [33:15] And he said unto him, If your presence go not with me, carry us not up hence.
 [33:16] For wherein shall it be known here that I and your people have found grace in your sight? is it not in that you goest with us? so shall we be separated, I and your people, from all the people that are upon the face of the earth.
-[33:17] And the LORD said unto Moses, I will do this thing also that you hast spoken: for you hast found grace in my sight, and I know you by name.
+[33:17] And the LORD said unto Moses, I will do this thing also that you have spoken: for you have found grace in my sight, and I know you by name.
 [33:18] And he said, I beseech you, show me your glory.
 [33:19] And he said, I will make all my goodness pass before you, and I will proclaim the name of the LORD before you; and will be gracious to whom I will be gracious, and will show mercy on whom I will show mercy.
 [33:20] And he said, You canst not see my face: for there shall no man see me, and live.

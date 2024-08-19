@@ -4,11 +4,11 @@ Nehemiah
 [1:3] And they said unto me, The remnant that are left of the captivity there in the province are in great affliction and reproach: the wall of Jerusalem also is broken down, and the gates thereof are burned with fire.
 [1:4] And it came to pass, when I heard these words, that I sat down and wept, and mourned certain days, and fasted, and prayed before the God of heaven,
 [1:5] And said, I beseech you, O LORD God of heaven, the great and terrible God, that keepeth covenant and mercy for them that love him and observe his commandments:
-[1:6] Let your ear now be attentive, and your eyes open, that you mayest hear the prayer of your servant, which I pray before you now, day and night, for the children of Israel your servants, and confess the sins of the children of Israel, which we have sinned against you: both I and my father's house have sinned.
+[1:6] Let your ear now be attentive, and your eyes open, that you may hear the prayer of your servant, which I pray before you now, day and night, for the children of Israel your servants, and confess the sins of the children of Israel, which we have sinned against you: both I and my father's house have sinned.
 [1:7] We have dealt very corruptly against you, and have not kept the commandments, nor the statutes, nor the judgments, which you commandedst your servant Moses.
 [1:8] Remember, I beseech you, the word that you commandedst your servant Moses, saying, If you transgress, I will scatter you abroad among the nations:
 [1:9] But if you turn unto me, and keep my commandments, and do them; though there were of you cast out unto the uttermost part of the heaven, yet will I gather them from thence, and will bring them unto the place that I have chosen to set my name there.
-[1:10] Now these are your servants and your people, whom you hast redeemed by your great power, and by your strong hand.
+[1:10] Now these are your servants and your people, whom you have redeemed by your great power, and by your strong hand.
 [1:11] O LORD, I beseech you, let now your ear be attentive to the prayer of your servant, and to the prayer of your servants, who desire to fear your name: and prosper, I pray you, your servant this day, and grant him mercy in the sight of this man. For I was the king's cupbearer.
 [2:1] And it came to pass in the month Nisan, in the twentieth year of Artaxerxes the king, that wine was before him: and I took up the wine, and gave it unto the king. Now I had not been beforetime sad in his presence.
 [2:2] Wherefore the king said unto me, Why is your countenance sad, seeing you art not sick? this is nothing else but sorrow of heart. Then I was very sore afraid,
@@ -109,8 +109,8 @@ Nehemiah
 [6:3] And I sent messengers unto them, saying, I am doing a great work, so that I cannot come down: why should the work cease, whilst I leave it, and come down to you?
 [6:4] Yet they sent unto me four times after this sort; and I answered them after the same manner.
 [6:5] Then sent Sanballat his servant unto me in like manner the fifth time with an open letter in his hand;
-[6:6] Wherein was written, It is reported among the heathen, and Gashmu saith it, that you and the Jews think to rebel: for which cause you buildest the wall, that you mayest be their king, according to these words.
-[6:7] And you hast also appointed prophets to preach of you at Jerusalem, saying, There is a king in Judah: and now shall it be reported to the king according to these words. Come now therefore, and let us take counsel together.
+[6:6] Wherein was written, It is reported among the heathen, and Gashmu saith it, that you and the Jews think to rebel: for which cause you buildest the wall, that you may be their king, according to these words.
+[6:7] And you have also appointed prophets to preach of you at Jerusalem, saying, There is a king in Judah: and now shall it be reported to the king according to these words. Come now therefore, and let us take counsel together.
 [6:8] Then I sent unto him, saying, There are no such things done as you sayest, but you feignest them out of your own heart.
 [6:9] For they all made us afraid, saying, Their hands shall be weakened from the work, that it be not done. Now therefore, O God, strengthen my hands.
 [6:10] Afterward I came unto the house of Shemaiah the son of Delaiah the son of Mehetabeel, who was shut up; and he said, Let us meet together in the house of God, within the temple, and let us shut the doors of the temple: for they will come to slay you; yea, in the night will they come to slay you.
@@ -219,9 +219,9 @@ Nehemiah
 [9:3] And they stood up in their place, and read in the book of the law of the LORD their God one fourth part of the day; and another fourth part they confessed, and worshipped the LORD their God.
 [9:4] Then stood up upon the stairs, of the Levites, Jeshua, and Bani, Kadmiel, Shebaniah, Bunni, Sherebiah, Bani, and Chenani, and cried with a loud voice unto the LORD their God.
 [9:5] Then the Levites, Jeshua, and Kadmiel, Bani, Hashabniah, Sherebiah, Hodijah, Shebaniah, and Pethahiah, said, Stand up and bless the LORD your God for ever and ever: and blessed be your glorious name, which is exalted above all blessing and praise.
-[9:6] You, even you, art LORD alone; you hast made heaven, the heaven of heavens, with all their host, the earth, and all things that are therein, the seas, and all that is therein, and you preservest them all; and the host of heaven worshippeth you.
+[9:6] You, even you, art LORD alone; you have made heaven, the heaven of heavens, with all their host, the earth, and all things that are therein, the seas, and all that is therein, and you preservest them all; and the host of heaven worshippeth you.
 [9:7] You art the LORD the God, who didst choose Abram, and broughtest him forth out of Ur of the Chaldees, and gavest him the name of Abraham;
-[9:8] And foundest his heart faithful before you, and madest a covenant with him to give the land of the Canaanites, the Hittites, the Amorites, and the Perizzites, and the Jebusites, and the Girgashites, to give it, I say, to his seed, and hast performed your words; for you art righteous:
+[9:8] And foundest his heart faithful before you, and madest a covenant with him to give the land of the Canaanites, the Hittites, the Amorites, and the Perizzites, and the Jebusites, and the Girgashites, to give it, I say, to his seed, and have performed your words; for you art righteous:
 [9:9] And didst see the affliction of our fathers in Egypt, and heardest their cry by the Red sea;
 [9:10] And shewedst signs and wonders upon Pharaoh, and on all his servants, and on all the people of his land: for you knewest that they dealt proudly against them. So didst you get you a name, as it is this day.
 [9:11] And you didst divide the sea before them, so that they went through the midst of the sea on the dry land; and their persecutors you threwest into the deeps, as a stone into the mighty waters.
@@ -246,11 +246,11 @@ Nehemiah
 [9:30] Yet many years didst you forbear them, and testifiedst against them by your spirit in your prophets: yet would they not give ear: therefore gavest you them into the hand of the people of the lands.
 [9:31] Nevertheless for your great mercies' sake you didst not utterly consume them, nor forsake them; for you art a gracious and merciful God.
 [9:32] Now therefore, our God, the great, the mighty, and the terrible God, who keepest covenant and mercy, let not all the trouble seem little before you, that hath come upon us, on our kings, on our princes, and on our priests, and on our prophets, and on our fathers, and on all your people, since the time of the kings of Assyria unto this day.
-[9:33] Howbeit you art just in all that is brought upon us; for you hast done right, but we have done wickedly:
+[9:33] Howbeit you art just in all that is brought upon us; for you have done right, but we have done wickedly:
 [9:34] Neither have our kings, our princes, our priests, nor our fathers, kept your law, nor hearkened unto your commandments and your testimonies, wherewith you didst testify against them.
 [9:35] For they have not served you in their kingdom, and in your great goodness that you gavest them, and in the large and fat land which you gavest before them, neither turned they from their wicked works.
 [9:36] Behold, we are servants this day, and for the land that you gavest unto our fathers to eat the fruit thereof and the good thereof, behold, we are servants in it:
-[9:37] And it yieldeth much increase unto the kings whom you hast set over us because of our sins: also they have dominion over our bodies, and over our cattle, at their pleasure, and we are in great distress.
+[9:37] And it yieldeth much increase unto the kings whom you have set over us because of our sins: also they have dominion over our bodies, and over our cattle, at their pleasure, and we are in great distress.
 [9:38] And because of all this we make a sure covenant, and write it; and our princes, Levites, and priests, seal unto it.
 [10:1] Now those that sealed were, Nehemiah, the Tirshatha, the son of Hachaliah, and Zidkijah,
 [10:2] Seraiah, Azariah, Jeremiah,

@@ -205,8 +205,8 @@ Numbers
 [5:16] And the priest shall bring her near, and set her before the LORD:
 [5:17] And the priest shall take holy water in an earthen vessel; and of the dust that is in the floor of the tabernacle the priest shall take, and put it into the water:
 [5:18] And the priest shall set the woman before the LORD, and uncover the woman's head, and put the offering of memorial in her hands, which is the jealousy offering: and the priest shall have in his hand the bitter water that causeth the curse:
-[5:19] And the priest shall charge her by an oath, and say unto the woman, If no man have lain with you, and if you hast not gone aside to uncleanness with another instead of your husband, be you free from this bitter water that causeth the curse:
-[5:20] But if you hast gone aside to another instead of your husband, and if you be defiled, and some man have lain with you beside your husband:
+[5:19] And the priest shall charge her by an oath, and say unto the woman, If no man have lain with you, and if you have not gone aside to uncleanness with another instead of your husband, be you free from this bitter water that causeth the curse:
+[5:20] But if you have gone aside to another instead of your husband, and if you be defiled, and some man have lain with you beside your husband:
 [5:21] Then the priest shall charge the woman with an oath of cursing, and the priest shall say unto the woman, The LORD make you a curse and an oath among your people, when the LORD doth make your thigh to rot, and your belly to swell;
 [5:22] And this water that causeth the curse shall go into your bowels, to make your belly to swell, and your thigh to rot: And the woman shall say, Amen, amen.
 [5:23] And the priest shall write these curses in a book, and he shall blot them out with the bitter water:
@@ -384,7 +384,7 @@ Numbers
 [9:22] Or whether it were two days, or a month, or a year, that the cloud tarried upon the tabernacle, remaining thereon, the children of Israel abode in their tents, and journeyed not: but when it was taken up, they journeyed.
 [9:23] At the commandment of the LORD they rested in the tents, and at the commandment of the LORD they journeyed: they kept the charge of the LORD, at the commandment of the LORD by the hand of Moses.
 [10:1] And the LORD spake unto Moses, saying,
-[10:2] Make you two trumpets of silver; of a whole piece shalt you make them: that you mayest use them for the calling of the assembly, and for the journeying of the camps.
+[10:2] Make you two trumpets of silver; of a whole piece shalt you make them: that you may use them for the calling of the assembly, and for the journeying of the camps.
 [10:3] And when they shall blow with them, all the assembly shall assemble themselves to you at the door of the tabernacle of the congregation.
 [10:4] And if they blow but with one trumpet, then the princes, which are heads of the thousands of Israel, shall gather themselves unto you.
 [10:5] When you blow an alarm, then the camps that lie on the east parts shall go forward.
@@ -413,7 +413,7 @@ Numbers
 [10:28] Thus were the journeyings of the children of Israel according to their armies, when they set forward.
 [10:29] And Moses said unto Hobab, the son of Raguel the Midianite, Moses' father in law, We are journeying unto the place of which the LORD said, I will give it you: come you with us, and we will do you good: for the LORD hath spoken good concerning Israel.
 [10:30] And he said unto him, I will not go; but I will depart to mine own land, and to my kindred.
-[10:31] And he said, Leave us not, I pray you; forasmuch as you knowest how we are to encamp in the wilderness, and you mayest be to us instead of eyes.
+[10:31] And he said, Leave us not, I pray you; forasmuch as you knowest how we are to encamp in the wilderness, and you may be to us instead of eyes.
 [10:32] And it shall be, if you go with us, yea, it shall be, that what goodness the LORD shall do unto us, the same will we do unto you.
 [10:33] And they departed from the mount of the LORD three days' journey: and the ark of the covenant of the LORD went before them in the three days' journey, to search out a resting place for them.
 [10:34] And the cloud of the LORD was upon them by day, when they went out of the camp.
@@ -429,8 +429,8 @@ Numbers
 [11:8] And the people went about, and gathered it, and ground it in mills, or beat it in a mortar, and baked it in pans, and made cakes of it: and the taste of it was as the taste of fresh oil.
 [11:9] And when the dew fell upon the camp in the night, the manna fell upon it.
 [11:10] Then Moses heard the people weep throughout their families, every man in the door of his tent: and the anger of the LORD was kindled greatly; Moses also was displeased.
-[11:11] And Moses said unto the LORD, Wherefore hast you afflicted your servant? and wherefore have I not found favor in your sight, that you layest the burden of all this people upon me?
-[11:12] Have I conceived all this people? have I begotten them, that you shouldest say unto me, Carry them in your bosom, as a nursing father beareth the sucking child, unto the land which you swarest unto their fathers?
+[11:11] And Moses said unto the LORD, Wherefore have you afflicted your servant? and wherefore have I not found favor in your sight, that you layest the burden of all this people upon me?
+[11:12] Have I conceived all this people? have I begotten them, that you should say unto me, Carry them in your bosom, as a nursing father beareth the sucking child, unto the land which you swarest unto their fathers?
 [11:13] Whence should I have flesh to give unto all this people? for they weep unto me, saying, Give us flesh, that we may eat.
 [11:14] I am not able to bear all this people alone, because it is too heavy for me.
 [11:15] And if you deal thus with me, kill me, I pray you, out of hand, if I have found favor in your sight; and let me not see my wretchedness.
@@ -439,7 +439,7 @@ Numbers
 [11:18] And say you unto the people, Sanctify yourselves against to morrow, and you shall eat flesh: for you have wept in the ears of the LORD, saying, Who shall give us flesh to eat? for it was well with us in Egypt: therefore the LORD will give you flesh, and you shall eat.
 [11:19] You shall not eat one day, nor two days, nor five days, neither ten days, nor twenty days;
 [11:20] But even a whole month, until it come out at your nostrils, and it be loathsome unto you: because that you have despised the LORD which is among you, and have wept before him, saying, Why came we forth out of Egypt?
-[11:21] And Moses said, The people, among whom I am, are six hundred thousand footmen; and you hast said, I will give them flesh, that they may eat a whole month.
+[11:21] And Moses said, The people, among whom I am, are six hundred thousand footmen; and you have said, I will give them flesh, that they may eat a whole month.
 [11:22] Shall the flocks and the herds be slain for them, to suffice them? or shall all the fish of the sea be gathered together for them, to suffice them?
 [11:23] And the LORD said unto Moses, Is the LORD's hand waxed short? you shalt see now whether my word shall come to pass unto you or not.
 [11:24] And Moses went out, and told the people the words of the LORD, and gathered the seventy men of the elders of the people, and set them round about the tabernacle.
@@ -519,9 +519,9 @@ Numbers
 [14:14] And they will tell it to the inhabitants of this land: for they have heard that you LORD art among this people, that you LORD art seen face to face, and that your cloud standeth over them, and that you goest before them, by day time in a pillar of a cloud, and in a pillar of fire by night.
 [14:15] Now if you shalt kill all this people as one man, then the nations which have heard the fame of you will speak, saying,
 [14:16] Because the LORD was not able to bring this people into the land which he sware unto them, therefore he hath slain them in the wilderness.
-[14:17] And now, I beseech you, let the power of my Lord be great, according as you hast spoken, saying,
+[14:17] And now, I beseech you, let the power of my Lord be great, according as you have spoken, saying,
 [14:18] The LORD is long-suffering, and of great mercy, forgiving iniquity and transgression, and by no means clearing the guilty, visiting the iniquity of the fathers upon the children unto the third and fourth generation.
-[14:19] Pardon, I beseech you, the iniquity of this people according unto the greatness of your mercy, and as you hast forgiven this people, from Egypt even until now.
+[14:19] Pardon, I beseech you, the iniquity of this people according unto the greatness of your mercy, and as you have forgiven this people, from Egypt even until now.
 [14:20] And the LORD said, I have pardoned according to your word:
 [14:21] But as truly as I live, all the earth shall be filled with the glory of the LORD.
 [14:22] Because all those men which have seen my glory, and my miracles, which I did in Egypt and in the wilderness, and have tempted me now these ten times, and have not hearkened to my voice;
@@ -601,8 +601,8 @@ Numbers
 [16:10] And he hath brought you near to him, and all your brethren the sons of Levi with you: and seek you the priesthood also?
 [16:11] For which cause both you and all your company are gathered together against the LORD: and what is Aaron, that you murmur against him?
 [16:12] And Moses sent to call Dathan and Abiram, the sons of Eliab: which said, We will not come up:
-[16:13] Is it a small thing that you hast brought us up out of a land that floweth with milk and honey, to kill us in the wilderness, except you make thyself altogether a prince over us?
-[16:14] Moreover you hast not brought us into a land that floweth with milk and honey, or given us inheritance of fields and vineyards: wilt you put out the eyes of these men? we will not come up.
+[16:13] Is it a small thing that you have brought us up out of a land that floweth with milk and honey, to kill us in the wilderness, except you make thyself altogether a prince over us?
+[16:14] Moreover you have not brought us into a land that floweth with milk and honey, or given us inheritance of fields and vineyards: wilt you put out the eyes of these men? we will not come up.
 [16:15] And Moses was very wroth, and said unto the LORD, Respect not you their offering: I have not taken one ass from them, neither have I hurt one of them.
 [16:16] And Moses said unto Korah, Be you and all your company before the LORD, you, and they, and Aaron, to morrow:
 [16:17] And take every man his censer, and put incense in them, and bring you before the LORD every man his censer, two hundred and fifty censers; you also, and Aaron, each of you his censer.
@@ -797,11 +797,11 @@ Numbers
 [22:25] And when the ass saw the angel of the LORD, she thrust herself unto the wall, and crushed Balaam's foot against the wall: and he smote her again.
 [22:26] And the angel of the LORD went further, and stood in a narrow place, where was no way to turn either to the right hand or to the left.
 [22:27] And when the ass saw the angel of the LORD, she fell down under Balaam: and Balaam's anger was kindled, and he smote the ass with a staff.
-[22:28] And the LORD opened the mouth of the ass, and she said unto Balaam, What have I done unto you, that you hast smitten me these three times?
-[22:29] And Balaam said unto the ass, Because you hast mocked me: I would there were a sword in mine hand, for now would I kill you.
-[22:30] And the ass said unto Balaam, Am not I your ass, upon which you hast ridden ever since I was your unto this day? was I ever wont to do so unto you? And he said, Nay.
+[22:28] And the LORD opened the mouth of the ass, and she said unto Balaam, What have I done unto you, that you have smitten me these three times?
+[22:29] And Balaam said unto the ass, Because you have mocked me: I would there were a sword in mine hand, for now would I kill you.
+[22:30] And the ass said unto Balaam, Am not I your ass, upon which you have ridden ever since I was your unto this day? was I ever wont to do so unto you? And he said, Nay.
 [22:31] Then the LORD opened the eyes of Balaam, and he saw the angel of the LORD standing in the way, and his sword drawn in his hand: and he bowed down his head, and fell flat on his face.
-[22:32] And the angel of the LORD said unto him, Wherefore hast you smitten your ass these three times? behold, I went out to withstand you, because your way is perverse before me:
+[22:32] And the angel of the LORD said unto him, Wherefore have you smitten your ass these three times? behold, I went out to withstand you, because your way is perverse before me:
 [22:33] And the ass saw me, and turned from me these three times: unless she had turned from me, surely now also I had slain you, and saved her alive.
 [22:34] And Balaam said unto the angel of the LORD, I have sinned; for I knew not that you stoodest in the way against me: now therefore, if it displease you, I will get me back again.
 [22:35] And the angel of the LORD said unto Balaam, Go with the men: but only the word that I shall speak unto you, that you shalt speak. So Balaam went with the princes of Balak.
@@ -821,9 +821,9 @@ Numbers
 [23:8] How shall I curse, whom God hath not cursed? or how shall I defy, whom the LORD hath not defied?
 [23:9] For from the top of the rocks I see him, and from the hills I behold him: lo, the people shall dwell alone, and shall not be reckoned among the nations.
 [23:10] Who can count the dust of Jacob, and the number of the fourth part of Israel? Let me die the death of the righteous, and let my last end be like his!
-[23:11] And Balak said unto Balaam, What hast you done unto me? I took you to curse mine enemies, and, behold, you hast blessed them altogether.
+[23:11] And Balak said unto Balaam, What have you done unto me? I took you to curse mine enemies, and, behold, you have blessed them altogether.
 [23:12] And he answered and said, Must I not take heed to speak that which the LORD hath put in my mouth?
-[23:13] And Balak said unto him, Come, I pray you, with me unto another place, from whence you mayest see them: you shalt see but the utmost part of them, and shalt not see them all: and curse me them from thence.
+[23:13] And Balak said unto him, Come, I pray you, with me unto another place, from whence you may see them: you shalt see but the utmost part of them, and shalt not see them all: and curse me them from thence.
 [23:14] And he brought him into the field of Zophim, to the top of Pisgah, and built seven altars, and offered a bullock and a ram on every altar.
 [23:15] And he said unto Balak, Stand here by your burnt offering, while I meet the LORD yonder.
 [23:16] And the LORD met Balaam, and put a word in his mouth, and said, Go again unto Balak, and say thus.
@@ -837,7 +837,7 @@ Numbers
 [23:24] Behold, the people shall rise up as a great lion, and lift up himself as a young lion: he shall not lie down until he eat of the prey, and drink the blood of the slain.
 [23:25] And Balak said unto Balaam, Neither curse them at all, nor bless them at all.
 [23:26] But Balaam answered and said unto Balak, Told not I you, saying, All that the LORD speaketh, that I must do?
-[23:27] And Balak said unto Balaam, Come, I pray you, I will bring you unto another place; peradventure it will please God that you mayest curse me them from thence.
+[23:27] And Balak said unto Balaam, Come, I pray you, I will bring you unto another place; peradventure it will please God that you may curse me them from thence.
 [23:28] And Balak brought Balaam unto the top of Peor, that looketh toward Jeshimon.
 [23:29] And Balaam said unto Balak, Build me here seven altars, and prepare me here seven bullocks and seven rams.
 [23:30] And Balak did as Balaam had said, and offered a bullock and a ram on every altar.
@@ -850,7 +850,7 @@ Numbers
 [24:7] He shall pour the water out of his buckets, and his seed shall be in many waters, and his king shall be higher than Agag, and his kingdom shall be exalted.
 [24:8] God brought him forth out of Egypt; he hath as it were the strength of an unicorn: he shall eat up the nations his enemies, and shall break their bones, and pierce them through with his arrows.
 [24:9] He couched, he lay down as a lion, and as a great lion: who shall stir him up? Blessed is he that blesseth you, and cursed is he that curseth you.
-[24:10] And Balak's anger was kindled against Balaam, and he smote his hands together: and Balak said unto Balaam, I called you to curse mine enemies, and, behold, you hast altogether blessed them these three times.
+[24:10] And Balak's anger was kindled against Balaam, and he smote his hands together: and Balak said unto Balaam, I called you to curse mine enemies, and, behold, you have altogether blessed them these three times.
 [24:11] Therefore now flee you to your place: I thought to promote you unto great honor; but, lo, the LORD hath kept you back from honor.
 [24:12] And Balaam said unto Balak, Spake I not also to your messengers which you sentest unto me, saying,
 [24:13] If Balak would give me his house full of silver and gold, I cannot go beyond the commandment of the LORD, to do either good or bad of mine own mind; but what the LORD saith, that will I speak?
@@ -961,7 +961,7 @@ Numbers
 [27:10] And if he have no brethren, then you shall give his inheritance unto his father's brethren.
 [27:11] And if his father have no brethren, then you shall give his inheritance unto his kinsman that is next to him of his family, and he shall possess it: and it shall be unto the children of Israel a statute of judgment, as the LORD commanded Moses.
 [27:12] And the LORD said unto Moses, Get you up into this mount Abarim, and see the land which I have given unto the children of Israel.
-[27:13] And when you hast seen it, you also shalt be gathered unto your people, as Aaron your brother was gathered.
+[27:13] And when you have seen it, you also shalt be gathered unto your people, as Aaron your brother was gathered.
 [27:14] For you rebelled against my commandment in the desert of Zin, in the strife of the congregation, to sanctify me at the water before their eyes: that is the water of Meribah in Kadesh in the wilderness of Zin.
 [27:15] And Moses spake unto the LORD, saying,
 [27:16] Let the LORD, the God of the spirits of all flesh, set a man over the congregation,

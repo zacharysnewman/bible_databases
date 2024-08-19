@@ -43,7 +43,7 @@ Hosea
 [4:3] Therefore shall the land mourn, and every one that dwelleth therein shall languish, with the beasts of the field, and with the fowls of heaven; yea, the fishes of the sea also shall be taken away.
 [4:4] Yet let no man strive, nor reprove another: for your people are as they that strive with the priest.
 [4:5] Therefore shalt you fall in the day, and the prophet also shall fall with you in the night, and I will destroy your mother.
-[4:6] My people are destroyed for lack of knowledge: because you hast rejected knowledge, I will also reject you, that you shalt be no priest to me: seeing you hast forgotten the law of your God, I will also forget your children.
+[4:6] My people are destroyed for lack of knowledge: because you have rejected knowledge, I will also reject you, that you shalt be no priest to me: seeing you have forgotten the law of your God, I will also forget your children.
 [4:7] As they were increased, so they sinned against me: therefore will I change their glory into shame.
 [4:8] They eat up the sin of my people, and they set their heart on their iniquity.
 [4:9] And there shall be, like people, like priest: and I will punish them for their ways, and reward them their doings.
@@ -113,7 +113,7 @@ Hosea
 [8:12] I have written to him the great things of my law, but they were counted as a strange thing.
 [8:13] They sacrifice flesh for the sacrifices of mine offerings, and eat it; but the LORD accepteth them not; now will he remember their iniquity, and visit their sins: they shall return to Egypt.
 [8:14] For Israel hath forgotten his Maker, and buildeth temples; and Judah hath multiplied fenced cities: but I will send a fire upon his cities, and it shall devour the palaces thereof.
-[9:1] Rejoice not, O Israel, for joy, as other people: for you hast gone a whoring from your God, you hast loved a reward upon every cornfloor.
+[9:1] Rejoice not, O Israel, for joy, as other people: for you have gone a whoring from your God, you have loved a reward upon every cornfloor.
 [9:2] The floor and the winepress shall not feed them, and the new wine shall fail in her.
 [9:3] They shall not dwell in the LORD's land; but Ephraim shall return to Egypt, and they shall eat unclean things in Assyria.
 [9:4] They shall not offer wine offerings to the LORD, neither shall they be pleasing unto him: their sacrifices shall be unto them as the bread of mourners; all that eat thereof shall be polluted: for their bread for their soul shall not come into the house of the LORD.
@@ -138,7 +138,7 @@ Hosea
 [10:6] It shall be also carried unto Assyria for a present to king Jareb: Ephraim shall receive shame, and Israel shall be ashamed of his own counsel.
 [10:7] As for Samaria, her king is cut off as the foam upon the water.
 [10:8] The high places also of Aven, the sin of Israel, shall be destroyed: the thorn and the thistle shall come up on their altars; and they shall say to the mountains, Cover us; and to the hills, Fall on us.
-[10:9] O Israel, you hast sinned from the days of Gibeah: there they stood: the battle in Gibeah against the children of iniquity did not overtake them.
+[10:9] O Israel, you have sinned from the days of Gibeah: there they stood: the battle in Gibeah against the children of iniquity did not overtake them.
 [10:10] It is in my desire that I should chastise them; and the people shall be gathered against them, when they shall bind themselves in their two furrows.
 [10:11] And Ephraim is as an heifer that is taught, and loveth to tread out the corn; but I passed over upon her fair neck: I will make Ephraim to ride; Judah shall plow, and Jacob shall break his clods.
 [10:12] Sow to yourselves in righteousness, reap in mercy; break up your fallow ground: for it is time to seek the LORD, till he come and rain righteousness upon you.
@@ -179,7 +179,7 @@ Hosea
 [13:6] According to their pasture, so were they filled; they were filled, and their heart was exalted; therefore have they forgotten me.
 [13:7] Therefore I will be unto them as a lion: as a leopard by the way will I observe them:
 [13:8] I will meet them as a bear that is bereaved of her whelps, and will rend the caul of their heart, and there will I devour them like a lion: the wild beast shall tear them.
-[13:9] O Israel, you hast destroyed thyself; but in me is your help.
+[13:9] O Israel, you have destroyed thyself; but in me is your help.
 [13:10] I will be your king: where is any other that may save you in all your cities? and your judges of whom you saidst, Give me a king and princes?
 [13:11] I gave you a king in mine anger, and took him away in my wrath.
 [13:12] The iniquity of Ephraim is bound up; his sin is hid.
@@ -187,7 +187,7 @@ Hosea
 [13:14] I will ransom them from the power of the grave; I will redeem them from death: O death, I will be your plagues; O grave, I will be your destruction: repentance shall be hid from mine eyes.
 [13:15] Though he be fruitful among his brethren, an east wind shall come, the wind of the LORD shall come up from the wilderness, and his spring shall become dry, and his fountain shall be dried up: he shall spoil the treasure of all pleasant vessels.
 [13:16] Samaria shall become desolate; for she hath rebelled against her God: they shall fall by the sword: their infants shall be dashed in pieces, and their women with child shall be ripped up.
-[14:1] O israel, return unto the LORD your God; for you hast fallen by your iniquity.
+[14:1] O israel, return unto the LORD your God; for you have fallen by your iniquity.
 [14:2] Take with you words, and turn to the LORD: say unto him, Take away all iniquity, and receive us graciously: so will we render the calves of our lips.
 [14:3] Asshur shall not save us; we will not ride upon horses: neither will we say any more to the work of our hands, You are our gods: for in you the fatherless findeth mercy.
 [14:4] I will heal their backsliding, I will love them freely: for mine anger is turned away from him.

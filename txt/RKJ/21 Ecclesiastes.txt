@@ -84,11 +84,11 @@ Ecclesiastes
 [5:1] Keep your foot when you goest to the house of God, and be more ready to hear, than to give the sacrifice of fools: for they consider not that they do evil.
 [5:2] Be not rash with your mouth, and let not your heart be hasty to utter any thing before God: for God is in heaven, and you upon earth: therefore let your words be few.
 [5:3] For a dream cometh through the multitude of business; and a fool's voice is known by multitude of words.
-[5:4] When you vowest a vow unto God, defer not to pay it; for he hath no pleasure in fools: pay that which you hast vowed.
-[5:5] Better is it that you shouldest not vow, than that you shouldest vow and not pay.
+[5:4] When you vowest a vow unto God, defer not to pay it; for he hath no pleasure in fools: pay that which you have vowed.
+[5:5] Better is it that you should not vow, than that you should vow and not pay.
 [5:6] Suffer not your mouth to cause your flesh to sin; neither say you before the angel, that it was an error: wherefore should God be angry at your voice, and destroy the work of your hands?
 [5:7] For in the multitude of dreams and many words there are also divers vanities: but fear you God.
-[5:8] If you seest the oppression of the poor, and violent perverting of judgment and justice in a province, marvel not at the matter: for he that is higher than the highest regardeth; and there be higher than they.
+[5:8] If you see the oppression of the poor, and violent perverting of judgment and justice in a province, marvel not at the matter: for he that is higher than the highest regardeth; and there be higher than they.
 [5:9] Moreover the profit of the earth is for all: the king himself is served by the field.
 [5:10] He that loveth silver shall not be satisfied with silver; nor he that loveth abundance with increase: this is also vanity.
 [5:11] When goods increase, they are increased that eat them: and what good is there to the owners thereof, saving the beholding of them with their eyes?
@@ -128,13 +128,13 @@ Ecclesiastes
 [7:13] Consider the work of God: for who can make that straight, which he hath made crooked?
 [7:14] In the day of prosperity be joyful, but in the day of adversity consider: God also hath set the one over against the other, to the end that man should find nothing after him.
 [7:15] All things have I seen in the days of my vanity: there is a just man that perisheth in his righteousness, and there is a wicked man that prolongeth his life in his wickedness.
-[7:16] Be not righteous over much; neither make thyself over wise: why shouldest you destroy thyself ?
-[7:17] Be not over much wicked, neither be you foolish: why shouldest you die before your time?
-[7:18] It is good that you shouldest take hold of this; yea, also from this withdraw not your hand: for he that feareth God shall come forth of them all.
+[7:16] Be not righteous over much; neither make thyself over wise: why should you destroy thyself ?
+[7:17] Be not over much wicked, neither be you foolish: why should you die before your time?
+[7:18] It is good that you should take hold of this; yea, also from this withdraw not your hand: for he that feareth God shall come forth of them all.
 [7:19] Wisdom strengtheneth the wise more than ten mighty men which are in the city.
 [7:20] For there is not a just man upon earth, that doeth good, and sinneth not.
 [7:21] Also take no heed unto all words that are spoken; lest you hear your servant curse you:
-[7:22] For oftentimes also your own heart knoweth that you thyself likewise hast cursed others.
+[7:22] For oftentimes also your own heart knoweth that you thyself likewise have cursed others.
 [7:23] All this have I proved by wisdom: I said, I will be wise; but it was far from me.
 [7:24] That which is far off, and exceeding deep, who can find it out?
 [7:25] I applied mine heart to know, and to search, and to seek out wisdom, and the reason of things, and to know the wickedness of folly, even of foolishness and madness:
@@ -145,7 +145,7 @@ Ecclesiastes
 [8:1] Who is as the wise man? and who knoweth the interpretation of a thing? a man's wisdom maketh his face to shine, and the boldness of his face shall be changed.
 [8:2] I counsel you to keep the king's commandment, and that in regard of the oath of God.
 [8:3] Be not hasty to go out of his sight: stand not in an evil thing; for he doeth whatsoever pleaseth him.
-[8:4] Where the word of a king is, there is power: and who may say unto him, What doest you?
+[8:4] Where the word of a king is, there is power: and who may say unto him, What do you?
 [8:5] Whoso keepeth the commandment shall feel no evil thing: and a wise man's heart discerneth both time and judgment.
 [8:6] Because to every purpose there is time and judgment, therefore the misery of man is great upon him.
 [8:7] For he knoweth not that which shall be: for who can tell him when it shall be?
@@ -167,7 +167,7 @@ Ecclesiastes
 [9:6] Also their love, and their hatred, and their envy, is now perished; neither have they any more a portion for ever in any thing that is done under the sun.
 [9:7] Go your way, eat your bread with joy, and drink your wine with a merry heart; for God now accepteth your works.
 [9:8] Let your garments be always white; and let your head lack no ointment.
-[9:9] Live joyfully with the wife whom you lovest all the days of the life of your vanity, which he hath given you under the sun, all the days of your vanity: for that is your portion in this life, and in your labour which you takest under the sun.
+[9:9] Live joyfully with the wife whom you love all the days of the life of your vanity, which he hath given you under the sun, all the days of your vanity: for that is your portion in this life, and in your labour which you takest under the sun.
 [9:10] Whatsoever your hand findeth to do, do it with your might; for there is no work, nor device, nor knowledge, nor wisdom, in the grave, whither you goest.
 [9:11] I returned, and saw under the sun, that the race is not to the swift, nor the battle to the strong, neither yet bread to the wise, nor yet riches to men of understanding, nor yet favour to men of skill; but time and chance happeneth to them all.
 [9:12] For man also knoweth not his time: as the fishes that are taken in an evil net, and as the birds that are caught in the snare; so are the sons of men snared in an evil time, when it falleth suddenly upon them.

@@ -55,9 +55,9 @@ Ezekiel
 [3:16] And it came to pass at the end of seven days, that the word of the LORD came unto me, saying,
 [3:17] Son of man, I have made you a watchman unto the house of Israel: therefore hear the word at my mouth, and give them warning from me.
 [3:18] When I say unto the wicked, You shalt surely die; and you givest him not warning, nor speakest to warn the wicked from his wicked way, to save his life; the same wicked man shall die in his iniquity; but his blood will I require at your hand.
-[3:19] Yet if you warn the wicked, and he turn not from his wickedness, nor from his wicked way, he shall die in his iniquity; but you hast delivered your soul.
-[3:20] Again, When a righteous man doth turn from his righteousness, and commit iniquity, and I lay a stumbling-block before him, he shall die: because you hast not given him warning, he shall die in his sin, and his righteousness which he hath done shall not be remembered; but his blood will I require at your hand.
-[3:21] Nevertheless if you warn the righteous man, that the righteous sin not, and he doth not sin, he shall surely live, because he is warned; also you hast delivered your soul.
+[3:19] Yet if you warn the wicked, and he turn not from his wickedness, nor from his wicked way, he shall die in his iniquity; but you have delivered your soul.
+[3:20] Again, When a righteous man doth turn from his righteousness, and commit iniquity, and I lay a stumbling-block before him, he shall die: because you have not given him warning, he shall die in his sin, and his righteousness which he hath done shall not be remembered; but his blood will I require at your hand.
+[3:21] Nevertheless if you warn the righteous man, that the righteous sin not, and he doth not sin, he shall surely live, because he is warned; also you have delivered your soul.
 [3:22] And the hand of the LORD was there upon me; and he said unto me, Arise, go forth into the plain, and I will there talk with you.
 [3:23] Then I arose, and went forth into the plain: and, behold, the glory of the LORD stood there, as the glory which I saw by the river of Chebar: and I fell on my face.
 [3:24] Then the spirit entered into me, and set me upon my feet, and spake with me, and said unto me, Go, shut thyself within your house.
@@ -69,9 +69,9 @@ Ezekiel
 [4:3] Moreover take you unto you an iron pan, and set it for a wall of iron between you and the city: and set your face against it, and it shall be besieged, and you shalt lay siege against it. This shall be a sign to the house of Israel.
 [4:4] Lie you also upon your left side, and lay the iniquity of the house of Israel upon it: according to the number of the days that you shalt lie upon it you shalt bear their iniquity.
 [4:5] For I have laid upon you the years of their iniquity, according to the number of the days, three hundred and ninety days: so shalt you bear the iniquity of the house of Israel.
-[4:6] And when you hast accomplished them, lie again on your right side, and you shalt bear the iniquity of the house of Judah forty days: I have appointed you each day for a year.
+[4:6] And when you have accomplished them, lie again on your right side, and you shalt bear the iniquity of the house of Judah forty days: I have appointed you each day for a year.
 [4:7] Therefore you shalt set your face toward the siege of Jerusalem, and your arm shall be uncovered, and you shalt prophesy against it.
-[4:8] And, behold, I will lay bands upon you, and you shalt not turn you from one side to another, till you hast ended the days of your siege.
+[4:8] And, behold, I will lay bands upon you, and you shalt not turn you from one side to another, till you have ended the days of your siege.
 [4:9] Take you also unto you wheat, and barley, and beans, and lentiles, and millet, and fitches, and put them in one vessel, and make you bread thereof, according to the number of the days that you shalt lie upon your side, three hundred and ninety days shalt you eat thereof.
 [4:10] And your meat which you shalt eat shall be by weight, twenty shekels a day: from time to time shalt you eat it.
 [4:11] You shalt drink also water by measure, the sixth part of an hin: from time to time shalt you drink.
@@ -91,7 +91,7 @@ Ezekiel
 [5:8] Therefore thus saith the Lord GOD; Behold, I, even I, am against you, and will execute judgments in the midst of you in the sight of the nations.
 [5:9] And I will do in you that which I have not done, and whereunto I will not do any more the like, because of all your abominations.
 [5:10] Therefore the fathers shall eat the sons in the midst of you, and the sons shall eat their fathers; and I will execute judgments in you, and the whole remnant of you will I scatter into all the winds.
-[5:11] Wherefore, as I live, saith the Lord GOD; Surely, because you hast defiled my sanctuary with all your detestable things, and with all your abominations, therefore will I also diminish you; neither shall mine eye spare, neither will I have any pity.
+[5:11] Wherefore, as I live, saith the Lord GOD; Surely, because you have defiled my sanctuary with all your detestable things, and with all your abominations, therefore will I also diminish you; neither shall mine eye spare, neither will I have any pity.
 [5:12] A third part of you shall die with the pestilence, and with famine shall they be consumed in the midst of you: and a third part shall fall by the sword round about you; and I will scatter a third part into all the winds, and I will draw out a sword after them.
 [5:13] Thus shall mine anger be accomplished, and I will cause my fury to rest upon them, and I will be comforted: and they shall know that I the LORD have spoken it in my zeal, when I have accomplished my fury in them.
 [5:14] Moreover I will make you waste, and a reproach among the nations that are round about you, in the sight of all that pass by.
@@ -144,18 +144,18 @@ Ezekiel
 [8:3] And he put forth the form of an hand, and took me by a lock of mine head; and the spirit lifted me up between the earth and the heaven, and brought me in the visions of God to Jerusalem, to the door of the inner gate that looketh toward the north; where was the seat of the image of jealousy, which provoketh to jealousy.
 [8:4] And, behold, the glory of the God of Israel was there, according to the vision that I saw in the plain.
 [8:5] Then said he unto me, Son of man, lift up your eyes now the way toward the north. So I lifted up mine eyes the way toward the north, and behold northward at the gate of the altar this image of jealousy in the entry.
-[8:6] He said furthermore unto me, Son of man, seest you what they do? even the great abominations that the house of Israel committeth here, that I should go far off from my sanctuary? but turn you yet again, and you shalt see greater abominations.
+[8:6] He said furthermore unto me, Son of man, see you what they do? even the great abominations that the house of Israel committeth here, that I should go far off from my sanctuary? but turn you yet again, and you shalt see greater abominations.
 [8:7] And he brought me to the door of the court; and when I looked, behold a hole in the wall.
 [8:8] Then said he unto me, Son of man, dig now in the wall: and when I had digged in the wall, behold a door.
 [8:9] And he said unto me, Go in, and behold the wicked abominations that they do here.
 [8:10] So I went in and saw; and behold every form of creeping things, and abominable beasts, and all the idols of the house of Israel, pourtrayed upon the wall round about.
 [8:11] And there stood before them seventy men of the ancients of the house of Israel, and in the midst of them stood Jaazaniah the son of Shaphan, with every man his censer in his hand; and a thick cloud of incense went up.
-[8:12] Then said he unto me, Son of man, hast you seen what the ancients of the house of Israel do in the dark, every man in the chambers of his imagery? for they say, the LORD seeth us not; the LORD hath forsaken the earth.
+[8:12] Then said he unto me, Son of man, have you seen what the ancients of the house of Israel do in the dark, every man in the chambers of his imagery? for they say, the LORD seeth us not; the LORD hath forsaken the earth.
 [8:13] He said also unto me, Turn you yet again, and you shalt see greater abominations that they do.
 [8:14] Then he brought me to the door of the gate of the LORD's house which was toward the north; and, behold, there sat women weeping for Tammuz.
-[8:15] Then said he unto me, Hast you seen this, O son of man? turn you yet again, and you shalt see greater abominations than these.
+[8:15] Then said he unto me, Have you seen this, O son of man? turn you yet again, and you shalt see greater abominations than these.
 [8:16] And he brought me into the inner court of the LORD's house, and, behold, at the door of the temple of the LORD, between the porch and the altar, were about five and twenty men, with their backs toward the temple of the LORD, and their faces toward the east; and they worshipped the sun toward the east.
-[8:17] Then he said unto me, Hast you seen this, O son of man? Is it a light thing to the house of Judah that they commit the abominations which they commit here? for they have filled the land with violence, and have returned to provoke me to anger: and, lo, they put the branch to their nose.
+[8:17] Then he said unto me, Have you seen this, O son of man? Is it a light thing to the house of Judah that they commit the abominations which they commit here? for they have filled the land with violence, and have returned to provoke me to anger: and, lo, they put the branch to their nose.
 [8:18] Therefore will I also deal in fury: mine eye shall not spare, neither will I have pity: and though they cry in mine ears with a loud voice, yet will I not hear them.
 [9:1] He cried also in mine ears with a loud voice, saying, Cause them that have charge over the city to draw near, even every man with his destroying weapon in his hand.
 [9:2] And, behold, six men came from the way of the higher gate, which lieth toward the north, and every man a slaughter weapon in his hand; and one man among them was clothed with linen, with a writer's inkhorn by his side: and they went in, and stood beside the brasen altar.
@@ -167,7 +167,7 @@ Ezekiel
 [9:8] And it came to pass, while they were slaying them, and I was left, that I fell upon my face, and cried, and said, Ah Lord GOD! wilt you destroy all the residue of Israel in your pouring out of your fury upon Jerusalem?
 [9:9] Then said he unto me, The iniquity of the house of Israel and Judah is exceeding great, and the land is full of blood, and the city full of perverseness: for they say, The LORD hath forsaken the earth, and the LORD seeth not.
 [9:10] And as for me also, mine eye shall not spare, neither will I have pity, but I will recompense their way upon their head.
-[9:11] And, behold, the man clothed with linen, which had the inkhorn by his side, reported the matter, saying, I have done as you hast commanded me.
+[9:11] And, behold, the man clothed with linen, which had the inkhorn by his side, reported the matter, saying, I have done as you have commanded me.
 [10:1] Then I looked, and, behold, in the firmament that was above the head of the cherubims there appeared over them as it were a sapphire stone, as the appearance of the likeness of a throne.
 [10:2] And he spake unto the man clothed with linen, and said, Go in between the wheels, even under the cherub, and fill your hand with coals of fire from between the cherubims, and scatter them over the city. And he went in in my sight.
 [10:3] Now the cherubims stood on the right side of the house, when the man went in; and the cloud filled the inner court.
@@ -223,7 +223,7 @@ Ezekiel
 [12:6] In their sight shalt you bear it upon your shoulders, and carry it forth in the twilight: you shalt cover your face, that you see not the ground: for I have set you for a sign unto the house of Israel.
 [12:7] And I did so as I was commanded: I brought forth my stuff by day, as stuff for captivity, and in the even I digged through the wall with mine hand; I brought it forth in the twilight, and I bare it upon my shoulder in their sight.
 [12:8] And in the morning came the word of the LORD unto me, saying,
-[12:9] Son of man, hath not the house of Israel, the rebellious house, said unto you, What doest you?
+[12:9] Son of man, hath not the house of Israel, the rebellious house, said unto you, What do you?
 [12:10] Say you unto them, Thus saith the Lord GOD; This burden concerneth the prince in Jerusalem, and all the house of Israel that are among them.
 [12:11] Say, I am your sign: like as I have done, so shall it be done unto them: they shall remove and go into captivity.
 [12:12] And the prince that is among them shall bear upon his shoulder in the twilight, and shall go forth: they shall dig through the wall to carry out thereby: he shall cover his face, that he see not the ground with his eyes.
@@ -303,7 +303,7 @@ Ezekiel
 [16:4] And as for your nativity, in the day you wast born your navel was not cut, neither wast you washed in water to supple you; you wast not salted at all, nor swaddled at all.
 [16:5] None eye pitied you, to do any of these unto you, to have compassion upon you; but you wast cast out in the open field, to the lothing of your person, in the day that you wast born.
 [16:6] And when I passed by you, and saw you polluted in your own blood, I said unto you when you wast in your blood, Live; yea, I said unto you when you wast in your blood, Live.
-[16:7] I have caused you to multiply as the bud of the field, and you hast increased and waxen great, and you art come to excellent ornaments: your breasts are fashioned, and your hair is grown, whereas you wast naked and bare.
+[16:7] I have caused you to multiply as the bud of the field, and you have increased and waxen great, and you art come to excellent ornaments: your breasts are fashioned, and your hair is grown, whereas you wast naked and bare.
 [16:8] Now when I passed by you, and looked upon you, behold, your time was the time of love; and I spread my skirt over you, and covered your nakedness: yea, I sware unto you, and entered into a covenant with you, saith the Lord GOD, and you becamest mine.
 [16:9] Then washed I you with water; yea, I throughly washed away your blood from you, and I anointed you with oil.
 [16:10] I clothed you also with broidered work, and shod you with badgers' skin, and I girded you about with fine linen, and I covered you with silk.
@@ -313,53 +313,53 @@ Ezekiel
 [16:14] And your renown went forth among the heathen for your beauty: for it was perfect through my comeliness, which I had put upon you, saith the Lord GOD.
 [16:15] But you didst trust in your own beauty, and playedst the harlot because of your renown, and pouredst out your fornications on every one that passed by; his it was.
 [16:16] And of your garments you didst take, and deckedst your high places with divers colours, and playedst the harlot thereupon: the like things shall not come, neither shall it be so.
-[16:17] You hast also taken your fair jewels of my gold and of my silver, which I had given you, and madest to thyself images of men, and didst commit whoredom with them,
-[16:18] And tookest your broidered garments, and coveredst them: and you hast set mine oil and mine incense before them.
-[16:19] My meat also which I gave you, fine flour, and oil, and honey, wherewith I fed you, you hast even set it before them for a sweet savour: and thus it was, saith the Lord GOD.
-[16:20] Moreover you hast taken your sons and your daughters, whom you hast borne unto me, and these hast you sacrificed unto them to be devoured. Is this of your whoredoms a small matter,
-[16:21] That you hast slain my children, and delivered them to cause them to pass through the fire for them?
-[16:22] And in all your abominations and your whoredoms you hast not remembered the days of your youth, when you wast naked and bare, and wast polluted in your blood.
+[16:17] You have also taken your fair jewels of my gold and of my silver, which I had given you, and madest to thyself images of men, and didst commit whoredom with them,
+[16:18] And tookest your broidered garments, and coveredst them: and you have set mine oil and mine incense before them.
+[16:19] My meat also which I gave you, fine flour, and oil, and honey, wherewith I fed you, you have even set it before them for a sweet savour: and thus it was, saith the Lord GOD.
+[16:20] Moreover you have taken your sons and your daughters, whom you have borne unto me, and these have you sacrificed unto them to be devoured. Is this of your whoredoms a small matter,
+[16:21] That you have slain my children, and delivered them to cause them to pass through the fire for them?
+[16:22] And in all your abominations and your whoredoms you have not remembered the days of your youth, when you wast naked and bare, and wast polluted in your blood.
 [16:23] And it came to pass after all your wickedness, (woe, woe unto you! saith the LORD GOD;)
-[16:24] That you hast also built unto you an eminent place, and hast made you an high place in every street.
-[16:25] You hast built your high place at every head of the way, and hast made your beauty to be abhorred, and hast opened your feet to every one that passed by, and multiplied your whoredoms.
-[16:26] You hast also committed fornication with the Egyptians your neighbours, great of flesh; and hast increased your whoredoms, to provoke me to anger.
+[16:24] That you have also built unto you an eminent place, and have made you an high place in every street.
+[16:25] You have built your high place at every head of the way, and have made your beauty to be abhorred, and have opened your feet to every one that passed by, and multiplied your whoredoms.
+[16:26] You have also committed fornication with the Egyptians your neighbours, great of flesh; and have increased your whoredoms, to provoke me to anger.
 [16:27] Behold, therefore I have stretched out my hand over you, and have diminished your ordinary food, and delivered you unto the will of them that hate you, the daughters of the Philistines, which are ashamed of your lewd way.
-[16:28] You hast played the whore also with the Assyrians, because you wast unsatiable; yea, you hast played the harlot with them, and yet couldest not be satisfied.
-[16:29] You hast moreover multiplied your fornication in the land of Canaan unto Chaldea; and yet you wast not satisfied therewith.
-[16:30] How weak is your heart, saith the LORD GOD, seeing you doest all these things, the work of an imperious whorish woman;
-[16:31] In that you buildest your eminent place in the head of every way, and makest your high place in every street; and hast not been as an harlot, in that you scornest hire;
+[16:28] You have played the whore also with the Assyrians, because you wast unsatiable; yea, you have played the harlot with them, and yet couldest not be satisfied.
+[16:29] You have moreover multiplied your fornication in the land of Canaan unto Chaldea; and yet you wast not satisfied therewith.
+[16:30] How weak is your heart, saith the LORD GOD, seeing you do all these things, the work of an imperious whorish woman;
+[16:31] In that you buildest your eminent place in the head of every way, and makest your high place in every street; and have not been as an harlot, in that you scornest hire;
 [16:32] But as a wife that committeth adultery, which taketh strangers instead of her husband!
 [16:33] They give gifts to all whores: but you givest your gifts to all your lovers, and hirest them, that they may come unto you on every side for your whoredom.
 [16:34] And the contrary is in you from other women in your whoredoms, whereas none followeth you to commit whoredoms: and in that you givest a reward, and no reward is given unto you, therefore you art contrary.
 [16:35] Wherefore, O harlot, hear the word of the LORD:
 [16:36] Thus saith the Lord GOD; Because your filthiness was poured out, and your nakedness discovered through your whoredoms with your lovers, and with all the idols of your abominations, and by the blood of your children, which you didst give unto them;
-[16:37] Behold, therefore I will gather all your lovers, with whom you hast taken pleasure, and all them that you hast loved, with all them that you hast hated; I will even gather them round about against you, and will discover your nakedness unto them, that they may see all your nakedness.
+[16:37] Behold, therefore I will gather all your lovers, with whom you have taken pleasure, and all them that you have loved, with all them that you have hated; I will even gather them round about against you, and will discover your nakedness unto them, that they may see all your nakedness.
 [16:38] And I will judge you, as women that break wedlock and shed blood are judged; and I will give you blood in fury and jealousy.
 [16:39] And I will also give you into their hand, and they shall throw down your eminent place, and shall break down your high places: they shall strip you also of your clothes, and shall take your fair jewels, and leave you naked and bare.
 [16:40] They shall also bring up a company against you, and they shall stone you with stones, and thrust you through with their swords.
 [16:41] And they shall burn your houses with fire, and execute judgments upon you in the sight of many women: and I will cause you to cease from playing the harlot, and you also shalt give no hire any more.
 [16:42] So will I make my fury toward you to rest, and my jealousy shall depart from you, and I will be quiet, and will be no more angry.
-[16:43] Because you hast not remembered the days of your youth, but hast fretted me in all these things; behold, therefore I also will recompense your way upon your head, saith the Lord GOD: and you shalt not commit this lewdness above all your abominations.
+[16:43] Because you have not remembered the days of your youth, but have fretted me in all these things; behold, therefore I also will recompense your way upon your head, saith the Lord GOD: and you shalt not commit this lewdness above all your abominations.
 [16:44] Behold, every one that useth proverbs shall use this proverb against you, saying, As is the mother, so is her daughter.
 [16:45] You art your mother's daughter, that lotheth her husband and her children; and you art the sister of your sisters, which lothed their husbands and their children: your mother was an Hittite, and your father an Amorite.
 [16:46] And your elder sister is Samaria, she and her daughters that dwell at your left hand: and your younger sister, that dwelleth at your right hand, is Sodom and her daughters.
-[16:47] Yet hast you not walked after their ways, nor done after their abominations: but, as if that were a very little thing, you wast corrupted more than they in all your ways.
-[16:48] As I live, saith the Lord GOD, Sodom your sister hath not done, she nor her daughters, as you hast done, you and your daughters.
+[16:47] Yet have you not walked after their ways, nor done after their abominations: but, as if that were a very little thing, you wast corrupted more than they in all your ways.
+[16:48] As I live, saith the Lord GOD, Sodom your sister hath not done, she nor her daughters, as you have done, you and your daughters.
 [16:49] Behold, this was the iniquity of your sister Sodom, pride, fulness of bread, and abundance of idleness was in her and in her daughters, neither did she strengthen the hand of the poor and needy.
 [16:50] And they were haughty, and committed abomination before me: therefore I took them away as I saw good.
-[16:51] Neither hath Samaria committed half of your sins; but you hast multiplied your abominations more than they, and hast justified your sisters in all your abominations which you hast done.
-[16:52] You also, which hast judged your sisters, bear your own shame for your sins that you hast committed more abominable than they: they are more righteous than you: yea, be you confounded also, and bear your shame, in that you hast justified your sisters.
+[16:51] Neither hath Samaria committed half of your sins; but you have multiplied your abominations more than they, and have justified your sisters in all your abominations which you have done.
+[16:52] You also, which have judged your sisters, bear your own shame for your sins that you have committed more abominable than they: they are more righteous than you: yea, be you confounded also, and bear your shame, in that you have justified your sisters.
 [16:53] When I shall bring again their captivity, the captivity of Sodom and her daughters, and the captivity of Samaria and her daughters, then will I bring again the captivity of your captives in the midst of them:
-[16:54] That you mayest bear your own shame, and mayest be confounded in all that you hast done, in that you art a comfort unto them.
+[16:54] That you may bear your own shame, and may be confounded in all that you have done, in that you art a comfort unto them.
 [16:55] When your sisters, Sodom and her daughters, shall return to their former estate, and Samaria and her daughters shall return to their former estate, then you and your daughters shall return to your former estate.
 [16:56] For your sister Sodom was not mentioned by your mouth in the day of your pride,
 [16:57] Before your wickedness was discovered, as at the time of your reproach of the daughters of Syria, and all that are round about her, the daughters of the Philistines, which despise you round about.
-[16:58] You hast borne your lewdness and your abominations, saith the LORD.
-[16:59] For thus saith the Lord GOD; I will even deal with you as you hast done, which hast despised the oath in breaking the covenant.
+[16:58] You have borne your lewdness and your abominations, saith the LORD.
+[16:59] For thus saith the Lord GOD; I will even deal with you as you have done, which have despised the oath in breaking the covenant.
 [16:60] Nevertheless I will remember my covenant with you in the days of your youth, and I will establish unto you an everlasting covenant.
 [16:61] Then you shalt remember your ways, and be ashamed, when you shalt receive your sisters, your elder and your younger: and I will give them unto you for daughters, but not by your covenant.
 [16:62] And I will establish my covenant with you; and you shalt know that I am the LORD:
-[16:63] That you mayest remember, and be confounded, and never open your mouth any more because of your shame, when I am pacified toward you for all that you hast done, saith the Lord GOD.
+[16:63] That you may remember, and be confounded, and never open your mouth any more because of your shame, when I am pacified toward you for all that you have done, saith the Lord GOD.
 [17:1] And the word of the LORD came unto me, saying,
 [17:2] Son of man, put forth a riddle, and speak a parable unto the house of Israel;
 [17:3] And say, Thus saith the Lord GOD; A great eagle with great wings, longwinged, full of feathers, which had divers colours, came unto Lebanon, and took the highest branch of the cedar:
@@ -514,16 +514,16 @@ Ezekiel
 [22:1] Moreover the word of the LORD came unto me, saying,
 [22:2] Now, you son of man, wilt you judge, wilt you judge the bloody city? yea, you shalt shew her all her abominations.
 [22:3] Then say you, Thus saith the Lord GOD, The city sheddeth blood in the midst of it, that her time may come, and maketh idols against herself to defile herself.
-[22:4] You art become guilty in your blood that you hast shed; and hast defiled thyself in your idols which you hast made; and you hast caused your days to draw near, and art come even unto your years: therefore have I made you a reproach unto the heathen, and a mocking to all countries.
+[22:4] You art become guilty in your blood that you have shed; and have defiled thyself in your idols which you have made; and you have caused your days to draw near, and art come even unto your years: therefore have I made you a reproach unto the heathen, and a mocking to all countries.
 [22:5] Those that be near, and those that be far from you, shall mock you, which art infamous and much vexed.
 [22:6] Behold, the princes of Israel, every one were in you to their power to shed blood.
 [22:7] In you have they set light by father and mother: in the midst of you have they dealt by oppression with the stranger: in you have they vexed the fatherless and the widow.
-[22:8] You hast despised mine holy things, and hast profaned my sabbaths.
+[22:8] You have despised mine holy things, and have profaned my sabbaths.
 [22:9] In you are men that carry tales to shed blood: and in you they eat upon the mountains: in the midst of you they commit lewdness.
 [22:10] In you have they discovered their fathers' nakedness: in you have they humbled her that was set apart for pollution.
 [22:11] And one hath committed abomination with his neighbour's wife; and another hath lewdly defiled his daughter in law; and another in you hath humbled his sister, his father's daughter.
-[22:12] In you have they taken gifts to shed blood; you hast taken usury and increase, and you hast greedily gained of your neighbours by extortion, and hast forgotten me, saith the Lord GOD.
-[22:13] Behold, therefore I have smitten mine hand at your dishonest gain which you hast made, and at your blood which hath been in the midst of you.
+[22:12] In you have they taken gifts to shed blood; you have taken usury and increase, and you have greedily gained of your neighbours by extortion, and have forgotten me, saith the Lord GOD.
+[22:13] Behold, therefore I have smitten mine hand at your dishonest gain which you have made, and at your blood which hath been in the midst of you.
 [22:14] Can your heart endure, or can your hands be strong, in the days that I shall deal with you? I the LORD have spoken it, and will do it.
 [22:15] And I will scatter you among the heathen, and disperse you in the countries, and will consume your filthiness out of you.
 [22:16] And you shalt take your inheritance in thyself in the sight of the heathen, and you shalt know that I am the LORD.
@@ -571,18 +571,18 @@ Ezekiel
 [23:27] Thus will I make your lewdness to cease from you, and your whoredom brought from the land of Egypt: so that you shalt not lift up your eyes unto them, nor remember Egypt any more.
 [23:28] For thus saith the Lord GOD; Behold, I will deliver you into the hand of them whom you hatest, into the hand of them from whom your mind is alienated:
 [23:29] And they shall deal with you hatefully, and shall take away all your labour, and shall leave you naked and bare: and the nakedness of your whoredoms shall be discovered, both your lewdness and your whoredoms.
-[23:30] I will do these things unto you, because you hast gone a whoring after the heathen, and because you art polluted with their idols.
-[23:31] You hast walked in the way of your sister; therefore will I give her cup into your hand.
+[23:30] I will do these things unto you, because you have gone a whoring after the heathen, and because you art polluted with their idols.
+[23:31] You have walked in the way of your sister; therefore will I give her cup into your hand.
 [23:32] Thus saith the Lord GOD; You shalt drink of your sister's cup deep and large: you shalt be laughed to scorn and had in derision; it containeth much.
 [23:33] You shalt be filled with drunkenness and sorrow, with the cup of astonishment and desolation, with the cup of your sister Samaria.
 [23:34] You shalt even drink it and suck it out, and you shalt break the sherds thereof, and pluck off your own breasts: for I have spoken it, saith the Lord GOD.
-[23:35] Therefore thus saith the Lord GOD; Because you hast forgotten me, and cast me behind your back, therefore bear you also your lewdness and your whoredoms.
+[23:35] Therefore thus saith the Lord GOD; Because you have forgotten me, and cast me behind your back, therefore bear you also your lewdness and your whoredoms.
 [23:36] The LORD said moreover unto me; Son of man, wilt you judge Aholah and Aholibah? yea, declare unto them their abominations;
 [23:37] That they have committed adultery, and blood is in their hands, and with their idols have they committed adultery, and have also caused their sons, whom they bare unto me, to pass for them through the fire, to devour them.
 [23:38] Moreover this they have done unto me: they have defiled my sanctuary in the same day, and have profaned my sabbaths.
 [23:39] For when they had slain their children to their idols, then they came the same day into my sanctuary to profane it; and, lo, thus have they done in the midst of mine house.
 [23:40] And furthermore, that you have sent for men to come from far, unto whom a messenger was sent; and, lo, they came: for whom you didst wash thyself, paintedst your eyes, and deckedst thyself with ornaments,
-[23:41] And satest upon a stately bed, and a table prepared before it, whereupon you hast set mine incense and mine oil.
+[23:41] And satest upon a stately bed, and a table prepared before it, whereupon you have set mine incense and mine oil.
 [23:42] And a voice of a multitude being at ease was with her: and with the men of the common sort were brought Sabeans from the wilderness, which put bracelets upon their hands, and beautiful crowns upon their heads.
 [23:43] Then said I unto her that was old in adulteries, Will they now commit whoredoms with her, and she with them?
 [23:44] Yet they went in unto her, as they go in unto a woman that playeth the harlot: so went they in unto Aholah and unto Aholibah, the lewd women.
@@ -609,7 +609,7 @@ Ezekiel
 [24:16] Son of man, behold, I take away from you the desire of your eyes with a stroke: yet neither shalt you mourn nor weep, neither shall your tears run down.
 [24:17] Forbear to cry, make no mourning for the dead, bind the tire of your head upon you, and put on your shoes upon your feet, and cover not your lips, and eat not the bread of men.
 [24:18] So I spake unto the people in the morning: and at even my wife died; and I did in the morning as I was commanded.
-[24:19] And the people said unto me, Wilt you not tell us what these things are to us, that you doest so?
+[24:19] And the people said unto me, Wilt you not tell us what these things are to us, that you do so?
 [24:20] Then I answered them, The word of the LORD came unto me, saying,
 [24:21] Speak unto the house of Israel, Thus saith the Lord GOD; Behold, I will profane my sanctuary, the excellency of your strength, the desire of your eyes, and that which your soul pitieth; and your sons and your daughters whom you have left shall fall by the sword.
 [24:22] And you shall do as I have done: you shall not cover your lips, nor eat the bread of men.
@@ -623,7 +623,7 @@ Ezekiel
 [25:3] And say unto the Ammonites, Hear the word of the Lord GOD; Thus saith the Lord GOD; Because you saidst, Aha, against my sanctuary, when it was profaned; and against the land of Israel, when it was desolate; and against the house of Judah, when they went into captivity;
 [25:4] Behold, therefore I will deliver you to the men of the east for a possession, and they shall set their palaces in you, and make their dwellings in you: they shall eat your fruit, and they shall drink your milk.
 [25:5] And I will make Rabbah a stable for camels, and the Ammonites a couching place for flocks: and you shall know that I am the LORD.
-[25:6] For thus saith the Lord GOD; Because you hast clapped your hands, and stamped with the feet, and rejoiced in heart with all your despite against the land of Israel;
+[25:6] For thus saith the Lord GOD; Because you have clapped your hands, and stamped with the feet, and rejoiced in heart with all your despite against the land of Israel;
 [25:7] Behold, therefore I will stretch out mine hand upon you, and will deliver you for a spoil to the heathen; and I will cut you off from the people, and I will cause you to perish out of the countries: I will destroy you; and you shalt know that I am the LORD.
 [25:8] Thus saith the Lord GOD; Because that Moab and Seir do say, Behold, the house of Judah is like unto all the heathen;
 [25:9] Therefore, behold, I will open the side of Moab from the cities, from his cities which are on his frontiers, the glory of the country, Bethjeshimoth, Baalmeon, and Kiriathaim,
@@ -658,7 +658,7 @@ Ezekiel
 [26:21] I will make you a terror, and you shalt be no more: though you be sought for, yet shalt you never be found again, saith the Lord GOD.
 [27:1] The word of the LORD came again unto me, saying,
 [27:2] Now, you son of man, take up a lamentation for Tyrus;
-[27:3] And say unto Tyrus, O you that art situate at the entry of the sea, which art a merchant of the people for many isles, Thus saith the Lord GOD; O Tyrus, you hast said, I am of perfect beauty.
+[27:3] And say unto Tyrus, O you that art situate at the entry of the sea, which art a merchant of the people for many isles, Thus saith the Lord GOD; O Tyrus, you have said, I am of perfect beauty.
 [27:4] Your borders are in the midst of the seas, your builders have perfected your beauty.
 [27:5] They have made all your ship boards of fir trees of Senir: they have taken cedars from Lebanon to make masts for you.
 [27:6] Of the oaks of Bashan have they made your oars; the company of the Ashurites have made your benches of ivory, brought out of the isles of Chittim.
@@ -693,23 +693,23 @@ Ezekiel
 [27:35] All the inhabitants of the isles shall be astonished at you, and their kings shall be sore afraid, they shall be troubled in their countenance.
 [27:36] The merchants among the people shall hiss at you; you shalt be a terror, and never shalt be any more.
 [28:1] The word of the LORD came again unto me, saying,
-[28:2] Son of man, say unto the prince of Tyrus, Thus saith the Lord GOD; Because your heart is lifted up, and you hast said, I am a God, I sit in the seat of God, in the midst of the seas; yet you art a man, and not God, though you set your heart as the heart of God:
+[28:2] Son of man, say unto the prince of Tyrus, Thus saith the Lord GOD; Because your heart is lifted up, and you have said, I am a God, I sit in the seat of God, in the midst of the seas; yet you art a man, and not God, though you set your heart as the heart of God:
 [28:3] Behold, you art wiser than Daniel; there is no secret that they can hide from you:
-[28:4] With your wisdom and with your understanding you hast gotten you riches, and hast gotten gold and silver into your treasures:
-[28:5] By your great wisdom and by your traffick hast you increased your riches, and your heart is lifted up because of your riches:
-[28:6] Therefore thus saith the Lord GOD; Because you hast set your heart as the heart of God;
+[28:4] With your wisdom and with your understanding you have gotten you riches, and have gotten gold and silver into your treasures:
+[28:5] By your great wisdom and by your traffick have you increased your riches, and your heart is lifted up because of your riches:
+[28:6] Therefore thus saith the Lord GOD; Because you have set your heart as the heart of God;
 [28:7] Behold, therefore I will bring strangers upon you, the terrible of the nations: and they shall draw their swords against the beauty of your wisdom, and they shall defile your brightness.
 [28:8] They shall bring you down to the pit, and you shalt die the deaths of them that are slain in the midst of the seas.
 [28:9] Wilt you yet say before him that slayeth you, I am God? but you shalt be a man, and no God, in the hand of him that slayeth you.
 [28:10] You shalt die the deaths of the uncircumcised by the hand of strangers: for I have spoken it, saith the Lord GOD.
 [28:11] Moreover the word of the LORD came unto me, saying,
 [28:12] Son of man, take up a lamentation upon the king of Tyrus, and say unto him, Thus saith the Lord GOD; You sealest up the sum, full of wisdom, and perfect in beauty.
-[28:13] You hast been in Eden the garden of God; every precious stone was your covering, the sardius, topaz, and the diamond, the beryl, the onyx, and the jasper, the sapphire, the emerald, and the carbuncle, and gold: the workmanship of your tabrets and of your pipes was prepared in you in the day that you wast created.
-[28:14] You art the anointed cherub that covereth; and I have set you so: you wast upon the holy mountain of God; you hast walked up and down in the midst of the stones of fire.
+[28:13] You have been in Eden the garden of God; every precious stone was your covering, the sardius, topaz, and the diamond, the beryl, the onyx, and the jasper, the sapphire, the emerald, and the carbuncle, and gold: the workmanship of your tabrets and of your pipes was prepared in you in the day that you wast created.
+[28:14] You art the anointed cherub that covereth; and I have set you so: you wast upon the holy mountain of God; you have walked up and down in the midst of the stones of fire.
 [28:15] You wast perfect in your ways from the day that you wast created, till iniquity was found in you.
-[28:16] By the multitude of your merchandise they have filled the midst of you with violence, and you hast sinned: therefore I will cast you as profane out of the mountain of God: and I will destroy you, O covering cherub, from the midst of the stones of fire.
-[28:17] Your heart was lifted up because of your beauty, you hast corrupted your wisdom by reason of your brightness: I will cast you to the ground, I will lay you before kings, that they may behold you.
-[28:18] You hast defiled your sanctuaries by the multitude of your iniquities, by the iniquity of your traffick; therefore will I bring forth a fire from the midst of you, it shall devour you, and I will bring you to ashes upon the earth in the sight of all them that behold you.
+[28:16] By the multitude of your merchandise they have filled the midst of you with violence, and you have sinned: therefore I will cast you as profane out of the mountain of God: and I will destroy you, O covering cherub, from the midst of the stones of fire.
+[28:17] Your heart was lifted up because of your beauty, you have corrupted your wisdom by reason of your brightness: I will cast you to the ground, I will lay you before kings, that they may behold you.
+[28:18] You have defiled your sanctuaries by the multitude of your iniquities, by the iniquity of your traffick; therefore will I bring forth a fire from the midst of you, it shall devour you, and I will bring you to ashes upon the earth in the sight of all them that behold you.
 [28:19] All they that know you among the people shall be astonished at you: you shalt be a terror, and never shalt you be any more.
 [28:20] Again the word of the LORD came unto me, saying,
 [28:21] Son of man, set your face against Zidon, and prophesy against it,
@@ -774,7 +774,7 @@ Ezekiel
 [31:7] Thus was he fair in his greatness, in the length of his branches: for his root was by great waters.
 [31:8] The cedars in the garden of God could not hide him: the fir trees were not like his boughs, and the chestnut trees were not like his branches; nor any tree in the garden of God was like unto him in his beauty.
 [31:9] I have made him fair by the multitude of his branches: so that all the trees of Eden, that were in the garden of God, envied him.
-[31:10] Therefore thus saith the Lord GOD; Because you hast lifted up thyself in height, and he hath shot up his top among the thick boughs, and his heart is lifted up in his height;
+[31:10] Therefore thus saith the Lord GOD; Because you have lifted up thyself in height, and he hath shot up his top among the thick boughs, and his heart is lifted up in his height;
 [31:11] I have therefore delivered him into the hand of the mighty one of the heathen; he shall surely deal with him: I have driven him out for his wickedness.
 [31:12] And strangers, the terrible of the nations, have cut him off, and have left him: upon the mountains and in all the valleys his branches are fallen, and his boughs are broken by all the rivers of the land; and all the people of the earth are gone down from his shadow, and have left him.
 [31:13] Upon his ruin shall all the fowls of the heaven remain, and all the beasts of the field shall be upon his branches:
@@ -791,7 +791,7 @@ Ezekiel
 [32:6] I will also water with your blood the land wherein you swimmest, even to the mountains; and the rivers shall be full of you.
 [32:7] And when I shall put you out, I will cover the heaven, and make the stars thereof dark; I will cover the sun with a cloud, and the moon shall not give her light.
 [32:8] All the bright lights of heaven will I make dark over you, and set darkness upon your land, saith the Lord GOD.
-[32:9] I will also vex the hearts of many people, when I shall bring your destruction among the nations, into the countries which you hast not known.
+[32:9] I will also vex the hearts of many people, when I shall bring your destruction among the nations, into the countries which you have not known.
 [32:10] Yea, I will make many people amazed at you, and their kings shall be horribly afraid for you, when I shall brandish my sword before them; and they shall tremble at every moment, every man for his own life, in the day of your fall.
 [32:11] For thus saith the Lord GOD; The sword of the king of Babylon shall come upon you.
 [32:12] By the swords of the mighty will I cause your multitude to fall, the terrible of the nations, all of them: and they shall spoil the pomp of Egypt, and all the multitude thereof shall be destroyed.
@@ -823,7 +823,7 @@ Ezekiel
 [33:6] But if the watchman see the sword come, and blow not the trumpet, and the people be not warned; if the sword come, and take any person from among them, he is taken away in his iniquity; but his blood will I require at the watchman's hand.
 [33:7] So you, O son of man, I have set you a watchman unto the house of Israel; therefore you shalt hear the word at my mouth, and warn them from me.
 [33:8] When I say unto the wicked, O wicked man, you shalt surely die; if you dost not speak to warn the wicked from his way, that wicked man shall die in his iniquity; but his blood will I require at your hand.
-[33:9] Nevertheless, if you warn the wicked of his way to turn from it; if he do not turn from his way, he shall die in his iniquity; but you hast delivered your soul.
+[33:9] Nevertheless, if you warn the wicked of his way to turn from it; if he do not turn from his way, he shall die in his iniquity; but you have delivered your soul.
 [33:10] Therefore, O you son of man, speak unto the house of Israel; Thus you speak, saying, If our transgressions and our sins be upon us, and we pine away in them, how should we then live?
 [33:11] Say unto them, As I live, saith the Lord GOD, I have no pleasure in the death of the wicked; but that the wicked turn from his way and live: turn you, turn you from your evil ways; for why will you die, O house of Israel?
 [33:12] Therefore, you son of man, say unto the children of your people, The righteousness of the righteous shall not deliver him in the day of his transgression: as for the wickedness of the wicked, he shall not fall thereby in the day that he turneth from his wickedness; neither shall the righteous be able to live for his righteousness in the day that he sinneth.
@@ -883,14 +883,14 @@ Ezekiel
 [35:2] Son of man, set your face against mount Seir, and prophesy against it,
 [35:3] And say unto it, Thus saith the Lord GOD; Behold, O mount Seir, I am against you, and I will stretch out mine hand against you, and I will make you most desolate.
 [35:4] I will lay your cities waste, and you shalt be desolate, and you shalt know that I am the LORD.
-[35:5] Because you hast had a perpetual hatred, and hast shed the blood of the children of Israel by the force of the sword in the time of their calamity, in the time that their iniquity had an end:
-[35:6] Therefore, as I live, saith the Lord GOD, I will prepare you unto blood, and blood shall pursue you: sith you hast not hated blood, even blood shall pursue you.
+[35:5] Because you have had a perpetual hatred, and have shed the blood of the children of Israel by the force of the sword in the time of their calamity, in the time that their iniquity had an end:
+[35:6] Therefore, as I live, saith the Lord GOD, I will prepare you unto blood, and blood shall pursue you: sith you have not hated blood, even blood shall pursue you.
 [35:7] Thus will I make mount Seir most desolate, and cut off from it him that passeth out and him that returneth.
 [35:8] And I will fill his mountains with his slain men: in your hills, and in your valleys, and in all your rivers, shall they fall that are slain with the sword.
 [35:9] I will make you perpetual desolations, and your cities shall not return: and you shall know that I am the LORD.
-[35:10] Because you hast said, These two nations and these two countries shall be mine, and we will possess it; whereas the LORD was there:
-[35:11] Therefore, as I live, saith the Lord GOD, I will even do according to your anger, and according to your envy which you hast used out of your hatred against them; and I will make myself known among them, when I have judged you.
-[35:12] And you shalt know that I am the LORD, and that I have heard all your blasphemies which you hast spoken against the mountains of Israel, saying, They are laid desolate, they are given us to consume.
+[35:10] Because you have said, These two nations and these two countries shall be mine, and we will possess it; whereas the LORD was there:
+[35:11] Therefore, as I live, saith the Lord GOD, I will even do according to your anger, and according to your envy which you have used out of your hatred against them; and I will make myself known among them, when I have judged you.
+[35:12] And you shalt know that I am the LORD, and that I have heard all your blasphemies which you have spoken against the mountains of Israel, saying, They are laid desolate, they are given us to consume.
 [35:13] Thus with your mouth you have boasted against me, and have multiplied your words against me: I have heard them.
 [35:14] Thus saith the Lord GOD; When the whole earth rejoiceth, I will make you desolate.
 [35:15] As you didst rejoice at the inheritance of the house of Israel, because it was desolate, so will I do unto you: you shalt be desolate, O mount Seir, and all Idumea, even all of it: and they shall know that I am the LORD.
@@ -906,7 +906,7 @@ Ezekiel
 [36:10] And I will multiply men upon you, all the house of Israel, even all of it: and the cities shall be inhabited, and the wastes shall be builded:
 [36:11] And I will multiply upon you man and beast; and they shall increase and bring fruit: and I will settle you after your old estates, and will do better unto you than at your beginnings: and you shall know that I am the LORD.
 [36:12] Yea, I will cause men to walk upon you, even my people Israel; and they shall possess you, and you shalt be their inheritance, and you shalt no more henceforth bereave them of men.
-[36:13] Thus saith the Lord GOD; Because they say unto you, You land devourest up men, and hast bereaved your nations:
+[36:13] Thus saith the Lord GOD; Because they say unto you, You land devourest up men, and have bereaved your nations:
 [36:14] Therefore you shalt devour men no more, neither bereave your nations any more, saith the Lord GOD.
 [36:15] Neither will I cause men to hear in you the shame of the heathen any more, neither shalt you bear the reproach of the people any more, neither shalt you cause your nations to fall any more, saith the Lord GOD.
 [36:16] Moreover the word of the LORD came unto me, saying,
@@ -972,7 +972,7 @@ Ezekiel
 [38:10] Thus saith the Lord GOD; It shall also come to pass, that at the same time shall things come into your mind, and you shalt think an evil thought:
 [38:11] And you shalt say, I will go up to the land of unwalled villages; I will go to them that are at rest, that dwell safely, all of them dwelling without walls, and having neither bars nor gates,
 [38:12] To take a spoil, and to take a prey; to turn your hand upon the desolate places that are now inhabited, and upon the people that are gathered out of the nations, which have gotten cattle and goods, that dwell in the midst of the land.
-[38:13] Sheba, and Dedan, and the merchants of Tarshish, with all the young lions thereof, shall say unto you, Art you come to take a spoil? hast you gathered your company to take a prey? to carry away silver and gold, to take away cattle and goods, to take a great spoil?
+[38:13] Sheba, and Dedan, and the merchants of Tarshish, with all the young lions thereof, shall say unto you, Art you come to take a spoil? have you gathered your company to take a prey? to carry away silver and gold, to take away cattle and goods, to take a great spoil?
 [38:14] Therefore, son of man, prophesy and say unto Gog, Thus saith the Lord GOD; In that day when my people of Israel dwelleth safely, shalt you not know it?
 [38:15] And you shalt come from your place out of the north parts, you, and many people with you, all of them riding upon horses, a great company, and a mighty army:
 [38:16] And you shalt come up against my people of Israel, as a cloud to cover the land; it shall be in the latter days, and I will bring you against my land, that the heathen may know me, when I shall be sanctified in you, O Gog, before their eyes.
@@ -1015,7 +1015,7 @@ Ezekiel
 [40:1] In the five and twentieth year of our captivity, in the beginning of the year, in the tenth day of the month, in the fourteenth year after that the city was smitten, in the selfsame day the hand of the LORD was upon me, and brought me thither.
 [40:2] In the visions of God brought he me into the land of Israel, and set me upon a very high mountain, by which was as the frame of a city on the south.
 [40:3] And he brought me thither, and, behold, there was a man, whose appearance was like the appearance of brass, with a line of flax in his hand, and a measuring reed; and he stood in the gate.
-[40:4] And the man said unto me, Son of man, behold with your eyes, and hear with your ears, and set your heart upon all that I shall shew you; for to the intent that I might shew them unto you art you brought hither: declare all that you seest to the house of Israel.
+[40:4] And the man said unto me, Son of man, behold with your eyes, and hear with your ears, and set your heart upon all that I shall shew you; for to the intent that I might shew them unto you art you brought hither: declare all that you see to the house of Israel.
 [40:5] And behold a wall on the outside of the house round about, and in the man's hand a measuring reed of six cubits long by the cubit and an hand breadth: so he measured the breadth of the building, one reed; and the height, one reed.
 [40:6] Then came he unto the gate which looketh toward the east, and went up the stairs thereof, and measured the threshold of the gate, which was one reed broad; and the other threshold of the gate, which was one reed broad.
 [40:7] And every little chamber was one reed long, and one reed broad; and between the little chambers were five cubits; and the threshold of the gate by the porch of the gate within was one reed.
@@ -1129,7 +1129,7 @@ Ezekiel
 [43:20] And you shalt take of the blood thereof, and put it on the four horns of it, and on the four corners of the settle, and upon the border round about: thus shalt you cleanse and purge it.
 [43:21] You shalt take the bullock also of the sin offering, and he shall burn it in the appointed place of the house, without the sanctuary.
 [43:22] And on the second day you shalt offer a kid of the goats without blemish for a sin offering; and they shall cleanse the altar, as they did cleanse it with the bullock.
-[43:23] When you hast made an end of cleansing it, you shalt offer a young bullock without blemish, and a ram out of the flock without blemish.
+[43:23] When you have made an end of cleansing it, you shalt offer a young bullock without blemish, and a ram out of the flock without blemish.
 [43:24] And you shalt offer them before the LORD, and the priests shall cast salt upon them, and they shall offer them up for a burnt offering unto the LORD.
 [43:25] Seven days shalt you prepare every day a goat for a sin offering: they shall also prepare a young bullock, and a ram out of the flock, without blemish.
 [43:26] Seven days shall they purge the altar and purify it; and they shall consecrate themselves.
@@ -1219,7 +1219,7 @@ Ezekiel
 [47:3] And when the man that had the line in his hand went forth eastward, he measured a thousand cubits, and he brought me through the waters; the waters were to the ankles.
 [47:4] Again he measured a thousand, and brought me through the waters; the waters were to the knees. Again he measured a thousand, and brought me through; the waters were to the loins.
 [47:5] Afterward he measured a thousand; and it was a river that I could not pass over: for the waters were risen, waters to swim in, a river that could not be passed over.
-[47:6] And he said unto me, Son of man, hast you seen this? Then he brought me, and caused me to return to the brink of the river.
+[47:6] And he said unto me, Son of man, have you seen this? Then he brought me, and caused me to return to the brink of the river.
 [47:7] Now when I had returned, behold, at the bank of the river were very many trees on the one side and on the other.
 [47:8] Then said he unto me, These waters issue out toward the east country, and go down into the desert, and go into the sea: which being brought forth into the sea, the waters shall be healed.
 [47:9] And it shall come to pass, that every thing that liveth, which moveth, whithersoever the rivers shall come, shall live: and there shall be a very great multitude of fish, because these waters shall come thither: for they shall be healed; and every thing shall live whither the river cometh.

@@ -1,0 +1,11 @@
+thee, thou, ye -> you
+thy, thine -> your
+hast -> have
+mayest -> may
+tillest -> till
+eatest -> eat
+shouldest -> should
+doest -> do
+comest -> come
+seest -> see
+lovest -> love

@@ -23,15 +23,15 @@ Psalms
 [3:4] I cried unto the LORD with my voice, and he heard me out of his holy hill. Selah.
 [3:5] I laid me down and slept; I awaked; for the LORD sustained me.
 [3:6] I will not be afraid of ten thousands of people, that have set themselves against me round about.
-[3:7] Arise, O LORD; save me, O my God: for you hast smitten all mine enemies upon the cheek bone; you hast broken the teeth of the ungodly.
+[3:7] Arise, O LORD; save me, O my God: for you have smitten all mine enemies upon the cheek bone; you have broken the teeth of the ungodly.
 [3:8] Salvation belongeth unto the LORD: your blessing is upon your people. Selah.
-[4:1] Hear me when I call, O God of my righteousness: you hast enlarged me when I was in distress; have mercy upon me, and hear my prayer.
+[4:1] Hear me when I call, O God of my righteousness: you have enlarged me when I was in distress; have mercy upon me, and hear my prayer.
 [4:2] O you sons of men, how long will you turn my glory into shame? how long will you love vanity, and seek after leasing? Selah.
 [4:3] But know that the LORD hath set apart him that is godly for himself: the LORD will hear when I call unto him.
 [4:4] Stand in awe, and sin not: commune with your own heart upon your bed, and be still. Selah.
 [4:5] Offer the sacrifices of righteousness, and put your trust in the LORD.
 [4:6] There be many that say, Who will shew us any good? LORD, lift you up the light of your countenance upon us.
-[4:7] You hast put gladness in my heart, more than in the time that their corn and their wine increased.
+[4:7] You have put gladness in my heart, more than in the time that their corn and their wine increased.
 [4:8] I will both lay me down in peace, and sleep: for you, LORD, only makest me dwell in safety.
 [5:1] Give ear to my words, O LORD, consider my meditation.
 [5:2] Hearken unto the voice of my cry, my King, and my God: for unto you will I pray.
@@ -60,7 +60,7 @@ Psalms
 [7:3] O LORD my God, If I have done this; if there be iniquity in my hands;
 [7:4] If I have rewarded evil unto him that was at peace with me; (yea, I have delivered him that without cause is mine enemy:)
 [7:5] Let the enemy persecute my soul, and take it; yea, let him tread down my life upon the earth, and lay mine honour in the dust. Selah.
-[7:6] Arise, O LORD, in your anger, lift up thyself because of the rage of mine enemies: and awake for me to the judgment that you hast commanded.
+[7:6] Arise, O LORD, in your anger, lift up thyself because of the rage of mine enemies: and awake for me to the judgment that you have commanded.
 [7:7] So shall the congregation of the people compass you about: for their sakes therefore return you on high.
 [7:8] The LORD shall judge the people: judge me, O LORD, according to my righteousness, and according to mine integrity that is in me.
 [7:9] Oh let the wickedness of the wicked come to an end; but establish the just: for the righteous God trieth the hearts and reins.
@@ -72,25 +72,25 @@ Psalms
 [7:15] He made a pit, and digged it, and is fallen into the ditch which he made.
 [7:16] His mischief shall return upon his own head, and his violent dealing shall come down upon his own pate.
 [7:17] I will praise the LORD according to his righteousness: and will sing praise to the name of the LORD most high.
-[8:1] O LORD, our Lord, how excellent is your name in all the earth! who hast set your glory above the heavens.
-[8:2] Out of the mouth of babes and sucklings hast you ordained strength because of your enemies, that you mightest still the enemy and the avenger.
-[8:3] When I consider your heavens, the work of your fingers, the moon and the stars, which you hast ordained;
+[8:1] O LORD, our Lord, how excellent is your name in all the earth! who have set your glory above the heavens.
+[8:2] Out of the mouth of babes and sucklings have you ordained strength because of your enemies, that you mightest still the enemy and the avenger.
+[8:3] When I consider your heavens, the work of your fingers, the moon and the stars, which you have ordained;
 [8:4] What is man, that you art mindful of him? and the son of man, that you visitest him?
-[8:5] For you hast made him a little lower than the angels, and hast crowned him with glory and honour.
-[8:6] You madest him to have dominion over the works of your hands; you hast put all things under his feet:
+[8:5] For you have made him a little lower than the angels, and have crowned him with glory and honour.
+[8:6] You madest him to have dominion over the works of your hands; you have put all things under his feet:
 [8:7] All sheep and oxen, yea, and the beasts of the field;
 [8:8] The fowl of the air, and the fish of the sea, and whatsoever passeth through the paths of the seas.
 [8:9] O LORD our Lord, how excellent is your name in all the earth!
 [9:1] I will praise you, O LORD, with my whole heart; I will shew forth all your marvellous works.
 [9:2] I will be glad and rejoice in you: I will sing praise to your name, O you most High.
 [9:3] When mine enemies are turned back, they shall fall and perish at your presence.
-[9:4] For you hast maintained my right and my cause; you satest in the throne judging right.
-[9:5] You hast rebuked the heathen, you hast destroyed the wicked, you hast put out their name for ever and ever.
-[9:6] O you enemy, destructions are come to a perpetual end: and you hast destroyed cities; their memorial is perished with them.
+[9:4] For you have maintained my right and my cause; you satest in the throne judging right.
+[9:5] You have rebuked the heathen, you have destroyed the wicked, you have put out their name for ever and ever.
+[9:6] O you enemy, destructions are come to a perpetual end: and you have destroyed cities; their memorial is perished with them.
 [9:7] But the LORD shall endure for ever: he hath prepared his throne for judgment.
 [9:8] And he shall judge the world in righteousness, he shall minister judgment to the people in uprightness.
 [9:9] The LORD also will be a refuge for the oppressed, a refuge in times of trouble.
-[9:10] And they that know your name will put their trust in you: for you, LORD, hast not forsaken them that seek you.
+[9:10] And they that know your name will put their trust in you: for you, LORD, have not forsaken them that seek you.
 [9:11] Sing praises to the LORD, which dwelleth in Zion: declare among the people his doings.
 [9:12] When he maketh inquisition for blood, he remembereth them: he forgetteth not the cry of the humble.
 [9:13] Have mercy upon me, O LORD; consider my trouble which I suffer of them that hate me, you that liftest me up from the gates of death:
@@ -114,10 +114,10 @@ Psalms
 [10:11] He hath said in his heart, God hath forgotten: he hideth his face; he will never see it.
 [10:12] Arise, O LORD; O God, lift up your hand: forget not the humble.
 [10:13] Wherefore doth the wicked contemn God? he hath said in his heart, You wilt not require it.
-[10:14] You hast seen it; for you beholdest mischief and spite, to requite it with your hand: the poor committeth himself unto you; you art the helper of the fatherless.
+[10:14] You have seen it; for you beholdest mischief and spite, to requite it with your hand: the poor committeth himself unto you; you art the helper of the fatherless.
 [10:15] Break you the arm of the wicked and the evil man: seek out his wickedness till you find none.
 [10:16] The LORD is King for ever and ever: the heathen are perished out of his land.
-[10:17] LORD, you hast heard the desire of the humble: you wilt prepare their heart, you wilt cause your ear to hear:
+[10:17] LORD, you have heard the desire of the humble: you wilt prepare their heart, you wilt cause your ear to hear:
 [10:18] To judge the fatherless and the oppressed, that the man of the earth may no more oppress.
 [11:1] In the LORD put I my trust: how say you to my soul, Flee as a bird to your mountain?
 [11:2] For, lo, the wicked bend their bow, they make ready their arrow upon the string, that they may privily shoot at the upright in heart.
@@ -153,7 +153,7 @@ Psalms
 [15:4] In whose eyes a vile person is contemned; but he honoureth them that fear the LORD. He that sweareth to his own hurt, and changeth not.
 [15:5] He that putteth not out his money to usury, nor taketh reward against the innocent. He that doeth these things shall never be moved.
 [16:1] Preserve me, O God: for in you do I put my trust.
-[16:2] O my soul, you hast said unto the LORD, You art my Lord: my goodness extendeth not to you;
+[16:2] O my soul, you have said unto the LORD, You art my Lord: my goodness extendeth not to you;
 [16:3] But to the saints that are in the earth, and to the excellent, in whom is all my delight.
 [16:4] Their sorrows shall be multiplied that hasten after another god: their drink offerings of blood will I not offer, nor take up their names into my lips.
 [16:5] The LORD is the portion of mine inheritance and of my cup: you maintainest my lot.
@@ -165,7 +165,7 @@ Psalms
 [16:11] You wilt shew me the path of life: in your presence is fulness of joy; at your right hand there are pleasures for evermore.
 [17:1] Hear the right, O LORD, attend unto my cry, give ear unto my prayer, that goeth not out of feigned lips.
 [17:2] Let my sentence come forth from your presence; let your eyes behold the things that are equal.
-[17:3] You hast proved mine heart; you hast visited me in the night; you hast tried me, and shalt find nothing; I am purposed that my mouth shall not transgress.
+[17:3] You have proved mine heart; you have visited me in the night; you have tried me, and shalt find nothing; I am purposed that my mouth shall not transgress.
 [17:4] Concerning the works of men, by the word of your lips I have kept me from the paths of the destroyer.
 [17:5] Hold up my goings in your paths, that my footsteps slip not.
 [17:6] I have called upon you, for you wilt hear me, O God: incline your ear unto me, and hear my speech.
@@ -212,20 +212,20 @@ Psalms
 [18:32] It is God that girdeth me with strength, and maketh my way perfect.
 [18:33] He maketh my feet like hinds' feet, and setteth me upon my high places.
 [18:34] He teacheth my hands to war, so that a bow of steel is broken by mine arms.
-[18:35] You hast also given me the shield of your salvation: and your right hand hath holden me up, and your gentleness hath made me great.
-[18:36] You hast enlarged my steps under me, that my feet did not slip.
+[18:35] You have also given me the shield of your salvation: and your right hand hath holden me up, and your gentleness hath made me great.
+[18:36] You have enlarged my steps under me, that my feet did not slip.
 [18:37] I have pursued mine enemies, and overtaken them: neither did I turn again till they were consumed.
 [18:38] I have wounded them that they were not able to rise: they are fallen under my feet.
-[18:39] For you hast girded me with strength unto the battle: you hast subdued under me those that rose up against me.
-[18:40] You hast also given me the necks of mine enemies; that I might destroy them that hate me.
+[18:39] For you have girded me with strength unto the battle: you have subdued under me those that rose up against me.
+[18:40] You have also given me the necks of mine enemies; that I might destroy them that hate me.
 [18:41] They cried, but there was none to save them: even unto the LORD, but he answered them not.
 [18:42] Then did I beat them small as the dust before the wind: I did cast them out as the dirt in the streets.
-[18:43] You hast delivered me from the strivings of the people; and you hast made me the head of the heathen: a people whom I have not known shall serve me.
+[18:43] You have delivered me from the strivings of the people; and you have made me the head of the heathen: a people whom I have not known shall serve me.
 [18:44] As soon as they hear of me, they shall obey me: the strangers shall submit themselves unto me.
 [18:45] The strangers shall fade away, and be afraid out of their close places.
 [18:46] The LORD liveth; and blessed be my rock; and let the God of my salvation be exalted.
 [18:47] It is God that avengeth me, and subdueth the people under me.
-[18:48] He delivereth me from mine enemies: yea, you liftest me up above those that rise up against me: you hast delivered me from the violent man.
+[18:48] He delivereth me from mine enemies: yea, you liftest me up above those that rise up against me: you have delivered me from the violent man.
 [18:49] Therefore will I give thanks unto you, O LORD, among the heathen, and sing praises unto your name.
 [18:50] Great deliverance giveth he to his king; and sheweth mercy to his anointed, to David, and to his seed for evermore.
 [19:1] The heavens declare the glory of God; and the firmament sheweth his handywork.
@@ -252,11 +252,11 @@ Psalms
 [20:8] They are brought down and fallen: but we are risen, and stand upright.
 [20:9] Save, LORD: let the king hear us when we call.
 [21:1] The king shall joy in your strength, O LORD; and in your salvation how greatly shall he rejoice!
-[21:2] You hast given him his heart's desire, and hast not withholden the request of his lips. Selah.
+[21:2] You have given him his heart's desire, and have not withholden the request of his lips. Selah.
 [21:3] For you preventest him with the blessings of goodness: you settest a crown of pure gold on his head.
 [21:4] He asked life of you, and you gavest it him, even length of days for ever and ever.
-[21:5] His glory is great in your salvation: honour and majesty hast you laid upon him.
-[21:6] For you hast made him most blessed for ever: you hast made him exceeding glad with your countenance.
+[21:5] His glory is great in your salvation: honour and majesty have you laid upon him.
+[21:6] For you have made him most blessed for ever: you have made him exceeding glad with your countenance.
 [21:7] For the king trusteth in the LORD, and through the mercy of the most High he shall not be moved.
 [21:8] Your hand shall find out all your enemies: your right hand shall find out those that hate you.
 [21:9] You shalt make them as a fiery oven in the time of your anger: the LORD shall swallow them up in his wrath, and the fire shall devour them.
@@ -264,7 +264,7 @@ Psalms
 [21:11] For they intended evil against you: they imagined a mischievous device, which they are not able to perform.
 [21:12] Therefore shalt you make them turn their back, when you shalt make ready your arrows upon your strings against the face of them.
 [21:13] Be you exalted, LORD, in your own strength: so will we sing and praise your power.
-[22:1] My God, my God, why hast you forsaken me? why art you so far from helping me, and from the words of my roaring?
+[22:1] My God, my God, why have you forsaken me? why art you so far from helping me, and from the words of my roaring?
 [22:2] O my God, I cry in the day time, but you hearest not; and in the night season, and am not silent.
 [22:3] But you art holy, O you that inhabitest the praises of Israel.
 [22:4] Our fathers trusted in you: they trusted, and you didst deliver them.
@@ -278,13 +278,13 @@ Psalms
 [22:12] Many bulls have compassed me: strong bulls of Bashan have beset me round.
 [22:13] They gaped upon me with their mouths, as a ravening and a roaring lion.
 [22:14] I am poured out like water, and all my bones are out of joint: my heart is like wax; it is melted in the midst of my bowels.
-[22:15] My strength is dried up like a potsherd; and my tongue cleaveth to my jaws; and you hast brought me into the dust of death.
+[22:15] My strength is dried up like a potsherd; and my tongue cleaveth to my jaws; and you have brought me into the dust of death.
 [22:16] For dogs have compassed me: the assembly of the wicked have inclosed me: they pierced my hands and my feet.
 [22:17] I may tell all my bones: they look and stare upon me.
 [22:18] They part my garments among them, and cast lots upon my vesture.
 [22:19] But be not you far from me, O LORD: O my strength, haste you to help me.
 [22:20] Deliver my soul from the sword; my darling from the power of the dog.
-[22:21] Save me from the lion's mouth: for you hast heard me from the horns of the unicorns.
+[22:21] Save me from the lion's mouth: for you have heard me from the horns of the unicorns.
 [22:22] I will declare your name unto my brethren: in the midst of the congregation will I praise you.
 [22:23] You that fear the LORD, praise him; all you the seed of Jacob, glorify him; and fear him, all you the seed of Israel.
 [22:24] For he hath not despised nor abhorred the affliction of the afflicted; neither hath he hid his face from him; but when he cried unto him, he heard.
@@ -353,7 +353,7 @@ Psalms
 [27:6] And now shall mine head be lifted up above mine enemies round about me: therefore will I offer in his tabernacle sacrifices of joy; I will sing, yea, I will sing praises unto the LORD.
 [27:7] Hear, O LORD, when I cry with my voice: have mercy also upon me, and answer me.
 [27:8] When you saidst, Seek you my face; my heart said unto you, Your face, LORD, will I seek.
-[27:9] Hide not your face far from me; put not your servant away in anger: you hast been my help; leave me not, neither forsake me, O God of my salvation.
+[27:9] Hide not your face far from me; put not your servant away in anger: you have been my help; leave me not, neither forsake me, O God of my salvation.
 [27:10] When my father and my mother forsake me, then the LORD will take me up.
 [27:11] Teach me your way, O LORD, and lead me in a plain path, because of mine enemies.
 [27:12] Deliver me not over unto the will of mine enemies: for false witnesses are risen up against me, and such as breathe out cruelty.
@@ -379,26 +379,26 @@ Psalms
 [29:9] The voice of the LORD maketh the hinds to calve, and discovereth the forests: and in his temple doth every one speak of his glory.
 [29:10] The LORD sitteth upon the flood; yea, the LORD sitteth King for ever.
 [29:11] The LORD will give strength unto his people; the LORD will bless his people with peace.
-[30:1] I will extol you, O LORD; for you hast lifted me up, and hast not made my foes to rejoice over me.
-[30:2] O LORD my God, I cried unto you, and you hast healed me.
-[30:3] O LORD, you hast brought up my soul from the grave: you hast kept me alive, that I should not go down to the pit.
+[30:1] I will extol you, O LORD; for you have lifted me up, and have not made my foes to rejoice over me.
+[30:2] O LORD my God, I cried unto you, and you have healed me.
+[30:3] O LORD, you have brought up my soul from the grave: you have kept me alive, that I should not go down to the pit.
 [30:4] Sing unto the LORD, O you saints of his, and give thanks at the remembrance of his holiness.
 [30:5] For his anger endureth but a moment; in his favour is life: weeping may endure for a night, but joy cometh in the morning.
 [30:6] And in my prosperity I said, I shall never be moved.
-[30:7] LORD, by your favour you hast made my mountain to stand strong: you didst hide your face, and I was troubled.
+[30:7] LORD, by your favour you have made my mountain to stand strong: you didst hide your face, and I was troubled.
 [30:8] I cried to you, O LORD; and unto the LORD I made supplication.
 [30:9] What profit is there in my blood, when I go down to the pit? Shall the dust praise you? shall it declare your truth?
 [30:10] Hear, O LORD, and have mercy upon me: LORD, be you my helper.
-[30:11] You hast turned for me my mourning into dancing: you hast put off my sackcloth, and girded me with gladness;
+[30:11] You have turned for me my mourning into dancing: you have put off my sackcloth, and girded me with gladness;
 [30:12] To the end that my glory may sing praise to you, and not be silent. O LORD my God, I will give thanks unto you for ever.
 [31:1] In you, O LORD, do I put my trust; let me never be ashamed: deliver me in your righteousness.
 [31:2] Bow down your ear to me; deliver me speedily: be you my strong rock, for an house of defence to save me.
 [31:3] For you art my rock and my fortress; therefore for your name's sake lead me, and guide me.
 [31:4] Pull me out of the net that they have laid privily for me: for you art my strength.
-[31:5] Into your hand I commit my spirit: you hast redeemed me, O LORD God of truth.
+[31:5] Into your hand I commit my spirit: you have redeemed me, O LORD God of truth.
 [31:6] I have hated them that regard lying vanities: but I trust in the LORD.
-[31:7] I will be glad and rejoice in your mercy: for you hast considered my trouble; you hast known my soul in adversities;
-[31:8] And hast not shut me up into the hand of the enemy: you hast set my feet in a large room.
+[31:7] I will be glad and rejoice in your mercy: for you have considered my trouble; you have known my soul in adversities;
+[31:8] And have not shut me up into the hand of the enemy: you have set my feet in a large room.
 [31:9] Have mercy upon me, O LORD, for I am in trouble: mine eye is consumed with grief, yea, my soul and my belly.
 [31:10] For my life is spent with grief, and my years with sighing: my strength faileth because of mine iniquity, and my bones are consumed.
 [31:11] I was a reproach among all mine enemies, but especially among my neighbours, and a fear to mine acquaintance: they that did see me without fled from me.
@@ -409,7 +409,7 @@ Psalms
 [31:16] Make your face to shine upon your servant: save me for your mercies' sake.
 [31:17] Let me not be ashamed, O LORD; for I have called upon you: let the wicked be ashamed, and let them be silent in the grave.
 [31:18] Let the lying lips be put to silence; which speak grievous things proudly and contemptuously against the righteous.
-[31:19] Oh how great is your goodness, which you hast laid up for them that fear you; which you hast wrought for them that trust in you before the sons of men!
+[31:19] Oh how great is your goodness, which you have laid up for them that fear you; which you have wrought for them that trust in you before the sons of men!
 [31:20] You shalt hide them in the secret of your presence from the pride of man: you shalt keep them secretly in a pavilion from the strife of tongues.
 [31:21] Blessed be the LORD: for he hath shewed me his marvellous kindness in a strong city.
 [31:22] For I said in my haste, I am cut off from before your eyes: nevertheless you heardest the voice of my supplications when I cried unto you.
@@ -420,7 +420,7 @@ Psalms
 [32:3] When I kept silence, my bones waxed old through my roaring all the day long.
 [32:4] For day and night your hand was heavy upon me: my moisture is turned into the drought of summer. Selah.
 [32:5] I acknowledge my sin unto you, and mine iniquity have I not hid. I said, I will confess my transgressions unto the LORD; and you forgavest the iniquity of my sin. Selah.
-[32:6] For this shall every one that is godly pray unto you in a time when you mayest be found: surely in the floods of great waters they shall not come nigh unto him.
+[32:6] For this shall every one that is godly pray unto you in a time when you may be found: surely in the floods of great waters they shall not come nigh unto him.
 [32:7] You art my hiding place; you shalt preserve me from trouble; you shalt compass me about with songs of deliverance. Selah.
 [32:8] I will instruct you and teach you in the way which you shalt go: I will guide you with mine eye.
 [32:9] Be you not as the horse, or as the mule, which have no understanding: whose mouth must be held in with bit and bridle, lest they come near unto you.
@@ -491,7 +491,7 @@ Psalms
 [35:19] Let not them that are mine enemies wrongfully rejoice over me: neither let them wink with the eye that hate me without a cause.
 [35:20] For they speak not peace: but they devise deceitful matters against them that are quiet in the land.
 [35:21] Yea, they opened their mouth wide against me, and said, Aha, aha, our eye hath seen it.
-[35:22] This you hast seen, O LORD: keep not silence: O Lord, be not far from me.
+[35:22] This you have seen, O LORD: keep not silence: O Lord, be not far from me.
 [35:23] Stir up thyself, and awake to my judgment, even unto my cause, my God and my Lord.
 [35:24] Judge me, O LORD my God, according to your righteousness; and let them not rejoice over me.
 [35:25] Let them not say in their hearts, Ah, so would we have it: let them not say, We have swallowed him up.
@@ -576,7 +576,7 @@ Psalms
 [39:2] I was dumb with silence, I held my peace, even from good; and my sorrow was stirred.
 [39:3] My heart was hot within me, while I was musing the fire burned: then spake I with my tongue,
 [39:4] LORD, make me to know mine end, and the measure of my days, what it is: that I may know how frail I am.
-[39:5] Behold, you hast made my days as an handbreadth; and mine age is as nothing before you: verily every man at his best state is altogether vanity. Selah.
+[39:5] Behold, you have made my days as an handbreadth; and mine age is as nothing before you: verily every man at his best state is altogether vanity. Selah.
 [39:6] Surely every man walketh in a vain shew: surely they are disquieted in vain: he heapeth up riches, and knoweth not who shall gather them.
 [39:7] And now, Lord, what wait I for? my hope is in you.
 [39:8] Deliver me from all my transgressions: make me not the reproach of the foolish.
@@ -589,8 +589,8 @@ Psalms
 [40:2] He brought me up also out of an horrible pit, out of the miry clay, and set my feet upon a rock, and established my goings.
 [40:3] And he hath put a new song in my mouth, even praise unto our God: many shall see it, and fear, and shall trust in the LORD.
 [40:4] Blessed is that man that maketh the LORD his trust, and respecteth not the proud, nor such as turn aside to lies.
-[40:5] Many, O LORD my God, are your wonderful works which you hast done, and your thoughts which are to us-ward: they cannot be reckoned up in order unto you: if I would declare and speak of them, they are more than can be numbered.
-[40:6] Sacrifice and offering you didst not desire; mine ears hast you opened: burnt offering and sin offering hast you not required.
+[40:5] Many, O LORD my God, are your wonderful works which you have done, and your thoughts which are to us-ward: they cannot be reckoned up in order unto you: if I would declare and speak of them, they are more than can be numbered.
+[40:6] Sacrifice and offering you didst not desire; mine ears have you opened: burnt offering and sin offering have you not required.
 [40:7] Then said I, Lo, I come: in the volume of the book it is written of me,
 [40:8] I delight to do your will, O my God: yea, your law is within my heart.
 [40:9] I have preached righteousness in the great congregation: lo, I have not refrained my lips, O LORD, you knowest.
@@ -623,7 +623,7 @@ Psalms
 [42:6] O my God, my soul is cast down within me: therefore will I remember you from the land of Jordan, and of the Hermonites, from the hill Mizar.
 [42:7] Deep calleth unto deep at the noise of your waterspouts: all your waves and your billows are gone over me.
 [42:8] Yet the LORD will command his lovingkindness in the day time, and in the night his song shall be with me, and my prayer unto the God of my life.
-[42:9] I will say unto God my rock, Why hast you forgotten me? why go I mourning because of the oppression of the enemy?
+[42:9] I will say unto God my rock, Why have you forgotten me? why go I mourning because of the oppression of the enemy?
 [42:10] As with a sword in my bones, mine enemies reproach me; while they say daily unto me, Where is your God?
 [42:11] Why art you cast down, O my soul? and why art you disquieted within me? hope you in God: for I shall yet praise him, who is the health of my countenance, and my God.
 [43:1] Judge me, O God, and plead my cause against an ungodly nation: O deliver me from the deceitful and unjust man.
@@ -637,11 +637,11 @@ Psalms
 [44:4] You art my King, O God: command deliverances for Jacob.
 [44:5] Through you will we push down our enemies: through your name will we tread them under that rise up against us.
 [44:6] For I will not trust in my bow, neither shall my sword save me.
-[44:7] But you hast saved us from our enemies, and hast put them to shame that hated us.
+[44:7] But you have saved us from our enemies, and have put them to shame that hated us.
 [44:8] In God we boast all the day long, and praise your name for ever. Selah.
-[44:9] But you hast cast off, and put us to shame; and goest not forth with our armies.
+[44:9] But you have cast off, and put us to shame; and goest not forth with our armies.
 [44:10] You makest us to turn back from the enemy: and they which hate us spoil for themselves.
-[44:11] You hast given us like sheep appointed for meat; and hast scattered us among the heathen.
+[44:11] You have given us like sheep appointed for meat; and have scattered us among the heathen.
 [44:12] You sellest your people for nought, and dost not increase your wealth by their price.
 [44:13] You makest us a reproach to our neighbours, a scorn and a derision to them that are round about us.
 [44:14] You makest us a byword among the heathen, a shaking of the head among the people.
@@ -649,7 +649,7 @@ Psalms
 [44:16] For the voice of him that reproacheth and blasphemeth; by reason of the enemy and avenger.
 [44:17] All this is come upon us; yet have we not forgotten you, neither have we dealt falsely in your covenant.
 [44:18] Our heart is not turned back, neither have our steps declined from your way;
-[44:19] Though you hast sore broken us in the place of dragons, and covered us with the shadow of death.
+[44:19] Though you have sore broken us in the place of dragons, and covered us with the shadow of death.
 [44:20] If we have forgotten the name of our God, or stretched out our hands to a strange god;
 [44:21] Shall not God search this out? for he knoweth the secrets of the heart.
 [44:22] Yea, for your sake are we killed all the day long; we are counted as sheep for the slaughter.
@@ -663,7 +663,7 @@ Psalms
 [45:4] And in your majesty ride prosperously because of truth and meekness and righteousness; and your right hand shall teach you terrible things.
 [45:5] Your arrows are sharp in the heart of the king's enemies; whereby the people fall under you.
 [45:6] Your throne, O God, is for ever and ever: the sceptre of your kingdom is a right sceptre.
-[45:7] You lovest righteousness, and hatest wickedness: therefore God, your God, hath anointed you with the oil of gladness above your fellows.
+[45:7] You love righteousness, and hatest wickedness: therefore God, your God, hath anointed you with the oil of gladness above your fellows.
 [45:8] All your garments smell of myrrh, and aloes, and cassia, out of the ivory palaces, whereby they have made you glad.
 [45:9] Kings' daughters were among your honourable women: upon your right hand did stand the queen in gold of Ophir.
 [45:10] Hearken, O daughter, and consider, and incline your ear; forget also your own people, and your father's house;
@@ -672,7 +672,7 @@ Psalms
 [45:13] The king's daughter is all glorious within: her clothing is of wrought gold.
 [45:14] She shall be brought unto the king in raiment of needlework: the virgins her companions that follow her shall be brought unto you.
 [45:15] With gladness and rejoicing shall they be brought: they shall enter into the king's palace.
-[45:16] Instead of your fathers shall be your children, whom you mayest make princes in all the earth.
+[45:16] Instead of your fathers shall be your children, whom you may make princes in all the earth.
 [45:17] I will make your name to be remembered in all generations: therefore shall the people praise you for ever and ever.
 [46:1] God is our refuge and strength, a very present help in trouble.
 [46:2] Therefore will not we fear, though the earth be removed, and though the mountains be carried into the midst of the sea;
@@ -725,7 +725,7 @@ Psalms
 [49:15] But God will redeem my soul from the power of the grave: for he shall receive me. Selah.
 [49:16] Be not you afraid when one is made rich, when the glory of his house is increased;
 [49:17] For when he dieth he shall carry nothing away: his glory shall not descend after him.
-[49:18] Though while he lived he blessed his soul: and men will praise you, when you doest well to thyself.
+[49:18] Though while he lived he blessed his soul: and men will praise you, when you do well to thyself.
 [49:19] He shall go to the generation of his fathers; they shall never see light.
 [49:20] Man that is in honour, and understandeth not, is like the beasts that perish.
 [50:1] The mighty God, even the LORD, hath spoken, and called the earth from the rising of the sun unto the going down thereof.
@@ -743,12 +743,12 @@ Psalms
 [50:13] Will I eat the flesh of bulls, or drink the blood of goats?
 [50:14] Offer unto God thanksgiving; and pay your vows unto the most High:
 [50:15] And call upon me in the day of trouble: I will deliver you, and you shalt glorify me.
-[50:16] But unto the wicked God saith, What hast you to do to declare my statutes, or that you shouldest take my covenant in your mouth?
+[50:16] But unto the wicked God saith, What have you to do to declare my statutes, or that you should take my covenant in your mouth?
 [50:17] Seeing you hatest instruction, and casteth my words behind you.
-[50:18] When you sawest a thief, then you consentedst with him, and hast been partaker with adulterers.
+[50:18] When you saw a thief, then you consentedst with him, and have been partaker with adulterers.
 [50:19] You givest your mouth to evil, and your tongue frameth deceit.
 [50:20] You sittest and speakest against your brother; you slanderest your own mother's son.
-[50:21] These things hast you done, and I kept silence; you thoughtest that I was altogether such an one as thyself: but I will reprove you, and set them in order before your eyes.
+[50:21] These things have you done, and I kept silence; you thoughtest that I was altogether such an one as thyself: but I will reprove you, and set them in order before your eyes.
 [50:22] Now consider this, you that forget God, lest I tear you in pieces, and there be none to deliver.
 [50:23] Whoso offereth praise glorifieth me: and to him that ordereth his conversation aright will I shew the salvation of God.
 [51:1] Have mercy upon me, O God, according to your lovingkindness: according unto the multitude of your tender mercies blot out my transgressions.
@@ -758,7 +758,7 @@ Psalms
 [51:5] Behold, I was shapen in iniquity; and in sin did my mother conceive me.
 [51:6] Behold, you desirest truth in the inward parts: and in the hidden part you shalt make me to know wisdom.
 [51:7] Purge me with hyssop, and I shall be clean: wash me, and I shall be whiter than snow.
-[51:8] Make me to hear joy and gladness; that the bones which you hast broken may rejoice.
+[51:8] Make me to hear joy and gladness; that the bones which you have broken may rejoice.
 [51:9] Hide your face from my sins, and blot out all mine iniquities.
 [51:10] Create in me a clean heart, O God; and renew a right spirit within me.
 [51:11] Cast me not away from your presence; and take not your holy spirit from me.
@@ -772,18 +772,18 @@ Psalms
 [51:19] Then shalt you be pleased with the sacrifices of righteousness, with burnt offering and whole burnt offering: then shall they offer bullocks upon your altar.
 [52:1] Why boastest you thyself in mischief, O mighty man? the goodness of God endureth continually.
 [52:2] The tongue deviseth mischiefs; like a sharp razor, working deceitfully.
-[52:3] You lovest evil more than good; and lying rather than to speak righteousness. Selah.
-[52:4] You lovest all devouring words, O you deceitful tongue.
+[52:3] You love evil more than good; and lying rather than to speak righteousness. Selah.
+[52:4] You love all devouring words, O you deceitful tongue.
 [52:5] God shall likewise destroy you for ever, he shall take you away, and pluck you out of your dwelling place, and root you out of the land of the living. Selah.
 [52:6] The righteous also shall see, and fear, and shall laugh at him:
 [52:7] Lo, this is the man that made not God his strength; but trusted in the abundance of his riches, and strengthened himself in his wickedness.
 [52:8] But I am like a green olive tree in the house of God: I trust in the mercy of God for ever and ever.
-[52:9] I will praise you for ever, because you hast done it: and I will wait on your name; for it is good before your saints.
+[52:9] I will praise you for ever, because you have done it: and I will wait on your name; for it is good before your saints.
 [53:1] The fool hath said in his heart, There is no God. Corrupt are they, and have done abominable iniquity: there is none that doeth good.
 [53:2] God looked down from heaven upon the children of men, to see if there were any that did understand, that did seek God.
 [53:3] Every one of them is gone back: they are altogether become filthy; there is none that doeth good, no, not one.
 [53:4] Have the workers of iniquity no knowledge? who eat up my people as they eat bread: they have not called upon God.
-[53:5] There were they in great fear, where no fear was: for God hath scattered the bones of him that encampeth against you: you hast put them to shame, because God hath despised them.
+[53:5] There were they in great fear, where no fear was: for God hath scattered the bones of him that encampeth against you: you have put them to shame, because God hath despised them.
 [53:6] Oh that the salvation of Israel were come out of Zion! When God bringeth back the captivity of his people, Jacob shall rejoice, and Israel shall be glad.
 [54:1] Save me, O God, by your name, and judge me by your strength.
 [54:2] Hear my prayer, O God; give ear to the words of my mouth.
@@ -827,7 +827,7 @@ Psalms
 [56:10] In God will I praise his word: in the LORD will I praise his word.
 [56:11] In God have I put my trust: I will not be afraid what man can do unto me.
 [56:12] Your vows are upon me, O God: I will render praises unto you.
-[56:13] For you hast delivered my soul from death: wilt not you deliver my feet from falling, that I may walk before God in the light of the living?
+[56:13] For you have delivered my soul from death: wilt not you deliver my feet from falling, that I may walk before God in the light of the living?
 [57:1] Be merciful unto me, O God, be merciful unto me: for my soul trusteth in you: yea, in the shadow of your wings will I make my refuge, until these calamities be overpast.
 [57:2] I will cry unto God most high; unto God that performeth all things for me.
 [57:3] He shall send from heaven, and save me from the reproach of him that would swallow me up. Selah. God shall send forth his mercy and his truth.
@@ -865,12 +865,12 @@ Psalms
 [59:13] Consume them in wrath, consume them, that they may not be: and let them know that God ruleth in Jacob unto the ends of the earth. Selah.
 [59:14] And at evening let them return; and let them make a noise like a dog, and go round about the city.
 [59:15] Let them wander up and down for meat, and grudge if they be not satisfied.
-[59:16] But I will sing of your power; yea, I will sing aloud of your mercy in the morning: for you hast been my defence and refuge in the day of my trouble.
+[59:16] But I will sing of your power; yea, I will sing aloud of your mercy in the morning: for you have been my defence and refuge in the day of my trouble.
 [59:17] Unto you, O my strength, will I sing: for God is my defence, and the God of my mercy.
-[60:1] O God, you hast cast us off, you hast scattered us, you hast been displeased; O turn thyself to us again.
-[60:2] You hast made the earth to tremble; you hast broken it: heal the breaches thereof; for it shaketh.
-[60:3] You hast shewed your people hard things: you hast made us to drink the wine of astonishment.
-[60:4] You hast given a banner to them that fear you, that it may be displayed because of the truth. Selah.
+[60:1] O God, you have cast us off, you have scattered us, you have been displeased; O turn thyself to us again.
+[60:2] You have made the earth to tremble; you have broken it: heal the breaches thereof; for it shaketh.
+[60:3] You have shewed your people hard things: you have made us to drink the wine of astonishment.
+[60:4] You have given a banner to them that fear you, that it may be displayed because of the truth. Selah.
 [60:5] That your beloved may be delivered; save with your right hand, and hear me.
 [60:6] God hath spoken in his holiness; I will rejoice, I will divide Shechem, and mete out the valley of Succoth.
 [60:7] Gilead is mine, and Manasseh is mine; Ephraim also is the strength of mine head; Judah is my lawgiver;
@@ -881,9 +881,9 @@ Psalms
 [60:12] Through God we shall do valiantly: for he it is that shall tread down our enemies.
 [61:1] Hear my cry, O God; attend unto my prayer.
 [61:2] From the end of the earth will I cry unto you, when my heart is overwhelmed: lead me to the rock that is higher than I.
-[61:3] For you hast been a shelter for me, and a strong tower from the enemy.
+[61:3] For you have been a shelter for me, and a strong tower from the enemy.
 [61:4] I will abide in your tabernacle for ever: I will trust in the covert of your wings. Selah.
-[61:5] For you, O God, hast heard my vows: you hast given me the heritage of those that fear your name.
+[61:5] For you, O God, have heard my vows: you have given me the heritage of those that fear your name.
 [61:6] You wilt prolong the king's life: and his years as many generations.
 [61:7] He shall abide before God for ever: O prepare mercy and truth, which may preserve him.
 [61:8] So will I sing praise unto your name for ever, that I may daily perform my vows.
@@ -905,7 +905,7 @@ Psalms
 [63:4] Thus will I bless you while I live: I will lift up my hands in your name.
 [63:5] My soul shall be satisfied as with marrow and fatness; and my mouth shall praise you with joyful lips:
 [63:6] When I remember you upon my bed, and meditate on you in the night watches.
-[63:7] Because you hast been my help, therefore in the shadow of your wings will I rejoice.
+[63:7] Because you have been my help, therefore in the shadow of your wings will I rejoice.
 [63:8] My soul followeth hard after you: your right hand upholdeth me.
 [63:9] But those that seek my soul, to destroy it, shall go into the lower parts of the earth.
 [63:10] They shall fall by the sword: they shall be a portion for foxes.
@@ -928,7 +928,7 @@ Psalms
 [65:6] Which by his strength setteth fast the mountains; being girded with power:
 [65:7] Which stilleth the noise of the seas, the noise of their waves, and the tumult of the people.
 [65:8] They also that dwell in the uttermost parts are afraid at your tokens: you makest the outgoings of the morning and evening to rejoice.
-[65:9] You visitest the earth, and waterest it: you greatly enrichest it with the river of God, which is full of water: you preparest them corn, when you hast so provided for it.
+[65:9] You visitest the earth, and waterest it: you greatly enrichest it with the river of God, which is full of water: you preparest them corn, when you have so provided for it.
 [65:10] You waterest the ridges thereof abundantly: you settlest the furrows thereof: you makest it soft with showers: you blessest the springing thereof.
 [65:11] You crownest the year with your goodness; and your paths drop fatness.
 [65:12] They drop upon the pastures of the wilderness: and the little hills rejoice on every side.
@@ -942,9 +942,9 @@ Psalms
 [66:7] He ruleth by his power for ever; his eyes behold the nations: let not the rebellious exalt themselves. Selah.
 [66:8] O bless our God, you people, and make the voice of his praise to be heard:
 [66:9] Which holdeth our soul in life, and suffereth not our feet to be moved.
-[66:10] For you, O God, hast proved us: you hast tried us, as silver is tried.
+[66:10] For you, O God, have proved us: you have tried us, as silver is tried.
 [66:11] You broughtest us into the net; you laidst affliction upon our loins.
-[66:12] You hast caused men to ride over our heads; we went through fire and through water: but you broughtest us out into a wealthy place.
+[66:12] You have caused men to ride over our heads; we went through fire and through water: but you broughtest us out into a wealthy place.
 [66:13] I will go into your house with burnt offerings: I will pay you my vows,
 [66:14] Which my lips have uttered, and my mouth hath spoken, when I was in trouble.
 [66:15] I will offer unto you burnt sacrifices of fatlings, with the incense of rams; I will offer bullocks with goats. Selah.
@@ -969,7 +969,7 @@ Psalms
 [68:7] O God, when you wentest forth before your people, when you didst march through the wilderness; Selah:
 [68:8] The earth shook, the heavens also dropped at the presence of God: even Sinai itself was moved at the presence of God, the God of Israel.
 [68:9] You, O God, didst send a plentiful rain, whereby you didst confirm your inheritance, when it was weary.
-[68:10] Your congregation hath dwelt therein: you, O God, hast prepared of your goodness for the poor.
+[68:10] Your congregation hath dwelt therein: you, O God, have prepared of your goodness for the poor.
 [68:11] The Lord gave the word: great was the company of those that published it.
 [68:12] Kings of armies did flee apace: and she that tarried at home divided the spoil.
 [68:13] Though you have lien among the pots, yet shall you be as the wings of a dove covered with silver, and her feathers with yellow gold.
@@ -977,7 +977,7 @@ Psalms
 [68:15] The hill of God is as the hill of Bashan; an high hill as the hill of Bashan.
 [68:16] Why leap you, you high hills? this is the hill which God desireth to dwell in; yea, the LORD will dwell in it for ever.
 [68:17] The chariots of God are twenty thousand, even thousands of angels: the Lord is among them, as in Sinai, in the holy place.
-[68:18] You hast ascended on high, you hast led captivity captive: you hast received gifts for men; yea, for the rebellious also, that the LORD God might dwell among them.
+[68:18] You have ascended on high, you have led captivity captive: you have received gifts for men; yea, for the rebellious also, that the LORD God might dwell among them.
 [68:19] Blessed be the Lord, who daily loadeth us with benefits, even the God of our salvation. Selah.
 [68:20] He that is our God is the God of salvation; and unto GOD the Lord belong the issues from death.
 [68:21] But God shall wound the head of his enemies, and the hairy scalp of such an one as goeth on still in his trespasses.
@@ -987,7 +987,7 @@ Psalms
 [68:25] The singers went before, the players on instruments followed after; among them were the damsels playing with timbrels.
 [68:26] Bless you God in the congregations, even the Lord, from the fountain of Israel.
 [68:27] There is little Benjamin with their ruler, the princes of Judah and their council, the princes of Zebulun, and the princes of Naphtali.
-[68:28] Your God hath commanded your strength: strengthen, O God, that which you hast wrought for us.
+[68:28] Your God hath commanded your strength: strengthen, O God, that which you have wrought for us.
 [68:29] Because of your temple at Jerusalem shall kings bring presents unto you.
 [68:30] Rebuke the company of spearmen, the multitude of the bulls, with the calves of the people, till every one submit himself with pieces of silver: scatter you the people that delight in war.
 [68:31] Princes shall come out of Egypt; Ethiopia shall soon stretch out her hands unto God.
@@ -1013,14 +1013,14 @@ Psalms
 [69:16] Hear me, O LORD; for your lovingkindness is good: turn unto me according to the multitude of your tender mercies.
 [69:17] And hide not your face from your servant; for I am in trouble: hear me speedily.
 [69:18] Draw nigh unto my soul, and redeem it: deliver me because of mine enemies.
-[69:19] You hast known my reproach, and my shame, and my dishonour: mine adversaries are all before you.
+[69:19] You have known my reproach, and my shame, and my dishonour: mine adversaries are all before you.
 [69:20] Reproach hath broken my heart; and I am full of heaviness: and I looked for some to take pity, but there was none; and for comforters, but I found none.
 [69:21] They gave me also gall for my meat; and in my thirst they gave me vinegar to drink.
 [69:22] Let their table become a snare before them: and that which should have been for their welfare, let it become a trap.
 [69:23] Let their eyes be darkened, that they see not; and make their loins continually to shake.
 [69:24] Pour out your indignation upon them, and let your wrathful anger take hold of them.
 [69:25] Let their habitation be desolate; and let none dwell in their tents.
-[69:26] For they persecute him whom you hast smitten; and they talk to the grief of those whom you hast wounded.
+[69:26] For they persecute him whom you have smitten; and they talk to the grief of those whom you have wounded.
 [69:27] Add iniquity unto their iniquity: and let them not come into your righteousness.
 [69:28] Let them be blotted out of the book of the living, and not be written with the righteous.
 [69:29] But I am poor and sorrowful: let your salvation, O God, set me up on high.
@@ -1038,7 +1038,7 @@ Psalms
 [70:5] But I am poor and needy: make haste unto me, O God: you art my help and my deliverer; O LORD, make no tarrying.
 [71:1] In you, O LORD, do I put my trust: let me never be put to confusion.
 [71:2] Deliver me in your righteousness, and cause me to escape: incline your ear unto me, and save me.
-[71:3] Be you my strong habitation, whereunto I may continually resort: you hast given commandment to save me; for you art my rock and my fortress.
+[71:3] Be you my strong habitation, whereunto I may continually resort: you have given commandment to save me; for you art my rock and my fortress.
 [71:4] Deliver me, O my God, out of the hand of the wicked, out of the hand of the unrighteous and cruel man.
 [71:5] For you art my hope, O Lord GOD: you art my trust from my youth.
 [71:6] By you have I been holden up from the womb: you art he that took me out of my mother's bowels: my praise shall be continually of you.
@@ -1052,13 +1052,13 @@ Psalms
 [71:14] But I will hope continually, and will yet praise you more and more.
 [71:15] My mouth shall shew forth your righteousness and your salvation all the day; for I know not the numbers thereof.
 [71:16] I will go in the strength of the Lord GOD: I will make mention of your righteousness, even of your only.
-[71:17] O God, you hast taught me from my youth: and hitherto have I declared your wondrous works.
+[71:17] O God, you have taught me from my youth: and hitherto have I declared your wondrous works.
 [71:18] Now also when I am old and greyheaded, O God, forsake me not; until I have shewed your strength unto this generation, and your power to every one that is to come.
-[71:19] Your righteousness also, O God, is very high, who hast done great things: O God, who is like unto you!
-[71:20] You, which hast shewed me great and sore troubles, shalt quicken me again, and shalt bring me up again from the depths of the earth.
+[71:19] Your righteousness also, O God, is very high, who have done great things: O God, who is like unto you!
+[71:20] You, which have shewed me great and sore troubles, shalt quicken me again, and shalt bring me up again from the depths of the earth.
 [71:21] You shalt increase my greatness, and comfort me on every side.
 [71:22] I will also praise you with the psaltery, even your truth, O my God: unto you will I sing with the harp, O you Holy One of Israel.
-[71:23] My lips shall greatly rejoice when I sing unto you; and my soul, which you hast redeemed.
+[71:23] My lips shall greatly rejoice when I sing unto you; and my soul, which you have redeemed.
 [71:24] My tongue also shall talk of your righteousness all the day long: for they are confounded, for they are brought unto shame, that seek my hurt.
 [72:1] Give the king your judgments, O God, and your righteousness unto the king's son.
 [72:2] He shall judge your people with righteousness, and your poor with judgment.
@@ -1102,14 +1102,14 @@ Psalms
 [73:20] As a dream when one awaketh; so, O Lord, when you awakest, you shalt despise their image.
 [73:21] Thus my heart was grieved, and I was pricked in my reins.
 [73:22] So foolish was I, and ignorant: I was as a beast before you.
-[73:23] Nevertheless I am continually with you: you hast holden me by my right hand.
+[73:23] Nevertheless I am continually with you: you have holden me by my right hand.
 [73:24] You shalt guide me with your counsel, and afterward receive me to glory.
 [73:25] Whom have I in heaven but you? and there is none upon earth that I desire beside you.
 [73:26] My flesh and my heart faileth: but God is the strength of my heart, and my portion for ever.
-[73:27] For, lo, they that are far from you shall perish: you hast destroyed all them that go a whoring from you.
+[73:27] For, lo, they that are far from you shall perish: you have destroyed all them that go a whoring from you.
 [73:28] But it is good for me to draw near to God: I have put my trust in the Lord GOD, that I may declare all your works.
-[74:1] O God, why hast you cast us off for ever? why doth your anger smoke against the sheep of your pasture?
-[74:2] Remember your congregation, which you hast purchased of old; the rod of your inheritance, which you hast redeemed; this mount Zion, wherein you hast dwelt.
+[74:1] O God, why have you cast us off for ever? why doth your anger smoke against the sheep of your pasture?
+[74:2] Remember your congregation, which you have purchased of old; the rod of your inheritance, which you have redeemed; this mount Zion, wherein you have dwelt.
 [74:3] Lift up your feet unto the perpetual desolations; even all that the enemy hath done wickedly in the sanctuary.
 [74:4] Your enemies roar in the midst of your congregations; they set up their ensigns for signs.
 [74:5] A man was famous according as he had lifted up axes upon the thick trees.
@@ -1123,8 +1123,8 @@ Psalms
 [74:13] You didst divide the sea by your strength: you brakest the heads of the dragons in the waters.
 [74:14] You brakest the heads of leviathan in pieces, and gavest him to be meat to the people inhabiting the wilderness.
 [74:15] You didst cleave the fountain and the flood: you driedst up mighty rivers.
-[74:16] The day is your, the night also is your: you hast prepared the light and the sun.
-[74:17] You hast set all the borders of the earth: you hast made summer and winter.
+[74:16] The day is your, the night also is your: you have prepared the light and the sun.
+[74:17] You have set all the borders of the earth: you have made summer and winter.
 [74:18] Remember this, that the enemy hath reproached, O LORD, and that the foolish people have blasphemed your name.
 [74:19] O deliver not the soul of your turtledove unto the multitude of the wicked: forget not the congregation of your poor for ever.
 [74:20] Have respect unto the covenant: for the dark places of the earth are full of the habitations of cruelty.
@@ -1166,8 +1166,8 @@ Psalms
 [77:11] I will remember the works of the LORD: surely I will remember your wonders of old.
 [77:12] I will meditate also of all your work, and talk of your doings.
 [77:13] Your way, O God, is in the sanctuary: who is so great a God as our God?
-[77:14] You art the God that doest wonders: you hast declared your strength among the people.
-[77:15] You hast with your arm redeemed your people, the sons of Jacob and Joseph. Selah.
+[77:14] You art the God that do wonders: you have declared your strength among the people.
+[77:15] You have with your arm redeemed your people, the sons of Jacob and Joseph. Selah.
 [77:16] The waters saw you, O God, the waters saw you; they were afraid: the depths also were troubled.
 [77:17] The clouds poured out water: the skies sent out a sound: your arrows also went abroad.
 [77:18] The voice of your thunder was in the heaven: the lightnings lightened the world: the earth trembled and shook.
@@ -1265,11 +1265,11 @@ Psalms
 [80:5] You feedest them with the bread of tears; and givest them tears to drink in great measure.
 [80:6] You makest us a strife unto our neighbours: and our enemies laugh among themselves.
 [80:7] Turn us again, O God of hosts, and cause your face to shine; and we shall be saved.
-[80:8] You hast brought a vine out of Egypt: you hast cast out the heathen, and planted it.
+[80:8] You have brought a vine out of Egypt: you have cast out the heathen, and planted it.
 [80:9] You preparedst room before it, and didst cause it to take deep root, and it filled the land.
 [80:10] The hills were covered with the shadow of it, and the boughs thereof were like the goodly cedars.
 [80:11] She sent out her boughs unto the sea, and her branches unto the river.
-[80:12] Why hast you then broken down her hedges, so that all they which pass by the way do pluck her?
+[80:12] Why have you then broken down her hedges, so that all they which pass by the way do pluck her?
 [80:13] The boar out of the wood doth waste it, and the wild beast of the field doth devour it.
 [80:14] Return, we beseech you, O God of hosts: look down from heaven, and behold, and visit this vine;
 [80:15] And the vineyard which your right hand hath planted, and the branch that you madest strong for thyself.
@@ -1331,9 +1331,9 @@ Psalms
 [84:10] For a day in your courts is better than a thousand. I had rather be a doorkeeper in the house of my God, than to dwell in the tents of wickedness.
 [84:11] For the LORD God is a sun and shield: the LORD will give grace and glory: no good thing will he withhold from them that walk uprightly.
 [84:12] O LORD of hosts, blessed is the man that trusteth in you.
-[85:1] Lord, you hast been favourable unto your land: you hast brought back the captivity of Jacob.
-[85:2] You hast forgiven the iniquity of your people, you hast covered all their sin. Selah.
-[85:3] You hast taken away all your wrath: you hast turned thyself from the fierceness of your anger.
+[85:1] Lord, you have been favourable unto your land: you have brought back the captivity of Jacob.
+[85:2] You have forgiven the iniquity of your people, you have covered all their sin. Selah.
+[85:3] You have taken away all your wrath: you have turned thyself from the fierceness of your anger.
 [85:4] Turn us, O God of our salvation, and cause your anger toward us to cease.
 [85:5] Wilt you be angry with us for ever? wilt you draw out your anger to all generations?
 [85:6] Wilt you not revive us again: that your people may rejoice in you?
@@ -1352,15 +1352,15 @@ Psalms
 [86:6] Give ear, O LORD, unto my prayer; and attend to the voice of my supplications.
 [86:7] In the day of my trouble I will call upon you: for you wilt answer me.
 [86:8] Among the gods there is none like unto you, O Lord; neither are there any works like unto your works.
-[86:9] All nations whom you hast made shall come and worship before you, O Lord; and shall glorify your name.
-[86:10] For you art great, and doest wondrous things: you art God alone.
+[86:9] All nations whom you have made shall come and worship before you, O Lord; and shall glorify your name.
+[86:10] For you art great, and do wondrous things: you art God alone.
 [86:11] Teach me your way, O LORD; I will walk in your truth: unite my heart to fear your name.
 [86:12] I will praise you, O Lord my God, with all my heart: and I will glorify your name for evermore.
-[86:13] For great is your mercy toward me: and you hast delivered my soul from the lowest hell.
+[86:13] For great is your mercy toward me: and you have delivered my soul from the lowest hell.
 [86:14] O God, the proud are risen against me, and the assemblies of violent men have sought after my soul; and have not set you before them.
 [86:15] But you, O Lord, art a God full of compassion, and gracious, longsuffering, and plenteous in mercy and truth.
 [86:16] O turn unto me, and have mercy upon me; give your strength unto your servant, and save the son of your handmaid.
-[86:17] Shew me a token for good; that they which hate me may see it, and be ashamed: because you, LORD, hast holpen me, and comforted me.
+[86:17] Shew me a token for good; that they which hate me may see it, and be ashamed: because you, LORD, have holpen me, and comforted me.
 [87:1] His foundation is in the holy mountains.
 [87:2] The LORD loveth the gates of Zion more than all the dwellings of Jacob.
 [87:3] Glorious things are spoken of you, O city of God. Selah.
@@ -1373,9 +1373,9 @@ Psalms
 [88:3] For my soul is full of troubles: and my life draweth nigh unto the grave.
 [88:4] I am counted with them that go down into the pit: I am as a man that hath no strength:
 [88:5] Free among the dead, like the slain that lie in the grave, whom you rememberest no more: and they are cut off from your hand.
-[88:6] You hast laid me in the lowest pit, in darkness, in the deeps.
-[88:7] Your wrath lieth hard upon me, and you hast afflicted me with all your waves. Selah.
-[88:8] You hast put away mine acquaintance far from me; you hast made me an abomination unto them: I am shut up, and I cannot come forth.
+[88:6] You have laid me in the lowest pit, in darkness, in the deeps.
+[88:7] Your wrath lieth hard upon me, and you have afflicted me with all your waves. Selah.
+[88:8] You have put away mine acquaintance far from me; you have made me an abomination unto them: I am shut up, and I cannot come forth.
 [88:9] Mine eye mourneth by reason of affliction: LORD, I have called daily upon you, I have stretched out my hands unto you.
 [88:10] Wilt you shew wonders to the dead? shall the dead arise and praise you? Selah.
 [88:11] Shall your lovingkindness be declared in the grave? or your faithfulness in destruction?
@@ -1385,7 +1385,7 @@ Psalms
 [88:15] I am afflicted and ready to die from my youth up: while I suffer your terrors I am distracted.
 [88:16] Your fierce wrath goeth over me; your terrors have cut me off.
 [88:17] They came round about me daily like water; they compassed me about together.
-[88:18] Lover and friend hast you put far from me, and mine acquaintance into darkness.
+[88:18] Lover and friend have you put far from me, and mine acquaintance into darkness.
 [89:1] I will sing of the mercies of the LORD for ever: with my mouth will I make known your faithfulness to all generations.
 [89:2] For I have said, Mercy shall be built up for ever: your faithfulness shalt you establish in the very heavens.
 [89:3] I have made a covenant with my chosen, I have sworn unto David my servant,
@@ -1395,10 +1395,10 @@ Psalms
 [89:7] God is greatly to be feared in the assembly of the saints, and to be had in reverence of all them that are about him.
 [89:8] O LORD God of hosts, who is a strong LORD like unto you? or to your faithfulness round about you?
 [89:9] You rulest the raging of the sea: when the waves thereof arise, you stillest them.
-[89:10] You hast broken Rahab in pieces, as one that is slain; you hast scattered your enemies with your strong arm.
-[89:11] The heavens are your, the earth also is your: as for the world and the fulness thereof, you hast founded them.
-[89:12] The north and the south you hast created them: Tabor and Hermon shall rejoice in your name.
-[89:13] You hast a mighty arm: strong is your hand, and high is your right hand.
+[89:10] You have broken Rahab in pieces, as one that is slain; you have scattered your enemies with your strong arm.
+[89:11] The heavens are your, the earth also is your: as for the world and the fulness thereof, you have founded them.
+[89:12] The north and the south you have created them: Tabor and Hermon shall rejoice in your name.
+[89:13] You have a mighty arm: strong is your hand, and high is your right hand.
 [89:14] Justice and judgment are the habitation of your throne: mercy and truth shall go before your face.
 [89:15] Blessed is the people that know the joyful sound: they shall walk, O LORD, in the light of your countenance.
 [89:16] In your name shall they rejoice all the day: and in your righteousness shall they be exalted.
@@ -1423,36 +1423,36 @@ Psalms
 [89:35] Once have I sworn by my holiness that I will not lie unto David.
 [89:36] His seed shall endure for ever, and his throne as the sun before me.
 [89:37] It shall be established for ever as the moon, and as a faithful witness in heaven. Selah.
-[89:38] But you hast cast off and abhorred, you hast been wroth with your anointed.
-[89:39] You hast made void the covenant of your servant: you hast profaned his crown by casting it to the ground.
-[89:40] You hast broken down all his hedges; you hast brought his strong holds to ruin.
+[89:38] But you have cast off and abhorred, you have been wroth with your anointed.
+[89:39] You have made void the covenant of your servant: you have profaned his crown by casting it to the ground.
+[89:40] You have broken down all his hedges; you have brought his strong holds to ruin.
 [89:41] All that pass by the way spoil him: he is a reproach to his neighbours.
-[89:42] You hast set up the right hand of his adversaries; you hast made all his enemies to rejoice.
-[89:43] You hast also turned the edge of his sword, and hast not made him to stand in the battle.
-[89:44] You hast made his glory to cease, and cast his throne down to the ground.
-[89:45] The days of his youth hast you shortened: you hast covered him with shame. Selah.
+[89:42] You have set up the right hand of his adversaries; you have made all his enemies to rejoice.
+[89:43] You have also turned the edge of his sword, and have not made him to stand in the battle.
+[89:44] You have made his glory to cease, and cast his throne down to the ground.
+[89:45] The days of his youth have you shortened: you have covered him with shame. Selah.
 [89:46] How long, LORD? wilt you hide thyself for ever? shall your wrath burn like fire?
-[89:47] Remember how short my time is: wherefore hast you made all men in vain?
+[89:47] Remember how short my time is: wherefore have you made all men in vain?
 [89:48] What man is he that liveth, and shall not see death? shall he deliver his soul from the hand of the grave? Selah.
 [89:49] Lord, where are your former lovingkindnesses, which you swarest unto David in your truth?
 [89:50] Remember, Lord, the reproach of your servants; how I do bear in my bosom the reproach of all the mighty people;
 [89:51] Wherewith your enemies have reproached, O LORD; wherewith they have reproached the footsteps of your anointed.
 [89:52] Blessed be the LORD for evermore. Amen, and Amen.
-[90:1] Lord, you hast been our dwelling place in all generations.
+[90:1] Lord, you have been our dwelling place in all generations.
 [90:2] Before the mountains were brought forth, or ever you hadst formed the earth and the world, even from everlasting to everlasting, you art God.
 [90:3] You turnest man to destruction; and sayest, Return, you children of men.
 [90:4] For a thousand years in your sight are but as yesterday when it is past, and as a watch in the night.
 [90:5] You carriest them away as with a flood; they are as a sleep: in the morning they are like grass which groweth up.
 [90:6] In the morning it flourisheth, and groweth up; in the evening it is cut down, and withereth.
 [90:7] For we are consumed by your anger, and by your wrath are we troubled.
-[90:8] You hast set our iniquities before you, our secret sins in the light of your countenance.
+[90:8] You have set our iniquities before you, our secret sins in the light of your countenance.
 [90:9] For all our days are passed away in your wrath: we spend our years as a tale that is told.
 [90:10] The days of our years are threescore years and ten; and if by reason of strength they be fourscore years, yet is their strength labour and sorrow; for it is soon cut off, and we fly away.
 [90:11] Who knoweth the power of your anger? even according to your fear, so is your wrath.
 [90:12] So teach us to number our days, that we may apply our hearts unto wisdom.
 [90:13] Return, O LORD, how long? and let it repent you concerning your servants.
 [90:14] O satisfy us early with your mercy; that we may rejoice and be glad all our days.
-[90:15] Make us glad according to the days wherein you hast afflicted us, and the years wherein we have seen evil.
+[90:15] Make us glad according to the days wherein you have afflicted us, and the years wherein we have seen evil.
 [90:16] Let your work appear unto your servants, and your glory unto their children.
 [90:17] And let the beauty of the LORD our God be upon us: and establish you the work of our hands upon us; yea, the work of our hands establish you it.
 [91:1] He that dwelleth in the secret place of the most High shall abide under the shadow of the Almighty.
@@ -1463,7 +1463,7 @@ Psalms
 [91:6] Nor for the pestilence that walketh in darkness; nor for the destruction that wasteth at noonday.
 [91:7] A thousand shall fall at your side, and ten thousand at your right hand; but it shall not come nigh you.
 [91:8] Only with your eyes shalt you behold and see the reward of the wicked.
-[91:9] Because you hast made the LORD, which is my refuge, even the most High, your habitation;
+[91:9] Because you have made the LORD, which is my refuge, even the most High, your habitation;
 [91:10] There shall no evil befall you, neither shall any plague come nigh your dwelling.
 [91:11] For he shall give his angels charge over you, to keep you in all your ways.
 [91:12] They shall bear you up in their hands, lest you dash your foot against a stone.
@@ -1474,7 +1474,7 @@ Psalms
 [92:1] IT IS A GOOD THING TO GIVE THANKS UNTO THE LORD, AND TO SING PRAISES UNTO YOUR NAME, O MOST HIGH:
 [92:2] To shew forth your lovingkindness in the morning, and your faithfulness every night,
 [92:3] Upon an instrument of ten strings, and upon the psaltery; upon the harp with a solemn sound.
-[92:4] For you, LORD, hast made me glad through your work: I will triumph in the works of your hands.
+[92:4] For you, LORD, have made me glad through your work: I will triumph in the works of your hands.
 [92:5] O LORD, how great are your works! and your thoughts are very deep.
 [92:6] A brutish man knoweth not; neither doth a fool understand this.
 [92:7] When the wicked spring as the grass, and when all the workers of iniquity do flourish; it is that they shall be destroyed for ever:
@@ -1503,7 +1503,7 @@ Psalms
 [94:10] He that chastiseth the heathen, shall not he correct? he that teacheth man knowledge, shall not he know?
 [94:11] The LORD knoweth the thoughts of man, that they are vanity.
 [94:12] Blessed is the man whom you chastenest, O LORD, and teachest him out of your law;
-[94:13] That you mayest give him rest from the days of adversity, until the pit be digged for the wicked.
+[94:13] That you may give him rest from the days of adversity, until the pit be digged for the wicked.
 [94:14] For the LORD will not cast off his people, neither will he forsake his inheritance.
 [94:15] But judgment shall return unto righteousness: and all the upright in heart shall follow it.
 [94:16] Who will rise up for me against the evildoers? or who will stand up for me against the workers of iniquity?
@@ -1590,7 +1590,7 @@ Psalms
 [102:7] I watch, and am as a sparrow alone upon the house top.
 [102:8] Mine enemies reproach me all the day; and they that are mad against me are sworn against me.
 [102:9] For I have eaten ashes like bread, and mingled my drink with weeping.
-[102:10] Because of your indignation and your wrath: for you hast lifted me up, and cast me down.
+[102:10] Because of your indignation and your wrath: for you have lifted me up, and cast me down.
 [102:11] My days are like a shadow that declineth; and I am withered like grass.
 [102:12] But you, O LORD, shall endure for ever; and your remembrance unto all generations.
 [102:13] You shalt arise, and have mercy upon Zion: for the time to favour her, yea, the set time, is come.
@@ -1605,7 +1605,7 @@ Psalms
 [102:22] When the people are gathered together, and the kingdoms, to serve the LORD.
 [102:23] He weakened my strength in the way; he shortened my days.
 [102:24] I said, O my God, take me not away in the midst of my days: your years are throughout all generations.
-[102:25] Of old hast you laid the foundation of the earth: and the heavens are the work of your hands.
+[102:25] Of old have you laid the foundation of the earth: and the heavens are the work of your hands.
 [102:26] They shall perish, but you shalt endure: yea, all of them shall wax old like a garment; as a vesture shalt you change them, and they shall be changed:
 [102:27] But you art the same, and your years shall have no end.
 [102:28] The children of your servants shall continue, and their seed shall be established before you.
@@ -1638,8 +1638,8 @@ Psalms
 [104:5] Who laid the foundations of the earth, that it should not be removed for ever.
 [104:6] You coveredst it with the deep as with a garment: the waters stood above the mountains.
 [104:7] At your rebuke they fled; at the voice of your thunder they hasted away.
-[104:8] They go up by the mountains; they go down by the valleys unto the place which you hast founded for them.
-[104:9] You hast set a bound that they may not pass over; that they turn not again to cover the earth.
+[104:8] They go up by the mountains; they go down by the valleys unto the place which you have founded for them.
+[104:9] You have set a bound that they may not pass over; that they turn not again to cover the earth.
 [104:10] He sendeth the springs into the valleys, which run among the hills.
 [104:11] They give drink to every beast of the field: the wild asses quench their thirst.
 [104:12] By them shall the fowls of the heaven have their habitation, which sing among the branches.
@@ -1654,10 +1654,10 @@ Psalms
 [104:21] The young lions roar after their prey, and seek their meat from God.
 [104:22] The sun ariseth, they gather themselves together, and lay them down in their dens.
 [104:23] Man goeth forth unto his work and to his labour until the evening.
-[104:24] O LORD, how manifold are your works! in wisdom hast you made them all: the earth is full of your riches.
+[104:24] O LORD, how manifold are your works! in wisdom have you made them all: the earth is full of your riches.
 [104:25] So is this great and wide sea, wherein are things creeping innumerable, both small and great beasts.
-[104:26] There go the ships: there is that leviathan, whom you hast made to play therein.
-[104:27] These wait all upon you; that you mayest give them their meat in due season.
+[104:26] There go the ships: there is that leviathan, whom you have made to play therein.
+[104:27] These wait all upon you; that you may give them their meat in due season.
 [104:28] That you givest them they gather: you openest your hand, they are filled with good.
 [104:29] You hidest your face, they are troubled: you takest away their breath, they die, and return to their dust.
 [104:30] You sendest forth your spirit, they are created: and you renewest the face of the earth.
@@ -1812,7 +1812,7 @@ Psalms
 [108:8] Gilead is mine; Manasseh is mine; Ephraim also is the strength of mine head; Judah is my lawgiver;
 [108:9] Moab is my washpot; over Edom will I cast out my shoe; over Philistia will I triumph.
 [108:10] Who will bring me into the strong city? who will lead me into Edom?
-[108:11] Wilt not you, O God, who hast cast us off? and wilt not you, O God, go forth with our hosts?
+[108:11] Wilt not you, O God, who have cast us off? and wilt not you, O God, go forth with our hosts?
 [108:12] Give us help from trouble: for vain is the help of man.
 [108:13] Through God we shall do valiantly: for he it is that shall tread down our enemies.
 [109:1] Hold not your peace, O God of my praise;
@@ -1841,14 +1841,14 @@ Psalms
 [109:24] My knees are weak through fasting; and my flesh faileth of fatness.
 [109:25] I became also a reproach unto them: when they looked upon me they shaked their heads.
 [109:26] Help me, O LORD my God: O save me according to your mercy:
-[109:27] That they may know that this is your hand; that you, LORD, hast done it.
+[109:27] That they may know that this is your hand; that you, LORD, have done it.
 [109:28] Let them curse, but bless you: when they arise, let them be ashamed; but let your servant rejoice.
 [109:29] Let mine adversaries be clothed with shame, and let them cover themselves with their own confusion, as with a mantle.
 [109:30] I will greatly praise the LORD with my mouth; yea, I will praise him among the multitude.
 [109:31] For he shall stand at the right hand of the poor, to save him from those that condemn his soul.
 [110:1] The LORD said unto my Lord, Sit you at my right hand, until I make your enemies your footstool.
 [110:2] The LORD shall send the rod of your strength out of Zion: rule you in the midst of your enemies.
-[110:3] Your people shall be willing in the day of your power, in the beauties of holiness from the womb of the morning: you hast the dew of your youth.
+[110:3] Your people shall be willing in the day of your power, in the beauties of holiness from the womb of the morning: you have the dew of your youth.
 [110:4] The LORD hath sworn, and will not repent, You art a priest for ever after the order of Melchizedek.
 [110:5] The Lord at your right hand shall strike through kings in the day of his wrath.
 [110:6] He shall judge among the heathen, he shall fill the places with the dead bodies; he shall wound the heads over many countries.
@@ -1915,7 +1915,7 @@ Psalms
 [116:5] Gracious is the LORD, and righteous; yea, our God is merciful.
 [116:6] The LORD preserveth the simple: I was brought low, and he helped me.
 [116:7] Return unto your rest, O my soul; for the LORD hath dealt bountifully with you.
-[116:8] For you hast delivered my soul from death, mine eyes from tears, and my feet from falling.
+[116:8] For you have delivered my soul from death, mine eyes from tears, and my feet from falling.
 [116:9] I will walk before the LORD in the land of the living.
 [116:10] I believed, therefore have I spoken: I was greatly afflicted:
 [116:11] I said in my haste, All men are liars.
@@ -1923,7 +1923,7 @@ Psalms
 [116:13] I will take the cup of salvation, and call upon the name of the LORD.
 [116:14] I will pay my vows unto the LORD now in the presence of all his people.
 [116:15] Precious in the sight of the LORD is the death of his saints.
-[116:16] O LORD, truly I am your servant; I am your servant, and the son of your handmaid: you hast loosed my bonds.
+[116:16] O LORD, truly I am your servant; I am your servant, and the son of your handmaid: you have loosed my bonds.
 [116:17] I will offer to you the sacrifice of thanksgiving, and will call upon the name of the LORD.
 [116:18] I will pay my vows unto the LORD now in the presence of all his people.
 [116:19] In the courts of the LORD's house, in the midst of you, O Jerusalem. Praise you the LORD.
@@ -1941,7 +1941,7 @@ Psalms
 [118:10] All nations compassed me about: but in the name of the LORD will I destroy them.
 [118:11] They compassed me about; yea, they compassed me about: but in the name of the LORD I will destroy them.
 [118:12] They compassed me about like bees: they are quenched as the fire of thorns: for in the name of the LORD I will destroy them.
-[118:13] You hast thrust sore at me that I might fall: but the LORD helped me.
+[118:13] You have thrust sore at me that I might fall: but the LORD helped me.
 [118:14] The LORD is my strength and song, and is become my salvation.
 [118:15] The voice of rejoicing and salvation is in the tabernacles of the righteous: the right hand of the LORD doeth valiantly.
 [118:16] The right hand of the LORD is exalted: the right hand of the LORD doeth valiantly.
@@ -1949,7 +1949,7 @@ Psalms
 [118:18] The LORD hath chastened me sore: but he hath not given me over unto death.
 [118:19] Open to me the gates of righteousness: I will go into them, and I will praise the LORD:
 [118:20] This gate of the LORD, into which the righteous shall enter.
-[118:21] I will praise you: for you hast heard me, and art become my salvation.
+[118:21] I will praise you: for you have heard me, and art become my salvation.
 [118:22] The stone which the builders refused is become the head stone of the corner.
 [118:23] This is the LORD's doing; it is marvellous in our eyes.
 [118:24] This is the day which the LORD hath made; we will rejoice and be glad in it.
@@ -1961,7 +1961,7 @@ Psalms
 [119:1] Blessed are the undefiled in the way, who walk in the law of the LORD.
 [119:2] Blessed are they that keep his testimonies, and that seek him with the whole heart.
 [119:3] They also do no iniquity: they walk in his ways.
-[119:4] You hast commanded us to keep your precepts diligently.
+[119:4] You have commanded us to keep your precepts diligently.
 [119:5] O that my ways were directed to keep your statutes!
 [119:6] Then shall I not be ashamed, when I have respect unto all your commandments.
 [119:7] I will praise you with uprightness of heart, when I shall have learned your righteous judgments.
@@ -1978,7 +1978,7 @@ Psalms
 [119:18] Open you mine eyes, that I may behold wondrous things out of your law.
 [119:19] I am a stranger in the earth: hide not your commandments from me.
 [119:20] My soul breaketh for the longing that it hath unto your judgments at all times.
-[119:21] You hast rebuked the proud that are cursed, which do err from your commandments.
+[119:21] You have rebuked the proud that are cursed, which do err from your commandments.
 [119:22] Remove from me reproach and contempt; for I have kept your testimonies.
 [119:23] Princes also did sit and speak against me: but your servant did meditate in your statutes.
 [119:24] Your testimonies also are my delight and my counsellors.
@@ -2006,7 +2006,7 @@ Psalms
 [119:46] I will speak of your testimonies also before kings, and will not be ashamed.
 [119:47] And I will delight myself in your commandments, which I have loved.
 [119:48] My hands also will I lift up unto your commandments, which I have loved; and I will meditate in your statutes.
-[119:49] Remember the word unto your servant, upon which you hast caused me to hope.
+[119:49] Remember the word unto your servant, upon which you have caused me to hope.
 [119:50] This is my comfort in my affliction: for your word hath quickened me.
 [119:51] The proud have had me greatly in derision: yet have I not declined from your law.
 [119:52] I remembered your judgments of old, O LORD; and have comforted myself.
@@ -2022,17 +2022,17 @@ Psalms
 [119:62] At midnight I will rise to give thanks unto you because of your righteous judgments.
 [119:63] I am a companion of all them that fear you, and of them that keep your precepts.
 [119:64] The earth, O LORD, is full of your mercy: teach me your statutes.
-[119:65] You hast dealt well with your servant, O LORD, according unto your word.
+[119:65] You have dealt well with your servant, O LORD, according unto your word.
 [119:66] Teach me good judgment and knowledge: for I have believed your commandments.
 [119:67] Before I was afflicted I went astray: but now have I kept your word.
-[119:68] You art good, and doest good; teach me your statutes.
+[119:68] You art good, and do good; teach me your statutes.
 [119:69] The proud have forged a lie against me: but I will keep your precepts with my whole heart.
 [119:70] Their heart is as fat as grease; but I delight in your law.
 [119:71] It is good for me that I have been afflicted; that I might learn your statutes.
 [119:72] The law of your mouth is better unto me than thousands of gold and silver.
 [119:73] Your hands have made me and fashioned me: give me understanding, that I may learn your commandments.
 [119:74] They that fear you will be glad when they see me; because I have hoped in your word.
-[119:75] I know, O LORD, that your judgments are right, and that you in faithfulness hast afflicted me.
+[119:75] I know, O LORD, that your judgments are right, and that you in faithfulness have afflicted me.
 [119:76] Let, I pray you, your merciful kindness be for my comfort, according to your word unto your servant.
 [119:77] Let your tender mercies come unto me, that I may live: for your law is my delight.
 [119:78] Let the proud be ashamed; for they dealt perversely with me without a cause: but I will meditate in your precepts.
@@ -2047,19 +2047,19 @@ Psalms
 [119:87] They had almost consumed me upon earth; but I forsook not your precepts.
 [119:88] Quicken me after your lovingkindness; so shall I keep the testimony of your mouth.
 [119:89] For ever, O LORD, your word is settled in heaven.
-[119:90] Your faithfulness is unto all generations: you hast established the earth, and it abideth.
+[119:90] Your faithfulness is unto all generations: you have established the earth, and it abideth.
 [119:91] They continue this day according to your ordinances: for all are your servants.
 [119:92] Unless your law had been my delights, I should then have perished in mine affliction.
-[119:93] I will never forget your precepts: for with them you hast quickened me.
+[119:93] I will never forget your precepts: for with them you have quickened me.
 [119:94] I am your, save me: for I have sought your precepts.
 [119:95] The wicked have waited for me to destroy me: but I will consider your testimonies.
 [119:96] I have seen an end of all perfection: but your commandment is exceeding broad.
 [119:97] O how I love your law! it is my meditation all the day.
-[119:98] You through your commandments hast made me wiser than mine enemies: for they are ever with me.
+[119:98] You through your commandments have made me wiser than mine enemies: for they are ever with me.
 [119:99] I have more understanding than all my teachers: for your testimonies are my meditation.
 [119:100] I understand more than the ancients, because I keep your precepts.
 [119:101] I have refrained my feet from every evil way, that I might keep your word.
-[119:102] I have not departed from your judgments: for you hast taught me.
+[119:102] I have not departed from your judgments: for you have taught me.
 [119:103] How sweet are your words unto my taste! yea, sweeter than honey to my mouth!
 [119:104] Through your precepts I get understanding: therefore I hate every false way.
 [119:105] Your word is a lamp unto my feet, and a light unto my path.
@@ -2075,7 +2075,7 @@ Psalms
 [119:115] Depart from me, you evildoers: for I will keep the commandments of my God.
 [119:116] Uphold me according unto your word, that I may live: and let me not be ashamed of my hope.
 [119:117] Hold you me up, and I shall be safe: and I will have respect unto your statutes continually.
-[119:118] You hast trodden down all them that err from your statutes: for their deceit is falsehood.
+[119:118] You have trodden down all them that err from your statutes: for their deceit is falsehood.
 [119:119] You puttest away all the wicked of the earth like dross: therefore I love your testimonies.
 [119:120] My flesh trembleth for fear of you; and I am afraid of your judgments.
 [119:121] I have done judgment and justice: leave me not to mine oppressors.
@@ -2095,7 +2095,7 @@ Psalms
 [119:135] Make your face to shine upon your servant; and teach me your statutes.
 [119:136] Rivers of waters run down mine eyes, because they keep not your law.
 [119:137] Righteous art you, O LORD, and upright are your judgments.
-[119:138] Your testimonies that you hast commanded are righteous and very faithful.
+[119:138] Your testimonies that you have commanded are righteous and very faithful.
 [119:139] My zeal hath consumed me, because mine enemies have forgotten your words.
 [119:140] Your word is very pure: therefore your servant loveth it.
 [119:141] I am small and despised: yet do not I forget your precepts.
@@ -2109,7 +2109,7 @@ Psalms
 [119:149] Hear my voice according unto your lovingkindness: O LORD, quicken me according to your judgment.
 [119:150] They draw nigh that follow after mischief: they are far from your law.
 [119:151] You art near, O LORD; and all your commandments are truth.
-[119:152] Concerning your testimonies, I have known of old that you hast founded them for ever.
+[119:152] Concerning your testimonies, I have known of old that you have founded them for ever.
 [119:153] Consider mine affliction, and deliver me: for I do not forget your law.
 [119:154] Plead my cause, and deliver me: quicken me according to your word.
 [119:155] Salvation is far from the wicked: for they seek not your statutes.
@@ -2128,7 +2128,7 @@ Psalms
 [119:168] I have kept your precepts and your testimonies: for all my ways are before you.
 [119:169] Let my cry come near before you, O LORD: give me understanding according to your word.
 [119:170] Let my supplication come before you: deliver me according to your word.
-[119:171] My lips shall utter praise, when you hast taught me your statutes.
+[119:171] My lips shall utter praise, when you have taught me your statutes.
 [119:172] My tongue shall speak of your word: for all your commandments are righteousness.
 [119:173] Let your hand help me; for I have chosen your precepts.
 [119:174] I have longed for your salvation, O LORD; and your law is my delight.
@@ -2202,8 +2202,8 @@ Psalms
 [129:8] Neither do they which go by say, The blessing of the LORD be upon you: we bless you in the name of the LORD.
 [130:1] Out of the depths have I cried unto you, O LORD.
 [130:2] Lord, hear my voice: let your ears be attentive to the voice of my supplications.
-[130:3] If you, LORD, shouldest mark iniquities, O Lord, who shall stand?
-[130:4] But there is forgiveness with you, that you mayest be feared.
+[130:3] If you, LORD, should mark iniquities, O Lord, who shall stand?
+[130:4] But there is forgiveness with you, that you may be feared.
 [130:5] I wait for the LORD, my soul doth wait, and in his word do I hope.
 [130:6] My soul waiteth for the Lord more than they that watch for the morning: I say, more than they that watch for the morning.
 [130:7] Let Israel hope in the LORD: for with the LORD there is mercy, and with him is plenteous redemption.
@@ -2289,21 +2289,21 @@ Psalms
 [137:5] If I forget you, O Jerusalem, let my right hand forget her cunning.
 [137:6] If I do not remember you, let my tongue cleave to the roof of my mouth; if I prefer not Jerusalem above my chief joy.
 [137:7] Remember, O LORD, the children of Edom in the day of Jerusalem; who said, Rase it, rase it, even to the foundation thereof.
-[137:8] O daughter of Babylon, who art to be destroyed; happy shall he be, that rewardeth you as you hast served us.
+[137:8] O daughter of Babylon, who art to be destroyed; happy shall he be, that rewardeth you as you have served us.
 [137:9] Happy shall he be, that taketh and dasheth your little ones against the stones.
 [138:1] I will praise you with my whole heart: before the gods will I sing praise unto you.
-[138:2] I will worship toward your holy temple, and praise your name for your lovingkindness and for your truth: for you hast magnified your word above all your name.
+[138:2] I will worship toward your holy temple, and praise your name for your lovingkindness and for your truth: for you have magnified your word above all your name.
 [138:3] In the day when I cried you answeredst me, and strengthenedst me with strength in my soul.
 [138:4] All the kings of the earth shall praise you, O LORD, when they hear the words of your mouth.
 [138:5] Yea, they shall sing in the ways of the LORD: for great is the glory of the LORD.
 [138:6] Though the LORD be high, yet hath he respect unto the lowly: but the proud he knoweth afar off.
 [138:7] Though I walk in the midst of trouble, you wilt revive me: you shalt stretch forth your hand against the wrath of mine enemies, and your right hand shall save me.
 [138:8] The LORD will perfect that which concerneth me: your mercy, O LORD, endureth for ever: forsake not the works of your own hands.
-[139:1] O lord, you hast searched me, and known me.
+[139:1] O lord, you have searched me, and known me.
 [139:2] You knowest my downsitting and mine uprising, you understandest my thought afar off.
 [139:3] You compassest my path and my lying down, and art acquainted with all my ways.
 [139:4] For there is not a word in my tongue, but, lo, O LORD, you knowest it altogether.
-[139:5] You hast beset me behind and before, and laid your hand upon me.
+[139:5] You have beset me behind and before, and laid your hand upon me.
 [139:6] Such knowledge is too wonderful for me; it is high, I cannot attain unto it.
 [139:7] Whither shall I go from your spirit? or whither shall I flee from your presence?
 [139:8] If I ascend up into heaven, you art there: if I make my bed in hell, behold, you art there.
@@ -2311,7 +2311,7 @@ Psalms
 [139:10] Even there shall your hand lead me, and your right hand shall hold me.
 [139:11] If I say, Surely the darkness shall cover me; even the night shall be light about me.
 [139:12] Yea, the darkness hideth not from you; but the night shineth as the day: the darkness and the light are both alike to you.
-[139:13] For you hast possessed my reins: you hast covered me in my mother's womb.
+[139:13] For you have possessed my reins: you have covered me in my mother's womb.
 [139:14] I will praise you; for I am fearfully and wonderfully made: marvellous are your works; and that my soul knoweth right well.
 [139:15] My substance was not hid from you, when I was made in secret, and curiously wrought in the lowest parts of the earth.
 [139:16] Your eyes did see my substance, yet being unperfect; and in your book all my members were written, which in continuance were fashioned, when as yet there was none of them.
@@ -2329,7 +2329,7 @@ Psalms
 [140:4] Keep me, O LORD, from the hands of the wicked; preserve me from the violent man; who have purposed to overthrow my goings.
 [140:5] The proud have hid a snare for me, and cords; they have spread a net by the wayside; they have set gins for me. Selah.
 [140:6] I said unto the LORD, You art my God: hear the voice of my supplications, O LORD.
-[140:7] O GOD the Lord, the strength of my salvation, you hast covered my head in the day of battle.
+[140:7] O GOD the Lord, the strength of my salvation, you have covered my head in the day of battle.
 [140:8] Grant not, O LORD, the desires of the wicked: further not his wicked device; lest they exalt themselves. Selah.
 [140:9] As for the head of those that compass me about, let the mischief of their own lips cover them.
 [140:10] Let burning coals fall upon them: let them be cast into the fire; into deep pits, that they rise not up again.

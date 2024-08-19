@@ -5,8 +5,8 @@ Joshua
 [1:4] From the wilderness and this Lebanon even unto the great river, the river Euphrates, all the land of the Hittites, and unto the great sea toward the going down of the sun, shall be your coast.
 [1:5] There shall not any man be able to stand before you all the days of your life: as I was with Moses, so I will be with you: I will not fail you, nor forsake you.
 [1:6] Be strong and of a good courage: for unto this people shalt you divide for an inheritance the land, which I sware unto their fathers to give them.
-[1:7] Only be you strong and very courageous, that you mayest observe to do according to all the law, which Moses my servant commanded you: turn not from it to the right hand or to the left, that you mayest prosper whithersoever you goest.
-[1:8] This book of the law shall not depart out of your mouth; but you shalt meditate therein day and night, that you mayest observe to do according to all that is written therein: for then you shalt make your way prosperous, and then you shalt have good success.
+[1:7] Only be you strong and very courageous, that you may observe to do according to all the law, which Moses my servant commanded you: turn not from it to the right hand or to the left, that you may prosper whithersoever you goest.
+[1:8] This book of the law shall not depart out of your mouth; but you shalt meditate therein day and night, that you may observe to do according to all that is written therein: for then you shalt make your way prosperous, and then you shalt have good success.
 [1:9] Have not I commanded you? Be strong and of a good courage; be not afraid, neither be you dismayed: for the LORD your God is with you whithersoever you goest.
 [1:10] Then Joshua commanded the officers of the people, saying,
 [1:11] Pass through the host, and command the people, saying, Prepare you victuals; for within three days you shall pass over this Jordan, to go in to possess the land, which the LORD your God giveth you to possess it.
@@ -33,10 +33,10 @@ Joshua
 [2:14] And the men answered her, Our life for yours, if you utter not this our business. And it shall be, when the LORD hath given us the land, that we will deal kindly and truly with you.
 [2:15] Then she let them down by a cord through the window: for her house was upon the town wall, and she dwelt upon the wall.
 [2:16] And she said unto them, Get you to the mountain, lest the pursuers meet you; and hide yourselves there three days, until the pursuers be returned: and afterward may you go your way.
-[2:17] And the men said unto her, We will be blameless of this your oath which you hast made us swear.
+[2:17] And the men said unto her, We will be blameless of this your oath which you have made us swear.
 [2:18] Behold, when we come into the land, you shalt bind this line of scarlet thread in the window which you didst let us down by: and you shalt bring your father, and your mother, and your brethren, and all your father's household, home unto you.
 [2:19] And it shall be, that whosoever shall go out of the doors of your house into the street, his blood shall be upon his head, and we will be guiltless: and whosoever shall be with you in the house, his blood shall be on our head, if any hand be upon him.
-[2:20] And if you utter this our business, then we will be quit of your oath which you hast made us to swear.
+[2:20] And if you utter this our business, then we will be quit of your oath which you have made us to swear.
 [2:21] And she said, According unto your words, so be it. And she sent them away, and they departed: and she bound the scarlet line in the window.
 [2:22] And they went, and came unto the mountain, and abode there three days, until the pursuers were returned: and the pursuers sought them throughout all the way, but found them not.
 [2:23] So the two men returned, and descended from the mountain, and passed over, and came to Joshua the son of Nun, and told him all things that befell them:
@@ -130,7 +130,7 @@ Joshua
 [7:4] So there went up thither of the people about three thousand men: and they fled before the men of Ai.
 [7:5] And the men of Ai smote of them about thirty and six men: for they chased them from before the gate even unto Shebarim, and smote them in the going down: wherefore the hearts of the people melted, and became as water.
 [7:6] And Joshua rent his clothes, and fell to the earth upon his face before the ark of the LORD until the eventide, he and the elders of Israel, and put dust upon their heads.
-[7:7] And Joshua said, Alas, O LORD God, wherefore hast you at all brought this people over Jordan, to deliver us into the hand of the Amorites, to destroy us? would to God we had been content, and dwelt on the other side Jordan!
+[7:7] And Joshua said, Alas, O LORD God, wherefore have you at all brought this people over Jordan, to deliver us into the hand of the Amorites, to destroy us? would to God we had been content, and dwelt on the other side Jordan!
 [7:8] O LORD, what shall I say, when Israel turneth their backs before their enemies!
 [7:9] For the Canaanites and all the inhabitants of the land shall hear of it, and shall environ us round, and cut off our name from the earth: and what wilt you do unto your great name?
 [7:10] And the LORD said unto Joshua, Get you up; wherefore liest you thus upon your face?
@@ -142,13 +142,13 @@ Joshua
 [7:16] So Joshua rose up early in the morning, and brought Israel by their tribes; and the tribe of Judah was taken:
 [7:17] And he brought the family of Judah; and he took the family of the Zarhites: and he brought the family of the Zarhites man by man; and Zabdi was taken:
 [7:18] And he brought his household man by man; and Achan, the son of Carmi, the son of Zabdi, the son of Zerah, of the tribe of Judah, was taken.
-[7:19] And Joshua said unto Achan, My son, give, I pray you, glory to the LORD God of Israel, and make confession unto him; and tell me now what you hast done; hide it not from me.
+[7:19] And Joshua said unto Achan, My son, give, I pray you, glory to the LORD God of Israel, and make confession unto him; and tell me now what you have done; hide it not from me.
 [7:20] And Achan answered Joshua, and said, Indeed I have sinned against the LORD God of Israel, and thus and thus have I done:
 [7:21] When I saw among the spoils a goodly Babylonish garment, and two hundred shekels of silver, and a wedge of gold of fifty shekels weight, then I coveted them, and took them; and, behold, they are hid in the earth in the midst of my tent, and the silver under it.
 [7:22] So Joshua sent messengers, and they ran unto the tent; and, behold, it was hid in his tent, and the silver under it.
 [7:23] And they took them out of the midst of the tent, and brought them unto Joshua, and unto all the children of Israel, and laid them out before the LORD.
 [7:24] And Joshua, and all Israel with him, took Achan the son of Zerah, and the silver, and the garment, and the wedge of gold, and his sons, and his daughters, and his oxen, and his asses, and his sheep, and his tent, and all that he had: and they brought them unto the valley of Achor.
-[7:25] And Joshua said, Why hast you troubled us? the LORD shall trouble you this day. And all Israel stoned him with stones, and burned them with fire, after they had stoned them with stones.
+[7:25] And Joshua said, Why have you troubled us? the LORD shall trouble you this day. And all Israel stoned him with stones, and burned them with fire, after they had stoned them with stones.
 [7:26] And they raised over him a great heap of stones unto this day. So the LORD turned from the fierceness of his anger. Wherefore the name of that place was called, The valley of Achor, unto this day.
 [8:1] And the LORD said unto Joshua, Fear not, neither be you dismayed: take all the people of war with you, and arise, go up to Ai: see, I have given into your hand the king of Ai, and his people, and his city, and his land:
 [8:2] And you shalt do to Ai and her king as you didst unto Jericho and her king: only the spoil thereof, and the cattle thereof, shall you take for a prey unto yourselves: lay you an ambush for the city behind it.
@@ -343,7 +343,7 @@ Joshua
 [14:6] Then the children of Judah came unto Joshua in Gilgal: and Caleb the son of Jephunneh the Kenezite said unto him, You knowest the thing that the LORD said unto Moses the man of God concerning me and you in Kadeshbarnea.
 [14:7] Forty years old was I when Moses the servant of the LORD sent me from Kadeshbarnea to espy out the land; and I brought him word again as it was in mine heart.
 [14:8] Nevertheless my brethren that went up with me made the heart of the people melt: but I wholly followed the LORD my God.
-[14:9] And Moses sware on that day, saying, Surely the land whereon your feet have trodden shall be your inheritance, and your children's for ever, because you hast wholly followed the LORD my God.
+[14:9] And Moses sware on that day, saying, Surely the land whereon your feet have trodden shall be your inheritance, and your children's for ever, because you have wholly followed the LORD my God.
 [14:10] And now, behold, the LORD hath kept me alive, as he said, these forty and five years, even since the LORD spake this word unto Moses, while the children of Israel wandered in the wilderness: and now, lo, I am this day fourscore and five years old.
 [14:11] As yet I am as strong this day as I was in the day that Moses sent me: as my strength was then, even so is my strength now, for war, both to go out, and to come in.
 [14:12] Now therefore give me this mountain, whereof the LORD spake in that day; for you heardest in that day how the Anakims were there, and that the cities were great and fenced: if so be the LORD will be with me, then I shall be able to drive them out, as the LORD said.
@@ -368,7 +368,7 @@ Joshua
 [15:16] And Caleb said, He that smiteth Kirjathsepher, and taketh it, to him will I give Achsah my daughter to wife.
 [15:17] And Othniel the son of Kenaz, the brother of Caleb, took it: and he gave him Achsah his daughter to wife.
 [15:18] And it came to pass, as she came unto him, that she moved him to ask of her father a field: and she lighted off her ass; and Caleb said unto her, What wouldest you?
-[15:19] Who answered, Give me a blessing; for you hast given me a south land; give me also springs of water. And he gave her the upper springs, and the nether springs.
+[15:19] Who answered, Give me a blessing; for you have given me a south land; give me also springs of water. And he gave her the upper springs, and the nether springs.
 [15:20] This is the inheritance of the tribe of the children of Judah according to their families.
 [15:21] And the uttermost cities of the tribe of the children of Judah toward the coast of Edom southward were Kabzeel, and Eder, and Jagur,
 [15:22] And Kinah, and Dimonah, and Adadah,
@@ -436,10 +436,10 @@ Joshua
 [17:11] And Manasseh had in Issachar and in Asher Bethshean and her towns, and Ibleam and her towns, and the inhabitants of Dor and her towns, and the inhabitants of Endor and her towns, and the inhabitants of Taanach and her towns, and the inhabitants of Megiddo and her towns, even three countries.
 [17:12] Yet the children of Manasseh could not drive out the inhabitants of those cities; but the Canaanites would dwell in that land.
 [17:13] Yet it came to pass, when the children of Israel were waxen strong, that they put the Canaanites to tribute, but did not utterly drive them out.
-[17:14] And the children of Joseph spake unto Joshua, saying, Why hast you given me but one lot and one portion to inherit, seeing I am a great people, forasmuch as the LORD hath blessed me hitherto?
+[17:14] And the children of Joseph spake unto Joshua, saying, Why have you given me but one lot and one portion to inherit, seeing I am a great people, forasmuch as the LORD hath blessed me hitherto?
 [17:15] And Joshua answered them, If you be a great people, then get you up to the wood country, and cut down for thyself there in the land of the Perizzites and of the giants, if mount Ephraim be too narrow for you.
 [17:16] And the children of Joseph said, The hill is not enough for us: and all the Canaanites that dwell in the land of the valley have chariots of iron, both they who are of Bethshean and her towns, and they who are of the valley of Jezreel.
-[17:17] And Joshua spake unto the house of Joseph, even to Ephraim and to Manasseh, saying, You art a great people, and hast great power: you shalt not have one lot only:
+[17:17] And Joshua spake unto the house of Joseph, even to Ephraim and to Manasseh, saying, You art a great people, and have great power: you shalt not have one lot only:
 [17:18] But the mountain shall be your; for it is a wood, and you shalt cut it down: and the outgoings of it shall be your: for you shalt drive out the Canaanites, though they have iron chariots, and though they be strong.
 [18:1] And the whole congregation of the children of Israel assembled together at Shiloh, and set up the tabernacle of the congregation there. And the land was subdued before them.
 [18:2] And there remained among the children of Israel seven tribes, which had not yet received their inheritance.

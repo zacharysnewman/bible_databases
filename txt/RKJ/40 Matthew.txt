@@ -60,7 +60,7 @@ Matthew
 [3:11] I indeed baptize you with water unto repentance: but he that cometh after me is mightier than I, whose shoes I am not worthy to bear: he shall baptize you with the Holy Ghost, and with fire:
 [3:12] Whose fan is in his hand, and he will throughly purge his floor, and gather his wheat into the garner; but he will burn up the chaff with unquenchable fire.
 [3:13] Then cometh Jesus from Galilee to Jordan unto John, to be baptized of him.
-[3:14] But John forbad him, saying, I have need to be baptized of you, and comest you to me?
+[3:14] But John forbad him, saying, I have need to be baptized of you, and come you to me?
 [3:15] And Jesus answering said unto him, Suffer it to be so now: for thus it becometh us to fulfil all righteousness. Then he suffered him.
 [3:16] And Jesus, when he was baptized, went up straightway out of the water: and, lo, the heavens were opened unto him, and he saw the Spirit of God descending like a dove, and lighting upon him:
 [3:17] And lo a voice from heaven, saying, This is my beloved Son, in whom I am well pleased.
@@ -114,7 +114,7 @@ Matthew
 [5:23] Therefore if you bring your gift to the altar, and there rememberest that your brother hath ought against you;
 [5:24] Leave there your gift before the altar, and go your way; first be reconciled to your brother, and then come and offer your gift.
 [5:25] Agree with your adversary quickly, whiles you art in the way with him; lest at any time the adversary deliver you to the judge, and the judge deliver you to the officer, and you be cast into prison.
-[5:26] Verily I say unto you, You shalt by no means come out thence, till you hast paid the uttermost farthing.
+[5:26] Verily I say unto you, You shalt by no means come out thence, till you have paid the uttermost farthing.
 [5:27] You have heard that it was said by them of old time, You shalt not commit adultery:
 [5:28] But I say unto you, That whosoever looketh on a woman to lust after her hath committed adultery with her already in his heart.
 [5:29] And if your right eye offend you, pluck it out, and cast it from you: for it is profitable for you that one of your members should perish, and not that your whole body should be cast into hell.
@@ -138,11 +138,11 @@ Matthew
 [5:47] And if you salute your brethren only, what do you more than others? do not even the publicans so?
 [5:48] Be you therefore perfect, even as your Father which is in heaven is perfect.
 [6:1] Take heed that you do not your alms before men, to be seen of them: otherwise you have no reward of your Father which is in heaven.
-[6:2] Therefore when you doest your alms, do not sound a trumpet before you, as the hypocrites do in the synagogues and in the streets, that they may have glory of men. Verily I say unto you, They have their reward.
-[6:3] But when you doest alms, let not your left hand know what your right hand doeth:
+[6:2] Therefore when you do your alms, do not sound a trumpet before you, as the hypocrites do in the synagogues and in the streets, that they may have glory of men. Verily I say unto you, They have their reward.
+[6:3] But when you do alms, let not your left hand know what your right hand doeth:
 [6:4] That your alms may be in secret: and your Father which seeth in secret himself shall reward you openly.
 [6:5] And when you prayest, you shalt not be as the hypocrites are: for they love to pray standing in the synagogues and in the corners of the streets, that they may be seen of men. Verily I say unto you, They have their reward.
-[6:6] But you, when you prayest, enter into your closet, and when you hast shut your door, pray to your Father which is in secret; and your Father which seeth in secret shall reward you openly.
+[6:6] But you, when you prayest, enter into your closet, and when you have shut your door, pray to your Father which is in secret; and your Father which seeth in secret shall reward you openly.
 [6:7] But when you pray, use not vain repetitions, as the heathen do: for they think that they shall be heard for their much speaking.
 [6:8] Be not you therefore like unto them: for your Father knoweth what things you have need of, before you ask him.
 [6:9] After this manner therefore pray you: Our Father which art in heaven, Hallowed be your name.
@@ -207,12 +207,12 @@ Matthew
 [8:5] And when Jesus was entered into Capernaum, there came unto him a centurion, beseeching him,
 [8:6] And saying, Lord, my servant lieth at home sick of the palsy, grievously tormented.
 [8:7] And Jesus saith unto him, I will come and heal him.
-[8:8] The centurion answered and said, Lord, I am not worthy that you shouldest come under my roof: but speak the word only, and my servant shall be healed.
+[8:8] The centurion answered and said, Lord, I am not worthy that you should come under my roof: but speak the word only, and my servant shall be healed.
 [8:9] For I am a man under authority, having soldiers under me: and I say to this man, Go, and he goeth; and to another, Come, and he cometh; and to my servant, Do this, and he doeth it.
 [8:10] When Jesus heard it, he marvelled, and said to them that followed, Verily I say unto you, I have not found so great faith, no, not in Israel.
 [8:11] And I say unto you, That many shall come from the east and west, and shall sit down with Abraham, and Isaac, and Jacob, in the kingdom of heaven.
 [8:12] But the children of the kingdom shall be cast out into outer darkness: there shall be weeping and gnashing of teeth.
-[8:13] And Jesus said unto the centurion, Go your way; and as you hast believed, so be it done unto you. And his servant was healed in the selfsame hour.
+[8:13] And Jesus said unto the centurion, Go your way; and as you have believed, so be it done unto you. And his servant was healed in the selfsame hour.
 [8:14] And when Jesus was come into Peter's house, he saw his wife's mother laid, and sick of a fever.
 [8:15] And he touched her hand, and the fever left her: and she arose, and ministered unto them.
 [8:16] When the even was come, they brought unto him many that were possessed with devils: and he cast out the spirits with his word, and healed all that were sick:
@@ -338,7 +338,7 @@ Matthew
 [11:22] But I say unto you, It shall be more tolerable for Tyre and Sidon at the day of judgment, than for you.
 [11:23] And you, Capernaum, which art exalted unto heaven, shalt be brought down to hell: for if the mighty works, which have been done in you, had been done in Sodom, it would have remained until this day.
 [11:24] But I say unto you, That it shall be more tolerable for the land of Sodom in the day of judgment, than for you.
-[11:25] At that time Jesus answered and said, I thank you, O Father, Lord of heaven and earth, because you hast hid these things from the wise and prudent, and hast revealed them unto babes.
+[11:25] At that time Jesus answered and said, I thank you, O Father, Lord of heaven and earth, because you have hid these things from the wise and prudent, and have revealed them unto babes.
 [11:26] Even so, Father: for so it seemed good in your sight.
 [11:27] All things are delivered unto me of my Father: and no man knoweth the Son, but the Father; neither knoweth any man the Father, save the Son, and he to whomsoever the Son will reveal him.
 [11:28] Come unto me, all you that labour and are heavy laden, and I will give you rest.
@@ -581,7 +581,7 @@ Matthew
 [17:24] And when they were come to Capernaum, they that received tribute money came to Peter, and said, Doth not your master pay tribute?
 [17:25] He saith, Yes. And when he was come into the house, Jesus prevented him, saying, What thinkest you, Simon? of whom do the kings of the earth take custom or tribute? of their own children, or of strangers?
 [17:26] Peter saith unto him, Of strangers. Jesus saith unto him, Then are the children free.
-[17:27] Notwithstanding, lest we should offend them, go you to the sea, and cast an hook, and take up the fish that first cometh up; and when you hast opened his mouth, you shalt find a piece of money: that take, and give unto them for me and you.
+[17:27] Notwithstanding, lest we should offend them, go you to the sea, and cast an hook, and take up the fish that first cometh up; and when you have opened his mouth, you shalt find a piece of money: that take, and give unto them for me and you.
 [18:1] At the same time came the disciples unto Jesus, saying, Who is the greatest in the kingdom of heaven?
 [18:2] And Jesus called a little child unto him, and set him in the midst of them,
 [18:3] And said, Verily I say unto you, Except you be converted, and become as little children, you shall not enter into the kingdom of heaven.
@@ -596,7 +596,7 @@ Matthew
 [18:12] How think you? if a man have an hundred sheep, and one of them be gone astray, doth he not leave the ninety and nine, and goeth into the mountains, and seeketh that which is gone astray?
 [18:13] And if so be that he find it, verily I say unto you, he rejoiceth more of that sheep, than of the ninety and nine which went not astray.
 [18:14] Even so it is not the will of your Father which is in heaven, that one of these little ones should perish.
-[18:15] Moreover if your brother shall trespass against you, go and tell him his fault between you and him alone: if he shall hear you, you hast gained your brother.
+[18:15] Moreover if your brother shall trespass against you, go and tell him his fault between you and him alone: if he shall hear you, you have gained your brother.
 [18:16] But if he will not hear you, then take with you one or two more, that in the mouth of two or three witnesses every word may be established.
 [18:17] And if he shall neglect to hear them, tell it unto the church: but if he neglect to hear the church, let him be unto you as an heathen man and a publican.
 [18:18] Verily I say unto you, Whatsoever you shall bind on earth shall be bound in heaven: and whatsoever you shall loose on earth shall be loosed in heaven.
@@ -614,7 +614,7 @@ Matthew
 [18:30] And he would not: but went and cast him into prison, till he should pay the debt.
 [18:31] So when his fellowservants saw what was done, they were very sorry, and came and told unto their lord all that was done.
 [18:32] Then his lord, after that he had called him, said unto him, O you wicked servant, I forgave you all that debt, because you desiredst me:
-[18:33] Shouldest not you also have had compassion on your fellowservant, even as I had pity on you?
+[18:33] Should not you also have had compassion on your fellowservant, even as I had pity on you?
 [18:34] And his lord was wroth, and delivered him to the tormentors, till he should pay all that was due unto him.
 [18:35] So likewise shall my heavenly Father do also unto you, if you from your hearts forgive not every one his brother their trespasses.
 [19:1] And it came to pass, that when Jesus had finished these sayings, he departed from Galilee, and came into the coasts of Judaea beyond Jordan;
@@ -637,7 +637,7 @@ Matthew
 [19:18] He saith unto him, Which? Jesus said, You shalt do no murder, You shalt not commit adultery, You shalt not steal, You shalt not bear false witness,
 [19:19] Honour your father and your mother: and, You shalt love your neighbour as thyself.
 [19:20] The young man saith unto him, All these things have I kept from my youth up: what lack I yet?
-[19:21] Jesus said unto him, If you wilt be perfect, go and sell that you hast, and give to the poor, and you shalt have treasure in heaven: and come and follow me.
+[19:21] Jesus said unto him, If you wilt be perfect, go and sell that you have, and give to the poor, and you shalt have treasure in heaven: and come and follow me.
 [19:22] But when the young man heard that saying, he went away sorrowful: for he had great possessions.
 [19:23] Then said Jesus unto his disciples, Verily I say unto you, That a rich man shall hardly enter into the kingdom of heaven.
 [19:24] And again I say unto you, It is easier for a camel to go through the eye of a needle, than for a rich man to enter into the kingdom of God.
@@ -658,7 +658,7 @@ Matthew
 [20:9] And when they came that were hired about the eleventh hour, they received every man a penny.
 [20:10] But when the first came, they supposed that they should have received more; and they likewise received every man a penny.
 [20:11] And when they had received it, they murmured against the goodman of the house,
-[20:12] Saying, These last have wrought but one hour, and you hast made them equal unto us, which have borne the burden and heat of the day.
+[20:12] Saying, These last have wrought but one hour, and you have made them equal unto us, which have borne the burden and heat of the day.
 [20:13] But he answered one of them, and said, Friend, I do you no wrong: didst not you agree with me for a penny?
 [20:14] Take that your is, and go your way: I will give unto this last, even as unto you.
 [20:15] Is it not lawful for me to do what I will with mine own? Is your eye evil, because I am good?
@@ -696,14 +696,14 @@ Matthew
 [21:13] And said unto them, It is written, My house shall be called the house of prayer; but you have made it a den of thieves.
 [21:14] And the blind and the lame came to him in the temple; and he healed them.
 [21:15] And when the chief priests and scribes saw the wonderful things that he did, and the children crying in the temple, and saying, Hosanna to the son of David; they were sore displeased,
-[21:16] And said unto him, Hearest you what these say? And Jesus saith unto them, Yea; have you never read, Out of the mouth of babes and sucklings you hast perfected praise?
+[21:16] And said unto him, Hearest you what these say? And Jesus saith unto them, Yea; have you never read, Out of the mouth of babes and sucklings you have perfected praise?
 [21:17] And he left them, and went out of the city into Bethany; and he lodged there.
 [21:18] Now in the morning as he returned into the city, he hungered.
 [21:19] And when he saw a fig tree in the way, he came to it, and found nothing thereon, but leaves only, and said unto it, Let no fruit grow on you henceforward for ever. And presently the fig tree withered away.
 [21:20] And when the disciples saw it, they marvelled, saying, How soon is the fig tree withered away!
 [21:21] Jesus answered and said unto them, Verily I say unto you, If you have faith, and doubt not, you shall not only do this which is done to the fig tree, but also if you shall say unto this mountain, Be you removed, and be you cast into the sea; it shall be done.
 [21:22] And all things, whatsoever you shall ask in prayer, believing, you shall receive.
-[21:23] And when he was come into the temple, the chief priests and the elders of the people came unto him as he was teaching, and said, By what authority doest you these things? and who gave you this authority?
+[21:23] And when he was come into the temple, the chief priests and the elders of the people came unto him as he was teaching, and said, By what authority do you these things? and who gave you this authority?
 [21:24] And Jesus answered and said unto them, I also will ask you one thing, which if you tell me, I in like wise will tell you by what authority I do these things.
 [21:25] The baptism of John, whence was it? from heaven, or of men? And they reasoned with themselves, saying, If we shall say, From heaven; he will say unto us, Why did you not then believe him?
 [21:26] But if we shall say, Of men; we fear the people; for all hold John as a prophet.
@@ -883,11 +883,11 @@ Matthew
 [25:18] But he that had received one went and digged in the earth, and hid his lord's money.
 [25:19] After a long time the lord of those servants cometh, and reckoneth with them.
 [25:20] And so he that had received five talents came and brought other five talents, saying, Lord, you deliveredst unto me five talents: behold, I have gained beside them five talents more.
-[25:21] His lord said unto him, Well done, you good and faithful servant: you hast been faithful over a few things, I will make you ruler over many things: enter you into the joy of your lord.
+[25:21] His lord said unto him, Well done, you good and faithful servant: you have been faithful over a few things, I will make you ruler over many things: enter you into the joy of your lord.
 [25:22] He also that had received two talents came and said, Lord, you deliveredst unto me two talents: behold, I have gained two other talents beside them.
-[25:23] His lord said unto him, Well done, good and faithful servant; you hast been faithful over a few things, I will make you ruler over many things: enter you into the joy of your lord.
-[25:24] Then he which had received the one talent came and said, Lord, I knew you that you art an hard man, reaping where you hast not sown, and gathering where you hast not strawed:
-[25:25] And I was afraid, and went and hid your talent in the earth: lo, there you hast that is your.
+[25:23] His lord said unto him, Well done, good and faithful servant; you have been faithful over a few things, I will make you ruler over many things: enter you into the joy of your lord.
+[25:24] Then he which had received the one talent came and said, Lord, I knew you that you art an hard man, reaping where you have not sown, and gathering where you have not strawed:
+[25:25] And I was afraid, and went and hid your talent in the earth: lo, there you have that is your.
 [25:26] His lord answered and said unto him, You wicked and slothful servant, you knewest that I reap where I sowed not, and gather where I have not strawed:
 [25:27] You oughtest therefore to have put my money to the exchangers, and then at my coming I should have received mine own with usury.
 [25:28] Take therefore the talent from him, and give it unto him which hath ten talents.
@@ -933,7 +933,7 @@ Matthew
 [26:22] And they were exceeding sorrowful, and began every one of them to say unto him, Lord, is it I?
 [26:23] And he answered and said, He that dippeth his hand with me in the dish, the same shall betray me.
 [26:24] The Son of man goeth as it is written of him: but woe unto that man by whom the Son of man is betrayed! it had been good for that man if he had not been born.
-[26:25] Then Judas, which betrayed him, answered and said, Master, is it I? He said unto him, You hast said.
+[26:25] Then Judas, which betrayed him, answered and said, Master, is it I? He said unto him, You have said.
 [26:26] And as they were eating, Jesus took bread, and blessed it, and brake it, and gave it to the disciples, and said, Take, eat; this is my body.
 [26:27] And he took the cup, and gave thanks, and gave it to them, saying, Drink you all of it;
 [26:28] For this is my blood of the new testament, which is shed for many for the remission of sins.
@@ -972,7 +972,7 @@ Matthew
 [26:61] And said, This fellow said, I am able to destroy the temple of God, and to build it in three days.
 [26:62] And the high priest arose, and said unto him, Answerest you nothing? what is it which these witness against you?
 [26:63] But Jesus held his peace, And the high priest answered and said unto him, I adjure you by the living God, that you tell us whether you be the Christ, the Son of God.
-[26:64] Jesus saith unto him, You hast said: nevertheless I say unto you, Hereafter shall you see the Son of man sitting on the right hand of power, and coming in the clouds of heaven.
+[26:64] Jesus saith unto him, You have said: nevertheless I say unto you, Hereafter shall you see the Son of man sitting on the right hand of power, and coming in the clouds of heaven.
 [26:65] Then the high priest rent his clothes, saying, He hath spoken blasphemy; what further need have we of witnesses? behold, now you have heard his blasphemy.
 [26:66] What think you? They answered and said, He is guilty of death.
 [26:67] Then did they spit in his face, and buffeted him; and others smote him with the palms of their hands,
@@ -1029,7 +1029,7 @@ Matthew
 [27:43] He trusted in God; let him deliver him now, if he will have him: for he said, I am the Son of God.
 [27:44] The thieves also, which were crucified with him, cast the same in his teeth.
 [27:45] Now from the sixth hour there was darkness over all the land unto the ninth hour.
-[27:46] And about the ninth hour Jesus cried with a loud voice, saying, Eli, Eli, lama sabachthani? that is to say, My God, my God, why hast you forsaken me?
+[27:46] And about the ninth hour Jesus cried with a loud voice, saying, Eli, Eli, lama sabachthani? that is to say, My God, my God, why have you forsaken me?
 [27:47] Some of them that stood there, when they heard that, said, This man calleth for Elias.
 [27:48] And straightway one of them ran, and took a spunge, and filled it with vinegar, and put it on a reed, and gave him to drink.
 [27:49] The rest said, Let be, let us see whether Elias will come to save him.

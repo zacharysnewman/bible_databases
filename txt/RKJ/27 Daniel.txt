@@ -11,7 +11,7 @@ Daniel
 [1:10] And the prince of the eunuchs said unto Daniel, I fear my lord the king, who hath appointed your meat and your drink: for why should he see your faces worse liking than the children which are of your sort? then shall you make me endanger my head to the king.
 [1:11] Then said Daniel to Melzar, whom the prince of the eunuchs had set over Daniel, Hananiah, Mishael, and Azariah,
 [1:12] Prove your servants, I beseech you, ten days; and let them give us pulse to eat, and water to drink.
-[1:13] Then let our countenances be looked upon before you, and the countenance of the children that eat of the portion of the king's meat: and as you seest, deal with your servants.
+[1:13] Then let our countenances be looked upon before you, and the countenance of the children that eat of the portion of the king's meat: and as you see, deal with your servants.
 [1:14] So he consented to them in this matter, and proved them ten days.
 [1:15] And at the end of ten days their countenances appeared fairer and fatter in flesh than all the children which did eat the portion of the king's meat.
 [1:16] Thus Melzar took away the portion of their meat, and the wine that they should drink; and gave them pulse.
@@ -42,7 +42,7 @@ Daniel
 [2:20] Daniel answered and said, Blessed be the name of God for ever and ever: for wisdom and might are his:
 [2:21] And he changeth the times and the seasons: he removeth kings, and setteth up kings: he giveth wisdom unto the wise, and knowledge to them that know understanding:
 [2:22] He revealeth the deep and secret things: he knoweth what is in the darkness, and the light dwelleth with him.
-[2:23] I thank you, and praise you, O you God of my fathers, who hast given me wisdom and might, and hast made known unto me now what we desired of you: for you hast now made known unto us the king's matter.
+[2:23] I thank you, and praise you, O you God of my fathers, who have given me wisdom and might, and have made known unto me now what we desired of you: for you have now made known unto us the king's matter.
 [2:24] Therefore Daniel went in unto Arioch, whom the king had ordained to destroy the wise men of Babylon: he went and said thus unto him; Destroy not the wise men of Babylon: bring me in before the king, and I will shew unto the king the interpretation.
 [2:25] Then Arioch brought in Daniel before the king in haste, and said thus unto him, I have found a man of the captives of Judah, that will make known unto the king the interpretation.
 [2:26] The king answered and said to Daniel, whose name was Belteshazzar, Art you able to make known unto me the dream which I have seen, and the interpretation thereof?
@@ -50,21 +50,21 @@ Daniel
 [2:28] But there is a God in heaven that revealeth secrets, and maketh known to the king Nebuchadnezzar what shall be in the latter days. Your dream, and the visions of your head upon your bed, are these;
 [2:29] As for you, O king, your thoughts came into your mind upon your bed, what should come to pass hereafter: and he that revealeth secrets maketh known to you what shall come to pass.
 [2:30] But as for me, this secret is not revealed to me for any wisdom that I have more than any living, but for their sakes that shall make known the interpretation to the king, and that you mightest know the thoughts of your heart.
-[2:31] You, O king, sawest, and behold a great image. This great image, whose brightness was excellent, stood before you; and the form thereof was terrible.
+[2:31] You, O king, saw, and behold a great image. This great image, whose brightness was excellent, stood before you; and the form thereof was terrible.
 [2:32] This image's head was of fine gold, his breast and his arms of silver, his belly and his thighs of brass,
 [2:33] His legs of iron, his feet part of iron and part of clay.
-[2:34] You sawest till that a stone was cut out without hands, which smote the image upon his feet that were of iron and clay, and brake them to pieces.
+[2:34] You saw till that a stone was cut out without hands, which smote the image upon his feet that were of iron and clay, and brake them to pieces.
 [2:35] Then was the iron, the clay, the brass, the silver, and the gold, broken to pieces together, and became like the chaff of the summer threshingfloors; and the wind carried them away, that no place was found for them: and the stone that smote the image became a great mountain, and filled the whole earth.
 [2:36] This is the dream; and we will tell the interpretation thereof before the king.
 [2:37] You, O king, art a king of kings: for the God of heaven hath given you a kingdom, power, and strength, and glory.
 [2:38] And wheresoever the children of men dwell, the beasts of the field and the fowls of the heaven hath he given into your hand, and hath made you ruler over them all. You art this head of gold.
 [2:39] And after you shall arise another kingdom inferior to you, and another third kingdom of brass, which shall bear rule over all the earth.
 [2:40] And the fourth kingdom shall be strong as iron: forasmuch as iron breaketh in pieces and subdueth all things: and as iron that breaketh all these, shall it break in pieces and bruise.
-[2:41] And whereas you sawest the feet and toes, part of potters' clay, and part of iron, the kingdom shall be divided; but there shall be in it of the strength of the iron, forasmuch as you sawest the iron mixed with miry clay.
+[2:41] And whereas you saw the feet and toes, part of potters' clay, and part of iron, the kingdom shall be divided; but there shall be in it of the strength of the iron, forasmuch as you saw the iron mixed with miry clay.
 [2:42] And as the toes of the feet were part of iron, and part of clay, so the kingdom shall be partly strong, and partly broken.
-[2:43] And whereas you sawest iron mixed with miry clay, they shall mingle themselves with the seed of men: but they shall not cleave one to another, even as iron is not mixed with clay.
+[2:43] And whereas you saw iron mixed with miry clay, they shall mingle themselves with the seed of men: but they shall not cleave one to another, even as iron is not mixed with clay.
 [2:44] And in the days of these kings shall the God of heaven set up a kingdom, which shall never be destroyed: and the kingdom shall not be left to other people, but it shall break in pieces and consume all these kingdoms, and it shall stand for ever.
-[2:45] Forasmuch as you sawest that the stone was cut out of the mountain without hands, and that it brake in pieces the iron, the brass, the clay, the silver, and the gold; the great God hath made known to the king what shall come to pass hereafter: and the dream is certain, and the interpretation thereof sure.
+[2:45] Forasmuch as you saw that the stone was cut out of the mountain without hands, and that it brake in pieces the iron, the brass, the clay, the silver, and the gold; the great God hath made known to the king what shall come to pass hereafter: and the dream is certain, and the interpretation thereof sure.
 [2:46] Then the king Nebuchadnezzar fell upon his face, and worshipped Daniel, and commanded that they should offer an oblation and sweet odours unto him.
 [2:47] The king answered unto Daniel, and said, Of a truth it is, that your God is a God of gods, and a Lord of kings, and a revealer of secrets, seeing you couldest reveal this secret.
 [2:48] Then the king made Daniel a great man, and gave him many great gifts, and made him ruler over the whole province of Babylon, and chief of the governors over all the wise men of Babylon.
@@ -78,15 +78,15 @@ Daniel
 [3:7] Therefore at that time, when all the people heard the sound of the cornet, flute, harp, sackbut, psaltery, and all kinds of musick, all the people, the nations, and the languages, fell down and worshipped the golden image that Nebuchadnezzar the king had set up.
 [3:8] Wherefore at that time certain Chaldeans came near, and accused the Jews.
 [3:9] They spake and said to the king Nebuchadnezzar, O king, live for ever.
-[3:10] You, O king, hast made a decree, that every man that shall hear the sound of the cornet, flute, harp, sackbut, psaltery, and dulcimer, and all kinds of musick, shall fall down and worship the golden image:
+[3:10] You, O king, have made a decree, that every man that shall hear the sound of the cornet, flute, harp, sackbut, psaltery, and dulcimer, and all kinds of musick, shall fall down and worship the golden image:
 [3:11] And whoso falleth not down and worshippeth, that he should be cast into the midst of a burning fiery furnace.
-[3:12] There are certain Jews whom you hast set over the affairs of the province of Babylon, Shadrach, Meshach, and Abednego; these men, O king, have not regarded you: they serve not your gods, nor worship the golden image which you hast set up.
+[3:12] There are certain Jews whom you have set over the affairs of the province of Babylon, Shadrach, Meshach, and Abednego; these men, O king, have not regarded you: they serve not your gods, nor worship the golden image which you have set up.
 [3:13] Then Nebuchadnezzar in his rage and fury commanded to bring Shadrach, Meshach, and Abednego. Then they brought these men before the king.
 [3:14] Nebuchadnezzar spake and said unto them, Is it true, O Shadrach, Meshach, and Abednego, do not you serve my gods, nor worship the golden image which I have set up?
 [3:15] Now if you be ready that at what time you hear the sound of the cornet, flute, harp, sackbut, psaltery, and dulcimer, and all kinds of musick, you fall down and worship the image which I have made; well: but if you worship not, you shall be cast the same hour into the midst of a burning fiery furnace; and who is that God that shall deliver you out of my hands?
 [3:16] Shadrach, Meshach, and Abednego, answered and said to the king, O Nebuchadnezzar, we are not careful to answer you in this matter.
 [3:17] If it be so, our God whom we serve is able to deliver us from the burning fiery furnace, and he will deliver us out of your hand, O king.
-[3:18] But if not, be it known unto you, O king, that we will not serve your gods, nor worship the golden image which you hast set up.
+[3:18] But if not, be it known unto you, O king, that we will not serve your gods, nor worship the golden image which you have set up.
 [3:19] Then was Nebuchadnezzar full of fury, and the form of his visage was changed against Shadrach, Meshach, and Abednego: therefore he spake, and commanded that they should heat the furnace one seven times more than it was wont to be heated.
 [3:20] And he commanded the most mighty men that were in his army to bind Shadrach, Meshach, and Abednego, and to cast them into the burning fiery furnace.
 [3:21] Then these men were bound in their coats, their hosen, and their hats, and their other garments, and were cast into the midst of the burning fiery furnace.
@@ -118,7 +118,7 @@ Daniel
 [4:17] This matter is by the decree of the watchers, and the demand by the word of the holy ones: to the intent that the living may know that the most High ruleth in the kingdom of men, and giveth it to whomsoever he will, and setteth up over it the basest of men.
 [4:18] This dream I king Nebuchadnezzar have seen. Now you, O Belteshazzar, declare the interpretation thereof, forasmuch as all the wise men of my kingdom are not able to make known unto me the interpretation: but you art able; for the spirit of the holy gods is in you.
 [4:19] Then Daniel, whose name was Belteshazzar, was astonied for one hour, and his thoughts troubled him. The king spake, and said, Belteshazzar, let not the dream, or the interpretation thereof, trouble you. Belteshazzar answered and said, My lord, the dream be to them that hate you, and the interpretation thereof to your enemies.
-[4:20] The tree that you sawest, which grew, and was strong, whose height reached unto the heaven, and the sight thereof to all the earth;
+[4:20] The tree that you saw, which grew, and was strong, whose height reached unto the heaven, and the sight thereof to all the earth;
 [4:21] Whose leaves were fair, and the fruit thereof much, and in it was meat for all; under which the beasts of the field dwelt, and upon whose branches the fowls of the heaven had their habitation:
 [4:22] It is you, O king, that art grown and become strong: for your greatness is grown, and reacheth unto heaven, and your dominion to the end of the earth.
 [4:23] And whereas the king saw a watcher and an holy one coming down from heaven, and saying, Hew the tree down, and destroy it; yet leave the stump of the roots thereof in the earth, even with a band of iron and brass, in the tender grass of the field; and let it be wet with the dew of heaven, and let his portion be with the beasts of the field, till seven times pass over him;
@@ -133,7 +133,7 @@ Daniel
 [4:32] And they shall drive you from men, and your dwelling shall be with the beasts of the field: they shall make you to eat grass as oxen, and seven times shall pass over you, until you know that the most High ruleth in the kingdom of men, and giveth it to whomsoever he will.
 [4:33] The same hour was the thing fulfilled upon Nebuchadnezzar: and he was driven from men, and did eat grass as oxen, and his body was wet with the dew of heaven, till his hairs were grown like eagles' feathers, and his nails like birds' claws.
 [4:34] And at the end of the days I Nebuchadnezzar lifted up mine eyes unto heaven, and mine understanding returned unto me, and I blessed the most High, and I praised and honoured him that liveth for ever, whose dominion is an everlasting dominion, and his kingdom is from generation to generation:
-[4:35] And all the inhabitants of the earth are reputed as nothing: and he doeth according to his will in the army of heaven, and among the inhabitants of the earth: and none can stay his hand, or say unto him, What doest you?
+[4:35] And all the inhabitants of the earth are reputed as nothing: and he doeth according to his will in the army of heaven, and among the inhabitants of the earth: and none can stay his hand, or say unto him, What do you?
 [4:36] At the same time my reason returned unto me; and for the glory of my kingdom, mine honour and brightness returned unto me; and my counsellors and my lords sought unto me; and I was established in my kingdom, and excellent majesty was added unto me.
 [4:37] Now I Nebuchadnezzar praise and extol and honour the King of heaven, all whose works are truth, and his ways judgment: and those that walk in pride he is able to abase.
 [5:1] Belshazzar the king made a great feast to a thousand of his lords, and drank wine before the thousand.
@@ -157,8 +157,8 @@ Daniel
 [5:19] And for the majesty that he gave him, all people, nations, and languages, trembled and feared before him: whom he would he slew; and whom he would he kept alive; and whom he would he set up; and whom he would he put down.
 [5:20] But when his heart was lifted up, and his mind hardened in pride, he was deposed from his kingly throne, and they took his glory from him:
 [5:21] And he was driven from the sons of men; and his heart was made like the beasts, and his dwelling was with the wild asses: they fed him with grass like oxen, and his body was wet with the dew of heaven; till he knew that the most high God ruled in the kingdom of men, and that he appointeth over it whomsoever he will.
-[5:22] And you his son, O Belshazzar, hast not humbled your heart, though you knewest all this;
-[5:23] But hast lifted up thyself against the Lord of heaven; and they have brought the vessels of his house before you, and you, and your lords, your wives, and your concubines, have drunk wine in them; and you hast praised the gods of silver, and gold, of brass, iron, wood, and stone, which see not, nor hear, nor know: and the God in whose hand your breath is, and whose are all your ways, hast you not glorified:
+[5:22] And you his son, O Belshazzar, have not humbled your heart, though you knewest all this;
+[5:23] But have lifted up thyself against the Lord of heaven; and they have brought the vessels of his house before you, and you, and your lords, your wives, and your concubines, have drunk wine in them; and you have praised the gods of silver, and gold, of brass, iron, wood, and stone, which see not, nor hear, nor know: and the God in whose hand your breath is, and whose are all your ways, have you not glorified:
 [5:24] Then was the part of the hand sent from him; and this writing was written.
 [5:25] And this is the writing that was written, MENE, MENE, TEKEL, UPHARSIN.
 [5:26] This is the interpretation of the thing: MENE; God hath numbered your kingdom, and finished it.
@@ -178,8 +178,8 @@ Daniel
 [6:9] Wherefore king Darius signed the writing and the decree.
 [6:10] Now when Daniel knew that the writing was signed, he went into his house; and his windows being open in his chamber toward Jerusalem, he kneeled upon his knees three times a day, and prayed, and gave thanks before his God, as he did aforetime.
 [6:11] Then these men assembled, and found Daniel praying and making supplication before his God.
-[6:12] Then they came near, and spake before the king concerning the king's decree; Hast you not signed a decree, that every man that shall ask a petition of any God or man within thirty days, save of you, O king, shall be cast into the den of lions? The king answered and said, The thing is true, according to the law of the Medes and Persians, which altereth not.
-[6:13] Then answered they and said before the king, That Daniel, which is of the children of the captivity of Judah, regardeth not you, O king, nor the decree that you hast signed, but maketh his petition three times a day.
+[6:12] Then they came near, and spake before the king concerning the king's decree; Have you not signed a decree, that every man that shall ask a petition of any God or man within thirty days, save of you, O king, shall be cast into the den of lions? The king answered and said, The thing is true, according to the law of the Medes and Persians, which altereth not.
+[6:13] Then answered they and said before the king, That Daniel, which is of the children of the captivity of Judah, regardeth not you, O king, nor the decree that you have signed, but maketh his petition three times a day.
 [6:14] Then the king, when he heard these words, was sore displeased with himself, and set his heart on Daniel to deliver him: and he laboured till the going down of the sun to deliver him.
 [6:15] Then these men assembled unto the king, and said unto the king, Know, O king, that the law of the Medes and Persians is, That no decree nor statute which the king establisheth may be changed.
 [6:16] Then the king commanded, and they brought Daniel, and cast him into the den of lions. Now the king spake and said unto Daniel, Your God whom you servest continually, he will deliver you.
@@ -242,7 +242,7 @@ Daniel
 [8:17] So he came near where I stood: and when he came, I was afraid, and fell upon my face: but he said unto me, Understand, O son of man: for at the time of the end shall be the vision.
 [8:18] Now as he was speaking with me, I was in a deep sleep on my face toward the ground: but he touched me, and set me upright.
 [8:19] And he said, Behold, I will make you know what shall be in the last end of the indignation: for at the time appointed the end shall be.
-[8:20] The ram which you sawest having two horns are the kings of Media and Persia.
+[8:20] The ram which you saw having two horns are the kings of Media and Persia.
 [8:21] And the rough goat is the king of Grecia: and the great horn that is between his eyes is the first king.
 [8:22] Now that being broken, whereas four stood up for it, four kingdoms shall stand up out of the nation, but not in his power.
 [8:23] And in the latter time of their kingdom, when the transgressors are come to the full, a king of fierce countenance, and understanding dark sentences, shall stand up.
@@ -256,7 +256,7 @@ Daniel
 [9:4] And I prayed unto the LORD my God, and made my confession, and said, O Lord, the great and dreadful God, keeping the covenant and mercy to them that love him, and to them that keep his commandments;
 [9:5] We have sinned, and have committed iniquity, and have done wickedly, and have rebelled, even by departing from your precepts and from your judgments:
 [9:6] Neither have we hearkened unto your servants the prophets, which spake in your name to our kings, our princes, and our fathers, and to all the people of the land.
-[9:7] O LORD, righteousness belongeth unto you, but unto us confusion of faces, as at this day; to the men of Judah, and to the inhabitants of Jerusalem, and unto all Israel, that are near, and that are far off, through all the countries whither you hast driven them, because of their trespass that they have trespassed against you.
+[9:7] O LORD, righteousness belongeth unto you, but unto us confusion of faces, as at this day; to the men of Judah, and to the inhabitants of Jerusalem, and unto all Israel, that are near, and that are far off, through all the countries whither you have driven them, because of their trespass that they have trespassed against you.
 [9:8] O Lord, to us belongeth confusion of face, to our kings, to our princes, and to our fathers, because we have sinned against you.
 [9:9] To the Lord our God belong mercies and forgivenesses, though we have rebelled against him;
 [9:10] Neither have we obeyed the voice of the LORD our God, to walk in his laws, which he set before us by his servants the prophets.
@@ -264,7 +264,7 @@ Daniel
 [9:12] And he hath confirmed his words, which he spake against us, and against our judges that judged us, by bringing upon us a great evil: for under the whole heaven hath not been done as hath been done upon Jerusalem.
 [9:13] As it is written in the law of Moses, all this evil is come upon us: yet made we not our prayer before the LORD our God, that we might turn from our iniquities, and understand your truth.
 [9:14] Therefore hath the LORD watched upon the evil, and brought it upon us: for the LORD our God is righteous in all his works which he doeth: for we obeyed not his voice.
-[9:15] And now, O Lord our God, that hast brought your people forth out of the land of Egypt with a mighty hand, and hast gotten you renown, as at this day; we have sinned, we have done wickedly.
+[9:15] And now, O Lord our God, that have brought your people forth out of the land of Egypt with a mighty hand, and have gotten you renown, as at this day; we have sinned, we have done wickedly.
 [9:16] O LORD, according to all your righteousness, I beseech you, let your anger and your fury be turned away from your city Jerusalem, your holy mountain: because for our sins, and for the iniquities of our fathers, Jerusalem and your people are become a reproach to all that are about us.
 [9:17] Now therefore, O our God, hear the prayer of your servant, and his supplications, and cause your face to shine upon your sanctuary that is desolate, for the Lord's sake.
 [9:18] O my God, incline your ear, and hear; open your eyes, and behold our desolations, and the city which is called by your name: for we do not present our supplications before you for our righteousnesses, but for your great mercies.
@@ -295,7 +295,7 @@ Daniel
 [10:16] And, behold, one like the similitude of the sons of men touched my lips: then I opened my mouth, and spake, and said unto him that stood before me, O my lord, by the vision my sorrows are turned upon me, and I have retained no strength.
 [10:17] For how can the servant of this my lord talk with this my lord? for as for me, straightway there remained no strength in me, neither is there breath left in me.
 [10:18] Then there came again and touched me one like the appearance of a man, and he strengthened me,
-[10:19] And said, O man greatly beloved, fear not: peace be unto you, be strong, yea, be strong. And when he had spoken unto me, I was strengthened, and said, Let my lord speak; for you hast strengthened me.
+[10:19] And said, O man greatly beloved, fear not: peace be unto you, be strong, yea, be strong. And when he had spoken unto me, I was strengthened, and said, Let my lord speak; for you have strengthened me.
 [10:20] Then said he, Knowest you wherefore I come unto you? and now will I return to fight with the prince of Persia: and when I am gone forth, lo, the prince of Grecia shall come.
 [10:21] But I will shew you that which is noted in the scripture of truth: and there is none that holdeth with me in these things, but Michael your prince.
 [11:1] Also I in the first year of Darius the Mede, even I, stood to confirm and to strengthen him.

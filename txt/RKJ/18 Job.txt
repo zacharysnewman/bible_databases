@@ -5,10 +5,10 @@ Job
 [1:4] And his sons went and feasted in their houses, every one his day; and sent and called for their three sisters to eat and to drink with them.
 [1:5] And it was so, when the days of their feasting were gone about, that Job sent and sanctified them, and rose up early in the morning, and offered burnt offerings according to the number of them all: for Job said, It may be that my sons have sinned, and cursed God in their hearts. Thus did Job continually.
 [1:6] Now there was a day when the sons of God came to present themselves before the LORD, and Satan came also among them.
-[1:7] And the LORD said unto Satan, Whence comest you? Then Satan answered the LORD, and said, From going to and fro in the earth, and from walking up and down in it.
-[1:8] And the LORD said unto Satan, Hast you considered my servant Job, that there is none like him in the earth, a perfect and an upright man, one that feareth God, and escheweth evil?
+[1:7] And the LORD said unto Satan, Whence come you? Then Satan answered the LORD, and said, From going to and fro in the earth, and from walking up and down in it.
+[1:8] And the LORD said unto Satan, Have you considered my servant Job, that there is none like him in the earth, a perfect and an upright man, one that feareth God, and escheweth evil?
 [1:9] Then Satan answered the LORD, and said, Doth Job fear God for nought?
-[1:10] Hast not you made an hedge about him, and about his house, and about all that he hath on every side? you hast blessed the work of his hands, and his substance is increased in the land.
+[1:10] Have not you made an hedge about him, and about his house, and about all that he hath on every side? you have blessed the work of his hands, and his substance is increased in the land.
 [1:11] But put forth your hand now, and touch all that he hath, and he will curse you to your face.
 [1:12] And the LORD said unto Satan, Behold, all that he hath is in your power; only upon himself put not forth your hand. So Satan went forth from the presence of the LORD.
 [1:13] And there was a day when his sons and his daughters were eating and drinking wine in their eldest brother's house:
@@ -22,8 +22,8 @@ Job
 [1:21] And said, Naked came I out of my mother's womb, and naked shall I return thither: the LORD gave, and the LORD hath taken away; blessed be the name of the LORD.
 [1:22] In all this Job sinned not, nor charged God foolishly.
 [2:1] Again there was a day when the sons of God came to present themselves before the LORD, and Satan came also among them to present himself before the LORD.
-[2:2] And the LORD said unto Satan, From whence comest you? And Satan answered the LORD, and said, From going to and fro in the earth, and from walking up and down in it.
-[2:3] And the LORD said unto Satan, Hast you considered my servant Job, that there is none like him in the earth, a perfect and an upright man, one that feareth God, and escheweth evil? and still he holdeth fast his integrity, although you movedst me against him, to destroy him without cause.
+[2:2] And the LORD said unto Satan, From whence come you? And Satan answered the LORD, and said, From going to and fro in the earth, and from walking up and down in it.
+[2:3] And the LORD said unto Satan, Have you considered my servant Job, that there is none like him in the earth, a perfect and an upright man, one that feareth God, and escheweth evil? and still he holdeth fast his integrity, although you movedst me against him, to destroy him without cause.
 [2:4] And Satan answered the LORD, and said, Skin for skin, yea, all that a man hath will he give for his life.
 [2:5] But put forth your hand now, and touch his bone and his flesh, and he will curse you to your face.
 [2:6] And the LORD said unto Satan, Behold, he is in your hand; but save his life.
@@ -62,8 +62,8 @@ Job
 [3:26] I was not in safety, neither had I rest, neither was I quiet; yet trouble came.
 [4:1] Then Eliphaz the Temanite answered and said,
 [4:2] If we assay to commune with you, wilt you be grieved? but who can withhold himself from speaking?
-[4:3] Behold, you hast instructed many, and you hast strengthened the weak hands.
-[4:4] Your words have upholden him that was falling, and you hast strengthened the feeble knees.
+[4:3] Behold, you have instructed many, and you have strengthened the weak hands.
+[4:4] Your words have upholden him that was falling, and you have strengthened the feeble knees.
 [4:5] But now it is come upon you, and you faintest; it toucheth you, and you art troubled.
 [4:6] Is not this your fear, your confidence, your hope, and the uprightness of your ways?
 [4:7] Remember, I pray you, who ever perished, being innocent? or where were the righteous cut off?
@@ -154,10 +154,10 @@ Job
 [7:14] Then you scarest me with dreams, and terrifiest me through visions:
 [7:15] So that my soul chooseth strangling, and death rather than my life.
 [7:16] I loathe it; I would not live alway: let me alone; for my days are vanity.
-[7:17] What is man, that you shouldest magnify him? and that you shouldest set your heart upon him?
-[7:18] And that you shouldest visit him every morning, and try him every moment?
+[7:17] What is man, that you should magnify him? and that you should set your heart upon him?
+[7:18] And that you should visit him every morning, and try him every moment?
 [7:19] How long wilt you not depart from me, nor let me alone till I swallow down my spittle?
-[7:20] I have sinned; what shall I do unto you, O you preserver of men? why hast you set me as a mark against you, so that I am a burden to myself?
+[7:20] I have sinned; what shall I do unto you, O you preserver of men? why have you set me as a mark against you, so that I am a burden to myself?
 [7:21] And why dost you not pardon my transgression, and take away my iniquity? for now shall I sleep in the dust; and you shalt seek me in the morning, but I shall not be.
 [8:1] Then answered Bildad the Shuhite, and said,
 [8:2] How long wilt you speak these things? and how long shall the words of your mouth be like a strong wind?
@@ -192,7 +192,7 @@ Job
 [9:9] Which maketh Arcturus, Orion, and Pleiades, and the chambers of the south.
 [9:10] Which doeth great things past finding out; yea, and wonders without number.
 [9:11] Lo, he goeth by me, and I see him not: he passeth on also, but I perceive him not.
-[9:12] Behold, he taketh away, who can hinder him? who will say unto him, What doest you?
+[9:12] Behold, he taketh away, who can hinder him? who will say unto him, What do you?
 [9:13] If God will not withdraw his anger, the proud helpers do stoop under him.
 [9:14] How much less shall I answer him, and choose out my words to reason with him?
 [9:15] Whom, though I were righteous, yet would I not answer, but I would make supplication to my judge.
@@ -218,22 +218,22 @@ Job
 [9:35] Then would I speak, and not fear him; but it is not so with me.
 [10:1] My soul is weary of my life; I will leave my complaint upon myself; I will speak in the bitterness of my soul.
 [10:2] I will say unto God, Do not condemn me; shew me wherefore you contendest with me.
-[10:3] Is it good unto you that you shouldest oppress, that you shouldest despise the work of your hands, and shine upon the counsel of the wicked?
-[10:4] Hast you eyes of flesh? or seest you as man seeth?
+[10:3] Is it good unto you that you should oppress, that you should despise the work of your hands, and shine upon the counsel of the wicked?
+[10:4] Have you eyes of flesh? or see you as man seeth?
 [10:5] Are your days as the days of man? are your years as man's days,
 [10:6] That you enquirest after mine iniquity, and searchest after my sin?
 [10:7] You knowest that I am not wicked; and there is none that can deliver out of your hand.
 [10:8] Your hands have made me and fashioned me together round about; yet you dost destroy me.
-[10:9] Remember, I beseech you, that you hast made me as the clay; and wilt you bring me into dust again?
-[10:10] Hast you not poured me out as milk, and curdled me like cheese?
-[10:11] You hast clothed me with skin and flesh, and hast fenced me with bones and sinews.
-[10:12] You hast granted me life and favour, and your visitation hath preserved my spirit.
-[10:13] And these things hast you hid in your heart: I know that this is with you.
+[10:9] Remember, I beseech you, that you have made me as the clay; and wilt you bring me into dust again?
+[10:10] Have you not poured me out as milk, and curdled me like cheese?
+[10:11] You have clothed me with skin and flesh, and have fenced me with bones and sinews.
+[10:12] You have granted me life and favour, and your visitation hath preserved my spirit.
+[10:13] And these things have you hid in your heart: I know that this is with you.
 [10:14] If I sin, then you markest me, and you wilt not acquit me from mine iniquity.
 [10:15] If I be wicked, woe unto me; and if I be righteous, yet will I not lift up my head. I am full of confusion; therefore see you mine affliction;
 [10:16] For it increaseth. You huntest me as a fierce lion: and again you shewest thyself marvellous upon me.
 [10:17] You renewest your witnesses against me, and increasest your indignation upon me; changes and war are against me.
-[10:18] Wherefore then hast you brought me forth out of the womb? Oh that I had given up the ghost, and no eye had seen me!
+[10:18] Wherefore then have you brought me forth out of the womb? Oh that I had given up the ghost, and no eye had seen me!
 [10:19] I should have been as though I had not been; I should have been carried from the womb to the grave.
 [10:20] Are not my days few? cease then, and let me alone, that I may take comfort a little,
 [10:21] Before I go whence I shall not return, even to the land of darkness and the shadow of death;
@@ -241,7 +241,7 @@ Job
 [11:1] Then answered Zophar the Naamathite, and said,
 [11:2] Should not the multitude of words be answered? and should a man full of talk be justified?
 [11:3] Should your lies make men hold their peace? and when you mockest, shall no man make you ashamed?
-[11:4] For you hast said, My doctrine is pure, and I am clean in your eyes.
+[11:4] For you have said, My doctrine is pure, and I am clean in your eyes.
 [11:5] But oh that God would speak, and open his lips against you;
 [11:6] And that he would shew you the secrets of wisdom, that they are double to that which is! Know therefore that God exacteth of you less than your iniquity deserveth.
 [11:7] Canst you by searching find out God? canst you find out the Almighty unto perfection?
@@ -315,7 +315,7 @@ Job
 [14:2] He cometh forth like a flower, and is cut down: he fleeth also as a shadow, and continueth not.
 [14:3] And doth you open your eyes upon such an one, and bringest me into judgment with you?
 [14:4] Who can bring a clean thing out of an unclean? not one.
-[14:5] Seeing his days are determined, the number of his months are with you, you hast appointed his bounds that he cannot pass;
+[14:5] Seeing his days are determined, the number of his months are with you, you have appointed his bounds that he cannot pass;
 [14:6] Turn from him, that he may rest, till he shall accomplish, as an hireling, his day.
 [14:7] For there is hope of a tree, if it be cut down, that it will sprout again, and that the tender branch thereof will not cease.
 [14:8] Though the root thereof wax old in the earth, and the stock thereof die in the ground;
@@ -340,7 +340,7 @@ Job
 [15:5] For your mouth uttereth your iniquity, and you choosest the tongue of the crafty.
 [15:6] Your own mouth condemneth you, and not I: yea, your own lips testify against you.
 [15:7] Art you the first man that was born? or wast you made before the hills?
-[15:8] Hast you heard the secret of God? and dost you restrain wisdom to thyself?
+[15:8] Have you heard the secret of God? and dost you restrain wisdom to thyself?
 [15:9] What knowest you, that we know not? what understandest you, which is not in us?
 [15:10] With us are both the grayheaded and very aged men, much elder than your father.
 [15:11] Are the consolations of God small with you? is there any secret thing with you?
@@ -374,8 +374,8 @@ Job
 [16:4] I also could speak as you do: if your soul were in my soul's stead, I could heap up words against you, and shake mine head at you.
 [16:5] But I would strengthen you with my mouth, and the moving of my lips should asswage your grief.
 [16:6] Though I speak, my grief is not asswaged: and though I forbear, what am I eased?
-[16:7] But now he hath made me weary: you hast made desolate all my company.
-[16:8] And you hast filled me with wrinkles, which is a witness against me: and my leanness rising up in me beareth witness to my face.
+[16:7] But now he hath made me weary: you have made desolate all my company.
+[16:8] And you have filled me with wrinkles, which is a witness against me: and my leanness rising up in me beareth witness to my face.
 [16:9] He teareth me in his wrath, who hateth me: he gnasheth upon me with his teeth; mine enemy sharpeneth his eyes upon me.
 [16:10] They have gaped upon me with their mouth; they have smitten me upon the cheek reproachfully; they have gathered themselves together against me.
 [16:11] God hath delivered me to the ungodly, and turned me over into the hands of the wicked.
@@ -393,7 +393,7 @@ Job
 [17:1] My breath is corrupt, my days are extinct, the graves are ready for me.
 [17:2] Are there not mockers with me? and doth not mine eye continue in their provocation?
 [17:3] Lay down now, put me in a surety with you; who is he that will strike hands with me?
-[17:4] For you hast hid their heart from understanding: therefore shalt you not exalt them.
+[17:4] For you have hid their heart from understanding: therefore shalt you not exalt them.
 [17:5] He that speaketh flattery to his friends, even the eyes of his children shall fail.
 [17:6] He hath made me also a byword of the people; and aforetime I was as a tabret.
 [17:7] Mine eye also is dim by reason of sorrow, and all my members are as a shadow.
@@ -524,16 +524,16 @@ Job
 [22:3] Is it any pleasure to the Almighty, that you art righteous? or is it gain to him, that you makest your ways perfect?
 [22:4] Will he reprove you for fear of you? will he enter with you into judgment?
 [22:5] Is not your wickedness great? and your iniquities infinite?
-[22:6] For you hast taken a pledge from your brother for nought, and stripped the naked of their clothing.
-[22:7] You hast not given water to the weary to drink, and you hast withholden bread from the hungry.
+[22:6] For you have taken a pledge from your brother for nought, and stripped the naked of their clothing.
+[22:7] You have not given water to the weary to drink, and you have withholden bread from the hungry.
 [22:8] But as for the mighty man, he had the earth; and the honourable man dwelt in it.
-[22:9] You hast sent widows away empty, and the arms of the fatherless have been broken.
+[22:9] You have sent widows away empty, and the arms of the fatherless have been broken.
 [22:10] Therefore snares are round about you, and sudden fear troubleth you;
 [22:11] Or darkness, that you canst not see; and abundance of waters cover you.
 [22:12] Is not God in the height of heaven? and behold the height of the stars, how high they are!
 [22:13] And you sayest, How doth God know? can he judge through the dark cloud?
 [22:14] Thick clouds are a covering to him, that he seeth not; and he walketh in the circuit of heaven.
-[22:15] Hast you marked the old way which wicked men have trodden?
+[22:15] Have you marked the old way which wicked men have trodden?
 [22:16] Which were cut down out of time, whose foundation was overflown with a flood:
 [22:17] Which said unto God, Depart from us: and what can the Almighty do for them?
 [22:18] Yet he filled their houses with good things: but the counsel of the wicked is far from me.
@@ -598,9 +598,9 @@ Job
 [25:5] Behold even to the moon, and it shineth not; yea, the stars are not pure in his sight.
 [25:6] How much less man, that is a worm? and the son of man, which is a worm?
 [26:1] But Job answered and said,
-[26:2] How hast you helped him that is without power? how savest you the arm that hath no strength?
-[26:3] How hast you counselled him that hath no wisdom? and how hast you plentifully declared the thing as it is?
-[26:4] To whom hast you uttered words? and whose spirit came from you?
+[26:2] How have you helped him that is without power? how savest you the arm that hath no strength?
+[26:3] How have you counselled him that hath no wisdom? and how have you plentifully declared the thing as it is?
+[26:4] To whom have you uttered words? and whose spirit came from you?
 [26:5] Dead things are formed from under the waters, and the inhabitants thereof.
 [26:6] Hell is naked before him, and destruction hath no covering.
 [26:7] He stretcheth out the north over the empty place, and hangeth the earth upon nothing.
@@ -787,7 +787,7 @@ Job
 [33:5] If you canst answer me, set your words in order before me, stand up.
 [33:6] Behold, I am according to your wish in God's stead: I also am formed out of the clay.
 [33:7] Behold, my terror shall not make you afraid, neither shall my hand be heavy upon you.
-[33:8] Surely you hast spoken in mine hearing, and I have heard the voice of your words, saying,
+[33:8] Surely you have spoken in mine hearing, and I have heard the voice of your words, saying,
 [33:9] I am clean without transgression, I am innocent; neither is there iniquity in me.
 [33:10] Behold, he findeth occasions against me, he counteth me for his enemy,
 [33:11] He putteth my feet in the stocks, he marketh all my paths.
@@ -811,7 +811,7 @@ Job
 [33:29] Lo, all these things worketh God oftentimes with man,
 [33:30] To bring back his soul from the pit, to be enlightened with the light of the living.
 [33:31] Mark well, O Job, hearken unto me: hold your peace, and I will speak.
-[33:32] If you hast anything to say, answer me: speak, for I desire to justify you.
+[33:32] If you have anything to say, answer me: speak, for I desire to justify you.
 [33:33] If not, hearken unto me: hold your peace, and I shall teach you wisdom.
 [34:1] Furthermore Elihu answered and said,
 [34:2] Hear my words, O you wise men; and give ear unto me, you that have knowledge.
@@ -828,7 +828,7 @@ Job
 [34:13] Who hath given him a charge over the earth? or who hath disposed the whole world?
 [34:14] If he set his heart upon man, if he gather unto himself his spirit and his breath;
 [34:15] All flesh shall perish together, and man shall turn again unto dust.
-[34:16] If now you hast understanding, hear this: hearken to the voice of my words.
+[34:16] If now you have understanding, hear this: hearken to the voice of my words.
 [34:17] Shall even he that hateth right govern? and wilt you condemn him that is most just?
 [34:18] Is it fit to say to a king, You art wicked? and to princes, You are ungodly?
 [34:19] How much less to him that accepteth not the persons of princes, nor regardeth the rich more than the poor? for they all are the work of his hands.
@@ -855,7 +855,7 @@ Job
 [35:3] For you saidst, What advantage will it be unto you? and, What profit shall I have, if I be cleansed from my sin?
 [35:4] I will answer you, and your companions with you.
 [35:5] Look unto the heavens, and see; and behold the clouds which are higher than you.
-[35:6] If you sinnest, what doest you against him? or if your transgressions be multiplied, what doest you unto him?
+[35:6] If you sinnest, what do you against him? or if your transgressions be multiplied, what do you unto him?
 [35:7] If you be righteous, what givest you him? or what receiveth he of your hand?
 [35:8] Your wickedness may hurt a man as you art; and your righteousness may profit the son of man.
 [35:9] By reason of the multitude of oppressions they make the oppressed to cry: they cry out by reason of the arm of the mighty.
@@ -882,13 +882,13 @@ Job
 [36:14] They die in youth, and their life is among the unclean.
 [36:15] He delivereth the poor in his affliction, and openeth their ears in oppression.
 [36:16] Even so would he have removed you out of the strait into a broad place, where there is no straitness; and that which should be set on your table should be full of fatness.
-[36:17] But you hast fulfilled the judgment of the wicked: judgment and justice take hold on you.
+[36:17] But you have fulfilled the judgment of the wicked: judgment and justice take hold on you.
 [36:18] Because there is wrath, beware lest he take you away with his stroke: then a great ransom cannot deliver you.
 [36:19] Will he esteem your riches? no, not gold, nor all the forces of strength.
 [36:20] Desire not the night, when people are cut off in their place.
-[36:21] Take heed, regard not iniquity: for this hast you chosen rather than affliction.
+[36:21] Take heed, regard not iniquity: for this have you chosen rather than affliction.
 [36:22] Behold, God exalteth by his power: who teacheth like him?
-[36:23] Who hath enjoined him his way? or who can say, You hast wrought iniquity?
+[36:23] Who hath enjoined him his way? or who can say, You have wrought iniquity?
 [36:24] Remember that you magnify his work, which men behold.
 [36:25] Every man may see it; man may behold it afar off.
 [36:26] Behold, God is great, and we know him not, neither can the number of his years be searched out.
@@ -916,7 +916,7 @@ Job
 [37:15] Dost you know when God disposed them, and caused the light of his cloud to shine?
 [37:16] Dost you know the balancings of the clouds, the wondrous works of him which is perfect in knowledge?
 [37:17] How your garments are warm, when he quieteth the earth by the south wind?
-[37:18] Hast you with him spread out the sky, which is strong, and as a molten looking glass?
+[37:18] Have you with him spread out the sky, which is strong, and as a molten looking glass?
 [37:19] Teach us what we shall say unto him; for we cannot order our speech by reason of darkness.
 [37:20] Shall it be told him that I speak? if a man speak, surely he shall be swallowed up.
 [37:21] And now men see not the bright light which is in the clouds: but the wind passeth, and cleanseth them.
@@ -926,7 +926,7 @@ Job
 [38:1] Then the LORD answered Job out of the whirlwind, and said,
 [38:2] Who is this that darkeneth counsel by words without knowledge?
 [38:3] Gird up now your loins like a man; for I will demand of you, and answer you me.
-[38:4] Where wast you when I laid the foundations of the earth? declare, if you hast understanding.
+[38:4] Where wast you when I laid the foundations of the earth? declare, if you have understanding.
 [38:5] Who hath laid the measures thereof, if you knowest? or who hath stretched the line upon it?
 [38:6] Whereupon are the foundations thereof fastened? or who laid the corner stone thereof;
 [38:7] When the morning stars sang together, and all the sons of God shouted for joy?
@@ -934,17 +934,17 @@ Job
 [38:9] When I made the cloud the garment thereof, and thick darkness a swaddlingband for it,
 [38:10] And brake up for it my decreed place, and set bars and doors,
 [38:11] And said, Hitherto shalt you come, but no further: and here shall your proud waves be stayed?
-[38:12] Hast you commanded the morning since your days; and caused the dayspring to know his place;
+[38:12] Have you commanded the morning since your days; and caused the dayspring to know his place;
 [38:13] That it might take hold of the ends of the earth, that the wicked might be shaken out of it?
 [38:14] It is turned as clay to the seal; and they stand as a garment.
 [38:15] And from the wicked their light is withholden, and the high arm shall be broken.
-[38:16] Hast you entered into the springs of the sea? or hast you walked in the search of the depth?
-[38:17] Have the gates of death been opened unto you? or hast you seen the doors of the shadow of death?
-[38:18] Hast you perceived the breadth of the earth? declare if you knowest it all.
+[38:16] Have you entered into the springs of the sea? or have you walked in the search of the depth?
+[38:17] Have the gates of death been opened unto you? or have you seen the doors of the shadow of death?
+[38:18] Have you perceived the breadth of the earth? declare if you knowest it all.
 [38:19] Where is the way where light dwelleth? and as for darkness, where is the place thereof,
-[38:20] That you shouldest take it to the bound thereof, and that you shouldest know the paths to the house thereof?
+[38:20] That you should take it to the bound thereof, and that you should know the paths to the house thereof?
 [38:21] Knowest you it, because you wast then born? or because the number of your days is great?
-[38:22] Hast you entered into the treasures of the snow? or hast you seen the treasures of the hail,
+[38:22] Have you entered into the treasures of the snow? or have you seen the treasures of the hail,
 [38:23] Which I have reserved against the time of trouble, against the day of battle and war?
 [38:24] By what way is the light parted, which scattereth the east wind upon the earth?
 [38:25] Who hath divided a watercourse for the overflowing of waters, or a way for the lightning of thunder;
@@ -982,7 +982,7 @@ Job
 [39:16] She is hardened against her young ones, as though they were not her's: her labour is in vain without fear;
 [39:17] Because God hath deprived her of wisdom, neither hath he imparted to her understanding.
 [39:18] What time she lifteth up herself on high, she scorneth the horse and his rider.
-[39:19] Hast you given the horse strength? hast you clothed his neck with thunder?
+[39:19] Have you given the horse strength? have you clothed his neck with thunder?
 [39:20] Canst you make him afraid as a grasshopper? the glory of his nostrils is terrible.
 [39:21] He paweth in the valley, and rejoiceth in his strength: he goeth on to meet the armed men.
 [39:22] He mocketh at fear, and is not affrighted; neither turneth he back from the sword.
@@ -1001,8 +1001,8 @@ Job
 [40:5] Once have I spoken; but I will not answer: yea, twice; but I will proceed no further.
 [40:6] Then answered the LORD unto Job out of the whirlwind, and said,
 [40:7] Gird up your loins now like a man: I will demand of you, and declare you unto me.
-[40:8] Wilt you also disannul my judgment? wilt you condemn me, that you mayest be righteous?
-[40:9] Hast you an arm like God? or canst you thunder with a voice like him?
+[40:8] Wilt you also disannul my judgment? wilt you condemn me, that you may be righteous?
+[40:9] Have you an arm like God? or canst you thunder with a voice like him?
 [40:10] Deck thyself now with majesty and excellency; and array thyself with glory and beauty.
 [40:11] Cast abroad the rage of your wrath: and behold every one that is proud, and abase him.
 [40:12] Look on every one that is proud, and bring him low; and tread down the wicked in their place.

@@ -45,8 +45,8 @@ Genesis
 [2:13] And the name of the second river is Gihon: the same is it that compasseth the whole land of Ethiopia.
 [2:14] And the name of the third river is Hiddekel: that is it which goeth toward the east of Assyria. And the fourth river is Euphrates.
 [2:15] And the LORD God took the man, and put him into the garden of Eden to dress it and to keep it.
-[2:16] And the LORD God commanded the man, saying, Of every tree of the garden you mayest freely eat:
-[2:17] But of the tree of the knowledge of good and evil, you shalt not eat of it: for in the day that you eatest thereof you shalt surely die.
+[2:16] And the LORD God commanded the man, saying, Of every tree of the garden you may freely eat:
+[2:17] But of the tree of the knowledge of good and evil, you shalt not eat of it: for in the day that you eat thereof you shalt surely die.
 [2:18] And the LORD God said, It is not good that the man should be alone; I will make him an help meet for him.
 [2:19] And out of the ground the LORD God formed every beast of the field, and every fowl of the air; and brought them unto Adam to see what he would call them: and whatsoever Adam called every living creature, that was the name thereof.
 [2:20] And Adam gave names to all cattle, and to the fowl of the air, and to every beast of the field; but for Adam there was not found an help meet for him.
@@ -65,13 +65,13 @@ Genesis
 [3:8] And they heard the voice of the LORD God walking in the garden in the cool of the day: and Adam and his wife hid themselves from the presence of the LORD God amongst the trees of the garden.
 [3:9] And the LORD God called unto Adam, and said unto him, Where art you?
 [3:10] And he said, I heard your voice in the garden, and I was afraid, because I was naked; and I hid myself.
-[3:11] And he said, Who told you that you wast naked? Hast you eaten of the tree, whereof I commanded you that you shouldest not eat?
+[3:11] And he said, Who told you that you wast naked? Have you eaten of the tree, whereof I commanded you that you should not eat?
 [3:12] And the man said, The woman whom you gavest to be with me, she gave me of the tree, and I did eat.
-[3:13] And the LORD God said unto the woman, What is this that you hast done? And the woman said, The serpent beguiled me, and I did eat.
-[3:14] And the LORD God said unto the serpent, Because you hast done this, you art cursed above all cattle, and above every beast of the field; upon your belly shalt you go, and dust shalt you eat all the days of your life:
+[3:13] And the LORD God said unto the woman, What is this that you have done? And the woman said, The serpent beguiled me, and I did eat.
+[3:14] And the LORD God said unto the serpent, Because you have done this, you art cursed above all cattle, and above every beast of the field; upon your belly shalt you go, and dust shalt you eat all the days of your life:
 [3:15] And I will put enmity between you and the woman, and between your seed and her seed; it shall bruise your head, and you shalt bruise his heel.
 [3:16] Unto the woman he said, I will greatly multiply your sorrow and your conception; in sorrow you shalt bring forth children; and your desire shall be to your husband, and he shall rule over you.
-[3:17] And unto Adam he said, Because you hast hearkened unto the voice of your wife, and hast eaten of the tree, of which I commanded you, saying, You shalt not eat of it: cursed is the ground for your sake; in sorrow shalt you eat of it all the days of your life;
+[3:17] And unto Adam he said, Because you have hearkened unto the voice of your wife, and have eaten of the tree, of which I commanded you, saying, You shalt not eat of it: cursed is the ground for your sake; in sorrow shalt you eat of it all the days of your life;
 [3:18] Thorns also and thistles shall it bring forth to you; and you shalt eat the herb of the field;
 [3:19] In the sweat of your face shalt you eat bread, till you return unto the ground; for out of it wast you taken: for dust you art, and unto dust shalt you return.
 [3:20] And Adam called his wife's name Eve; because she was the mother of all living.
@@ -85,14 +85,14 @@ Genesis
 [4:4] And Abel, he also brought of the firstlings of his flock and of the fat thereof. And the LORD had respect unto Abel and to his offering:
 [4:5] But unto Cain and to his offering he had not respect. And Cain was very wroth, and his countenance fell.
 [4:6] And the LORD said unto Cain, Why art you wroth? and why is your countenance fallen?
-[4:7] If you doest well, shalt you not be accepted? and if you doest not well, sin lieth at the door. And unto you shall be his desire, and you shalt rule over him.
+[4:7] If you do well, shalt you not be accepted? and if you do not well, sin lieth at the door. And unto you shall be his desire, and you shalt rule over him.
 [4:8] And Cain talked with Abel his brother: and it came to pass, when they were in the field, that Cain rose up against Abel his brother, and slew him.
 [4:9] And the LORD said unto Cain, Where is Abel your brother? And he said, I know not: Am I my brother's keeper?
-[4:10] And he said, What hast you done? the voice of your brother's blood crieth unto me from the ground.
+[4:10] And he said, What have you done? the voice of your brother's blood crieth unto me from the ground.
 [4:11] And now art you cursed from the earth, which hath opened her mouth to receive your brother's blood from your hand;
-[4:12] When you tillest the ground, it shall not henceforth yield unto you her strength; a fugitive and a vagabond shalt you be in the earth.
+[4:12] When you till the ground, it shall not henceforth yield unto you her strength; a fugitive and a vagabond shalt you be in the earth.
 [4:13] And Cain said unto the LORD, My punishment is greater than I can bear.
-[4:14] Behold, you hast driven me out this day from the face of the earth; and from your face shall I be hid; and I shall be a fugitive and a vagabond in the earth; and it shall come to pass, that every one that findeth me shall slay me.
+[4:14] Behold, you have driven me out this day from the face of the earth; and from your face shall I be hid; and I shall be a fugitive and a vagabond in the earth; and it shall come to pass, that every one that findeth me shall slay me.
 [4:15] And the LORD said unto him, Therefore whosoever slayeth Cain, vengeance shall be taken on him sevenfold. And the LORD set a mark upon Cain, lest any finding him should kill him.
 [4:16] And Cain went out from the presence of the LORD, and dwelt in the land of Nod, on the east of Eden.
 [4:17] And Cain knew his wife; and she conceived, and bare Enoch: and he builded a city, and called the name of the city, after the name of his son, Enoch.
@@ -252,7 +252,7 @@ Genesis
 [10:16] And the Jebusite, and the Amorite, and the Girgasite,
 [10:17] And the Hivite, and the Arkite, and the Sinite,
 [10:18] And the Arvadite, and the Zemarite, and the Hamathite: and afterward were the families of the Canaanites spread abroad.
-[10:19] And the border of the Canaanites was from Sidon, as you comest to Gerar, unto Gaza; as you goest, unto Sodom, and Gomorrah, and Admah, and Zeboim, even unto Lasha.
+[10:19] And the border of the Canaanites was from Sidon, as you come to Gerar, unto Gaza; as you goest, unto Sodom, and Gomorrah, and Admah, and Zeboim, even unto Lasha.
 [10:20] These are the sons of Ham, after their families, after their tongues, in their countries, and in their nations.
 [10:21] Unto Shem also, the father of all the children of Eber, the brother of Japheth the elder, even to him were children born.
 [10:22] The children of Shem; Elam, and Asshur, and Arphaxad, and Lud, and Aram.
@@ -315,7 +315,7 @@ Genesis
 [12:15] The princes also of Pharaoh saw her, and commended her before Pharaoh: and the woman was taken into Pharaoh's house.
 [12:16] And he entreated Abram well for her sake: and he had sheep, and oxen, and he asses, and menservants, and maidservants, and she asses, and camels.
 [12:17] And the LORD plagued Pharaoh and his house with great plagues because of Sarai Abram's wife.
-[12:18] And Pharaoh called Abram and said, What is this that you hast done unto me? why didst you not tell me that she was your wife?
+[12:18] And Pharaoh called Abram and said, What is this that you have done unto me? why didst you not tell me that she was your wife?
 [12:19] Why saidst you, She is my sister? so I might have taken her to me to wife: now therefore behold your wife, take her, and go your way.
 [12:20] And Pharaoh commanded his men concerning him: and they sent him away, and his wife, and all that he had.
 [13:1] And Abram went up out of Egypt, he, and his wife, and all that he had, and Lot with him, into the south.
@@ -327,12 +327,12 @@ Genesis
 [13:7] And there was a strife between the herdmen of Abram's cattle and the herdmen of Lot's cattle: and the Canaanite and the Perizzite dwelled then in the land.
 [13:8] And Abram said unto Lot, Let there be no strife, I pray you, between me and you, and between my herdmen and your herdmen; for we be brethren.
 [13:9] Is not the whole land before you? separate thyself, I pray you, from me: if you wilt take the left hand, then I will go to the right; or if you depart to the right hand, then I will go to the left.
-[13:10] And Lot lifted up his eyes, and beheld all the plain of Jordan, that it was well watered every where, before the LORD destroyed Sodom and Gomorrah, even as the garden of the LORD, like the land of Egypt, as you comest unto Zoar.
+[13:10] And Lot lifted up his eyes, and beheld all the plain of Jordan, that it was well watered every where, before the LORD destroyed Sodom and Gomorrah, even as the garden of the LORD, like the land of Egypt, as you come unto Zoar.
 [13:11] Then Lot chose him all the plain of Jordan; and Lot journeyed east: and they separated themselves the one from the other.
 [13:12] Abram dwelled in the land of Canaan, and Lot dwelled in the cities of the plain, and pitched his tent toward Sodom.
 [13:13] But the men of Sodom were wicked and sinners before the LORD exceedingly.
 [13:14] And the LORD said unto Abram, after that Lot was separated from him, Lift up now your eyes, and look from the place where you art northward, and southward, and eastward, and westward:
-[13:15] For all the land which you seest, to you will I give it, and to your seed for ever.
+[13:15] For all the land which you see, to you will I give it, and to your seed for ever.
 [13:16] And I will make your seed as the dust of the earth: so that if a man can number the dust of the earth, then shall your seed also be numbered.
 [13:17] Arise, walk through the land in the length of it and in the breadth of it; for I will give it unto you.
 [13:18] Then Abram removed his tent, and came and dwelt in the plain of Mamre, which is in Hebron, and built there an altar unto the LORD.
@@ -358,11 +358,11 @@ Genesis
 [14:20] And blessed be the most high God, which hath delivered your enemies into your hand. And he gave him tithes of all.
 [14:21] And the king of Sodom said unto Abram, Give me the persons, and take the goods to thyself.
 [14:22] And Abram said to the king of Sodom, I have lift up mine hand unto the LORD, the most high God, the possessor of heaven and earth,
-[14:23] That I will not take from a thread even to a shoelatchet, and that I will not take any thing that is your, lest you shouldest say, I have made Abram rich:
+[14:23] That I will not take from a thread even to a shoelatchet, and that I will not take any thing that is your, lest you should say, I have made Abram rich:
 [14:24] Save only that which the young men have eaten, and the portion of the men which went with me, Aner, Eshcol, and Mamre; let them take their portion.
 [15:1] After these things the word of the LORD came unto Abram in a vision, saying, Fear not, Abram: I am your shield, and your exceeding great reward.
 [15:2] And Abram said, LORD God, what wilt you give me, seeing I go childless, and the steward of my house is this Eliezer of Damascus?
-[15:3] And Abram said, Behold, to me you hast given no seed: and, lo, one born in my house is mine heir.
+[15:3] And Abram said, Behold, to me you have given no seed: and, lo, one born in my house is mine heir.
 [15:4] And, behold, the word of the LORD came unto him, saying, This shall not be your heir; but he that shall come forth out of your own bowels shall be your heir.
 [15:5] And he brought him forth abroad, and said, Look now toward heaven, and tell the stars, if you be able to number them: and he said unto him, So shall your seed be.
 [15:6] And he believed in the LORD; and he counted it to him for righteousness.
@@ -393,7 +393,7 @@ Genesis
 [16:10] And the angel of the LORD said unto her, I will multiply your seed exceedingly, that it shall not be numbered for multitude.
 [16:11] And the angel of the LORD said unto her, Behold, you art with child and shalt bear a son, and shalt call his name Ishmael; because the LORD hath heard your affliction.
 [16:12] And he will be a wild man; his hand will be against every man, and every man's hand against him; and he shall dwell in the presence of all his brethren.
-[16:13] And she called the name of the LORD that spake unto her, You God seest me: for she said, Have I also here looked after him that seeth me?
+[16:13] And she called the name of the LORD that spake unto her, You God see me: for she said, Have I also here looked after him that seeth me?
 [16:14] Wherefore the well was called Beerlahairoi; behold, it is between Kadesh and Bered.
 [16:15] And Hagar bare Abram a son: and Abram called his son's name, which Hagar bare, Ishmael.
 [16:16] And Abram was fourscore and six years old, when Hagar bare Ishmael to Abram.
@@ -428,7 +428,7 @@ Genesis
 [18:2] And he lift up his eyes and looked, and, lo, three men stood by him: and when he saw them, he ran to meet them from the tent door, and bowed himself toward the ground,
 [18:3] And said, My LORD, if now I have found favor in your sight, pass not away, I pray you, from your servant:
 [18:4] Let a little water, I pray you, be fetched, and wash your feet, and rest yourselves under the tree:
-[18:5] And I will fetch a morsel of bread, and comfort you your hearts; after that you shall pass on: for therefore are you come to your servant. And they said, So do, as you hast said.
+[18:5] And I will fetch a morsel of bread, and comfort you your hearts; after that you shall pass on: for therefore are you come to your servant. And they said, So do, as you have said.
 [18:6] And Abraham hastened into the tent unto Sarah, and said, Make ready quickly three measures of fine meal, knead it, and make cakes upon the hearth.
 [18:7] And Abraham ran unto the herd, and fetched a calf tender and good, and gave it unto a young man; and he hasted to dress it.
 [18:8] And he took butter, and milk, and the calf which he had dressed, and set it before them; and he stood by them under the tree, and they did eat.
@@ -468,16 +468,16 @@ Genesis
 [19:9] And they said, Stand back. And they said again, This one fellow came in to sojourn, and he will needs be a judge: now will we deal worse with you, than with them. And they pressed sore upon the man, even Lot, and came near to break the door.
 [19:10] But the men put forth their hand, and pulled Lot into the house to them, and shut to the door.
 [19:11] And they smote the men that were at the door of the house with blindness, both small and great: so that they wearied themselves to find the door.
-[19:12] And the men said unto Lot, Hast you here any besides? son in law, and your sons, and your daughters, and whatsoever you hast in the city, bring them out of this place:
+[19:12] And the men said unto Lot, Have you here any besides? son in law, and your sons, and your daughters, and whatsoever you have in the city, bring them out of this place:
 [19:13] For we will destroy this place, because the cry of them is waxen great before the face of the LORD; and the LORD hath sent us to destroy it.
 [19:14] And Lot went out, and spake unto his sons in law, which married his daughters, and said, Up, get you out of this place; for the LORD will destroy this city. But he seemed as one that mocked unto his sons in law.
 [19:15] And when the morning arose, then the angels hastened Lot, saying, Arise, take your wife, and your two daughters, which are here; lest you be consumed in the iniquity of the city.
 [19:16] And while he lingered, the men laid hold upon his hand, and upon the hand of his wife, and upon the hand of his two daughters; the LORD being merciful unto him: and they brought him forth, and set him without the city.
 [19:17] And it came to pass, when they had brought them forth abroad, that he said, Escape for your life; look not behind you, neither stay you in all the plain; escape to the mountain, lest you be consumed.
 [19:18] And Lot said unto them, Oh, not so, my LORD:
-[19:19] Behold now, your servant hath found grace in your sight, and you hast magnified your mercy, which you hast showed unto me in saving my life; and I cannot escape to the mountain, lest some evil take me, and I die:
+[19:19] Behold now, your servant hath found grace in your sight, and you have magnified your mercy, which you have showed unto me in saving my life; and I cannot escape to the mountain, lest some evil take me, and I die:
 [19:20] Behold now, this city is near to flee unto, and it is a little one: Oh, let me escape thither, (is it not a little one?) and my soul shall live.
-[19:21] And he said unto him, See, I have accepted you concerning this thing also, that I will not overthrow this city, for the which you hast spoken.
+[19:21] And he said unto him, See, I have accepted you concerning this thing also, that I will not overthrow this city, for the which you have spoken.
 [19:22] Haste you, escape thither; for I cannot do anything till you be come thither. Therefore the name of the city was called Zoar.
 [19:23] The sun was risen upon the earth when Lot entered into Zoar.
 [19:24] Then the LORD rained upon Sodom and upon Gomorrah brimstone and fire from the LORD out of heaven;
@@ -497,14 +497,14 @@ Genesis
 [19:38] And the younger, she also bare a son, and called his name Benammi: the same is the father of the children of Ammon unto this day.
 [20:1] And Abraham journeyed from thence toward the south country, and dwelled between Kadesh and Shur, and sojourned in Gerar.
 [20:2] And Abraham said of Sarah his wife, She is my sister: and Abimelech king of Gerar sent, and took Sarah.
-[20:3] But God came to Abimelech in a dream by night, and said to him, Behold, you art but a dead man, for the woman which you hast taken; for she is a man's wife.
+[20:3] But God came to Abimelech in a dream by night, and said to him, Behold, you art but a dead man, for the woman which you have taken; for she is a man's wife.
 [20:4] But Abimelech had not come near her: and he said, LORD, wilt you slay also a righteous nation?
 [20:5] Said he not unto me, She is my sister? and she, even she herself said, He is my brother: in the integrity of my heart and innocency of my hands have I done this.
 [20:6] And God said unto him in a dream, Yea, I know that you didst this in the integrity of your heart; for I also withheld you from sinning against me: therefore suffered I you not to touch her.
 [20:7] Now therefore restore the man his wife; for he is a prophet, and he shall pray for you, and you shalt live: and if you restore her not, know you that you shalt surely die, you, and all that are your.
 [20:8] Therefore Abimelech rose early in the morning, and called all his servants, and told all these things in their ears: and the men were sore afraid.
-[20:9] Then Abimelech called Abraham, and said unto him, What hast you done unto us? and what have I offended you, that you hast brought on me and on my kingdom a great sin? you hast done deeds unto me that ought not to be done.
-[20:10] And Abimelech said unto Abraham, What sawest you, that you hast done this thing?
+[20:9] Then Abimelech called Abraham, and said unto him, What have you done unto us? and what have I offended you, that you have brought on me and on my kingdom a great sin? you have done deeds unto me that ought not to be done.
+[20:10] And Abimelech said unto Abraham, What saw you, that you have done this thing?
 [20:11] And Abraham said, Because I thought, Surely the fear of God is not in this place; and they will slay me for my wife's sake.
 [20:12] And yet indeed she is my sister; she is the daughter of my father, but not the daughter of my mother; and she became my wife.
 [20:13] And it came to pass, when God caused me to wander from my father's house, that I said unto her, This is your kindness which you shalt show unto me; at every place whither we shall come, say of me, He is my brother.
@@ -534,21 +534,21 @@ Genesis
 [21:19] And God opened her eyes, and she saw a well of water; and she went, and filled the bottle with water, and gave the lad drink.
 [21:20] And God was with the lad; and he grew, and dwelt in the wilderness, and became an archer.
 [21:21] And he dwelt in the wilderness of Paran: and his mother took him a wife out of the land of Egypt.
-[21:22] And it came to pass at that time, that Abimelech and Phichol the chief captain of his host spake unto Abraham, saying, God is with you in all that you doest:
-[21:23] Now therefore swear unto me here by God that you wilt not deal falsely with me, nor with my son, nor with my son's son: but according to the kindness that I have done unto you, you shalt do unto me, and to the land wherein you hast sojourned.
+[21:22] And it came to pass at that time, that Abimelech and Phichol the chief captain of his host spake unto Abraham, saying, God is with you in all that you do:
+[21:23] Now therefore swear unto me here by God that you wilt not deal falsely with me, nor with my son, nor with my son's son: but according to the kindness that I have done unto you, you shalt do unto me, and to the land wherein you have sojourned.
 [21:24] And Abraham said, I will swear.
 [21:25] And Abraham reproved Abimelech because of a well of water, which Abimelech's servants had violently taken away.
 [21:26] And Abimelech said, I wot not who hath done this thing; neither didst you tell me, neither yet heard I of it, but to day.
 [21:27] And Abraham took sheep and oxen, and gave them unto Abimelech; and both of them made a covenant.
 [21:28] And Abraham set seven ewe lambs of the flock by themselves.
-[21:29] And Abimelech said unto Abraham, What mean these seven ewe lambs which you hast set by themselves?
+[21:29] And Abimelech said unto Abraham, What mean these seven ewe lambs which you have set by themselves?
 [21:30] And he said, For these seven ewe lambs shalt you take of my hand, that they may be a witness unto me, that I have digged this well.
 [21:31] Wherefore he called that place Beersheba; because there they sware both of them.
 [21:32] Thus they made a covenant at Beersheba: then Abimelech rose up, and Phichol the chief captain of his host, and they returned into the land of the Philistines.
 [21:33] And Abraham planted a grove in Beersheba, and called there on the name of the LORD, the everlasting God.
 [21:34] And Abraham sojourned in the Philistines' land many days.
 [22:1] And it came to pass after these things, that God did tempt Abraham, and said unto him, Abraham: and he said, Behold, here I am.
-[22:2] And he said, Take now your son, your only son Isaac, whom you lovest, and get you into the land of Moriah; and offer him there for a burnt offering upon one of the mountains which I will tell you of.
+[22:2] And he said, Take now your son, your only son Isaac, whom you love, and get you into the land of Moriah; and offer him there for a burnt offering upon one of the mountains which I will tell you of.
 [22:3] And Abraham rose up early in the morning, and saddled his ass, and took two of his young men with him, and Isaac his son, and clave the wood for the burnt offering, and rose up, and went unto the place of which God had told him.
 [22:4] Then on the third day Abraham lifted up his eyes, and saw the place afar off.
 [22:5] And Abraham said unto his young men, Abide you here with the ass; and I and the lad will go yonder and worship, and come again to you.
@@ -558,13 +558,13 @@ Genesis
 [22:9] And they came to the place which God had told him of; and Abraham built an altar there, and laid the wood in order, and bound Isaac his son, and laid him on the altar upon the wood.
 [22:10] And Abraham stretched forth his hand, and took the knife to slay his son.
 [22:11] And the angel of the LORD called unto him out of heaven, and said, Abraham, Abraham: and he said, Here am I.
-[22:12] And he said, Lay not your hand upon the lad, neither do you any thing unto him: for now I know that you fearest God, seeing you hast not withheld your son, your only son from me.
+[22:12] And he said, Lay not your hand upon the lad, neither do you any thing unto him: for now I know that you fearest God, seeing you have not withheld your son, your only son from me.
 [22:13] And Abraham lifted up his eyes, and looked, and behold behind him a ram caught in a thicket by his horns: and Abraham went and took the ram, and offered him up for a burnt offering in the stead of his son.
 [22:14] And Abraham called the name of that place Jehovahjireh: as it is said to this day, In the mount of the LORD it shall be seen.
 [22:15] And the angel of the LORD called unto Abraham out of heaven the second time,
-[22:16] And said, By myself have I sworn, saith the LORD, for because you hast done this thing, and hast not withheld your son, your only son:
+[22:16] And said, By myself have I sworn, saith the LORD, for because you have done this thing, and have not withheld your son, your only son:
 [22:17] That in blessing I will bless you, and in multiplying I will multiply your seed as the stars of the heaven, and as the sand which is upon the sea shore; and your seed shall possess the gate of his enemies;
-[22:18] And in your seed shall all the nations of the earth be blessed; because you hast obeyed my voice.
+[22:18] And in your seed shall all the nations of the earth be blessed; because you have obeyed my voice.
 [22:19] So Abraham returned unto his young men, and they rose up and went together to Beersheba; and Abraham dwelt at Beersheba.
 [22:20] And it came to pass after these things, that it was told Abraham, saying, Behold, Milcah, she hath also born children unto your brother Nahor;
 [22:21] Huz his firstborn, and Buz his brother, and Kemuel the father of Aram,
@@ -576,7 +576,7 @@ Genesis
 [23:3] And Abraham stood up from before his dead, and spake unto the sons of Heth, saying,
 [23:4] I am a stranger and a sojourner with you: give me a possession of a buryingplace with you, that I may bury my dead out of my sight.
 [23:5] And the children of Heth answered Abraham, saying unto him,
-[23:6] Hear us, my lord: you art a mighty prince among us: in the choice of our sepulchres bury your dead; none of us shall withhold from you his sepulchre, but that you mayest bury your dead.
+[23:6] Hear us, my lord: you art a mighty prince among us: in the choice of our sepulchres bury your dead; none of us shall withhold from you his sepulchre, but that you may bury your dead.
 [23:7] And Abraham stood up, and bowed himself to the people of the land, even to the children of Heth.
 [23:8] And he communed with them, saying, If it be your mind that I should bury my dead out of my sight; hear me, and entreat for me to Ephron the son of Zohar,
 [23:9] That he may give me the cave of Machpelah, which he hath, which is in the end of his field; for as much money as it is worth he shall give it me for a possession of a buryingplace amongst you.
@@ -604,7 +604,7 @@ Genesis
 [24:11] And he made his camels to kneel down without the city by a well of water at the time of the evening, even the time that women go out to draw water.
 [24:12] And he said O LORD God of my master Abraham, I pray you, send me good speed this day, and show kindness unto my master Abraham.
 [24:13] Behold, I stand here by the well of water; and the daughters of the men of the city come out to draw water:
-[24:14] And let it come to pass, that the damsel to whom I shall say, Let down your pitcher, I pray you, that I may drink; and she shall say, Drink, and I will give your camels drink also: let the same be she that you hast appointed for your servant Isaac; and thereby shall I know that you hast showed kindness unto my master.
+[24:14] And let it come to pass, that the damsel to whom I shall say, Let down your pitcher, I pray you, that I may drink; and she shall say, Drink, and I will give your camels drink also: let the same be she that you have appointed for your servant Isaac; and thereby shall I know that you have showed kindness unto my master.
 [24:15] And it came to pass, before he had done speaking, that, behold, Rebekah came out, who was born to Bethuel, son of Milcah, the wife of Nahor, Abraham's brother, with her pitcher upon her shoulder.
 [24:16] And the damsel was very fair to look upon, a virgin, neither had any man known her: and she went down to the well, and filled her pitcher, and came up.
 [24:17] And the servant ran to meet her, and said, Let me, I pray you, drink a little water of your pitcher.
@@ -631,7 +631,7 @@ Genesis
 [24:38] But you shalt go unto my father's house, and to my kindred, and take a wife unto my son.
 [24:39] And I said unto my master, Peradventure the woman will not follow me.
 [24:40] And he said unto me, The LORD, before whom I walk, will send his angel with you, and prosper your way; and you shalt take a wife for my son of my kindred, and of my father's house:
-[24:41] Then shalt you be clear from this my oath, when you comest to my kindred; and if they give not you one, you shalt be clear from my oath.
+[24:41] Then shalt you be clear from this my oath, when you come to my kindred; and if they give not you one, you shalt be clear from my oath.
 [24:42] And I came this day unto the well, and said, O LORD God of my master Abraham, if now you do prosper my way which I go:
 [24:43] Behold, I stand by the well of water; and it shall come to pass, that when the virgin cometh forth to draw water, and I say to her, Give me, I pray you, a little water of your pitcher to drink;
 [24:44] And she say to me, Both drink you, and I will also draw for your camels: let the same be the woman whom the LORD hath appointed out for my master's son.
@@ -701,7 +701,7 @@ Genesis
 [26:7] And the men of the place asked him of his wife; and he said, She is my sister: for he feared to say, She is my wife; lest, said he, the men of the place should kill me for Rebekah; because she was fair to look upon.
 [26:8] And it came to pass, when he had been there a long time, that Abimelech king of the Philistines looked out at a window, and saw, and, behold, Isaac was sporting with Rebekah his wife.
 [26:9] And Abimelech called Isaac, and said, Behold, of a surety she is your wife; and how saidst you, She is my sister? And Isaac said unto him, Because I said, Lest I die for her.
-[26:10] And Abimelech said, What is this you hast done unto us? one of the people might lightly have lien with your wife, and you shouldest have brought guiltiness upon us.
+[26:10] And Abimelech said, What is this you have done unto us? one of the people might lightly have lien with your wife, and you should have brought guiltiness upon us.
 [26:11] And Abimelech charged all his people, saying, He that toucheth this man or his wife shall surely be put to death.
 [26:12] Then Isaac sowed in that land, and received in the same year an hundredfold: and the LORD blessed him.
 [26:13] And the man waxed great, and went forward, and grew until he became very great:
@@ -746,7 +746,7 @@ Genesis
 [27:17] And she gave the savory meat and the bread, which she had prepared, into the hand of her son Jacob.
 [27:18] And he came unto his father, and said, My father: and he said, Here am I; who art you, my son?
 [27:19] And Jacob said unto his father, I am Esau your first born; I have done according as you badest me: arise, I pray you, sit and eat of my venison, that your soul may bless me.
-[27:20] And Isaac said unto his son, How is it that you hast found it so quickly, my son? And he said, Because the LORD your God brought it to me.
+[27:20] And Isaac said unto his son, How is it that you have found it so quickly, my son? And he said, Because the LORD your God brought it to me.
 [27:21] And Isaac said unto Jacob, Come near, I pray you, that I may feel you, my son, whether you be my very son Esau or not.
 [27:22] And Jacob went near unto Isaac his father; and he felt him, and said, The voice is Jacob's voice, but the hands are the hands of Esau.
 [27:23] And he discerned him not, because his hands were hairy, as his brother Esau's hands: so he blessed him.
@@ -762,21 +762,21 @@ Genesis
 [27:33] And Isaac trembled very exceedingly, and said, Who? where is he that hath taken venison, and brought it me, and I have eaten of all before you camest, and have blessed him? yea, and he shall be blessed.
 [27:34] And when Esau heard the words of his father, he cried with a great and exceeding bitter cry, and said unto his father, Bless me, even me also, O my father.
 [27:35] And he said, Your brother came with subtilty, and hath taken away your blessing.
-[27:36] And he said, Is not he rightly named Jacob? for he hath supplanted me these two times: he took away my birthright; and, behold, now he hath taken away my blessing. And he said, Hast you not reserved a blessing for me?
+[27:36] And he said, Is not he rightly named Jacob? for he hath supplanted me these two times: he took away my birthright; and, behold, now he hath taken away my blessing. And he said, Have you not reserved a blessing for me?
 [27:37] And Isaac answered and said unto Esau, Behold, I have made him your lord, and all his brethren have I given to him for servants; and with corn and wine have I sustained him: and what shall I do now unto you, my son?
-[27:38] And Esau said unto his father, Hast you but one blessing, my father? bless me, even me also, O my father. And Esau lifted up his voice, and wept.
+[27:38] And Esau said unto his father, Have you but one blessing, my father? bless me, even me also, O my father. And Esau lifted up his voice, and wept.
 [27:39] And Isaac his father answered and said unto him, Behold, your dwelling shall be the fatness of the earth, and of the dew of heaven from above;
 [27:40] And by your sword shalt you live, and shalt serve your brother; and it shall come to pass when you shalt have the dominion, that you shalt break his yoke from off your neck.
 [27:41] And Esau hated Jacob because of the blessing wherewith his father blessed him: and Esau said in his heart, The days of mourning for my father are at hand; then will I slay my brother Jacob.
 [27:42] And these words of Esau her elder son were told to Rebekah: and she sent and called Jacob her younger son, and said unto him, Behold, your brother Esau, as touching you, doth comfort himself, purposing to kill you.
 [27:43] Now therefore, my son, obey my voice; arise, flee you to Laban my brother to Haran;
 [27:44] And tarry with him a few days, until your brother's fury turn away;
-[27:45] Until your brother's anger turn away from you, and he forget that which you hast done to him: then I will send, and fetch you from thence: why should I be deprived also of you both in one day?
+[27:45] Until your brother's anger turn away from you, and he forget that which you have done to him: then I will send, and fetch you from thence: why should I be deprived also of you both in one day?
 [27:46] And Rebekah said to Isaac, I am weary of my life because of the daughters of Heth: if Jacob take a wife of the daughters of Heth, such as these which are of the daughters of the land, what good shall my life do me?
 [28:1] And Isaac called Jacob, and blessed him, and charged him, and said unto him, You shalt not take a wife of the daughters of Canaan.
 [28:2] Arise, go to Padanaram, to the house of Bethuel your mother's father; and take you a wife from thence of the daughters of Laban your mother's brother.
-[28:3] And God Almighty bless you, and make you fruitful, and multiply you, that you mayest be a multitude of people;
-[28:4] And give you the blessing of Abraham, to you, and to your seed with you; that you mayest inherit the land wherein you art a stranger, which God gave unto Abraham.
+[28:3] And God Almighty bless you, and make you fruitful, and multiply you, that you may be a multitude of people;
+[28:4] And give you the blessing of Abraham, to you, and to your seed with you; that you may inherit the land wherein you art a stranger, which God gave unto Abraham.
 [28:5] And Isaac sent away Jacob: and he went to Padanaram unto Laban, son of Bethuel the Syrian, the brother of Rebekah, Jacob's and Esau's mother.
 [28:6] When Esau saw that Isaac had blessed Jacob, and sent him away to Padanaram, to take him a wife from thence; and that as he blessed him he gave him a charge, saying, You shalt not take a wife of the daughters of Canaan;
 [28:7] And that Jacob obeyed his father and his mother, and was gone to Padanaram;
@@ -809,7 +809,7 @@ Genesis
 [29:12] And Jacob told Rachel that he was her father's brother, and that he was Rebekah's son: and she ran and told her father.
 [29:13] And it came to pass, when Laban heard the tidings of Jacob his sister's son, that he ran to meet him, and embraced him, and kissed him, and brought him to his house. And he told Laban all these things.
 [29:14] And Laban said to him, Surely you art my bone and my flesh. And he abode with him the space of a month.
-[29:15] And Laban said unto Jacob, Because you art my brother, shouldest you therefore serve me for nought? tell me, what shall your wages be?
+[29:15] And Laban said unto Jacob, Because you art my brother, should you therefore serve me for nought? tell me, what shall your wages be?
 [29:16] And Laban had two daughters: the name of the elder was Leah, and the name of the younger was Rachel.
 [29:17] Leah was tender eyed; but Rachel was beautiful and well favored.
 [29:18] And Jacob loved Rachel; and said, I will serve you seven years for Rachel your younger daughter.
@@ -819,7 +819,7 @@ Genesis
 [29:22] And Laban gathered together all the men of the place, and made a feast.
 [29:23] And it came to pass in the evening, that he took Leah his daughter, and brought her to him; and he went in unto her.
 [29:24] And Laban gave unto his daughter Leah Zilpah his maid for an handmaid.
-[29:25] And it came to pass, that in the morning, behold, it was Leah: and he said to Laban, What is this you hast done unto me? did not I serve with you for Rachel? wherefore then hast you beguiled me?
+[29:25] And it came to pass, that in the morning, behold, it was Leah: and he said to Laban, What is this you have done unto me? did not I serve with you for Rachel? wherefore then have you beguiled me?
 [29:26] And Laban said, It must not be so done in our country, to give the younger before the firstborn.
 [29:27] Fulfil her week, and we will give you this also for the service which you shalt serve with me yet seven other years.
 [29:28] And Jacob did so, and fulfilled her week: and he gave him Rachel his daughter to wife also.
@@ -844,7 +844,7 @@ Genesis
 [30:12] And Zilpah Leah's maid bare Jacob a second son.
 [30:13] And Leah said, Happy am I, for the daughters will call me blessed: and she called his name Asher.
 [30:14] And Reuben went in the days of wheat harvest, and found mandrakes in the field, and brought them unto his mother Leah. Then Rachel said to Leah, Give me, I pray you, of your son's mandrakes.
-[30:15] And she said unto her, Is it a small matter that you hast taken my husband? and wouldest you take away my son's mandrakes also? And Rachel said, Therefore he shall lie with you to night for your son's mandrakes.
+[30:15] And she said unto her, Is it a small matter that you have taken my husband? and wouldest you take away my son's mandrakes also? And Rachel said, Therefore he shall lie with you to night for your son's mandrakes.
 [30:16] And Jacob came out of the field in the evening, and Leah went out to meet him, and said, You must come in unto me; for surely I have hired you with my son's mandrakes. And he lay with her that night.
 [30:17] And God hearkened unto Leah, and she conceived, and bare Jacob the fifth son.
 [30:18] And Leah said, God hath given me my hire, because I have given my maiden to my husband: and she called his name Issachar.
@@ -898,24 +898,24 @@ Genesis
 [31:23] And he took his brethren with him, and pursued after him seven days' journey; and they overtook him in the mount Gilead.
 [31:24] And God came to Laban the Syrian in a dream by night, and said unto him, Take heed that you speak not to Jacob either good or bad.
 [31:25] Then Laban overtook Jacob. Now Jacob had pitched his tent in the mount: and Laban with his brethren pitched in the mount of Gilead.
-[31:26] And Laban said to Jacob, What hast you done, that you hast stolen away unawares to me, and carried away my daughters, as captives taken with the sword?
+[31:26] And Laban said to Jacob, What have you done, that you have stolen away unawares to me, and carried away my daughters, as captives taken with the sword?
 [31:27] Wherefore didst you flee away secretly, and steal away from me; and didst not tell me, that I might have sent you away with mirth, and with songs, with tabret, and with harp?
-[31:28] And hast not suffered me to kiss my sons and my daughters? you hast now done foolishly in so doing.
+[31:28] And have not suffered me to kiss my sons and my daughters? you have now done foolishly in so doing.
 [31:29] It is in the power of my hand to do you hurt: but the God of your father spake unto me yesternight, saying, Take you heed that you speak not to Jacob either good or bad.
-[31:30] And now, though you wouldest needs be gone, because you sore longedst after your father's house, yet wherefore hast you stolen my gods?
+[31:30] And now, though you wouldest needs be gone, because you sore longedst after your father's house, yet wherefore have you stolen my gods?
 [31:31] And Jacob answered and said to Laban, Because I was afraid: for I said, Peradventure you wouldest take by force your daughters from me.
 [31:32] With whomsoever you findest your gods, let him not live: before our brethren discern you what is your with me, and take it to you. For Jacob knew not that Rachel had stolen them.
 [31:33] And Laban went into Jacob's tent, and into Leah's tent, and into the two maidservants' tents; but he found them not. Then went he out of Leah's tent, and entered into Rachel's tent.
 [31:34] Now Rachel had taken the images, and put them in the camel's furniture, and sat upon them. And Laban searched all the tent, but found them not.
 [31:35] And she said to her father, Let it not displease my lord that I cannot rise up before you; for the custom of women is upon me. And he searched but found not the images.
-[31:36] And Jacob was wroth, and chode with Laban: and Jacob answered and said to Laban, What is my trespass? what is my sin, that you hast so hotly pursued after me?
-[31:37] Whereas you hast searched all my stuff, what hast you found of all your household stuff? set it here before my brethren and your brethren, that they may judge betwixt us both.
+[31:36] And Jacob was wroth, and chode with Laban: and Jacob answered and said to Laban, What is my trespass? what is my sin, that you have so hotly pursued after me?
+[31:37] Whereas you have searched all my stuff, what have you found of all your household stuff? set it here before my brethren and your brethren, that they may judge betwixt us both.
 [31:38] This twenty years have I been with you; your ewes and your she goats have not cast their young, and the rams of your flock have I not eaten.
 [31:39] That which was torn of beasts I brought not unto you; I bare the loss of it; of my hand didst you require it, whether stolen by day, or stolen by night.
 [31:40] Thus I was; in the day the drought consumed me, and the frost by night; and my sleep departed from mine eyes.
-[31:41] Thus have I been twenty years in your house; I served you fourteen years for your two daughters, and six years for your cattle: and you hast changed my wages ten times.
+[31:41] Thus have I been twenty years in your house; I served you fourteen years for your two daughters, and six years for your cattle: and you have changed my wages ten times.
 [31:42] Except the God of my father, the God of Abraham, and the fear of Isaac, had been with me, surely you hadst sent me away now empty. God hath seen mine affliction and the labor of my hands, and rebuked you yesternight.
-[31:43] And Laban answered and said unto Jacob, These daughters are my daughters, and these children are my children, and these cattle are my cattle, and all that you seest is mine: and what can I do this day unto these my daughters, or unto their children which they have born?
+[31:43] And Laban answered and said unto Jacob, These daughters are my daughters, and these children are my children, and these cattle are my cattle, and all that you see is mine: and what can I do this day unto these my daughters, or unto their children which they have born?
 [31:44] Now therefore come you, let us make a covenant, I and you; and let it be for a witness between me and you.
 [31:45] And Jacob took a stone, and set it up for a pillar.
 [31:46] And Jacob said unto his brethren, Gather stones; and they took stones, and made an heap: and they did eat there upon the heap.
@@ -937,7 +937,7 @@ Genesis
 [32:7] Then Jacob was greatly afraid and distressed: and he divided the people that was with him, and the flocks, and herds, and the camels, into two bands;
 [32:8] And said, If Esau come to the one company, and smite it, then the other company which is left shall escape.
 [32:9] And Jacob said, O God of my father Abraham, and God of my father Isaac, the LORD which saidst unto me, Return unto your country, and to your kindred, and I will deal well with you:
-[32:10] I am not worthy of the least of all the mercies, and of all the truth, which you hast showed unto your servant; for with my staff I passed over this Jordan; and now I am become two bands.
+[32:10] I am not worthy of the least of all the mercies, and of all the truth, which you have showed unto your servant; for with my staff I passed over this Jordan; and now I am become two bands.
 [32:11] Deliver me, I pray you, from the hand of my brother, from the hand of Esau: for I fear him, lest he will come and smite me, and the mother with the children.
 [32:12] And you saidst, I will surely do you good, and make your seed as the sand of the sea, which cannot be numbered for multitude.
 [32:13] And he lodged there that same night; and took of that which came to his hand a present for Esau his brother;
@@ -955,7 +955,7 @@ Genesis
 [32:25] And when he saw that he prevailed not against him, he touched the hollow of his thigh; and the hollow of Jacob's thigh was out of joint, as he wrestled with him.
 [32:26] And he said, Let me go, for the day breaketh. And he said, I will not let you go, except you bless me.
 [32:27] And he said unto him, What is your name? And he said, Jacob.
-[32:28] And he said, Your name shall be called no more Jacob, but Israel: for as a prince hast you power with God and with men, and hast prevailed.
+[32:28] And he said, Your name shall be called no more Jacob, but Israel: for as a prince have you power with God and with men, and have prevailed.
 [32:29] And Jacob asked him, and said, Tell me, I pray you, your name. And he said, Wherefore is it that you dost ask after my name? And he blessed him there.
 [32:30] And Jacob called the name of the place Peniel: for I have seen God face to face, and my life is preserved.
 [32:31] And as he passed over Penuel the sun rose upon him, and he halted upon his thigh.
@@ -968,7 +968,7 @@ Genesis
 [33:6] Then the handmaidens came near, they and their children, and they bowed themselves.
 [33:7] And Leah also with her children came near, and bowed themselves: and after came Joseph near and Rachel, and they bowed themselves.
 [33:8] And he said, What meanest you by all this drove which I met? And he said, These are to find grace in the sight of my lord.
-[33:9] And Esau said, I have enough, my brother; keep that you hast unto thyself.
+[33:9] And Esau said, I have enough, my brother; keep that you have unto thyself.
 [33:10] And Jacob said, Nay, I pray you, if now I have found grace in your sight, then receive my present at my hand: for therefore I have seen your face, as though I had seen the face of God, and you wast pleased with me.
 [33:11] Take, I pray you, my blessing that is brought to you; because God hath dealt graciously with me, and because I have enough. And he urged him, and he took it.
 [33:12] And he said, Let us take our journey, and let us go, and I will go before you.
@@ -1092,7 +1092,7 @@ Genesis
 [37:7] For, behold, we were binding sheaves in the field, and, lo, my sheaf arose, and also stood upright; and, behold, your sheaves stood round about, and made obeisance to my sheaf.
 [37:8] And his brethren said to him, Shalt you indeed reign over us? or shalt you indeed have dominion over us? And they hated him yet the more for his dreams, and for his words.
 [37:9] And he dreamed yet another dream, and told it his brethren, and said, Behold, I have dreamed a dream more; and, behold, the sun and the moon and the eleven stars made obeisance to me.
-[37:10] And he told it to his father, and to his brethren: and his father rebuked him, and said unto him, What is this dream that you hast dreamed? Shall I and your mother and your brethren indeed come to bow down ourselves to you to the earth?
+[37:10] And he told it to his father, and to his brethren: and his father rebuked him, and said unto him, What is this dream that you have dreamed? Shall I and your mother and your brethren indeed come to bow down ourselves to you to the earth?
 [37:11] And his brethren envied him; but his father observed the saying.
 [37:12] And his brethren went to feed their father's flock in Shechem.
 [37:13] And Israel said unto Joseph, Do not your brethren feed the flock in Shechem? come, and I will send you unto them. And he said to him, Here am I.
@@ -1134,20 +1134,20 @@ Genesis
 [38:13] And it was told Tamar, saying, Behold your father in law goeth up to Timnath to shear his sheep.
 [38:14] And she put her widow's garments off from her, and covered her with a vail, and wrapped herself, and sat in an open place, which is by the way to Timnath; for she saw that Shelah was grown, and she was not given unto him to wife.
 [38:15] When Judah saw her, he thought her to be an harlot; because she had covered her face.
-[38:16] And he turned unto her by the way, and said, Go to, I pray you, let me come in unto you; (for he knew not that she was his daughter in law.) And she said, What wilt you give me, that you mayest come in unto me?
+[38:16] And he turned unto her by the way, and said, Go to, I pray you, let me come in unto you; (for he knew not that she was his daughter in law.) And she said, What wilt you give me, that you may come in unto me?
 [38:17] And he said, I will send you a kid from the flock. And she said, Wilt you give me a pledge, till you send it?
 [38:18] And he said, What pledge shall I give you? And she said, Your signet, and your bracelets, and your staff that is in your hand. And he gave it her, and came in unto her, and she conceived by him.
 [38:19] And she arose, and went away, and laid by her vail from her, and put on the garments of her widowhood.
 [38:20] And Judah sent the kid by the hand of his friend the Adullamite, to receive his pledge from the woman's hand: but he found her not.
 [38:21] Then he asked the men of that place, saying, Where is the harlot, that was openly by the way side? And they said, There was no harlot in this place.
 [38:22] And he returned to Judah, and said, I cannot find her; and also the men of the place said, that there was no harlot in this place.
-[38:23] And Judah said, Let her take it to her, lest we be shamed: behold, I sent this kid, and you hast not found her.
+[38:23] And Judah said, Let her take it to her, lest we be shamed: behold, I sent this kid, and you have not found her.
 [38:24] And it came to pass about three months after, that it was told Judah, saying, Tamar your daughter in law hath played the harlot; and also, behold, she is with child by whoredom. And Judah said, Bring her forth, and let her be burnt.
 [38:25] When she was brought forth, she sent to her father in law, saying, By the man, whose these are, am I with child: and she said, Discern, I pray you, whose are these, the signet, and bracelets, and staff.
 [38:26] And Judah acknowledged them, and said, She hath been more righteous than I; because that I gave her not to Shelah my son. And he knew her again no more.
 [38:27] And it came to pass in the time of her travail, that, behold, twins were in her womb.
 [38:28] And it came to pass, when she travailed, that the one put out his hand: and the midwife took and bound upon his hand a scarlet thread, saying, This came out first.
-[38:29] And it came to pass, as he drew back his hand, that, behold, his brother came out: and she said, How hast you broken forth? this breach be upon you: therefore his name was called Pharez.
+[38:29] And it came to pass, as he drew back his hand, that, behold, his brother came out: and she said, How have you broken forth? this breach be upon you: therefore his name was called Pharez.
 [38:30] And afterward came out his brother, that had the scarlet thread upon his hand: and his name was called Zarah.
 [39:1] And Joseph was brought down to Egypt; and Potiphar, an officer of Pharaoh, captain of the guard, an Egyptian, bought him of the hands of the Ishmaelites, which had brought him down thither.
 [39:2] And the LORD was with Joseph, and he was a prosperous man; and he was in the house of his master the Egyptian.
@@ -1165,7 +1165,7 @@ Genesis
 [39:14] That she called unto the men of her house, and spake unto them, saying, See, he hath brought in an Hebrew unto us to mock us; he came in unto me to lie with me, and I cried with a loud voice:
 [39:15] And it came to pass, when he heard that I lifted up my voice and cried, that he left his garment with me, and fled, and got him out.
 [39:16] And she laid up his garment by her, until his lord came home.
-[39:17] And she spake unto him according to these words, saying, The Hebrew servant, which you hast brought unto us, came in unto me to mock me:
+[39:17] And she spake unto him according to these words, saying, The Hebrew servant, which you have brought unto us, came in unto me to mock me:
 [39:18] And it came to pass, as I lifted up my voice and cried, that he left his garment with me, and fled out.
 [39:19] And it came to pass, when his master heard the words of his wife, which she spake unto him, saying, After this manner did your servant to me; that his wrath was kindled.
 [39:20] And Joseph's master took him, and put him into the prison, a place where the king's prisoners were bound: and he was there in the prison.
@@ -1367,8 +1367,8 @@ Genesis
 [45:7] And God sent me before you to preserve you a posterity in the earth, and to save your lives by a great deliverance.
 [45:8] So now it was not you that sent me hither, but God: and he hath made me a father to Pharaoh, and lord of all his house, and a ruler throughout all the land of Egypt.
 [45:9] Haste you, and go up to my father, and say unto him, Thus saith your son Joseph, God hath made me lord of all Egypt: come down unto me, tarry not:
-[45:10] And you shalt dwell in the land of Goshen, and you shalt be near unto me, you, and your children, and your children's children, and your flocks, and your herds, and all that you hast:
-[45:11] And there will I nourish you; for yet there are five years of famine; lest you, and your household, and all that you hast, come to poverty.
+[45:10] And you shalt dwell in the land of Goshen, and you shalt be near unto me, you, and your children, and your children's children, and your flocks, and your herds, and all that you have:
+[45:11] And there will I nourish you; for yet there are five years of famine; lest you, and your household, and all that you have, come to poverty.
 [45:12] And, behold, your eyes see, and the eyes of my brother Benjamin, that it is my mouth that speaketh unto you.
 [45:13] And you shall tell my father of all my glory in Egypt, and of all that you have seen; and you shall haste and bring down my father hither.
 [45:14] And he fell upon his brother Benjamin's neck, and wept; and Benjamin wept upon his neck.
@@ -1444,12 +1444,12 @@ Genesis
 [47:22] Only the land of the priests bought he not; for the priests had a portion assigned them of Pharaoh, and did eat their portion which Pharaoh gave them: wherefore they sold not their lands.
 [47:23] Then Joseph said unto the people, Behold, I have bought you this day and your land for Pharaoh: lo, here is seed for you, and you shall sow the land.
 [47:24] And it shall come to pass in the increase, that you shall give the fifth part unto Pharaoh, and four parts shall be your own, for seed of the field, and for your food, and for them of your households, and for food for your little ones.
-[47:25] And they said, You hast saved our lives: let us find grace in the sight of my lord, and we will be Pharaoh's servants.
+[47:25] And they said, You have saved our lives: let us find grace in the sight of my lord, and we will be Pharaoh's servants.
 [47:26] And Joseph made it a law over the land of Egypt unto this day, that Pharaoh should have the fifth part, except the land of the priests only, which became not Pharaoh's.
 [47:27] And Israel dwelt in the land of Egypt, in the country of Goshen; and they had possessions therein, and grew, and multiplied exceedingly.
 [47:28] And Jacob lived in the land of Egypt seventeen years: so the whole age of Jacob was an hundred forty and seven years.
 [47:29] And the time drew nigh that Israel must die: and he called his son Joseph, and said unto him, If now I have found grace in your sight, put, I pray you, your hand under my thigh, and deal kindly and truly with me; bury me not, I pray you, in Egypt:
-[47:30] But I will lie with my fathers, and you shalt carry me out of Egypt, and bury me in their buryingplace. And he said, I will do as you hast said.
+[47:30] But I will lie with my fathers, and you shalt carry me out of Egypt, and bury me in their buryingplace. And he said, I will do as you have said.
 [47:31] And he said, Swear unto me. And he sware unto him. And Israel bowed himself upon the bed's head.
 [48:1] And it came to pass after these things, that one told Joseph, Behold, your father is sick: and he took with him his two sons, Manasseh and Ephraim.
 [48:2] And one told Jacob, and said, Behold, your son Joseph cometh unto you: and Israel strengthened himself, and sat upon the bed.
