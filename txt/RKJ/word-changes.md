@@ -1,21 +1,21 @@
-thee, thou, ye -> you
-thy, thine -> your
-hast -> have
-mayest -> may
-tillest -> till
-eatest -> eat
-shouldest -> should
-doest -> do
-comest -> come
-seest -> see
-sawest -> saw
-lovest -> love
-fearest -> fear
-standest -> stand
-sayest -> say
-brethren -> brothers
-weepest -> weep
-whence, whither -> where
-wilt -> will
-saith -> says
-whosoever -> whoever
+- thee, thou, ye -> you
+- thy, thine -> your
+- hast -> have
+- mayest -> may
+- tillest -> till
+- eatest -> eat
+- shouldest -> should
+- doest -> do
+- comest -> come
+- seest -> see
+- sawest -> saw
+- lovest -> love
+- fearest -> fear
+- standest -> stand
+- sayest -> say
+- brethren -> brothers
+- weepest -> weep
+- whence, whither -> where
+- wilt -> will
+- saith -> says
+- whosoever -> whoever
