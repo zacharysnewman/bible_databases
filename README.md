@@ -1,4 +1,4 @@
-# Bible Versions and Cross-Reference Databases: mysql, sqlite, xml, csv, json, txt, md.
+# Public Domain Bible Versions
 
 https://scrollmapper.github.io/
 
