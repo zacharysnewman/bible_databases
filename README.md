@@ -6,4 +6,4 @@ Here you will find the following bible versions in txt format:
 - King James Version (KJV)
 - Refreshed King James version (RKJ)
 
-The KJV is in the public domain. The RKJ is subject to the license [here](https://github.com/zacharysnewman/refreshed-king-james/tree/main?tab=License-1-ov-file).
+The KJV is in the public domain. The RKJ is subject to the permissive license [here](https://github.com/zacharysnewman/refreshed-king-james/tree/main?tab=License-1-ov-file).
