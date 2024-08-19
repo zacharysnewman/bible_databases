@@ -12,3 +12,4 @@ sawest -> saw
 lovest -> love
 fearest -> fear
 standest -> stand
+sayest -> say

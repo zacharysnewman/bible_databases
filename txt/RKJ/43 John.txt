@@ -20,7 +20,7 @@ John
 [1:19] And this is the record of John, when the Jews sent priests and Levites from Jerusalem to ask him, Who art you?
 [1:20] And he confessed, and denied not; but confessed, I am not the Christ.
 [1:21] And they asked him, What then? Art you Elias? And he saith, I am not. Art you that prophet? And he answered, No.
-[1:22] Then said they unto him, Who art you? that we may give an answer to them that sent us. What sayest you of thyself?
+[1:22] Then said they unto him, Who art you? that we may give an answer to them that sent us. What say you of thyself?
 [1:23] He said, I am the voice of one crying in the wilderness, Make straight the way of the Lord, as said the prophet Esaias.
 [1:24] And they which were sent were of the Pharisees.
 [1:25] And they asked him, and said unto him, Why baptizest you then, if you be not that Christ, nor Elias, neither that prophet?
@@ -340,7 +340,7 @@ John
 [8:2] And early in the morning he came again into the temple, and all the people came unto him; and he sat down, and taught them.
 [8:3] And the scribes and Pharisees brought unto him a woman taken in adultery; and when they had set her in the midst,
 [8:4] They say unto him, Master, this woman was taken in adultery, in the very act.
-[8:5] Now Moses in the law commanded us, that such should be stoned: but what sayest you?
+[8:5] Now Moses in the law commanded us, that such should be stoned: but what say you?
 [8:6] This they said, tempting him, that they might have to accuse him. But Jesus stooped down, and with his finger wrote on the ground, as though he heard them not.
 [8:7] So when they continued asking him, he lifted up himself, and said unto them, He that is without sin among you, let him first cast a stone at her.
 [8:8] And again he stooped down, and wrote on the ground.
@@ -368,7 +368,7 @@ John
 [8:30] As he spake these words, many believed on him.
 [8:31] Then said Jesus to those Jews which believed on him, If you continue in my word, then are you my disciples indeed;
 [8:32] And you shall know the truth, and the truth shall make you free.
-[8:33] They answered him, We be Abraham's seed, and were never in bondage to any man: how sayest you, You shall be made free?
+[8:33] They answered him, We be Abraham's seed, and were never in bondage to any man: how say you, You shall be made free?
 [8:34] Jesus answered them, Verily, verily, I say unto you, Whosoever committeth sin is the servant of sin.
 [8:35] And the servant abideth not in the house for ever: but the Son abideth ever.
 [8:36] If the Son therefore shall make you free, you shall be free indeed.
@@ -387,7 +387,7 @@ John
 [8:49] Jesus answered, I have not a devil; but I honour my Father, and you do dishonour me.
 [8:50] And I seek not mine own glory: there is one that seeketh and judgeth.
 [8:51] Verily, verily, I say unto you, If a man keep my saying, he shall never see death.
-[8:52] Then said the Jews unto him, Now we know that you have a devil. Abraham is dead, and the prophets; and you sayest, If a man keep my saying, he shall never taste of death.
+[8:52] Then said the Jews unto him, Now we know that you have a devil. Abraham is dead, and the prophets; and you say, If a man keep my saying, he shall never taste of death.
 [8:53] Art you greater than our father Abraham, which is dead? and the prophets are dead: whom makest you thyself?
 [8:54] Jesus answered, If I honour myself, my honour is nothing: it is my Father that honoureth me; of whom you say, that he is your God:
 [8:55] Yet you have not known him; but I know him: and if I should say, I know him not, I shall be a liar like unto you: but I know him, and keep his saying.
@@ -411,7 +411,7 @@ John
 [9:14] And it was the sabbath day when Jesus made the clay, and opened his eyes.
 [9:15] Then again the Pharisees also asked him how he had received his sight. He said unto them, He put clay upon mine eyes, and I washed, and do see.
 [9:16] Therefore said some of the Pharisees, This man is not of God, because he keepeth not the sabbath day. Others said, How can a man that is a sinner do such miracles? And there was a division among them.
-[9:17] They say unto the blind man again, What sayest you of him, that he hath opened your eyes? He said, He is a prophet.
+[9:17] They say unto the blind man again, What say you of him, that he hath opened your eyes? He said, He is a prophet.
 [9:18] But the Jews did not believe concerning him, that he had been blind, and received his sight, until they called the parents of him that had received his sight.
 [9:19] And they asked them, saying, Is this your son, who you say was born blind? how then doth he now see?
 [9:20] His parents answered them and said, We know that this is our son, and that he was born blind:
@@ -568,7 +568,7 @@ John
 [12:31] Now is the judgment of this world: now shall the prince of this world be cast out.
 [12:32] And I, if I be lifted up from the earth, will draw all men unto me.
 [12:33] This he said, signifying what death he should die.
-[12:34] The people answered him, We have heard out of the law that Christ abideth for ever: and how sayest you, The Son of man must be lifted up? who is this Son of man?
+[12:34] The people answered him, We have heard out of the law that Christ abideth for ever: and how say you, The Son of man must be lifted up? who is this Son of man?
 [12:35] Then Jesus said unto them, Yet a little while is the light with you. Walk while you have the light, lest darkness come upon you: for he that walketh in darkness knoweth not whither he goeth.
 [12:36] While you have light, believe in the light, that you may be the children of light. These things spake Jesus, and departed, and did hide himself from them.
 [12:37] But though he had done so many miracles before them, yet they believed not on him:
@@ -631,7 +631,7 @@ John
 [14:6] Jesus saith unto him, I am the way, the truth, and the life: no man cometh unto the Father, but by me.
 [14:7] If you had known me, you should have known my Father also: and from henceforth you know him, and have seen him.
 [14:8] Philip saith unto him, Lord, shew us the Father, and it sufficeth us.
-[14:9] Jesus saith unto him, Have I been so long time with you, and yet have you not known me, Philip? he that hath seen me hath seen the Father; and how sayest you then, Shew us the Father?
+[14:9] Jesus saith unto him, Have I been so long time with you, and yet have you not known me, Philip? he that hath seen me hath seen the Father; and how say you then, Shew us the Father?
 [14:10] Believest you not that I am in the Father, and the Father in me? the words that I speak unto you I speak not of myself: but the Father that dwelleth in me, he doeth the works.
 [14:11] Believe me that I am in the Father, and the Father in me: or else believe me for the very works' sake.
 [14:12] Verily, verily, I say unto you, He that believeth on me, the works that I do shall he do also; and greater works than these shall he do; because I go unto my Father.
@@ -773,10 +773,10 @@ John
 [18:31] Then said Pilate unto them, Take you him, and judge him according to your law. The Jews therefore said unto him, It is not lawful for us to put any man to death:
 [18:32] That the saying of Jesus might be fulfilled, which he spake, signifying what death he should die.
 [18:33] Then Pilate entered into the judgment hall again, and called Jesus, and said unto him, Art you the King of the Jews?
-[18:34] Jesus answered him, Sayest you this thing of thyself, or did others tell it you of me?
+[18:34] Jesus answered him, Say you this thing of thyself, or did others tell it you of me?
 [18:35] Pilate answered, Am I a Jew? Your own nation and the chief priests have delivered you unto me: what have you done?
 [18:36] Jesus answered, My kingdom is not of this world: if my kingdom were of this world, then would my servants fight, that I should not be delivered to the Jews: but now is my kingdom not from hence.
-[18:37] Pilate therefore said unto him, Art you a king then? Jesus answered, You sayest that I am a king. To this end was I born, and for this cause came I into the world, that I should bear witness unto the truth. Every one that is of the truth heareth my voice.
+[18:37] Pilate therefore said unto him, Art you a king then? Jesus answered, You say that I am a king. To this end was I born, and for this cause came I into the world, that I should bear witness unto the truth. Every one that is of the truth heareth my voice.
 [18:38] Pilate saith unto him, What is truth? And when he had said this, he went out again unto the Jews, and saith unto them, I find in him no fault at all.
 [18:39] But you have a custom, that I should release unto you one at the passover: will you therefore that I release unto you the King of the Jews?
 [18:40] Then cried they all again, saying, Not this man, but Barabbas. Now Barabbas was a robber.

@@ -178,7 +178,7 @@ Mark
 [5:28] For she said, If I may touch but his clothes, I shall be whole.
 [5:29] And straightway the fountain of her blood was dried up; and she felt in her body that she was healed of that plague.
 [5:30] And Jesus, immediately knowing in himself that virtue had gone out of him, turned him about in the press, and said, Who touched my clothes?
-[5:31] And his disciples said unto him, You see the multitude thronging you, and sayest you, Who touched me?
+[5:31] And his disciples said unto him, You see the multitude thronging you, and say you, Who touched me?
 [5:32] And he looked round about to see her that had done this thing.
 [5:33] But the woman fearing and trembling, knowing what was done in her, came and fell down before him, and told him all the truth.
 [5:34] And he said unto her, Daughter, your faith hath made you whole; go in peace, and be whole of your plague.
@@ -605,13 +605,13 @@ Mark
 [14:65] And some began to spit on him, and to cover his face, and to buffet him, and to say unto him, Prophesy: and the servants did strike him with the palms of their hands.
 [14:66] And as Peter was beneath in the palace, there cometh one of the maids of the high priest:
 [14:67] And when she saw Peter warming himself, she looked upon him, and said, And you also wast with Jesus of Nazareth.
-[14:68] But he denied, saying, I know not, neither understand I what you sayest. And he went out into the porch; and the cock crew.
+[14:68] But he denied, saying, I know not, neither understand I what you say. And he went out into the porch; and the cock crew.
 [14:69] And a maid saw him again, and began to say to them that stood by, This is one of them.
 [14:70] And he denied it again. And a little after, they that stood by said again to Peter, Surely you art one of them: for you art a Galilaean, and your speech agreeth thereto.
 [14:71] But he began to curse and to swear, saying, I know not this man of whom you speak.
 [14:72] And the second time the cock crew. And Peter called to mind the word that Jesus said unto him, Before the cock crow twice, you shalt deny me thrice. And when he thought thereon, he wept.
 [15:1] And straightway in the morning the chief priests held a consultation with the elders and scribes and the whole council, and bound Jesus, and carried him away, and delivered him to Pilate.
-[15:2] And Pilate asked him, Art you the King of the Jews? And he answering said unto them, You sayest it.
+[15:2] And Pilate asked him, Art you the King of the Jews? And he answering said unto them, You say it.
 [15:3] And the chief priests accused him of many things: but he answered nothing.
 [15:4] And Pilate asked him again, saying, Answerest you nothing? behold how many things they witness against you.
 [15:5] But Jesus yet answered nothing; so that Pilate marvelled.

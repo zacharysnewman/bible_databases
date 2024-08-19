@@ -395,7 +395,7 @@ Luke
 [8:42] For he had one only daughter, about twelve years of age, and she lay a dying. But as he went the people thronged him.
 [8:43] And a woman having an issue of blood twelve years, which had spent all her living upon physicians, neither could be healed of any,
 [8:44] Came behind him, and touched the border of his garment: and immediately her issue of blood stanched.
-[8:45] And Jesus said, Who touched me? When all denied, Peter and they that were with him said, Master, the multitude throng you and press you, and sayest you, Who touched me?
+[8:45] And Jesus said, Who touched me? When all denied, Peter and they that were with him said, Master, the multitude throng you and press you, and say you, Who touched me?
 [8:46] And Jesus said, Somebody hath touched me: for I perceive that virtue is gone out of me.
 [8:47] And when the woman saw that she was not hid, she came trembling, and falling down before him, she declared unto him before all the people for what cause she had touched him, and how she was healed immediately.
 [8:48] And he said unto her, Daughter, be of good comfort: your faith hath made you whole; go in peace.
@@ -905,7 +905,7 @@ Luke
 [20:18] Whosoever shall fall upon that stone shall be broken; but on whomsoever it shall fall, it will grind him to powder.
 [20:19] And the chief priests and the scribes the same hour sought to lay hands on him; and they feared the people: for they perceived that he had spoken this parable against them.
 [20:20] And they watched him, and sent forth spies, which should feign themselves just men, that they might take hold of his words, that so they might deliver him unto the power and authority of the governor.
-[20:21] And they asked him, saying, Master, we know that you sayest and teachest rightly, neither acceptest you the person of any, but teachest the way of God truly:
+[20:21] And they asked him, saying, Master, we know that you say and teachest rightly, neither acceptest you the person of any, but teachest the way of God truly:
 [20:22] Is it lawful for us to give tribute unto Caesar, or no?
 [20:23] But he perceived their craftiness, and said unto them, Why tempt you me?
 [20:24] Shew me a penny. Whose image and superscription hath it? They answered and said, Caesar's.
@@ -1029,7 +1029,7 @@ Luke
 [22:57] And he denied him, saying, Woman, I know him not.
 [22:58] And after a little while another saw him, and said, You art also of them. And Peter said, Man, I am not.
 [22:59] And about the space of one hour after another confidently affirmed, saying, Of a truth this fellow also was with him: for he is a Galilaean.
-[22:60] And Peter said, Man, I know not what you sayest. And immediately, while he yet spake, the cock crew.
+[22:60] And Peter said, Man, I know not what you say. And immediately, while he yet spake, the cock crew.
 [22:61] And the Lord turned, and looked upon Peter. And Peter remembered the word of the Lord, how he had said unto him, Before the cock crow, you shalt deny me thrice.
 [22:62] And Peter went out, and wept bitterly.
 [22:63] And the men that held Jesus mocked him, and smote him.
@@ -1043,7 +1043,7 @@ Luke
 [22:71] And they said, What need we any further witness? for we ourselves have heard of his own mouth.
 [23:1] And the whole multitude of them arose, and led him unto Pilate.
 [23:2] And they began to accuse him, saying, We found this fellow perverting the nation, and forbidding to give tribute to Caesar, saying that he himself is Christ a King.
-[23:3] And Pilate asked him, saying, Art you the King of the Jews? And he answered him and said, You sayest it.
+[23:3] And Pilate asked him, saying, Art you the King of the Jews? And he answered him and said, You say it.
 [23:4] Then said Pilate to the chief priests and to the people, I find no fault in this man.
 [23:5] And they were the more fierce, saying, He stirreth up the people, teaching throughout all Jewry, beginning from Galilee to this place.
 [23:6] When Pilate heard of Galilee, he asked whether the man were a Galilaean.
