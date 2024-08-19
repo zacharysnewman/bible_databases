@@ -477,7 +477,7 @@ Isaiah
 [25:12] And the fortress of the high fort of your walls shall he bring down, lay low, and bring to the ground, even to the dust.
 [26:1] In that day shall this song be sung in the land of Judah; We have a strong city; salvation will God appoint for walls and bulwarks.
 [26:2] Open you the gates, that the righteous nation which keepeth the truth may enter in.
-[26:3] You wilt keep him in perfect peace, whose mind is stayed on you: because he trusteth in you.
+[26:3] You will keep him in perfect peace, whose mind is stayed on you: because he trusteth in you.
 [26:4] Trust you in the LORD for ever: for in the LORD JEHOVAH is everlasting strength:
 [26:5] For he bringeth down them that dwell on high; the lofty city, he layeth it low; he layeth it low, even to the ground; he bringeth it even to the dust.
 [26:6] The foot shall tread it down, even the feet of the poor, and the steps of the needy.
@@ -486,7 +486,7 @@ Isaiah
 [26:9] With my soul have I desired you in the night; yea, with my spirit within me will I seek you early: for when your judgments are in the earth, the inhabitants of the world will learn righteousness.
 [26:10] Let favour be shewed to the wicked, yet will he not learn righteousness: in the land of uprightness will he deal unjustly, and will not behold the majesty of the LORD.
 [26:11] LORD, when your hand is lifted up, they will not see: but they shall see, and be ashamed for their envy at the people; yea, the fire of your enemies shall devour them.
-[26:12] LORD, you wilt ordain peace for us: for you also have wrought all our works in us.
+[26:12] LORD, you will ordain peace for us: for you also have wrought all our works in us.
 [26:13] O LORD our God, other lords beside you have had dominion over us: but by you only will we make mention of your name.
 [26:14] They are dead, they shall not live; they are deceased, they shall not rise: therefore have you visited and destroyed them, and made all their memory to perish.
 [26:15] You have increased the nation, O LORD, you have increased the nation: you art glorified: you hadst removed it far unto all the ends of the earth.
@@ -503,7 +503,7 @@ Isaiah
 [27:5] Or let him take hold of my strength, that he may make peace with me; and he shall make peace with me.
 [27:6] He shall cause them that come of Jacob to take root: Israel shall blossom and bud, and fill the face of the world with fruit.
 [27:7] Hath he smitten him, as he smote those that smote him? or is he slain according to the slaughter of them that are slain by him?
-[27:8] In measure, when it shooteth forth, you wilt debate with it: he stayeth his rough wind in the day of the east wind.
+[27:8] In measure, when it shooteth forth, you will debate with it: he stayeth his rough wind in the day of the east wind.
 [27:9] By this therefore shall the iniquity of Jacob be purged; and this is all the fruit to take away his sin; when he maketh all the stones of the altar as chalkstones that are beaten in sunder, the groves and images shall not stand up.
 [27:10] Yet the defenced city shall be desolate, and the habitation forsaken, and left like a wilderness: there shall the calf feed, and there shall he lie down, and consume the branches thereof.
 [27:11] When the boughs thereof are withered, they shall be broken off: the women come, and set them on fire: for it is a people of no understanding: therefore he that made them will not have mercy on them, and he that formed them will shew them no favour.
@@ -683,7 +683,7 @@ Isaiah
 [36:6] Lo, you trustest in the staff of this broken reed, on Egypt; whereon if a man lean, it will go into his hand, and pierce it: so is Pharaoh king of Egypt to all that trust in him.
 [36:7] But if you say to me, We trust in the LORD our God: is it not he, whose high places and whose altars Hezekiah hath taken away, and said to Judah and to Jerusalem, You shall worship before this altar?
 [36:8] Now therefore give pledges, I pray you, to my master the king of Assyria, and I will give you two thousand horses, if you be able on your part to set riders upon them.
-[36:9] How then wilt you turn away the face of one captain of the least of my master's servants, and put your trust on Egypt for chariots and for horsemen?
+[36:9] How then will you turn away the face of one captain of the least of my master's servants, and put your trust on Egypt for chariots and for horsemen?
 [36:10] And am I now come up without the LORD against this land to destroy it? the LORD said unto me, Go up against this land, and destroy it.
 [36:11] Then said Eliakim and Shebna and Joah unto Rabshakeh, Speak, I pray you, unto your servants in the Syrian language; for we understand it: and speak not to us in the Jews' language, in the ears of the people that are on the wall.
 [36:12] But Rabshakeh said, Hath my master sent me to your master and to you to speak these words? hath he not sent me to the men that sit upon the wall, that they may eat their own dung, and drink their own piss with you?
@@ -746,11 +746,11 @@ Isaiah
 [38:9] The writing of Hezekiah king of Judah, when he had been sick, and was recovered of his sickness:
 [38:10] I said in the cutting off of my days, I shall go to the gates of the grave: I am deprived of the residue of my years.
 [38:11] I said, I shall not see the LORD, even the LORD, in the land of the living: I shall behold man no more with the inhabitants of the world.
-[38:12] Mine age is departed, and is removed from me as a shepherd's tent: I have cut off like a weaver my life: he will cut me off with pining sickness: from day even to night wilt you make an end of me.
-[38:13] I reckoned till morning, that, as a lion, so will he break all my bones: from day even to night wilt you make an end of me.
+[38:12] Mine age is departed, and is removed from me as a shepherd's tent: I have cut off like a weaver my life: he will cut me off with pining sickness: from day even to night will you make an end of me.
+[38:13] I reckoned till morning, that, as a lion, so will he break all my bones: from day even to night will you make an end of me.
 [38:14] Like a crane or a swallow, so did I chatter: I did mourn as a dove: mine eyes fail with looking upward: O LORD, I am oppressed; undertake for me.
 [38:15] What shall I say? he hath both spoken unto me, and himself hath done it: I shall go softly all my years in the bitterness of my soul.
-[38:16] O LORD, by these things men live, and in all these things is the life of my spirit: so wilt you recover me, and make me to live.
+[38:16] O LORD, by these things men live, and in all these things is the life of my spirit: so will you recover me, and make me to live.
 [38:17] Behold, for peace I had great bitterness: but you have in love to my soul delivered it from the pit of corruption: for you have cast all my sins behind your back.
 [38:18] For the grave cannot praise you, death can not celebrate you: they that go down into the pit cannot hope for your truth.
 [38:19] The living, the living, he shall praise you, as I do this day: the father to the children shall make known your truth.
@@ -1135,7 +1135,7 @@ Isaiah
 [58:2] Yet they seek me daily, and delight to know my ways, as a nation that did righteousness, and forsook not the ordinance of their God: they ask of me the ordinances of justice; they take delight in approaching to God.
 [58:3] Wherefore have we fasted, say they, and you see not? wherefore have we afflicted our soul, and you takest no knowledge? Behold, in the day of your fast you find pleasure, and exact all your labours.
 [58:4] Behold, you fast for strife and debate, and to smite with the fist of wickedness: you shall not fast as you do this day, to make your voice to be heard on high.
-[58:5] Is it such a fast that I have chosen? a day for a man to afflict his soul? is it to bow down his head as a bulrush, and to spread sackcloth and ashes under him? wilt you call this a fast, and an acceptable day to the LORD?
+[58:5] Is it such a fast that I have chosen? a day for a man to afflict his soul? is it to bow down his head as a bulrush, and to spread sackcloth and ashes under him? will you call this a fast, and an acceptable day to the LORD?
 [58:6] Is not this the fast that I have chosen? to loose the bands of wickedness, to undo the heavy burdens, and to let the oppressed go free, and that you break every yoke?
 [58:7] Is it not to deal your bread to the hungry, and that you bring the poor that are cast out to your house? when you see the naked, that you cover him; and that you hide not thyself from your own flesh?
 [58:8] Then shall your light break forth as the morning, and your health shall spring forth speedily: and your righteousness shall go before you; the glory of the LORD shall be your rereward.
@@ -1241,7 +1241,7 @@ Isaiah
 [64:9] Be not wroth very sore, O LORD, neither remember iniquity for ever: behold, see, we beseech you, we are all your people.
 [64:10] Your holy cities are a wilderness, Zion is a wilderness, Jerusalem a desolation.
 [64:11] Our holy and our beautiful house, where our fathers praised you, is burned up with fire: and all our pleasant things are laid waste.
-[64:12] Wilt you refrain thyself for these things, O LORD? wilt you hold your peace, and afflict us very sore?
+[64:12] Will you refrain thyself for these things, O LORD? will you hold your peace, and afflict us very sore?
 [65:1] I am sought of them that asked not for me; I am found of them that sought me not: I said, Behold me, behold me, unto a nation that was not called by my name.
 [65:2] I have spread out my hands all the day unto a rebellious people, which walketh in a way that was not good, after their own thoughts;
 [65:3] A people that provoketh me to anger continually to my face; that sacrificeth in gardens, and burneth incense upon altars of brick;

@@ -12,7 +12,7 @@ Judges
 [1:11] And from thence he went against the inhabitants of Debir: and the name of Debir before was Kirjathsepher:
 [1:12] And Caleb said, He that smiteth Kirjathsepher, and taketh it, to him will I give Achsah my daughter to wife.
 [1:13] And Othniel the son of Kenaz, Caleb's younger brother, took it: and he gave him Achsah his daughter to wife.
-[1:14] And it came to pass, when she came to him, that she moved him to ask of her father a field: and she lighted from off her ass; and Caleb said unto her, What wilt you?
+[1:14] And it came to pass, when she came to him, that she moved him to ask of her father a field: and she lighted from off her ass; and Caleb said unto her, What will you?
 [1:15] And she said unto him, Give me a blessing: for you have given me a south land; give me also springs of water. And Caleb gave her the upper springs and the nether springs.
 [1:16] And the children of the Kenite, Moses' father in law, went up out of the city of palm trees with the children of Judah into the wilderness of Judah, which lieth in the south of Arad; and they went and dwelt among the people.
 [1:17] And Judah went with Simeon his brother, and they slew the Canaanites that inhabited Zephath, and utterly destroyed it. And the name of the city was called Hormah.
@@ -96,7 +96,7 @@ Judges
 [4:5] And she dwelt under the palm tree of Deborah between Ramah and Bethel in mount Ephraim: and the children of Israel came up to her for judgment.
 [4:6] And she sent and called Barak the son of Abinoam out of Kedeshnaphtali, and said unto him, Hath not the LORD God of Israel commanded, saying, Go and draw toward mount Tabor, and take with you ten thousand men of the children of Naphtali and of the children of Zebulun?
 [4:7] And I will draw unto you to the river Kishon Sisera, the captain of Jabin's army, with his chariots and his multitude; and I will deliver him into your hand.
-[4:8] And Barak said unto her, If you wilt go with me, then I will go: but if you wilt not go with me, then I will not go.
+[4:8] And Barak said unto her, If you will go with me, then I will go: but if you will not go with me, then I will not go.
 [4:9] And she said, I will surely go with you: notwithstanding the journey that you takest shall not be for your honor; for the LORD shall sell Sisera into the hand of a woman. And Deborah arose, and went with Barak to Kedesh.
 [4:10] And Barak called Zebulun and Naphtali to Kedesh; and he went up with ten thousand men at his feet: and Deborah went up with him.
 [4:11] Now Heber the Kenite, which was of the children of Hobab the father in law of Moses, had severed himself from the Kenites, and pitched his tent unto the plain of Zaanaim, which is by Kedesh.
@@ -179,8 +179,8 @@ Judges
 [6:33] Then all the Midianites and the Amalekites and the children of the east were gathered together, and went over, and pitched in the valley of Jezreel.
 [6:34] But the Spirit of the LORD came upon Gideon, and he blew a trumpet; and Abiezer was gathered after him.
 [6:35] And he sent messengers throughout all Manasseh; who also was gathered after him: and he sent messengers unto Asher, and unto Zebulun, and unto Naphtali; and they came up to meet them.
-[6:36] And Gideon said unto God, If you wilt save Israel by mine hand, as you have said,
-[6:37] Behold, I will put a fleece of wool in the floor; and if the dew be on the fleece only, and it be dry upon all the earth beside, then shall I know that you wilt save Israel by mine hand, as you have said.
+[6:36] And Gideon said unto God, If you will save Israel by mine hand, as you have said,
+[6:37] Behold, I will put a fleece of wool in the floor; and if the dew be on the fleece only, and it be dry upon all the earth beside, then shall I know that you will save Israel by mine hand, as you have said.
 [6:38] And it was so: for he rose up early on the morrow, and thrust the fleece together, and wringed the dew out of the fleece, a bowl full of water.
 [6:39] And Gideon said unto God, Let not your anger be hot against me, and I will speak but this once: let me prove, I pray you, but this once with the fleece; let it now be dry only upon the fleece, and upon all the ground let there be dew.
 [6:40] And God did so that night: for it was dry upon the fleece only, and there was dew on all the ground.
@@ -342,7 +342,7 @@ Judges
 [11:21] And the LORD God of Israel delivered Sihon and all his people into the hand of Israel, and they smote them: so Israel possessed all the land of the Amorites, the inhabitants of that country.
 [11:22] And they possessed all the coasts of the Amorites, from Arnon even unto Jabbok, and from the wilderness even unto Jordan.
 [11:23] So now the LORD God of Israel hath dispossessed the Amorites from before his people Israel, and should you possess it?
-[11:24] Wilt not you possess that which Chemosh your god giveth you to possess? So whomsoever the LORD our God shall drive out from before us, them will we possess.
+[11:24] Will not you possess that which Chemosh your god giveth you to possess? So whomsoever the LORD our God shall drive out from before us, them will we possess.
 [11:25] And now art you any thing better than Balak the son of Zippor, king of Moab? did he ever strive against Israel, or did he ever fight against them,
 [11:26] While Israel dwelt in Heshbon and her towns, and in Aroer and her towns, and in all the cities that be along by the coasts of Arnon, three hundred years? why therefore did you not recover them within that time?
 [11:27] Wherefore I have not sinned against you, but you do me wrong to war against me: the LORD the Judge be judge this day between the children of Israel and the children of Ammon.
@@ -389,7 +389,7 @@ Judges
 [13:13] And the angel of the LORD said unto Manoah, Of all that I said unto the woman let her beware.
 [13:14] She may not eat of any thing that cometh of the vine, neither let her drink wine or strong drink, nor eat any unclean thing: all that I commanded her let her observe.
 [13:15] And Manoah said unto the angel of the LORD, I pray you, let us detain you, until we shall have made ready a kid for you.
-[13:16] And the angel of the LORD said unto Manoah, Though you detain me, I will not eat of your bread: and if you wilt offer a burnt offering, you must offer it unto the LORD. For Manoah knew not that he was an angel of the LORD.
+[13:16] And the angel of the LORD said unto Manoah, Though you detain me, I will not eat of your bread: and if you will offer a burnt offering, you must offer it unto the LORD. For Manoah knew not that he was an angel of the LORD.
 [13:17] And Manoah said unto the angel of the LORD, What is your name, that when your sayings come to pass we may do you honor?
 [13:18] And the angel of the LORD said unto him, Why askest you thus after my name, seeing it is secret?
 [13:19] So Manoah took a kid with a meat offering, and offered it upon a rock unto the LORD: and the angel did wonderously; and Manoah and his wife looked on.

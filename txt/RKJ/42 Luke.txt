@@ -175,7 +175,7 @@ Luke
 [4:4] And Jesus answered him, saying, It is written, That man shall not live by bread alone, but by every word of God.
 [4:5] And the devil, taking him up into an high mountain, shewed unto him all the kingdoms of the world in a moment of time.
 [4:6] And the devil said unto him, All this power will I give you, and the glory of them: for that is delivered unto me; and to whomsoever I will I give it.
-[4:7] If you therefore wilt worship me, all shall be your.
+[4:7] If you therefore will worship me, all shall be your.
 [4:8] And Jesus answered and said unto him, Get you behind me, Satan: for it is written, You shalt worship the Lord your God, and him only shalt you serve.
 [4:9] And he brought him to Jerusalem, and set him on a pinnacle of the temple, and said unto him, If you be the Son of God, cast thyself down from hence:
 [4:10] For it is written, He shall give his angels charge over you, to keep you:
@@ -224,7 +224,7 @@ Luke
 [5:9] For he was astonished, and all that were with him, at the draught of the fishes which they had taken:
 [5:10] And so was also James, and John, the sons of Zebedee, which were partners with Simon. And Jesus said unto Simon, Fear not; from henceforth you shalt catch men.
 [5:11] And when they had brought their ships to land, they forsook all, and followed him.
-[5:12] And it came to pass, when he was in a certain city, behold a man full of leprosy: who seeing Jesus fell on his face, and besought him, saying, Lord, if you wilt, you canst make me clean.
+[5:12] And it came to pass, when he was in a certain city, behold a man full of leprosy: who seeing Jesus fell on his face, and besought him, saying, Lord, if you will, you canst make me clean.
 [5:13] And he put forth his hand, and touched him, saying, I will: be you clean. And immediately the leprosy departed from him.
 [5:14] And he charged him to tell no man: but go, and shew thyself to the priest, and offer for your cleansing, according as Moses commanded, for a testimony unto them.
 [5:15] But so much the more went there a fame abroad of him: and great multitudes came together to hear, and to be healed by him of their infirmities.
@@ -460,7 +460,7 @@ Luke
 [9:51] And it came to pass, when the time was come that he should be received up, he stedfastly set his face to go to Jerusalem,
 [9:52] And sent messengers before his face: and they went, and entered into a village of the Samaritans, to make ready for him.
 [9:53] And they did not receive him, because his face was as though he would go to Jerusalem.
-[9:54] And when his disciples James and John saw this, they said, Lord, wilt you that we command fire to come down from heaven, and consume them, even as Elias did?
+[9:54] And when his disciples James and John saw this, they said, Lord, will you that we command fire to come down from heaven, and consume them, even as Elias did?
 [9:55] But he turned, and rebuked them, and said, You know not what manner of spirit you are of.
 [9:56] For the Son of man is not come to destroy men's lives, but to save them. And they went to another village.
 [9:57] And it came to pass, that, as they went in the way, a certain man said unto him, Lord, I will follow you whithersoever you goest.
@@ -834,7 +834,7 @@ Luke
 [18:38] And he cried, saying, Jesus, you son of David, have mercy on me.
 [18:39] And they which went before rebuked him, that he should hold his peace: but he cried so much the more, You son of David, have mercy on me.
 [18:40] And Jesus stood, and commanded him to be brought unto him: and when he was come near, he asked him,
-[18:41] Saying, What wilt you that I shall do unto you? And he said, Lord, that I may receive my sight.
+[18:41] Saying, What will you that I shall do unto you? And he said, Lord, that I may receive my sight.
 [18:42] And Jesus said unto him, Receive your sight: your faith hath saved you.
 [18:43] And immediately he received his sight, and followed him, glorifying God: and all the people, when they saw it, gave praise unto God.
 [19:1] And Jesus entered and passed through Jericho.
@@ -978,7 +978,7 @@ Luke
 [22:6] And he promised, and sought opportunity to betray him unto them in the absence of the multitude.
 [22:7] Then came the day of unleavened bread, when the passover must be killed.
 [22:8] And he sent Peter and John, saying, Go and prepare us the passover, that we may eat.
-[22:9] And they said unto him, Where wilt you that we prepare?
+[22:9] And they said unto him, Where will you that we prepare?
 [22:10] And he said unto them, Behold, when you are entered into the city, there shall a man meet you, bearing a pitcher of water; follow him into the house where he entereth in.
 [22:11] And you shall say unto the goodman of the house, The Master saith unto you, Where is the guestchamber, where I shall eat the passover with my disciples?
 [22:12] And he shall shew you a large upper room furnished: there make ready.

@@ -38,7 +38,7 @@ Mark
 [1:37] And when they had found him, they said unto him, All men seek for you.
 [1:38] And he said unto them, Let us go into the next towns, that I may preach there also: for therefore came I forth.
 [1:39] And he preached in their synagogues throughout all Galilee, and cast out devils.
-[1:40] And there came a leper to him, beseeching him, and kneeling down to him, and saying unto him, If you wilt, you canst make me clean.
+[1:40] And there came a leper to him, beseeching him, and kneeling down to him, and saying unto him, If you will, you canst make me clean.
 [1:41] And Jesus, moved with compassion, put forth his hand, and touched him, and saith unto him, I will; be you clean.
 [1:42] And as soon as he had spoken, immediately the leprosy departed from him, and he was cleansed.
 [1:43] And he straitly charged him, and forthwith sent him away;
@@ -212,7 +212,7 @@ Mark
 [6:19] Therefore Herodias had a quarrel against him, and would have killed him; but she could not:
 [6:20] For Herod feared John, knowing that he was a just man and an holy, and observed him; and when he heard him, he did many things, and heard him gladly.
 [6:21] And when a convenient day was come, that Herod on his birthday made a supper to his lords, high captains, and chief estates of Galilee;
-[6:22] And when the daughter of the said Herodias came in, and danced, and pleased Herod and them that sat with him, the king said unto the damsel, Ask of me whatsoever you wilt, and I will give it you.
+[6:22] And when the daughter of the said Herodias came in, and danced, and pleased Herod and them that sat with him, the king said unto the damsel, Ask of me whatsoever you will, and I will give it you.
 [6:23] And he sware unto her, Whatsoever you shalt ask of me, I will give it you, unto the half of my kingdom.
 [6:24] And she went forth, and said unto her mother, What shall I ask? And she said, The head of John the Baptist.
 [6:25] And she came in straightway with haste unto the king, and asked, saying, I will that you give me by and by in a charger the head of John the Baptist.
@@ -422,7 +422,7 @@ Mark
 [10:48] And many charged him that he should hold his peace: but he cried the more a great deal, You son of David, have mercy on me.
 [10:49] And Jesus stood still, and commanded him to be called. And they call the blind man, saying unto him, Be of good comfort, rise; he calleth you.
 [10:50] And he, casting away his garment, rose, and came to Jesus.
-[10:51] And Jesus answered and said unto him, What wilt you that I should do unto you? The blind man said unto him, Lord, that I might receive my sight.
+[10:51] And Jesus answered and said unto him, What will you that I should do unto you? The blind man said unto him, Lord, that I might receive my sight.
 [10:52] And Jesus said unto him, Go your way; your faith hath made you whole. And immediately he received his sight, and followed Jesus in the way.
 [11:1] And when they came nigh to Jerusalem, unto Bethphage and Bethany, at the mount of Olives, he sendeth forth two of his disciples,
 [11:2] And saith unto them, Go your way into the village over against you: and as soon as you be entered into it, you shall find a colt tied, whereon never man sat; loose him, and bring him.
@@ -549,7 +549,7 @@ Mark
 [14:9] Verily I say unto you, Wheresoever this gospel shall be preached throughout the whole world, this also that she hath done shall be spoken of for a memorial of her.
 [14:10] And Judas Iscariot, one of the twelve, went unto the chief priests, to betray him unto them.
 [14:11] And when they heard it, they were glad, and promised to give him money. And he sought how he might conveniently betray him.
-[14:12] And the first day of unleavened bread, when they killed the passover, his disciples said unto him, Where wilt you that we go and prepare that you may eat the passover?
+[14:12] And the first day of unleavened bread, when they killed the passover, his disciples said unto him, Where will you that we go and prepare that you may eat the passover?
 [14:13] And he sendeth forth two of his disciples, and saith unto them, Go you into the city, and there shall meet you a man bearing a pitcher of water: follow him.
 [14:14] And wheresoever he shall go in, say you to the goodman of the house, The Master saith, Where is the guestchamber, where I shall eat the passover with my disciples?
 [14:15] And he will shew you a large upper room furnished and prepared: there make ready for us.
@@ -573,7 +573,7 @@ Mark
 [14:33] And he taketh with him Peter and James and John, and began to be sore amazed, and to be very heavy;
 [14:34] And saith unto them, My soul is exceeding sorrowful unto death: tarry you here, and watch.
 [14:35] And he went forward a little, and fell on the ground, and prayed that, if it were possible, the hour might pass from him.
-[14:36] And he said, Abba, Father, all things are possible unto you; take away this cup from me: nevertheless not what I will, but what you wilt.
+[14:36] And he said, Abba, Father, all things are possible unto you; take away this cup from me: nevertheless not what I will, but what you will.
 [14:37] And he cometh, and findeth them sleeping, and saith unto Peter, Simon, sleepest you? couldest not you watch one hour?
 [14:38] Watch you and pray, lest you enter into temptation. The spirit truly is ready, but the flesh is weak.
 [14:39] And again he went away, and prayed, and spake the same words.

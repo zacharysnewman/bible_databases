@@ -127,7 +127,7 @@
 [5:16] And Elishama, and Eliada, and Eliphalet.
 [5:17] But when the Philistines heard that they had anointed David king over Israel, all the Philistines came up to seek David; and David heard of it, and went down to the hold.
 [5:18] The Philistines also came and spread themselves in the valley of Rephaim.
-[5:19] And David inquired of the LORD, saying, Shall I go up to the Philistines? wilt you deliver them into mine hand? And the LORD said unto David, Go up: for I will doubtless deliver the Philistines into your hand.
+[5:19] And David inquired of the LORD, saying, Shall I go up to the Philistines? will you deliver them into mine hand? And the LORD said unto David, Go up: for I will doubtless deliver the Philistines into your hand.
 [5:20] And David came to Baalperazim, and David smote them there, and said, The LORD hath broken forth upon mine enemies before me, as the breach of waters. Therefore he called the name of that place Baalperazim.
 [5:21] And there they left their images, and David and his men burned them.
 [5:22] And the Philistines came up yet again, and spread themselves in the valley of Rephaim.
@@ -297,7 +297,7 @@
 [13:1] And it came to pass after this, that Absalom the son of David had a fair sister, whose name was Tamar; and Amnon the son of David loved her.
 [13:2] And Amnon was so vexed, that he fell sick for his sister Tamar; for she was a virgin; and Amnon thought it hard for him to do anything to her.
 [13:3] But Amnon had a friend, whose name was Jonadab, the son of Shimeah David's brother: and Jonadab was a very subtil man.
-[13:4] And he said unto him, Why art you, being the king's son, lean from day to day? wilt you not tell me? And Amnon said unto him, I love Tamar, my brother Absalom's sister.
+[13:4] And he said unto him, Why art you, being the king's son, lean from day to day? will you not tell me? And Amnon said unto him, I love Tamar, my brother Absalom's sister.
 [13:5] And Jonadab said unto him, Lay you down on your bed, and make thyself sick: and when your father cometh to see you, say unto him, I pray you, let my sister Tamar come, and give me meat, and dress the meat in my sight, that I may see it, and eat it at her hand.
 [13:6] So Amnon lay down, and made himself sick: and when the king was come to see him, Amnon said unto the king, I pray you, let Tamar my sister come, and make me a couple of cakes in my sight, that I may eat at her hand.
 [13:7] Then David sent home to Tamar, saying, Go now to your brother Amnon's house, and dress him meat.
@@ -476,7 +476,7 @@
 [18:19] Then said Ahimaaz the son of Zadok, Let me now run, and bear the king tidings, how that the LORD hath avenged him of his enemies.
 [18:20] And Joab said unto him, You shalt not bear tidings this day, but you shalt bear tidings another day: but this day you shalt bear no tidings, because the king's son is dead.
 [18:21] Then said Joab to Cushy, Go tell the king what you have seen. And Cushy bowed himself unto Joab, and ran.
-[18:22] Then said Ahimaaz the son of Zadok yet again to Joab, But howsoever, let me, I pray you, also run after Cushy. And Joab said, Wherefore wilt you run, my son, seeing that you have no tidings ready?
+[18:22] Then said Ahimaaz the son of Zadok yet again to Joab, But howsoever, let me, I pray you, also run after Cushy. And Joab said, Wherefore will you run, my son, seeing that you have no tidings ready?
 [18:23] But howsoever, said he, let me run. And he said unto him, Run. Then Ahimaaz ran by the way of the plain, and overran Cushy.
 [18:24] And David sat between the two gates: and the watchman went up to the roof over the gate unto the wall, and lifted up his eyes, and looked, and behold a man running alone.
 [18:25] And the watchman cried, and told the king. And the king said, If he be alone, there is tidings in his mouth. And he came apace, and drew near.
@@ -549,7 +549,7 @@
 [20:16] Then cried a wise woman out of the city, Hear, hear; say, I pray you, unto Joab, Come near hither, that I may speak with you.
 [20:17] And when he was come near unto her, the woman said, Art you Joab? And he answered, I am he. Then she said unto him, Hear the words of your handmaid. And he answered, I do hear.
 [20:18] Then she spake, saying, They were wont to speak in old time, saying, They shall surely ask counsel at Abel: and so they ended the matter.
-[20:19] I am one of them that are peaceable and faithful in Israel: you seekest to destroy a city and a mother in Israel: why wilt you swallow up the inheritance of the LORD?
+[20:19] I am one of them that are peaceable and faithful in Israel: you seekest to destroy a city and a mother in Israel: why will you swallow up the inheritance of the LORD?
 [20:20] And Joab answered and said, Far be it, far be it from me, that I should swallow up or destroy.
 [20:21] The matter is not so: but a man of mount Ephraim, Sheba the son of Bichri by name, hath lifted up his hand against the king, even against David: deliver him only, and I will depart from the city. And the woman said unto Joab, Behold, his head shall be thrown to you over the wall.
 [20:22] Then the woman went unto all the people in her wisdom. And they cut off the head of Sheba the son of Bichri, and cast it out to Joab. And he blew a trumpet, and they retired from the city, every man to his tent. And Joab returned to Jerusalem unto the king.
@@ -604,9 +604,9 @@
 [22:23] For all his judgments were before me: and as for his statutes, I did not depart from them.
 [22:24] I was also upright before him, and have kept myself from mine iniquity.
 [22:25] Therefore the LORD hath recompensed me according to my righteousness; according to my cleanness in his eye sight.
-[22:26] With the merciful you wilt show thyself merciful, and with the upright man you wilt show thyself upright.
-[22:27] With the pure you wilt show thyself pure; and with the froward you wilt show thyself unsavory.
-[22:28] And the afflicted people you wilt save: but your eyes are upon the haughty, that you may bring them down.
+[22:26] With the merciful you will show thyself merciful, and with the upright man you will show thyself upright.
+[22:27] With the pure you will show thyself pure; and with the froward you will show thyself unsavory.
+[22:28] And the afflicted people you will save: but your eyes are upon the haughty, that you may bring them down.
 [22:29] For you art my lamp, O LORD: and the LORD will lighten my darkness.
 [22:30] For by you I have run through a troop: by my God have I leaped over a wall.
 [22:31] As for God, his way is perfect; the word of the LORD is tried: he is a buckler to all them that trust in him.
@@ -681,7 +681,7 @@
 [24:10] And David's heart smote him after that he had numbered the people. And David said unto the LORD, I have sinned greatly in that I have done: and now, I beseech you, O LORD, take away the iniquity of your servant; for I have done very foolishly.
 [24:11] For when David was up in the morning, the word of the LORD came unto the prophet Gad, David's seer, saying,
 [24:12] Go and say unto David, Thus saith the LORD, I offer you three things; choose you one of them, that I may do it unto you.
-[24:13] So Gad came to David, and told him, and said unto him, Shall seven years of famine come unto you in your land? or wilt you flee three months before your enemies, while they pursue you? or that there be three days' pestilence in your land? now advise, and see what answer I shall return to him that sent me.
+[24:13] So Gad came to David, and told him, and said unto him, Shall seven years of famine come unto you in your land? or will you flee three months before your enemies, while they pursue you? or that there be three days' pestilence in your land? now advise, and see what answer I shall return to him that sent me.
 [24:14] And David said unto Gad, I am in a great strait: let us fall now into the hand of the LORD; for his mercies are great: and let me not fall into the hand of man.
 [24:15] So the LORD sent a pestilence upon Israel from the morning even to the time appointed: and there died of the people from Dan even to Beersheba seventy thousand men.
 [24:16] And when the angel stretched out his hand upon Jerusalem to destroy it, the LORD repented him of the evil, and said to the angel that destroyed the people, It is enough: stay now your hand. And the angel of the LORD was by the threshingplace of Araunah the Jebusite.

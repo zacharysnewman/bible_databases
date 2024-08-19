@@ -72,7 +72,7 @@ Matthew
 [4:6] And saith unto him, If you be the Son of God, cast thyself down: for it is written, He shall give his angels charge concerning you: and in their hands they shall bear you up, lest at any time you dash your foot against a stone.
 [4:7] Jesus said unto him, It is written again, You shalt not tempt the Lord your God.
 [4:8] Again, the devil taketh him up into an exceeding high mountain, and sheweth him all the kingdoms of the world, and the glory of them;
-[4:9] And saith unto him, All these things will I give you, if you wilt fall down and worship me.
+[4:9] And saith unto him, All these things will I give you, if you will fall down and worship me.
 [4:10] Then saith Jesus unto him, Get you hence, Satan: for it is written, You shalt worship the Lord your God, and him only shalt you serve.
 [4:11] Then the devil leaveth him, and, behold, angels came and ministered unto him.
 [4:12] Now when Jesus had heard that John was cast into prison, he departed into Galilee;
@@ -174,7 +174,7 @@ Matthew
 [7:1] Judge not, that you be not judged.
 [7:2] For with what judgment you judge, you shall be judged: and with what measure you mete, it shall be measured to you again.
 [7:3] And why beholdest you the mote that is in your brother's eye, but considerest not the beam that is in your own eye?
-[7:4] Or how wilt you say to your brother, Let me pull out the mote out of your eye; and, behold, a beam is in your own eye?
+[7:4] Or how will you say to your brother, Let me pull out the mote out of your eye; and, behold, a beam is in your own eye?
 [7:5] You hypocrite, first cast out the beam out of your own eye; and then shalt you see clearly to cast out the mote out of your brother's eye.
 [7:6] Give not that which is holy unto the dogs, neither cast you your pearls before swine, lest they trample them under their feet, and turn again and rend you.
 [7:7] Ask, and it shall be given you; seek, and you shall find; knock, and it shall be opened unto you:
@@ -201,7 +201,7 @@ Matthew
 [7:28] And it came to pass, when Jesus had ended these sayings, the people were astonished at his doctrine:
 [7:29] For he taught them as one having authority, and not as the scribes.
 [8:1] When he was come down from the mountain, great multitudes followed him.
-[8:2] And, behold, there came a leper and worshipped him, saying, Lord, if you wilt, you canst make me clean.
+[8:2] And, behold, there came a leper and worshipped him, saying, Lord, if you will, you canst make me clean.
 [8:3] And Jesus put forth his hand, and touched him, saying, I will; be you clean. And immediately his leprosy was cleansed.
 [8:4] And Jesus saith unto him, See you tell no man; but go your way, shew thyself to the priest, and offer the gift that Moses commanded, for a testimony unto them.
 [8:5] And when Jesus was entered into Capernaum, there came unto him a centurion, beseeching him,
@@ -421,7 +421,7 @@ Matthew
 [13:25] But while men slept, his enemy came and sowed tares among the wheat, and went his way.
 [13:26] But when the blade was sprung up, and brought forth fruit, then appeared the tares also.
 [13:27] So the servants of the householder came and said unto him, Sir, didst not you sow good seed in your field? from where then hath it tares?
-[13:28] He said unto them, An enemy hath done this. The servants said unto him, Wilt you then that we go and gather them up?
+[13:28] He said unto them, An enemy hath done this. The servants said unto him, Will you then that we go and gather them up?
 [13:29] But he said, Nay; lest while you gather up the tares, you root up also the wheat with them.
 [13:30] Let both grow together until the harvest: and in the time of harvest I will say to the reapers, Gather you together first the tares, and bind them in bundles to burn them: but gather the wheat into my barn.
 [13:31] Another parable put he forth unto them, saying, The kingdom of heaven is like to a grain of mustard seed, which a man took, and sowed in his field:
@@ -515,7 +515,7 @@ Matthew
 [15:25] Then came she and worshipped him, saying, Lord, help me.
 [15:26] But he answered and said, It is not meet to take the children's bread, and to cast it to dogs.
 [15:27] And she said, Truth, Lord: yet the dogs eat of the crumbs which fall from their masters' table.
-[15:28] Then Jesus answered and said unto her, O woman, great is your faith: be it unto you even as you wilt. And her daughter was made whole from that very hour.
+[15:28] Then Jesus answered and said unto her, O woman, great is your faith: be it unto you even as you will. And her daughter was made whole from that very hour.
 [15:29] And Jesus departed from thence, and came nigh unto the sea of Galilee; and went up into a mountain, and sat down there.
 [15:30] And great multitudes came unto him, having with them those that were lame, blind, dumb, maimed, and many others, and cast them down at Jesus' feet; and he healed them:
 [15:31] Insomuch that the multitude wondered, when they saw the dumb to speak, the maimed to be whole, the lame to walk, and the blind to see: and they glorified the God of Israel.
@@ -558,7 +558,7 @@ Matthew
 [17:1] And after six days Jesus taketh Peter, James, and John his brother, and bringeth them up into an high mountain apart,
 [17:2] And was transfigured before them: and his face did shine as the sun, and his raiment was white as the light.
 [17:3] And, behold, there appeared unto them Moses and Elias talking with him.
-[17:4] Then answered Peter, and said unto Jesus, Lord, it is good for us to be here: if you wilt, let us make here three tabernacles; one for you, and one for Moses, and one for Elias.
+[17:4] Then answered Peter, and said unto Jesus, Lord, it is good for us to be here: if you will, let us make here three tabernacles; one for you, and one for Moses, and one for Elias.
 [17:5] While he yet spake, behold, a bright cloud overshadowed them: and behold a voice out of the cloud, which said, This is my beloved Son, in whom I am well pleased; hear you him.
 [17:6] And when the disciples heard it, they fell on their face, and were sore afraid.
 [17:7] And Jesus came and touched them, and said, Arise, and be not afraid.
@@ -633,11 +633,11 @@ Matthew
 [19:14] But Jesus said, Suffer little children, and forbid them not, to come unto me: for of such is the kingdom of heaven.
 [19:15] And he laid his hands on them, and departed thence.
 [19:16] And, behold, one came and said unto him, Good Master, what good thing shall I do, that I may have eternal life?
-[19:17] And he said unto him, Why callest you me good? there is none good but one, that is, God: but if you wilt enter into life, keep the commandments.
+[19:17] And he said unto him, Why callest you me good? there is none good but one, that is, God: but if you will enter into life, keep the commandments.
 [19:18] He saith unto him, Which? Jesus said, You shalt do no murder, You shalt not commit adultery, You shalt not steal, You shalt not bear false witness,
 [19:19] Honour your father and your mother: and, You shalt love your neighbour as thyself.
 [19:20] The young man saith unto him, All these things have I kept from my youth up: what lack I yet?
-[19:21] Jesus said unto him, If you wilt be perfect, go and sell that you have, and give to the poor, and you shalt have treasure in heaven: and come and follow me.
+[19:21] Jesus said unto him, If you will be perfect, go and sell that you have, and give to the poor, and you shalt have treasure in heaven: and come and follow me.
 [19:22] But when the young man heard that saying, he went away sorrowful: for he had great possessions.
 [19:23] Then said Jesus unto his disciples, Verily I say unto you, That a rich man shall hardly enter into the kingdom of heaven.
 [19:24] And again I say unto you, It is easier for a camel to go through the eye of a needle, than for a rich man to enter into the kingdom of God.
@@ -667,7 +667,7 @@ Matthew
 [20:18] Behold, we go up to Jerusalem; and the Son of man shall be betrayed unto the chief priests and unto the scribes, and they shall condemn him to death,
 [20:19] And shall deliver him to the Gentiles to mock, and to scourge, and to crucify him: and the third day he shall rise again.
 [20:20] Then came to him the mother of Zebedees children with her sons, worshipping him, and desiring a certain thing of him.
-[20:21] And he said unto her, What wilt you? She saith unto him, Grant that these my two sons may sit, the one on your right hand, and the other on the left, in your kingdom.
+[20:21] And he said unto her, What will you? She saith unto him, Grant that these my two sons may sit, the one on your right hand, and the other on the left, in your kingdom.
 [20:22] But Jesus answered and said, You know not what you ask. Are you able to drink of the cup that I shall drink of, and to be baptized with the baptism that I am baptized with? They say unto him, We are able.
 [20:23] And he saith unto them, You shall drink indeed of my cup, and be baptized with the baptism that I am baptized with: but to sit on my right hand, and on my left, is not mine to give, but it shall be given to them for whom it is prepared of my Father.
 [20:24] And when the ten heard it, they were moved with indignation against the two brothers.
@@ -925,7 +925,7 @@ Matthew
 [26:14] Then one of the twelve, called Judas Iscariot, went unto the chief priests,
 [26:15] And said unto them, What will you give me, and I will deliver him unto you? And they covenanted with him for thirty pieces of silver.
 [26:16] And from that time he sought opportunity to betray him.
-[26:17] Now the first day of the feast of unleavened bread the disciples came to Jesus, saying unto him, Where wilt you that we prepare for you to eat the passover?
+[26:17] Now the first day of the feast of unleavened bread the disciples came to Jesus, saying unto him, Where will you that we prepare for you to eat the passover?
 [26:18] And he said, Go into the city to such a man, and say unto him, The Master saith, My time is at hand; I will keep the passover at your house with my disciples.
 [26:19] And the disciples did as Jesus had appointed them; and they made ready the passover.
 [26:20] Now when the even was come, he sat down with the twelve.
@@ -947,7 +947,7 @@ Matthew
 [26:36] Then cometh Jesus with them unto a place called Gethsemane, and saith unto the disciples, Sit you here, while I go and pray yonder.
 [26:37] And he took with him Peter and the two sons of Zebedee, and began to be sorrowful and very heavy.
 [26:38] Then saith he unto them, My soul is exceeding sorrowful, even unto death: tarry you here, and watch with me.
-[26:39] And he went a little farther, and fell on his face, and prayed, saying, O my Father, if it be possible, let this cup pass from me: nevertheless not as I will, but as you wilt.
+[26:39] And he went a little farther, and fell on his face, and prayed, saying, O my Father, if it be possible, let this cup pass from me: nevertheless not as I will, but as you will.
 [26:40] And he cometh unto the disciples, and findeth them asleep, and saith unto Peter, What, could you not watch with me one hour?
 [26:41] Watch and pray, that you enter not into temptation: the spirit indeed is willing, but the flesh is weak.
 [26:42] He went away again the second time, and prayed, saying, O my Father, if this cup may not pass away from me, except I drink it, your will be done.

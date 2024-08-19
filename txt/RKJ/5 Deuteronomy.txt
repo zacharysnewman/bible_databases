@@ -619,7 +619,7 @@ Deuteronomy
 [23:10] If there be among you any man, that is not clean by reason of uncleanness that chanceth him by night, then shall he go abroad out of the camp, he shall not come within the camp:
 [23:11] But it shall be, when evening cometh on, he shall wash himself with water: and when the sun is down, he shall come into the camp again.
 [23:12] You shalt have a place also without the camp, where you shalt go forth abroad:
-[23:13] And you shalt have a paddle upon your weapon; and it shall be, when you wilt ease thyself abroad, you shalt dig therewith, and shalt turn back and cover that which cometh from you:
+[23:13] And you shalt have a paddle upon your weapon; and it shall be, when you will ease thyself abroad, you shalt dig therewith, and shalt turn back and cover that which cometh from you:
 [23:14] For the LORD your God walketh in the midst of your camp, to deliver you, and to give up your enemies before you; therefore shall your camp be holy: that he see no unclean thing in you, and turn away from you.
 [23:15] You shalt not deliver unto his master the servant which is escaped from his master unto you:
 [23:16] He shall dwell with you, even among you, in that place which he shall choose in one of your gates, where it liketh him best: you shalt not oppress him.
@@ -732,7 +732,7 @@ Deuteronomy
 [28:12] The LORD shall open unto you his good treasure, the heaven to give the rain unto your land in his season, and to bless all the work of your hand: and you shalt lend unto many nations, and you shalt not borrow.
 [28:13] And the LORD shall make you the head, and not the tail; and you shalt be above only, and you shalt not be beneath; if that you hearken unto the commandments of the LORD your God, which I command you this day, to observe and to do them:
 [28:14] And you shalt not go aside from any of the words which I command you this day, to the right hand, or to the left, to go after other gods to serve them.
-[28:15] But it shall come to pass, if you wilt not hearken unto the voice of the LORD your God, to observe to do all his commandments and his statutes which I command you this day; that all these curses shall come upon you, and overtake you:
+[28:15] But it shall come to pass, if you will not hearken unto the voice of the LORD your God, to observe to do all his commandments and his statutes which I command you this day; that all these curses shall come upon you, and overtake you:
 [28:16] Cursed shalt you be in the city, and cursed shalt you be in the field.
 [28:17] Cursed shall be your basket and your store.
 [28:18] Cursed shall be the fruit of your body, and the fruit of your land, the increase of your kine, and the flocks of your sheep.
@@ -775,7 +775,7 @@ Deuteronomy
 [28:55] So that he will not give to any of them of the flesh of his children whom he shall eat: because he hath nothing left him in the siege, and in the straitness, wherewith your enemies shall distress you in all your gates.
 [28:56] The tender and delicate woman among you, which would not adventure to set the sole of her foot upon the ground for delicateness and tenderness, her eye shall be evil toward the husband of her bosom, and toward her son, and toward her daughter,
 [28:57] And toward her young one that cometh out from between her feet, and toward her children which she shall bear: for she shall eat them for want of all things secretly in the siege and straitness, wherewith your enemy shall distress you in your gates.
-[28:58] If you wilt not observe to do all the words of this law that are written in this book, that you may fear this glorious and fearful name, THE LORD YOUR GOD;
+[28:58] If you will not observe to do all the words of this law that are written in this book, that you may fear this glorious and fearful name, THE LORD YOUR GOD;
 [28:59] Then the LORD will make your plagues wonderful, and the plagues of your seed, even great plagues, and of long continuance, and sore sicknesses, and of long continuance.
 [28:60] Moreover he will bring upon you all the diseases of Egypt, which you wast afraid of; and they shall cleave unto you.
 [28:61] Also every sickness, and every plague, which is not written in the book of this law, them will the LORD bring upon you, until you be destroyed.
@@ -831,7 +831,7 @@ Deuteronomy
 [30:14] But the word is very nigh unto you, in your mouth, and in your heart, that you may do it.
 [30:15] See, I have set before you this day life and good, and death and evil;
 [30:16] In that I command you this day to love the LORD your God, to walk in his ways, and to keep his commandments and his statutes and his judgments, that you may live and multiply: and the LORD your God shall bless you in the land where you goest to possess it.
-[30:17] But if your heart turn away, so that you wilt not hear, but shalt be drawn away, and worship other gods, and serve them;
+[30:17] But if your heart turn away, so that you will not hear, but shalt be drawn away, and worship other gods, and serve them;
 [30:18] I denounce unto you this day, that you shall surely perish, and that you shall not prolong your days upon the land, where you passest over Jordan to go to possess it.
 [30:19] I call heaven and earth to record this day against you, that I have set before you life and death, blessing and cursing: therefore choose life, that both you and your seed may live:
 [30:20] That you may love the LORD your God, and that you may obey his voice, and that you may cleave unto him: for he is your life, and the length of your days: that you may dwell in the land which the LORD sware unto your fathers, to Abraham, to Isaac, and to Jacob, to give them.

@@ -16,3 +16,4 @@ sayest -> say
 brethren -> brothers
 weepest -> weep
 whence, whither -> where
+wilt -> will

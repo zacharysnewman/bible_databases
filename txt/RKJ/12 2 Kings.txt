@@ -48,7 +48,7 @@
 [3:4] And Mesha king of Moab was a sheepmaster, and rendered unto the king of Israel an hundred thousand lambs, and an hundred thousand rams, with the wool.
 [3:5] But it came to pass, when Ahab was dead, that the king of Moab rebelled against the king of Israel.
 [3:6] And king Jehoram went out of Samaria the same time, and numbered all Israel.
-[3:7] And he went and sent to Jehoshaphat the king of Judah, saying, The king of Moab hath rebelled against me: wilt you go with me against Moab to battle? And he said, I will go up: I am as you art, my people as your people, and my horses as your horses.
+[3:7] And he went and sent to Jehoshaphat the king of Judah, saying, The king of Moab hath rebelled against me: will you go with me against Moab to battle? And he said, I will go up: I am as you art, my people as your people, and my horses as your horses.
 [3:8] And he said, Which way shall we go up? And he answered, The way through the wilderness of Edom.
 [3:9] So the king of Israel went, and the king of Judah, and the king of Edom: and they fetched a compass of seven days' journey: and there was no water for the host, and for the cattle that followed them.
 [3:10] And the king of Israel said, Alas! that the LORD hath called these three kings together, to deliver them into the hand of Moab!
@@ -91,7 +91,7 @@
 [4:20] And when he had taken him, and brought him to his mother, he sat on her knees till noon, and then died.
 [4:21] And she went up, and laid him on the bed of the man of God, and shut the door upon him, and went out.
 [4:22] And she called unto her husband, and said, Send me, I pray you, one of the young men, and one of the asses, that I may run to the man of God, and come again.
-[4:23] And he said, Wherefore wilt you go to him to day? it is neither new moon, nor sabbath. And she said, It shall be well.
+[4:23] And he said, Wherefore will you go to him to day? it is neither new moon, nor sabbath. And she said, It shall be well.
 [4:24] Then she saddled an ass, and said to her servant, Drive, and go forward; slack not your riding for me, except I bid you.
 [4:25] So she went and came unto the man of God to mount Carmel. And it came to pass, when the man of God saw her afar off, that he said to Gehazi his servant, Behold, yonder is that Shunammite:
 [4:26] Run now, I pray you, to meet her, and say unto her, Is it well with you? is it well with your husband? is it well with the child? And she answered, It is well:
@@ -204,7 +204,7 @@
 [8:9] So Hazael went to meet him, and took a present with him, even of every good thing of Damascus, forty camels' burden, and came and stood before him, and said, Your son Benhadad king of Syria hath sent me to you, saying, Shall I recover of this disease?
 [8:10] And Elisha said unto him, Go, say unto him, You may certainly recover: howbeit the LORD hath showed me that he shall surely die.
 [8:11] And he settled his countenance stedfastly, until he was ashamed: and the man of God wept.
-[8:12] And Hazael said, Why weepeth my lord? And he answered, Because I know the evil that you wilt do unto the children of Israel: their strong holds wilt you set on fire, and their young men wilt you slay with the sword, and wilt dash their children, and rip up their women with child.
+[8:12] And Hazael said, Why weepeth my lord? And he answered, Because I know the evil that you will do unto the children of Israel: their strong holds will you set on fire, and their young men will you slay with the sword, and will dash their children, and rip up their women with child.
 [8:13] And Hazael said, But what, is your servant a dog, that he should do this great thing? And Elisha answered, The LORD hath showed me that you shalt be king over Syria.
 [8:14] So he departed from Elisha, and came to his master; who said to him, What said Elisha to you? And he answered, He told me that you should surely recover.
 [8:15] And it came to pass on the morrow, that he took a thick cloth, and dipped it in water, and spread it on his face, so that he died: and Hazael reigned in his stead.
@@ -513,7 +513,7 @@
 [18:21] Now, behold, you trustest upon the staff of this bruised reed, even upon Egypt, on which if a man lean, it will go into his hand, and pierce it: so is Pharaoh king of Egypt unto all that trust on him.
 [18:22] But if you say unto me, We trust in the LORD our God: is not that he, whose high places and whose altars Hezekiah hath taken away, and hath said to Judah and Jerusalem, You shall worship before this altar in Jerusalem?
 [18:23] Now therefore, I pray you, give pledges to my lord the king of Assyria, and I will deliver you two thousand horses, if you be able on your part to set riders upon them.
-[18:24] How then wilt you turn away the face of one captain of the least of my master's servants, and put your trust on Egypt for chariots and for horsemen?
+[18:24] How then will you turn away the face of one captain of the least of my master's servants, and put your trust on Egypt for chariots and for horsemen?
 [18:25] Am I now come up without the LORD against this place to destroy it? The LORD said to me, Go up against this land, and destroy it.
 [18:26] Then said Eliakim the son of Hilkiah, and Shebna, and Joah, unto Rabshakeh, Speak, I pray you, to your servants in the Syrian language; for we understand it: and talk not with us in the Jews' language in the ears of the people that are on the wall.
 [18:27] But Rabshakeh said unto them, Hath my master sent me to your master, and to you, to speak these words? hath he not sent me to the men which sit on the wall, that they may eat their own dung, and drink their own piss with you?

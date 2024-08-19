@@ -9,10 +9,10 @@
 [1:8] Then said Elkanah her husband to her, Hannah, why weep you? and why eat you not? and why is your heart grieved? am not I better to you than ten sons?
 [1:9] So Hannah rose up after they had eaten in Shiloh, and after they had drunk. Now Eli the priest sat upon a seat by a post of the temple of the LORD.
 [1:10] And she was in bitterness of soul, and prayed unto the LORD, and wept sore.
-[1:11] And she vowed a vow, and said, O LORD of hosts, if you wilt indeed look on the affliction of your handmaid, and remember me, and not forget your handmaid, but wilt give unto your handmaid a man child, then I will give him unto the LORD all the days of his life, and there shall no razor come upon his head.
+[1:11] And she vowed a vow, and said, O LORD of hosts, if you will indeed look on the affliction of your handmaid, and remember me, and not forget your handmaid, but will give unto your handmaid a man child, then I will give him unto the LORD all the days of his life, and there shall no razor come upon his head.
 [1:12] And it came to pass, as she continued praying before the LORD, that Eli marked her mouth.
 [1:13] Now Hannah, she spake in her heart; only her lips moved, but her voice was not heard: therefore Eli thought she had been drunken.
-[1:14] And Eli said unto her, How long wilt you be drunken? put away your wine from you.
+[1:14] And Eli said unto her, How long will you be drunken? put away your wine from you.
 [1:15] And Hannah answered and said, No, my lord, I am a woman of a sorrowful spirit: I have drunk neither wine nor strong drink, but have poured out my soul before the LORD.
 [1:16] Count not your handmaid for a daughter of Belial: for out of the abundance of my complaint and grief have I spoken hitherto.
 [1:17] Then Eli answered and said, Go in peace: and the God of Israel grant you your petition that you have asked of him.
@@ -331,7 +331,7 @@
 [14:34] And Saul said, Disperse yourselves among the people, and say unto them, Bring me hither every man his ox, and every man his sheep, and slay them here, and eat; and sin not against the LORD in eating with the blood. And all the people brought every man his ox with him that night, and slew them there.
 [14:35] And Saul built an altar unto the LORD: the same was the first altar that he built unto the LORD.
 [14:36] And Saul said, Let us go down after the Philistines by night, and spoil them until the morning light, and let us not leave a man of them. And they said, Do whatsoever seemeth good unto you. Then said the priest, Let us draw near hither unto God.
-[14:37] And Saul asked counsel of God, Shall I go down after the Philistines? wilt you deliver them into the hand of Israel? But he answered him not that day.
+[14:37] And Saul asked counsel of God, Shall I go down after the Philistines? will you deliver them into the hand of Israel? But he answered him not that day.
 [14:38] And Saul said, Draw you near hither, all the chief of the people: and know and see wherein this sin hath been this day.
 [14:39] For, as the LORD liveth, which saveth Israel, though it be in Jonathan my son, he shall surely die. But there was not a man among all the people that answered him.
 [14:40] Then said he unto all Israel, Be you on one side, and I and Jonathan my son will be on the other side. And the people said unto Saul, Do what seemeth good unto you.
@@ -382,7 +382,7 @@
 [15:33] And Samuel said, As the sword hath made women childless, so shall your mother be childless among women. And Samuel hewed Agag in pieces before the LORD in Gilgal.
 [15:34] Then Samuel went to Ramah; and Saul went up to his house to Gibeah of Saul.
 [15:35] And Samuel came no more to see Saul until the day of his death: nevertheless Samuel mourned for Saul: and the LORD repented that he had made Saul king over Israel.
-[16:1] And the LORD said unto Samuel, How long wilt you mourn for Saul, seeing I have rejected him from reigning over Israel? fill your horn with oil, and go, I will send you to Jesse the Bethlehemite: for I have provided me a king among his sons.
+[16:1] And the LORD said unto Samuel, How long will you mourn for Saul, seeing I have rejected him from reigning over Israel? fill your horn with oil, and go, I will send you to Jesse the Bethlehemite: for I have provided me a king among his sons.
 [16:2] And Samuel said, How can I go? if Saul hear it, he will kill me. And the LORD said, Take an heifer with you, and say, I am come to sacrifice to the LORD.
 [16:3] And call Jesse to the sacrifice, and I will show you what you shalt do: and you shalt anoint unto me him whom I name unto you.
 [16:4] And Samuel did that which the LORD spake, and came to Bethlehem. And the elders of the town trembled at his coming, and said, Come you peaceably?
@@ -497,7 +497,7 @@
 [19:2] But Jonathan Saul's son delighted much in David: and Jonathan told David, saying, Saul my father seeketh to kill you: now therefore, I pray you, take heed to thyself until the morning, and abide in a secret place, and hide thyself:
 [19:3] And I will go out and stand beside my father in the field where you art, and I will commune with my father of you; and what I see, that I will tell you.
 [19:4] And Jonathan spake good of David unto Saul his father, and said unto him, Let not the king sin against his servant, against David; because he hath not sinned against you, and because his works have been to you-ward very good:
-[19:5] For he did put his life in his hand, and slew the Philistine, and the LORD wrought a great salvation for all Israel: you saw it, and didst rejoice: wherefore then wilt you sin against innocent blood, to slay David without a cause?
+[19:5] For he did put his life in his hand, and slew the Philistine, and the LORD wrought a great salvation for all Israel: you saw it, and didst rejoice: wherefore then will you sin against innocent blood, to slay David without a cause?
 [19:6] And Saul hearkened unto the voice of Jonathan: and Saul sware, As the LORD liveth, he shall not be slain.
 [19:7] And Jonathan called David, and Jonathan showed him all those things. And Jonathan brought David to Saul, and he was in his presence, as in times past.
 [19:8] And there was war again: and David went out, and fought with the Philistines, and slew them with a great slaughter; and they fled from him.
@@ -567,7 +567,7 @@
 [21:6] So the priest gave him hallowed bread: for there was no bread there but the showbread, that was taken from before the LORD, to put hot bread in the day when it was taken away.
 [21:7] Now a certain man of the servants of Saul was there that day, detained before the LORD; and his name was Doeg, an Edomite, the chiefest of the herdmen that belonged to Saul.
 [21:8] And David said unto Ahimelech, And is there not here under your hand spear or sword? for I have neither brought my sword nor my weapons with me, because the king's business required haste.
-[21:9] And the priest said, The sword of Goliath the Philistine, whom you slewest in the valley of Elah, behold, it is here wrapped in a cloth behind the ephod: if you wilt take that, take it: for there is no other save that here. And David said, There is none like that; give it me.
+[21:9] And the priest said, The sword of Goliath the Philistine, whom you slewest in the valley of Elah, behold, it is here wrapped in a cloth behind the ephod: if you will take that, take it: for there is no other save that here. And David said, There is none like that; give it me.
 [21:10] And David arose and fled that day for fear of Saul, and went to Achish the king of Gath.
 [21:11] And the servants of Achish said unto him, Is not this David the king of the land? did they not sing one to another of him in dances, saying, Saul hath slain his thousands, and David his ten thousands?
 [21:12] And David laid up these words in his heart, and was sore afraid of Achish the king of Gath.
@@ -646,7 +646,7 @@
 [24:18] And you have showed this day how that you have dealt well with me: forasmuch as when the LORD had delivered me into your hand, you killedst me not.
 [24:19] For if a man find his enemy, will he let him go well away? wherefore the LORD reward you good for that you have done unto me this day.
 [24:20] And now, behold, I know well that you shalt surely be king, and that the kingdom of Israel shall be established in your hand.
-[24:21] Swear now therefore unto me by the LORD, that you wilt not cut off my seed after me, and that you wilt not destroy my name out of my father's house.
+[24:21] Swear now therefore unto me by the LORD, that you will not cut off my seed after me, and that you will not destroy my name out of my father's house.
 [24:22] And David sware unto Saul. And Saul went home; but David and his men gat them up unto the hold.
 [25:1] And Samuel died; and all the Israelites were gathered together, and lamented him, and buried him in his house at Ramah. And David arose, and went down to the wilderness of Paran.
 [25:2] And there was a man in Maon, whose possessions were in Carmel; and the man was very great, and he had three thousand sheep, and a thousand goats: and he was shearing his sheep in Carmel.
@@ -664,7 +664,7 @@
 [25:14] But one of the young men told Abigail, Nabal's wife, saying, Behold, David sent messengers out of the wilderness to salute our master; and he railed on them.
 [25:15] But the men were very good unto us, and we were not hurt, neither missed we any thing, as long as we were conversant with them, when we were in the fields:
 [25:16] They were a wall unto us both by night and day, all the while we were with them keeping the sheep.
-[25:17] Now therefore know and consider what you wilt do; for evil is determined against our master, and against all his household: for he is such a son of Belial, that a man cannot speak to him.
+[25:17] Now therefore know and consider what you will do; for evil is determined against our master, and against all his household: for he is such a son of Belial, that a man cannot speak to him.
 [25:18] Then Abigail made haste, and took two hundred loaves, and two bottles of wine, and five sheep ready dressed, and five measures of parched corn, and an hundred clusters of raisins, and two hundred cakes of figs, and laid them on asses.
 [25:19] And she said unto her servants, Go on before me; behold, I come after you. But she told not her husband Nabal.
 [25:20] And it was so, as she rode on the ass, that she came down by the covert on the hill, and, behold, David and his men came down against her; and she met them.
@@ -779,7 +779,7 @@
 [30:12] And they gave him a piece of a cake of figs, and two clusters of raisins: and when he had eaten, his spirit came again to him: for he had eaten no bread, nor drunk any water, three days and three nights.
 [30:13] And David said unto him, To whom belongest you? and where art you? And he said, I am a young man of Egypt, servant to an Amalekite; and my master left me, because three days agone I fell sick.
 [30:14] We made an invasion upon the south of the Cherethites, and upon the coast which belongeth to Judah, and upon the south of Caleb; and we burned Ziklag with fire.
-[30:15] And David said to him, Canst you bring me down to this company? And he said, Swear unto me by God, that you wilt neither kill me, nor deliver me into the hands of my master, and I will bring you down to this company.
+[30:15] And David said to him, Canst you bring me down to this company? And he said, Swear unto me by God, that you will neither kill me, nor deliver me into the hands of my master, and I will bring you down to this company.
 [30:16] And when he had brought him down, behold, they were spread abroad upon all the earth, eating and drinking, and dancing, because of all the great spoil that they had taken out of the land of the Philistines, and out of the land of Judah.
 [30:17] And David smote them from the twilight even unto the evening of the next day: and there escaped not a man of them, save four hundred young men, which rode upon camels, and fled.
 [30:18] And David recovered all that the Amalekites had carried away: and David rescued his two wives.

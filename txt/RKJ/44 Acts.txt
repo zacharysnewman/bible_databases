@@ -4,7 +4,7 @@ Acts
 [1:3] To whom also he shewed himself alive after his passion by many infallible proofs, being seen of them forty days, and speaking of the things pertaining to the kingdom of God:
 [1:4] And, being assembled together with them, commanded them that they should not depart from Jerusalem, but wait for the promise of the Father, which, saith he, you have heard of me.
 [1:5] For John truly baptized with water; but you shall be baptized with the Holy Ghost not many days hence.
-[1:6] When they therefore were come together, they asked of him, saying, Lord, wilt you at this time restore again the kingdom to Israel?
+[1:6] When they therefore were come together, they asked of him, saying, Lord, will you at this time restore again the kingdom to Israel?
 [1:7] And he said unto them, It is not for you to know the times or the seasons, which the Father hath put in his own power.
 [1:8] But you shall receive power, after that the Holy Ghost is come upon you: and you shall be witnesses unto me both in Jerusalem, and in all Judaea, and in Samaria, and unto the uttermost part of the earth.
 [1:9] And when he had spoken these things, while they beheld, he was taken up; and a cloud received him out of their sight.
@@ -51,7 +51,7 @@ Acts
 [2:24] Whom God hath raised up, having loosed the pains of death: because it was not possible that he should be holden of it.
 [2:25] For David speaketh concerning him, I foresaw the Lord always before my face, for he is on my right hand, that I should not be moved:
 [2:26] Therefore did my heart rejoice, and my tongue was glad; moreover also my flesh shall rest in hope:
-[2:27] Because you wilt not leave my soul in hell, neither wilt you suffer your Holy One to see corruption.
+[2:27] Because you will not leave my soul in hell, neither will you suffer your Holy One to see corruption.
 [2:28] You have made known to me the ways of life; you shalt make me full of joy with your countenance.
 [2:29] Men and brothers, let me freely speak unto you of the patriarch David, that he is both dead and buried, and his sepulchre is with us unto this day.
 [2:30] Therefore being a prophet, and knowing that God had sworn with an oath to him, that of the fruit of his loins, according to the flesh, he would raise up Christ to sit on his throne;
@@ -219,7 +219,7 @@ Acts
 [7:25] For he supposed his brothers would have understood how that God by his hand would deliver them: but they understood not.
 [7:26] And the next day he shewed himself unto them as they strove, and would have set them at one again, saying, Sirs, you are brothers; why do you wrong one to another?
 [7:27] But he that did his neighbour wrong thrust him away, saying, Who made you a ruler and a judge over us?
-[7:28] Wilt you kill me, as you diddest the Egyptian yesterday?
+[7:28] Will you kill me, as you diddest the Egyptian yesterday?
 [7:29] Then fled Moses at this saying, and was a stranger in the land of Madian, where he begat two sons.
 [7:30] And when forty years were expired, there appeared to him in the wilderness of mount Sina an angel of the Lord in a flame of fire in a bush.
 [7:31] When Moses saw it, he wondered at the sight: and as he drew near to behold it, the voice of the LORD came unto him,
@@ -297,7 +297,7 @@ Acts
 [9:3] And as he journeyed, he came near Damascus: and suddenly there shined round about him a light from heaven:
 [9:4] And he fell to the earth, and heard a voice saying unto him, Saul, Saul, why persecutest you me?
 [9:5] And he said, Who art you, Lord? And the Lord said, I am Jesus whom you persecutest: it is hard for you to kick against the pricks.
-[9:6] And he trembling and astonished said, Lord, what wilt you have me to do? And the Lord said unto him, Arise, and go into the city, and it shall be told you what you must do.
+[9:6] And he trembling and astonished said, Lord, what will you have me to do? And the Lord said unto him, Arise, and go into the city, and it shall be told you what you must do.
 [9:7] And the men which journeyed with him stood speechless, hearing a voice, but seeing no man.
 [9:8] And Saul arose from the earth; and when his eyes were opened, he saw no man: but they led him by the hand, and brought him into Damascus.
 [9:9] And he was three days without sight, and neither did eat nor drink.
@@ -447,7 +447,7 @@ Acts
 [13:7] Which was with the deputy of the country, Sergius Paulus, a prudent man; who called for Barnabas and Saul, and desired to hear the word of God.
 [13:8] But Elymas the sorcerer (for so is his name by interpretation) withstood them, seeking to turn away the deputy from the faith.
 [13:9] Then Saul, (who also is called Paul,) filled with the Holy Ghost, set his eyes on him.
-[13:10] And said, O full of all subtilty and all mischief, you child of the devil, you enemy of all righteousness, wilt you not cease to pervert the right ways of the Lord?
+[13:10] And said, O full of all subtilty and all mischief, you child of the devil, you enemy of all righteousness, will you not cease to pervert the right ways of the Lord?
 [13:11] And now, behold, the hand of the Lord is upon you, and you shalt be blind, not seeing the sun for a season. And immediately there fell on him a mist and a darkness; and he went about seeking some to lead him by the hand.
 [13:12] Then the deputy, when he saw what was done, believed, being astonished at the doctrine of the Lord.
 [13:13] Now when Paul and his company loosed from Paphos, they came to Perga in Pamphylia: and John departing from them returned to Jerusalem.
@@ -880,7 +880,7 @@ Acts
 [25:6] And when he had tarried among them more than ten days, he went down unto Caesarea; and the next day sitting on the judgment seat commanded Paul to be brought.
 [25:7] And when he was come, the Jews which came down from Jerusalem stood round about, and laid many and grievous complaints against Paul, which they could not prove.
 [25:8] While he answered for himself, Neither against the law of the Jews, neither against the temple, nor yet against Caesar, have I offended any thing at all.
-[25:9] But Festus, willing to do the Jews a pleasure, answered Paul, and said, Wilt you go up to Jerusalem, and there be judged of these things before me?
+[25:9] But Festus, willing to do the Jews a pleasure, answered Paul, and said, Will you go up to Jerusalem, and there be judged of these things before me?
 [25:10] Then said Paul, I stand at Caesar's judgment seat, where I ought to be judged: to the Jews have I done no wrong, as you very well knowest.
 [25:11] For if I be an offender, or have committed any thing worthy of death, I refuse not to die: but if there be none of these things whereof these accuse me, no man may deliver me unto them. I appeal unto Caesar.
 [25:12] Then Festus, when he had conferred with the council, answered, Have you appealed unto Caesar? unto Caesar shalt you go.
