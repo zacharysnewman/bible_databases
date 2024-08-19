@@ -1,6 +1,6 @@
 # Public Domain Bible Versions
 
-Here you will find the following bible versions in sql, sqlite, xml, csv, json, txt, and md format:
+Here you will find the following bible versions in txt format:
 
 - King James Version (KJV)
 - American Standard-ASV1901 (ASV)
