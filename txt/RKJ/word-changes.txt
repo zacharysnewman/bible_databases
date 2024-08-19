@@ -8,4 +8,5 @@ shouldest -> should
 doest -> do
 comest -> come
 seest -> see
+sawest -> saw
 lovest -> love
