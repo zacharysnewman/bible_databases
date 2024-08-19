@@ -15,3 +15,4 @@ standest -> stand
 sayest -> say
 brethren -> brothers
 weepest -> weep
+whence, whither -> where
