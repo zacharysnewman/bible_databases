@@ -226,10 +226,10 @@ Genesis
 [9:19] These are the three sons of Noah: and of them was the whole earth overspread.
 [9:20] And Noah began to be an husbandman, and he planted a vineyard:
 [9:21] And he drank of the wine, and was drunken; and he was uncovered within his tent.
-[9:22] And Ham, the father of Canaan, saw the nakedness of his father, and told his two brethren without.
+[9:22] And Ham, the father of Canaan, saw the nakedness of his father, and told his two brothers without.
 [9:23] And Shem and Japheth took a garment, and laid it upon both their shoulders, and went backward, and covered the nakedness of their father; and their faces were backward, and they saw not their father's nakedness.
 [9:24] And Noah awoke from his wine, and knew what his younger son had done unto him.
-[9:25] And he said, Cursed be Canaan; a servant of servants shall he be unto his brethren.
+[9:25] And he said, Cursed be Canaan; a servant of servants shall he be unto his brothers.
 [9:26] And he said, Blessed be the LORD God of Shem; and Canaan shall be his servant.
 [9:27] God shall enlarge Japheth, and he shall dwell in the tents of Shem; and Canaan shall be his servant.
 [9:28] And Noah lived after the flood three hundred and fifty years.
@@ -325,7 +325,7 @@ Genesis
 [13:5] And Lot also, which went with Abram, had flocks, and herds, and tents.
 [13:6] And the land was not able to bear them, that they might dwell together: for their substance was great, so that they could not dwell together.
 [13:7] And there was a strife between the herdmen of Abram's cattle and the herdmen of Lot's cattle: and the Canaanite and the Perizzite dwelled then in the land.
-[13:8] And Abram said unto Lot, Let there be no strife, I pray you, between me and you, and between my herdmen and your herdmen; for we be brethren.
+[13:8] And Abram said unto Lot, Let there be no strife, I pray you, between me and you, and between my herdmen and your herdmen; for we be brothers.
 [13:9] Is not the whole land before you? separate thyself, I pray you, from me: if you wilt take the left hand, then I will go to the right; or if you depart to the right hand, then I will go to the left.
 [13:10] And Lot lifted up his eyes, and beheld all the plain of Jordan, that it was well watered every where, before the LORD destroyed Sodom and Gomorrah, even as the garden of the LORD, like the land of Egypt, as you come unto Zoar.
 [13:11] Then Lot chose him all the plain of Jordan; and Lot journeyed east: and they separated themselves the one from the other.
@@ -392,7 +392,7 @@ Genesis
 [16:9] And the angel of the LORD said unto her, Return to your mistress, and submit thyself under her hands.
 [16:10] And the angel of the LORD said unto her, I will multiply your seed exceedingly, that it shall not be numbered for multitude.
 [16:11] And the angel of the LORD said unto her, Behold, you art with child and shalt bear a son, and shalt call his name Ishmael; because the LORD hath heard your affliction.
-[16:12] And he will be a wild man; his hand will be against every man, and every man's hand against him; and he shall dwell in the presence of all his brethren.
+[16:12] And he will be a wild man; his hand will be against every man, and every man's hand against him; and he shall dwell in the presence of all his brothers.
 [16:13] And she called the name of the LORD that spake unto her, You God see me: for she said, Have I also here looked after him that seeth me?
 [16:14] Wherefore the well was called Beerlahairoi; behold, it is between Kadesh and Bered.
 [16:15] And Hagar bare Abram a son: and Abram called his son's name, which Hagar bare, Ishmael.
@@ -463,7 +463,7 @@ Genesis
 [19:4] But before they lay down, the men of the city, even the men of Sodom, compassed the house round, both old and young, all the people from every quarter:
 [19:5] And they called unto Lot, and said unto him, Where are the men which came in to you this night? bring them out unto us, that we may know them.
 [19:6] And Lot went out at the door unto them, and shut the door after him,
-[19:7] And said, I pray you, brethren, do not so wickedly.
+[19:7] And said, I pray you, brothers, do not so wickedly.
 [19:8] Behold now, I have two daughters which have not known man; let me, I pray you, bring them out unto you, and do you to them as is good in your eyes: only unto these men do nothing; for therefore came they under the shadow of my roof.
 [19:9] And they said, Stand back. And they said again, This one fellow came in to sojourn, and he will needs be a judge: now will we deal worse with you, than with them. And they pressed sore upon the man, even Lot, and came near to break the door.
 [19:10] But the men put forth their hand, and pulled Lot into the house to them, and shut to the door.
@@ -617,7 +617,7 @@ Genesis
 [24:24] And she said unto him, I am the daughter of Bethuel the son of Milcah, which she bare unto Nahor.
 [24:25] She said moreover unto him, We have both straw and provender enough, and room to lodge in.
 [24:26] And the man bowed down his head, and worshipped the LORD.
-[24:27] And he said, Blessed be the LORD God of my master Abraham, who hath not left destitute my master of his mercy and his truth: I being in the way, the LORD led me to the house of my master's brethren.
+[24:27] And he said, Blessed be the LORD God of my master Abraham, who hath not left destitute my master of his mercy and his truth: I being in the way, the LORD led me to the house of my master's brothers.
 [24:28] And the damsel ran, and told them of her mother's house these things.
 [24:29] And Rebekah had a brother, and his name was Laban: and Laban ran out unto the man, unto the well.
 [24:30] And it came to pass, when he saw the earring and bracelets upon his sister's hands, and when he heard the words of Rebekah his sister, saying, Thus spake the man unto me; that he came unto the man; and, behold, he stood by the camels at the well.
@@ -675,7 +675,7 @@ Genesis
 [25:15] Hadar, and Tema, Jetur, Naphish, and Kedemah:
 [25:16] These are the sons of Ishmael, and these are their names, by their towns, and by their castles; twelve princes according to their nations.
 [25:17] And these are the years of the life of Ishmael, an hundred and thirty and seven years: and he gave up the ghost and died; and was gathered unto his people.
-[25:18] And they dwelt from Havilah unto Shur, that is before Egypt, as you goest toward Assyria: and he died in the presence of all his brethren.
+[25:18] And they dwelt from Havilah unto Shur, that is before Egypt, as you goest toward Assyria: and he died in the presence of all his brothers.
 [25:19] And these are the generations of Isaac, Abraham's son: Abraham begat Isaac:
 [25:20] And Isaac was forty years old when he took Rebekah to wife, the daughter of Bethuel the Syrian of Padanaram, the sister to Laban the Syrian.
 [25:21] And Isaac entreated the LORD for his wife, because she was barren: and the LORD was entreated of him, and Rebekah his wife conceived.
@@ -755,7 +755,7 @@ Genesis
 [27:26] And his father Isaac said unto him, Come near now, and kiss me, my son.
 [27:27] And he came near, and kissed him: and he smelled the smell of his raiment, and blessed him, and said, See, the smell of my son is as the smell of a field which the LORD hath blessed:
 [27:28] Therefore God give you of the dew of heaven, and the fatness of the earth, and plenty of corn and wine:
-[27:29] Let people serve you, and nations bow down to you: be lord over your brethren, and let your mother's sons bow down to you: cursed be every one that curseth you, and blessed be he that blesseth you.
+[27:29] Let people serve you, and nations bow down to you: be lord over your brothers, and let your mother's sons bow down to you: cursed be every one that curseth you, and blessed be he that blesseth you.
 [27:30] And it came to pass, as soon as Isaac had made an end of blessing Jacob, and Jacob was yet scarce gone out from the presence of Isaac his father, that Esau his brother came in from his hunting.
 [27:31] And he also had made savory meat, and brought it unto his father, and said unto his father, Let my father arise, and eat of his son's venison, that your soul may bless me.
 [27:32] And Isaac his father said unto him, Who art you? And he said, I am your son, your firstborn Esau.
@@ -763,7 +763,7 @@ Genesis
 [27:34] And when Esau heard the words of his father, he cried with a great and exceeding bitter cry, and said unto his father, Bless me, even me also, O my father.
 [27:35] And he said, Your brother came with subtilty, and hath taken away your blessing.
 [27:36] And he said, Is not he rightly named Jacob? for he hath supplanted me these two times: he took away my birthright; and, behold, now he hath taken away my blessing. And he said, Have you not reserved a blessing for me?
-[27:37] And Isaac answered and said unto Esau, Behold, I have made him your lord, and all his brethren have I given to him for servants; and with corn and wine have I sustained him: and what shall I do now unto you, my son?
+[27:37] And Isaac answered and said unto Esau, Behold, I have made him your lord, and all his brothers have I given to him for servants; and with corn and wine have I sustained him: and what shall I do now unto you, my son?
 [27:38] And Esau said unto his father, Have you but one blessing, my father? bless me, even me also, O my father. And Esau lifted up his voice, and wept.
 [27:39] And Isaac his father answered and said unto him, Behold, your dwelling shall be the fatness of the earth, and of the dew of heaven from above;
 [27:40] And by your sword shalt you live, and shalt serve your brother; and it shall come to pass when you shalt have the dominion, that you shalt break his yoke from off your neck.
@@ -798,7 +798,7 @@ Genesis
 [29:1] Then Jacob went on his journey, and came into the land of the people of the east.
 [29:2] And he looked, and behold a well in the field, and, lo, there were three flocks of sheep lying by it; for out of that well they watered the flocks: and a great stone was upon the well's mouth.
 [29:3] And thither were all the flocks gathered: and they rolled the stone from the well's mouth, and watered the sheep, and put the stone again upon the well's mouth in his place.
-[29:4] And Jacob said unto them, My brethren, whence be you? And they said, Of Haran are we.
+[29:4] And Jacob said unto them, My brothers, whence be you? And they said, Of Haran are we.
 [29:5] And he said unto them, Know you Laban the son of Nahor? And they said, We know him.
 [29:6] And he said unto them, Is he well? And they said, He is well: and, behold, Rachel his daughter cometh with the sheep.
 [29:7] And he said, Lo, it is yet high day, neither is it time that the cattle should be gathered together: water you the sheep, and go and feed them.
@@ -895,21 +895,21 @@ Genesis
 [31:20] And Jacob stole away unawares to Laban the Syrian, in that he told him not that he fled.
 [31:21] So he fled with all that he had; and he rose up, and passed over the river, and set his face toward the mount Gilead.
 [31:22] And it was told Laban on the third day that Jacob was fled.
-[31:23] And he took his brethren with him, and pursued after him seven days' journey; and they overtook him in the mount Gilead.
+[31:23] And he took his brothers with him, and pursued after him seven days' journey; and they overtook him in the mount Gilead.
 [31:24] And God came to Laban the Syrian in a dream by night, and said unto him, Take heed that you speak not to Jacob either good or bad.
-[31:25] Then Laban overtook Jacob. Now Jacob had pitched his tent in the mount: and Laban with his brethren pitched in the mount of Gilead.
+[31:25] Then Laban overtook Jacob. Now Jacob had pitched his tent in the mount: and Laban with his brothers pitched in the mount of Gilead.
 [31:26] And Laban said to Jacob, What have you done, that you have stolen away unawares to me, and carried away my daughters, as captives taken with the sword?
 [31:27] Wherefore didst you flee away secretly, and steal away from me; and didst not tell me, that I might have sent you away with mirth, and with songs, with tabret, and with harp?
 [31:28] And have not suffered me to kiss my sons and my daughters? you have now done foolishly in so doing.
 [31:29] It is in the power of my hand to do you hurt: but the God of your father spake unto me yesternight, saying, Take you heed that you speak not to Jacob either good or bad.
 [31:30] And now, though you wouldest needs be gone, because you sore longedst after your father's house, yet wherefore have you stolen my gods?
 [31:31] And Jacob answered and said to Laban, Because I was afraid: for I said, Peradventure you wouldest take by force your daughters from me.
-[31:32] With whomsoever you findest your gods, let him not live: before our brethren discern you what is your with me, and take it to you. For Jacob knew not that Rachel had stolen them.
+[31:32] With whomsoever you findest your gods, let him not live: before our brothers discern you what is your with me, and take it to you. For Jacob knew not that Rachel had stolen them.
 [31:33] And Laban went into Jacob's tent, and into Leah's tent, and into the two maidservants' tents; but he found them not. Then went he out of Leah's tent, and entered into Rachel's tent.
 [31:34] Now Rachel had taken the images, and put them in the camel's furniture, and sat upon them. And Laban searched all the tent, but found them not.
 [31:35] And she said to her father, Let it not displease my lord that I cannot rise up before you; for the custom of women is upon me. And he searched but found not the images.
 [31:36] And Jacob was wroth, and chode with Laban: and Jacob answered and said to Laban, What is my trespass? what is my sin, that you have so hotly pursued after me?
-[31:37] Whereas you have searched all my stuff, what have you found of all your household stuff? set it here before my brethren and your brethren, that they may judge betwixt us both.
+[31:37] Whereas you have searched all my stuff, what have you found of all your household stuff? set it here before my brothers and your brothers, that they may judge betwixt us both.
 [31:38] This twenty years have I been with you; your ewes and your she goats have not cast their young, and the rams of your flock have I not eaten.
 [31:39] That which was torn of beasts I brought not unto you; I bare the loss of it; of my hand didst you require it, whether stolen by day, or stolen by night.
 [31:40] Thus I was; in the day the drought consumed me, and the frost by night; and my sleep departed from mine eyes.
@@ -918,7 +918,7 @@ Genesis
 [31:43] And Laban answered and said unto Jacob, These daughters are my daughters, and these children are my children, and these cattle are my cattle, and all that you see is mine: and what can I do this day unto these my daughters, or unto their children which they have born?
 [31:44] Now therefore come you, let us make a covenant, I and you; and let it be for a witness between me and you.
 [31:45] And Jacob took a stone, and set it up for a pillar.
-[31:46] And Jacob said unto his brethren, Gather stones; and they took stones, and made an heap: and they did eat there upon the heap.
+[31:46] And Jacob said unto his brothers, Gather stones; and they took stones, and made an heap: and they did eat there upon the heap.
 [31:47] And Laban called it Jegarsahadutha: but Jacob called it Galeed.
 [31:48] And Laban said, This heap is a witness between me and you this day. Therefore was the name of it called Galeed;
 [31:49] And Mizpah; for he said, The LORD watch between me and you, when we are absent one from another.
@@ -926,7 +926,7 @@ Genesis
 [31:51] And Laban said to Jacob, Behold this heap, and behold this pillar, which I have cast betwixt me and you:
 [31:52] This heap be witness, and this pillar be witness, that I will not pass over this heap to you, and that you shalt not pass over this heap and this pillar unto me, for harm.
 [31:53] The God of Abraham, and the God of Nahor, the God of their father, judge betwixt us. And Jacob sware by the fear of his father Isaac.
-[31:54] Then Jacob offered sacrifice upon the mount, and called his brethren to eat bread: and they did eat bread, and tarried all night in the mount.
+[31:54] Then Jacob offered sacrifice upon the mount, and called his brothers to eat bread: and they did eat bread, and tarried all night in the mount.
 [31:55] And early in the morning Laban rose up, and kissed his sons and his daughters, and blessed them: and Laban departed, and returned unto his place.
 [32:1] And Jacob went on his way, and the angels of God met him.
 [32:2] And when Jacob saw them, he said, This is God's host: and he called the name of that place Mahanaim.
@@ -990,7 +990,7 @@ Genesis
 [34:8] And Hamor communed with them, saying, The soul of my son Shechem longeth for your daughter: I pray you give her him to wife.
 [34:9] And make you marriages with us, and give your daughters unto us, and take our daughters unto you.
 [34:10] And you shall dwell with us: and the land shall be before you; dwell and trade you therein, and get you possessions therein.
-[34:11] And Shechem said unto her father and unto her brethren, Let me find grace in your eyes, and what you shall say unto me I will give.
+[34:11] And Shechem said unto her father and unto her brothers, Let me find grace in your eyes, and what you shall say unto me I will give.
 [34:12] Ask me never so much dowry and gift, and I will give according as you shall say unto me: but give me the damsel to wife.
 [34:13] And the sons of Jacob answered Shechem and Hamor his father deceitfully, and said, because he had defiled Dinah their sister:
 [34:14] And they said unto them, We cannot do this thing, to give our sister to one that is uncircumcised; for that were a reproach unto us:
@@ -1004,7 +1004,7 @@ Genesis
 [34:22] Only herein will the men consent unto us for to dwell with us, to be one people, if every male among us be circumcised, as they are circumcised.
 [34:23] Shall not their cattle and their substance and every beast of theirs be ours? only let us consent unto them, and they will dwell with us.
 [34:24] And unto Hamor and unto Shechem his son hearkened all that went out of the gate of his city; and every male was circumcised, all that went out of the gate of his city.
-[34:25] And it came to pass on the third day, when they were sore, that two of the sons of Jacob, Simeon and Levi, Dinah's brethren, took each man his sword, and came upon the city boldly, and slew all the males.
+[34:25] And it came to pass on the third day, when they were sore, that two of the sons of Jacob, Simeon and Levi, Dinah's brothers, took each man his sword, and came upon the city boldly, and slew all the males.
 [34:26] And they slew Hamor and Shechem his son with the edge of the sword, and took Dinah out of Shechem's house, and went out.
 [34:27] The sons of Jacob came upon the slain, and spoiled the city, because they had defiled their sister.
 [34:28] They took their sheep, and their oxen, and their asses, and that which was in the city, and that which was in the field,
@@ -1084,42 +1084,42 @@ Genesis
 [36:42] Duke Kenaz, duke Teman, duke Mibzar,
 [36:43] Duke Magdiel, duke Iram: these be the dukes of Edom, according to their habitations in the land of their possession: he is Esau the father of the Edomites.
 [37:1] And Jacob dwelt in the land wherein his father was a stranger, in the land of Canaan.
-[37:2] These are the generations of Jacob. Joseph, being seventeen years old, was feeding the flock with his brethren; and the lad was with the sons of Bilhah, and with the sons of Zilpah, his father's wives: and Joseph brought unto his father their evil report.
+[37:2] These are the generations of Jacob. Joseph, being seventeen years old, was feeding the flock with his brothers; and the lad was with the sons of Bilhah, and with the sons of Zilpah, his father's wives: and Joseph brought unto his father their evil report.
 [37:3] Now Israel loved Joseph more than all his children, because he was the son of his old age: and he made him a coat of many colors.
-[37:4] And when his brethren saw that their father loved him more than all his brethren, they hated him, and could not speak peaceably unto him.
-[37:5] And Joseph dreamed a dream, and he told it his brethren: and they hated him yet the more.
+[37:4] And when his brothers saw that their father loved him more than all his brothers, they hated him, and could not speak peaceably unto him.
+[37:5] And Joseph dreamed a dream, and he told it his brothers: and they hated him yet the more.
 [37:6] And he said unto them, Hear, I pray you, this dream which I have dreamed:
 [37:7] For, behold, we were binding sheaves in the field, and, lo, my sheaf arose, and also stood upright; and, behold, your sheaves stood round about, and made obeisance to my sheaf.
-[37:8] And his brethren said to him, Shalt you indeed reign over us? or shalt you indeed have dominion over us? And they hated him yet the more for his dreams, and for his words.
-[37:9] And he dreamed yet another dream, and told it his brethren, and said, Behold, I have dreamed a dream more; and, behold, the sun and the moon and the eleven stars made obeisance to me.
-[37:10] And he told it to his father, and to his brethren: and his father rebuked him, and said unto him, What is this dream that you have dreamed? Shall I and your mother and your brethren indeed come to bow down ourselves to you to the earth?
-[37:11] And his brethren envied him; but his father observed the saying.
-[37:12] And his brethren went to feed their father's flock in Shechem.
-[37:13] And Israel said unto Joseph, Do not your brethren feed the flock in Shechem? come, and I will send you unto them. And he said to him, Here am I.
-[37:14] And he said to him, Go, I pray you, see whether it be well with your brethren, and well with the flocks; and bring me word again. So he sent him out of the vale of Hebron, and he came to Shechem.
+[37:8] And his brothers said to him, Shalt you indeed reign over us? or shalt you indeed have dominion over us? And they hated him yet the more for his dreams, and for his words.
+[37:9] And he dreamed yet another dream, and told it his brothers, and said, Behold, I have dreamed a dream more; and, behold, the sun and the moon and the eleven stars made obeisance to me.
+[37:10] And he told it to his father, and to his brothers: and his father rebuked him, and said unto him, What is this dream that you have dreamed? Shall I and your mother and your brothers indeed come to bow down ourselves to you to the earth?
+[37:11] And his brothers envied him; but his father observed the saying.
+[37:12] And his brothers went to feed their father's flock in Shechem.
+[37:13] And Israel said unto Joseph, Do not your brothers feed the flock in Shechem? come, and I will send you unto them. And he said to him, Here am I.
+[37:14] And he said to him, Go, I pray you, see whether it be well with your brothers, and well with the flocks; and bring me word again. So he sent him out of the vale of Hebron, and he came to Shechem.
 [37:15] And a certain man found him, and, behold, he was wandering in the field: and the man asked him, saying, What seekest you?
-[37:16] And he said, I seek my brethren: tell me, I pray you, where they feed their flocks.
-[37:17] And the man said, They are departed hence; for I heard them say, Let us go to Dothan. And Joseph went after his brethren, and found them in Dothan.
+[37:16] And he said, I seek my brothers: tell me, I pray you, where they feed their flocks.
+[37:17] And the man said, They are departed hence; for I heard them say, Let us go to Dothan. And Joseph went after his brothers, and found them in Dothan.
 [37:18] And when they saw him afar off, even before he came near unto them, they conspired against him to slay him.
 [37:19] And they said one to another, Behold, this dreamer cometh.
 [37:20] Come now therefore, and let us slay him, and cast him into some pit, and we will say, Some evil beast hath devoured him: and we shall see what will become of his dreams.
 [37:21] And Reuben heard it, and he delivered him out of their hands; and said, Let us not kill him.
 [37:22] And Reuben said unto them, Shed no blood, but cast him into this pit that is in the wilderness, and lay no hand upon him; that he might rid him out of their hands, to deliver him to his father again.
-[37:23] And it came to pass, when Joseph was come unto his brethren, that they stripped Joseph out of his coat, his coat of many colors that was on him;
+[37:23] And it came to pass, when Joseph was come unto his brothers, that they stripped Joseph out of his coat, his coat of many colors that was on him;
 [37:24] And they took him, and cast him into a pit: and the pit was empty, there was no water in it.
 [37:25] And they sat down to eat bread: and they lifted up their eyes and looked, and, behold, a company of Ishmaelites came from Gilead with their camels bearing spicery and balm and myrrh, going to carry it down to Egypt.
-[37:26] And Judah said unto his brethren, What profit is it if we slay our brother, and conceal his blood?
-[37:27] Come, and let us sell him to the Ishmaelites, and let not our hand be upon him; for he is our brother and our flesh. And his brethren were content.
+[37:26] And Judah said unto his brothers, What profit is it if we slay our brother, and conceal his blood?
+[37:27] Come, and let us sell him to the Ishmaelites, and let not our hand be upon him; for he is our brother and our flesh. And his brothers were content.
 [37:28] Then there passed by Midianites merchantmen; and they drew and lifted up Joseph out of the pit, and sold Joseph to the Ishmaelites for twenty pieces of silver: and they brought Joseph into Egypt.
 [37:29] And Reuben returned unto the pit; and, behold, Joseph was not in the pit; and he rent his clothes.
-[37:30] And he returned unto his brethren, and said, The child is not; and I, whither shall I go?
+[37:30] And he returned unto his brothers, and said, The child is not; and I, whither shall I go?
 [37:31] And they took Joseph's coat, and killed a kid of the goats, and dipped the coat in the blood;
 [37:32] And they sent the coat of many colors, and they brought it to their father; and said, This have we found: know now whether it be your son's coat or no.
 [37:33] And he knew it, and said, It is my son's coat; an evil beast hath devoured him; Joseph is without doubt rent in pieces.
 [37:34] And Jacob rent his clothes, and put sackcloth upon his loins, and mourned for his son many days.
 [37:35] And all his sons and all his daughters rose up to comfort him; but he refused to be comforted; and he said, For I will go down into the grave unto my son mourning. Thus his father wept for him.
 [37:36] And the Midianites sold him into Egypt unto Potiphar, an officer of Pharaoh's, and captain of the guard.
-[38:1] And it came to pass at that time, that Judah went down from his brethren, and turned in to a certain Adullamite, whose name was Hirah.
+[38:1] And it came to pass at that time, that Judah went down from his brothers, and turned in to a certain Adullamite, whose name was Hirah.
 [38:2] And Judah saw there a daughter of a certain Canaanite, whose name was Shuah; and he took her, and went in unto her.
 [38:3] And she conceived, and bare a son; and he called his name Er.
 [38:4] And she conceived again, and bare a son; and she called his name Onan.
@@ -1129,7 +1129,7 @@ Genesis
 [38:8] And Judah said unto Onan, Go in unto your brother's wife, and marry her, and raise up seed to your brother.
 [38:9] And Onan knew that the seed should not be his; and it came to pass, when he went in unto his brother's wife, that he spilled it on the ground, lest that he should give seed to his brother.
 [38:10] And the thing which he did displeased the LORD: wherefore he slew him also.
-[38:11] Then said Judah to Tamar his daughter in law, Remain a widow at your father's house, till Shelah my son be grown: for he said, Lest peradventure he die also, as his brethren did. And Tamar went and dwelt in her father's house.
+[38:11] Then said Judah to Tamar his daughter in law, Remain a widow at your father's house, till Shelah my son be grown: for he said, Lest peradventure he die also, as his brothers did. And Tamar went and dwelt in her father's house.
 [38:12] And in process of time the daughter of Shuah Judah's wife died; and Judah was comforted, and went up unto his sheepshearers to Timnath, he and his friend Hirah the Adullamite.
 [38:13] And it was told Tamar, saying, Behold your father in law goeth up to Timnath to shear his sheep.
 [38:14] And she put her widow's garments off from her, and covered her with a vail, and wrapped herself, and sat in an open place, which is by the way to Timnath; for she saw that Shelah was grown, and she was not given unto him to wife.
@@ -1254,23 +1254,23 @@ Genesis
 [41:57] And all countries came into Egypt to Joseph for to buy corn; because that the famine was so sore in all lands.
 [42:1] Now when Jacob saw that there was corn in Egypt, Jacob said unto his sons, Why do you look one upon another?
 [42:2] And he said, Behold, I have heard that there is corn in Egypt: get you down thither, and buy for us from thence; that we may live, and not die.
-[42:3] And Joseph's ten brethren went down to buy corn in Egypt.
-[42:4] But Benjamin, Joseph's brother, Jacob sent not with his brethren; for he said, Lest peradventure mischief befall him.
+[42:3] And Joseph's ten brothers went down to buy corn in Egypt.
+[42:4] But Benjamin, Joseph's brother, Jacob sent not with his brothers; for he said, Lest peradventure mischief befall him.
 [42:5] And the sons of Israel came to buy corn among those that came: for the famine was in the land of Canaan.
-[42:6] And Joseph was the governor over the land, and he it was that sold to all the people of the land: and Joseph's brethren came, and bowed down themselves before him with their faces to the earth.
-[42:7] And Joseph saw his brethren, and he knew them, but made himself strange unto them, and spake roughly unto them; and he said unto them, Whence come you? And they said, From the land of Canaan to buy food.
-[42:8] And Joseph knew his brethren, but they knew not him.
+[42:6] And Joseph was the governor over the land, and he it was that sold to all the people of the land: and Joseph's brothers came, and bowed down themselves before him with their faces to the earth.
+[42:7] And Joseph saw his brothers, and he knew them, but made himself strange unto them, and spake roughly unto them; and he said unto them, Whence come you? And they said, From the land of Canaan to buy food.
+[42:8] And Joseph knew his brothers, but they knew not him.
 [42:9] And Joseph remembered the dreams which he dreamed of them, and said unto them, You are spies; to see the nakedness of the land you are come.
 [42:10] And they said unto him, Nay, my lord, but to buy food are your servants come.
 [42:11] We are all one man's sons; we are true men, your servants are no spies.
 [42:12] And he said unto them, Nay, but to see the nakedness of the land you are come.
-[42:13] And they said, Your servants are twelve brethren, the sons of one man in the land of Canaan; and, behold, the youngest is this day with our father, and one is not.
+[42:13] And they said, Your servants are twelve brothers, the sons of one man in the land of Canaan; and, behold, the youngest is this day with our father, and one is not.
 [42:14] And Joseph said unto them, That is it that I spake unto you, saying, You are spies:
 [42:15] Hereby you shall be proved: By the life of Pharaoh you shall not go forth hence, except your youngest brother come hither.
 [42:16] Send one of you, and let him fetch your brother, and you shall be kept in prison, that your words may be proved, whether there be any truth in you: or else by the life of Pharaoh surely you are spies.
 [42:17] And he put them all together into ward three days.
 [42:18] And Joseph said unto them the third day, This do, and live; for I fear God:
-[42:19] If you be true men, let one of your brethren be bound in the house of your prison: go you, carry corn for the famine of your houses:
+[42:19] If you be true men, let one of your brothers be bound in the house of your prison: go you, carry corn for the famine of your houses:
 [42:20] But bring your youngest brother unto me; so shall your words be verified, and you shall not die. And they did so.
 [42:21] And they said one to another, We are verily guilty concerning our brother, in that we saw the anguish of his soul, when he besought us, and we would not hear; therefore is this distress come upon us.
 [42:22] And Reuben answered them, saying, Spake I not unto you, saying, Do not sin against the child; and you would not hear? therefore, behold, also his blood is required.
@@ -1279,12 +1279,12 @@ Genesis
 [42:25] Then Joseph commanded to fill their sacks with corn, and to restore every man's money into his sack, and to give them provision for the way: and thus did he unto them.
 [42:26] And they laded their asses with the corn, and departed thence.
 [42:27] And as one of them opened his sack to give his ass provender in the inn, he espied his money; for, behold, it was in his sack's mouth.
-[42:28] And he said unto his brethren, My money is restored; and, lo, it is even in my sack: and their heart failed them, and they were afraid, saying one to another, What is this that God hath done unto us?
+[42:28] And he said unto his brothers, My money is restored; and, lo, it is even in my sack: and their heart failed them, and they were afraid, saying one to another, What is this that God hath done unto us?
 [42:29] And they came unto Jacob their father unto the land of Canaan, and told him all that befell unto them; saying,
 [42:30] The man, who is the lord of the land, spake roughly to us, and took us for spies of the country.
 [42:31] And we said unto him, We are true men; we are no spies:
-[42:32] We be twelve brethren, sons of our father; one is not, and the youngest is this day with our father in the land of Canaan.
-[42:33] And the man, the lord of the country, said unto us, Hereby shall I know that you are true men; leave one of your brethren here with me, and take food for the famine of your households, and be gone:
+[42:32] We be twelve brothers, sons of our father; one is not, and the youngest is this day with our father in the land of Canaan.
+[42:33] And the man, the lord of the country, said unto us, Hereby shall I know that you are true men; leave one of your brothers here with me, and take food for the famine of your households, and be gone:
 [42:34] And bring your youngest brother unto me: then shall I know that you are no spies, but that you are true men: so will I deliver you your brother, and you shall traffic in the land.
 [42:35] And it came to pass as they emptied their sacks, that, behold, every man's bundle of money was in his sack: and when both they and their father saw the bundles of money, they were afraid.
 [42:36] And Jacob their father said unto them, Me have you bereaved of my children: Joseph is not, and Simeon is not, and you will take Benjamin away: all these things are against me.
@@ -1337,7 +1337,7 @@ Genesis
 [44:11] Then they speedily took down every man his sack to the ground, and opened every man his sack.
 [44:12] And he searched, and began at the eldest, and left at the youngest: and the cup was found in Benjamin's sack.
 [44:13] Then they rent their clothes, and laded every man his ass, and returned to the city.
-[44:14] And Judah and his brethren came to Joseph's house; for he was yet there: and they fell before him on the ground.
+[44:14] And Judah and his brothers came to Joseph's house; for he was yet there: and they fell before him on the ground.
 [44:15] And Joseph said unto them, What deed is this that you have done? wot you not that such a man as I can certainly divine?
 [44:16] And Judah said, What shall we say unto my lord? what shall we speak? or how shall we clear ourselves? God hath found out the iniquity of your servants: behold, we are my lord's servants, both we, and he also with whom the cup is found.
 [44:17] And he said, God forbid that I should do so: but the man in whose hand the cup is found, he shall be my servant; and as for you, get you up in peace unto your father.
@@ -1356,12 +1356,12 @@ Genesis
 [44:30] Now therefore when I come to your servant my father, and the lad be not with us; seeing that his life is bound up in the lad's life;
 [44:31] It shall come to pass, when he seeth that the lad is not with us, that he will die: and your servants shall bring down the gray hairs of your servant our father with sorrow to the grave.
 [44:32] For your servant became surety for the lad unto my father, saying, If I bring him not unto you, then I shall bear the blame to my father for ever.
-[44:33] Now therefore, I pray you, let your servant abide instead of the lad a bondman to my lord; and let the lad go up with his brethren.
+[44:33] Now therefore, I pray you, let your servant abide instead of the lad a bondman to my lord; and let the lad go up with his brothers.
 [44:34] For how shall I go up to my father, and the lad be not with me? lest peradventure I see the evil that shall come on my father.
-[45:1] Then Joseph could not refrain himself before all them that stood by him; and he cried, Cause every man to go out from me. And there stood no man with him, while Joseph made himself known unto his brethren.
+[45:1] Then Joseph could not refrain himself before all them that stood by him; and he cried, Cause every man to go out from me. And there stood no man with him, while Joseph made himself known unto his brothers.
 [45:2] And he wept aloud: and the Egyptians and the house of Pharaoh heard.
-[45:3] And Joseph said unto his brethren, I am Joseph; doth my father yet live? And his brethren could not answer him; for they were troubled at his presence.
-[45:4] And Joseph said unto his brethren, Come near to me, I pray you. And they came near. And he said, I am Joseph your brother, whom you sold into Egypt.
+[45:3] And Joseph said unto his brothers, I am Joseph; doth my father yet live? And his brothers could not answer him; for they were troubled at his presence.
+[45:4] And Joseph said unto his brothers, Come near to me, I pray you. And they came near. And he said, I am Joseph your brother, whom you sold into Egypt.
 [45:5] Now therefore be not grieved, nor angry with yourselves, that you sold me hither: for God did send me before you to preserve life.
 [45:6] For these two years hath the famine been in the land: and yet there are five years, in the which there shall neither be earing nor harvest.
 [45:7] And God sent me before you to preserve you a posterity in the earth, and to save your lives by a great deliverance.
@@ -1372,16 +1372,16 @@ Genesis
 [45:12] And, behold, your eyes see, and the eyes of my brother Benjamin, that it is my mouth that speaketh unto you.
 [45:13] And you shall tell my father of all my glory in Egypt, and of all that you have seen; and you shall haste and bring down my father hither.
 [45:14] And he fell upon his brother Benjamin's neck, and wept; and Benjamin wept upon his neck.
-[45:15] Moreover he kissed all his brethren, and wept upon them: and after that his brethren talked with him.
-[45:16] And the fame thereof was heard in Pharaoh's house, saying, Joseph's brethren are come: and it pleased Pharaoh well, and his servants.
-[45:17] And Pharaoh said unto Joseph, Say unto your brethren, This do you; lade your beasts, and go, get you unto the land of Canaan;
+[45:15] Moreover he kissed all his brothers, and wept upon them: and after that his brothers talked with him.
+[45:16] And the fame thereof was heard in Pharaoh's house, saying, Joseph's brothers are come: and it pleased Pharaoh well, and his servants.
+[45:17] And Pharaoh said unto Joseph, Say unto your brothers, This do you; lade your beasts, and go, get you unto the land of Canaan;
 [45:18] And take your father and your households, and come unto me: and I will give you the good of the land of Egypt, and you shall eat the fat of the land.
 [45:19] Now you art commanded, this do you; take you wagons out of the land of Egypt for your little ones, and for your wives, and bring your father, and come.
 [45:20] Also regard not your stuff; for the good of all the land of Egypt is yours.
 [45:21] And the children of Israel did so: and Joseph gave them wagons, according to the commandment of Pharaoh, and gave them provision for the way.
 [45:22] To all of them he gave each man changes of raiment; but to Benjamin he gave three hundred pieces of silver, and five changes of raiment.
 [45:23] And to his father he sent after this manner; ten asses laden with the good things of Egypt, and ten she asses laden with corn and bread and meat for his father by the way.
-[45:24] So he sent his brethren away, and they departed: and he said unto them, See that you fall not out by the way.
+[45:24] So he sent his brothers away, and they departed: and he said unto them, See that you fall not out by the way.
 [45:25] And they went up out of Egypt, and came into the land of Canaan unto Jacob their father,
 [45:26] And told him, saying, Joseph is yet alive, and he is governor over all the land of Egypt. And Jacob's heart fainted, for he believed them not.
 [45:27] And they told him all the words of Joseph, which he had said unto them: and when he saw the wagons which Joseph had sent to carry him, the spirit of Jacob their father revived:
@@ -1416,22 +1416,22 @@ Genesis
 [46:28] And he sent Judah before him unto Joseph, to direct his face unto Goshen; and they came into the land of Goshen.
 [46:29] And Joseph made ready his chariot, and went up to meet Israel his father, to Goshen, and presented himself unto him; and he fell on his neck, and wept on his neck a good while.
 [46:30] And Israel said unto Joseph, Now let me die, since I have seen your face, because you art yet alive.
-[46:31] And Joseph said unto his brethren, and unto his father's house, I will go up, and show Pharaoh, and say unto him, My brethren, and my father's house, which were in the land of Canaan, are come unto me;
+[46:31] And Joseph said unto his brothers, and unto his father's house, I will go up, and show Pharaoh, and say unto him, My brothers, and my father's house, which were in the land of Canaan, are come unto me;
 [46:32] And the men are shepherds, for their trade hath been to feed cattle; and they have brought their flocks, and their herds, and all that they have.
 [46:33] And it shall come to pass, when Pharaoh shall call you, and shall say, What is your occupation?
 [46:34] That you shall say, Your servants' trade hath been about cattle from our youth even until now, both we, and also our fathers: that you may dwell in the land of Goshen; for every shepherd is an abomination unto the Egyptians.
-[47:1] Then Joseph came and told Pharaoh, and said, My father and my brethren, and their flocks, and their herds, and all that they have, are come out of the land of Canaan; and, behold, they are in the land of Goshen.
-[47:2] And he took some of his brethren, even five men, and presented them unto Pharaoh.
-[47:3] And Pharaoh said unto his brethren, What is your occupation? And they said unto Pharaoh, Your servants are shepherds, both we, and also our fathers.
+[47:1] Then Joseph came and told Pharaoh, and said, My father and my brothers, and their flocks, and their herds, and all that they have, are come out of the land of Canaan; and, behold, they are in the land of Goshen.
+[47:2] And he took some of his brothers, even five men, and presented them unto Pharaoh.
+[47:3] And Pharaoh said unto his brothers, What is your occupation? And they said unto Pharaoh, Your servants are shepherds, both we, and also our fathers.
 [47:4] They said moreover unto Pharaoh, For to sojourn in the land are we come; for your servants have no pasture for their flocks; for the famine is sore in the land of Canaan: now therefore, we pray you, let your servants dwell in the land of Goshen.
-[47:5] And Pharaoh spake unto Joseph, saying, Your father and your brethren are come unto you:
-[47:6] The land of Egypt is before you; in the best of the land make your father and brethren to dwell; in the land of Goshen let them dwell: and if you knowest any men of activity among them, then make them rulers over my cattle.
+[47:5] And Pharaoh spake unto Joseph, saying, Your father and your brothers are come unto you:
+[47:6] The land of Egypt is before you; in the best of the land make your father and brothers to dwell; in the land of Goshen let them dwell: and if you knowest any men of activity among them, then make them rulers over my cattle.
 [47:7] And Joseph brought in Jacob his father, and set him before Pharaoh: and Jacob blessed Pharaoh.
 [47:8] And Pharaoh said unto Jacob, How old art you?
 [47:9] And Jacob said unto Pharaoh, The days of the years of my pilgrimage are an hundred and thirty years: few and evil have the days of the years of my life been, and have not attained unto the days of the years of the life of my fathers in the days of their pilgrimage.
 [47:10] And Jacob blessed Pharaoh, and went out from before Pharaoh.
-[47:11] And Joseph placed his father and his brethren, and gave them a possession in the land of Egypt, in the best of the land, in the land of Rameses, as Pharaoh had commanded.
-[47:12] And Joseph nourished his father, and his brethren, and all his father's household, with bread, according to their families.
+[47:11] And Joseph placed his father and his brothers, and gave them a possession in the land of Egypt, in the best of the land, in the land of Rameses, as Pharaoh had commanded.
+[47:12] And Joseph nourished his father, and his brothers, and all his father's household, with bread, according to their families.
 [47:13] And there was no bread in all the land; for the famine was very sore, so that the land of Egypt and all the land of Canaan fainted by reason of the famine.
 [47:14] And Joseph gathered up all the money that was found in the land of Egypt, and in the land of Canaan, for the corn which they bought: and Joseph brought the money into Pharaoh's house.
 [47:15] And when money failed in the land of Egypt, and in the land of Canaan, all the Egyptians came unto Joseph, and said, Give us bread: for why should we die in your presence? for the money faileth.
@@ -1456,7 +1456,7 @@ Genesis
 [48:3] And Jacob said unto Joseph, God Almighty appeared unto me at Luz in the land of Canaan, and blessed me,
 [48:4] And said unto me, Behold, I will make you fruitful, and multiply you, and I will make of you a multitude of people; and will give this land to your seed after you for an everlasting possession.
 [48:5] And now your two sons, Ephraim and Manasseh, which were born unto you in the land of Egypt before I came unto you into Egypt, are mine; as Reuben and Simeon, they shall be mine.
-[48:6] And your issue, which you begettest after them, shall be your, and shall be called after the name of their brethren in their inheritance.
+[48:6] And your issue, which you begettest after them, shall be your, and shall be called after the name of their brothers in their inheritance.
 [48:7] And as for me, when I came from Padan, Rachel died by me in the land of Canaan in the way, when yet there was but a little way to come unto Ephrath: and I buried her there in the way of Ephrath; the same is Bethlehem.
 [48:8] And Israel beheld Joseph's sons, and said, Who are these?
 [48:9] And Joseph said unto his father, They are my sons, whom God hath given me in this place. And he said, Bring them, I pray you, unto me, and I will bless them.
@@ -1472,15 +1472,15 @@ Genesis
 [48:19] And his father refused, and said, I know it, my son, I know it: he also shall become a people, and he also shall be great: but truly his younger brother shall be greater than he, and his seed shall become a multitude of nations.
 [48:20] And he blessed them that day, saying, In you shall Israel bless, saying, God make you as Ephraim and as Manasseh: and he set Ephraim before Manasseh.
 [48:21] And Israel said unto Joseph, Behold, I die: but God shall be with you, and bring you again unto the land of your fathers.
-[48:22] Moreover I have given to you one portion above your brethren, which I took out of the hand of the Amorite with my sword and with my bow.
+[48:22] Moreover I have given to you one portion above your brothers, which I took out of the hand of the Amorite with my sword and with my bow.
 [49:1] And Jacob called unto his sons, and said, Gather yourselves together, that I may tell you that which shall befall you in the last days.
 [49:2] Gather yourselves together, and hear, you sons of Jacob; and hearken unto Israel your father.
 [49:3] Reuben, you art my firstborn, my might, and the beginning of my strength, the excellency of dignity, and the excellency of power:
 [49:4] Unstable as water, you shalt not excel; because you wentest up to your father's bed; then defiledst you it: he went up to my couch.
-[49:5] Simeon and Levi are brethren; instruments of cruelty are in their habitations.
+[49:5] Simeon and Levi are brothers; instruments of cruelty are in their habitations.
 [49:6] O my soul, come not you into their secret; unto their assembly, mine honor, be not you united: for in their anger they slew a man, and in their self-will they digged down a wall.
 [49:7] Cursed be their anger, for it was fierce; and their wrath, for it was cruel: I will divide them in Jacob, and scatter them in Israel.
-[49:8] Judah, you art he whom your brethren shall praise: your hand shall be in the neck of your enemies; your father's children shall bow down before you.
+[49:8] Judah, you art he whom your brothers shall praise: your hand shall be in the neck of your enemies; your father's children shall bow down before you.
 [49:9] Judah is a lion's whelp: from the prey, my son, you art gone up: he stooped down, he couched as a lion, and as an old lion; who shall rouse him up?
 [49:10] The sceptre shall not depart from Judah, nor a lawgiver from between his feet, until Shiloh come; and unto him shall the gathering of the people be.
 [49:11] Binding his foal unto the vine, and his ass's colt unto the choice vine; he washed his garments in wine, and his clothes in the blood of grapes:
@@ -1498,7 +1498,7 @@ Genesis
 [49:23] The archers have sorely grieved him, and shot at him, and hated him:
 [49:24] But his bow abode in strength, and the arms of his hands were made strong by the hands of the mighty God of Jacob; (from thence is the shepherd, the stone of Israel:)
 [49:25] Even by the God of your father, who shall help you; and by the Almighty, who shall bless you with blessings of heaven above, blessings of the deep that lieth under, blessings of the breasts, and of the womb:
-[49:26] The blessings of your father have prevailed above the blessings of my progenitors unto the utmost bound of the everlasting hills: they shall be on the head of Joseph, and on the crown of the head of him that was separate from his brethren.
+[49:26] The blessings of your father have prevailed above the blessings of my progenitors unto the utmost bound of the everlasting hills: they shall be on the head of Joseph, and on the crown of the head of him that was separate from his brothers.
 [49:27] Benjamin shall raven as a wolf: in the morning he shall devour the prey, and at night he shall divide the spoil.
 [49:28] All these are the twelve tribes of Israel: and this is it that their father spake unto them, and blessed them; every one according to his blessing he blessed them.
 [49:29] And he charged them, and said unto them, I am to be gathered unto my people: bury me with my fathers in the cave that is in the field of Ephron the Hittite,
@@ -1513,22 +1513,22 @@ Genesis
 [50:5] My father made me swear, saying, Lo, I die: in my grave which I have digged for me in the land of Canaan, there shalt you bury me. Now therefore let me go up, I pray you, and bury my father, and I will come again.
 [50:6] And Pharaoh said, Go up, and bury your father, according as he made you swear.
 [50:7] And Joseph went up to bury his father: and with him went up all the servants of Pharaoh, the elders of his house, and all the elders of the land of Egypt,
-[50:8] And all the house of Joseph, and his brethren, and his father's house: only their little ones, and their flocks, and their herds, they left in the land of Goshen.
+[50:8] And all the house of Joseph, and his brothers, and his father's house: only their little ones, and their flocks, and their herds, they left in the land of Goshen.
 [50:9] And there went up with him both chariots and horsemen: and it was a very great company.
 [50:10] And they came to the threshingfloor of Atad, which is beyond Jordan, and there they mourned with a great and very sore lamentation: and he made a mourning for his father seven days.
 [50:11] And when the inhabitants of the land, the Canaanites, saw the mourning in the floor of Atad, they said, This is a grievous mourning to the Egyptians: wherefore the name of it was called Abelmizraim, which is beyond Jordan.
 [50:12] And his sons did unto him according as he commanded them:
 [50:13] For his sons carried him into the land of Canaan, and buried him in the cave of the field of Machpelah, which Abraham bought with the field for a possession of a buryingplace of Ephron the Hittite, before Mamre.
-[50:14] And Joseph returned into Egypt, he, and his brethren, and all that went up with him to bury his father, after he had buried his father.
-[50:15] And when Joseph's brethren saw that their father was dead, they said, Joseph will peradventure hate us, and will certainly requite us all the evil which we did unto him.
+[50:14] And Joseph returned into Egypt, he, and his brothers, and all that went up with him to bury his father, after he had buried his father.
+[50:15] And when Joseph's brothers saw that their father was dead, they said, Joseph will peradventure hate us, and will certainly requite us all the evil which we did unto him.
 [50:16] And they sent a messenger unto Joseph, saying, Your father did command before he died, saying,
-[50:17] So shall you say unto Joseph, Forgive, I pray you now, the trespass of your brethren, and their sin; for they did unto you evil: and now, we pray you, forgive the trespass of the servants of the God of your father. And Joseph wept when they spake unto him.
-[50:18] And his brethren also went and fell down before his face; and they said, Behold, we be your servants.
+[50:17] So shall you say unto Joseph, Forgive, I pray you now, the trespass of your brothers, and their sin; for they did unto you evil: and now, we pray you, forgive the trespass of the servants of the God of your father. And Joseph wept when they spake unto him.
+[50:18] And his brothers also went and fell down before his face; and they said, Behold, we be your servants.
 [50:19] And Joseph said unto them, Fear not: for am I in the place of God?
 [50:20] But as for you, you thought evil against me; but God meant it unto good, to bring to pass, as it is this day, to save much people alive.
 [50:21] Now therefore fear you not: I will nourish you, and your little ones. And he comforted them, and spake kindly unto them.
 [50:22] And Joseph dwelt in Egypt, he, and his father's house: and Joseph lived an hundred and ten years.
 [50:23] And Joseph saw Ephraim's children of the third generation: the children also of Machir the son of Manasseh were brought up upon Joseph's knees.
-[50:24] And Joseph said unto his brethren, I die: and God will surely visit you, and bring you out of this land unto the land which he sware to Abraham, to Isaac, and to Jacob.
+[50:24] And Joseph said unto his brothers, I die: and God will surely visit you, and bring you out of this land unto the land which he sware to Abraham, to Isaac, and to Jacob.
 [50:25] And Joseph took an oath of the children of Israel, saying, God will surely visit you, and you shall carry up my bones from hence.
 [50:26] So Joseph died, being an hundred and ten years old: and they embalmed him, and he was put in a coffin in Egypt.

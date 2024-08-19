@@ -359,7 +359,7 @@ Numbers
 [8:23] And the LORD spake unto Moses, saying,
 [8:24] This is it that belongeth unto the Levites: from twenty and five years old and upward they shall go in to wait upon the service of the tabernacle of the congregation:
 [8:25] And from the age of fifty years they shall cease waiting upon the service thereof, and shall serve no more:
-[8:26] But shall minister with their brethren in the tabernacle of the congregation, to keep the charge, and shall do no service. Thus shalt you do unto the Levites touching their charge.
+[8:26] But shall minister with their brothers in the tabernacle of the congregation, to keep the charge, and shall do no service. Thus shalt you do unto the Levites touching their charge.
 [9:1] And the LORD spake unto Moses in the wilderness of Sinai, in the first month of the second year after they were come out of the land of Egypt, saying,
 [9:2] Let the children of Israel also keep the passover at his appointed season.
 [9:3] In the fourteenth day of this month, at even, you shall keep it in his appointed season: according to all the rites of it, and according to all the ceremonies thereof, shall you keep it.
@@ -598,7 +598,7 @@ Numbers
 [16:7] And put fire therein, and put incense in them before the LORD to morrow: and it shall be that the man whom the LORD doth choose, he shall be holy: you take too much upon you, you sons of Levi.
 [16:8] And Moses said unto Korah, Hear, I pray you, you sons of Levi:
 [16:9] Seemeth it but a small thing unto you, that the God of Israel hath separated you from the congregation of Israel, to bring you near to himself to do the service of the tabernacle of the LORD, and to stand before the congregation to minister unto them?
-[16:10] And he hath brought you near to him, and all your brethren the sons of Levi with you: and seek you the priesthood also?
+[16:10] And he hath brought you near to him, and all your brothers the sons of Levi with you: and seek you the priesthood also?
 [16:11] For which cause both you and all your company are gathered together against the LORD: and what is Aaron, that you murmur against him?
 [16:12] And Moses sent to call Dathan and Abiram, the sons of Eliab: which said, We will not come up:
 [16:13] Is it a small thing that you have brought us up out of a land that floweth with milk and honey, to kill us in the wilderness, except you make thyself altogether a prince over us?
@@ -653,11 +653,11 @@ Numbers
 [17:12] And the children of Israel spake unto Moses, saying, Behold, we die, we perish, we all perish.
 [17:13] Whosoever cometh any thing near unto the tabernacle of the LORD shall die: shall we be consumed with dying?
 [18:1] And the LORD said unto Aaron, You and your sons and your father's house with you shall bear the iniquity of the sanctuary: and you and your sons with you shall bear the iniquity of your priesthood.
-[18:2] And your brethren also of the tribe of Levi, the tribe of your father, bring you with you, that they may be joined unto you, and minister unto you: but you and your sons with you shall minister before the tabernacle of witness.
+[18:2] And your brothers also of the tribe of Levi, the tribe of your father, bring you with you, that they may be joined unto you, and minister unto you: but you and your sons with you shall minister before the tabernacle of witness.
 [18:3] And they shall keep your charge, and the charge of all the tabernacle: only they shall not come nigh the vessels of the sanctuary and the altar, that neither they, nor you also, die.
 [18:4] And they shall be joined unto you, and keep the charge of the tabernacle of the congregation, for all the service of the tabernacle: and a stranger shall not come nigh unto you.
 [18:5] And you shall keep the charge of the sanctuary, and the charge of the altar: that there be no wrath any more upon the children of Israel.
-[18:6] And I, behold, I have taken your brethren the Levites from among the children of Israel: to you they are given as a gift for the LORD, to do the service of the tabernacle of the congregation.
+[18:6] And I, behold, I have taken your brothers the Levites from among the children of Israel: to you they are given as a gift for the LORD, to do the service of the tabernacle of the congregation.
 [18:7] Therefore you and your sons with you shall keep your priest's office for everything of the altar, and within the vail; and you shall serve: I have given your priest's office unto you as a service of gift: and the stranger that cometh nigh shall be put to death.
 [18:8] And the LORD spake unto Aaron, Behold, I also have given you the charge of mine heave offerings of all the hallowed things of the children of Israel; unto you have I given them by reason of the anointing, and to your sons, by an ordinance for ever.
 [18:9] This shall be your of the most holy things, reserved from the fire: every oblation of theirs, every meat offering of theirs, and every sin offering of theirs, and every trespass offering of theirs which they shall render unto me, shall be most holy for you and for your sons.
@@ -708,7 +708,7 @@ Numbers
 [19:22] And whatsoever the unclean person toucheth shall be unclean; and the soul that toucheth it shall be unclean until even.
 [20:1] Then came the children of Israel, even the whole congregation, into the desert of Zin in the first month: and the people abode in Kadesh; and Miriam died there, and was buried there.
 [20:2] And there was no water for the congregation: and they gathered themselves together against Moses and against Aaron.
-[20:3] And the people chode with Moses, and spake, saying, Would God that we had died when our brethren died before the LORD!
+[20:3] And the people chode with Moses, and spake, saying, Would God that we had died when our brothers died before the LORD!
 [20:4] And why have you brought up the congregation of the LORD into this wilderness, that we and our cattle should die there?
 [20:5] And wherefore have you made us to come up out of Egypt, to bring us in unto this evil place? it is no place of seed, or of figs, or of vines, or of pomegranates; neither is there any water to drink.
 [20:6] And Moses and Aaron went from the presence of the assembly unto the door of the tabernacle of the congregation, and they fell upon their faces: and the glory of the LORD appeared unto them.
@@ -871,7 +871,7 @@ Numbers
 [25:3] And Israel joined himself unto Baalpeor: and the anger of the LORD was kindled against Israel.
 [25:4] And the LORD said unto Moses, Take all the heads of the people, and hang them up before the LORD against the sun, that the fierce anger of the LORD may be turned away from Israel.
 [25:5] And Moses said unto the judges of Israel, Slay you every one his men that were joined unto Baalpeor.
-[25:6] And, behold, one of the children of Israel came and brought unto his brethren a Midianitish woman in the sight of Moses, and in the sight of all the congregation of the children of Israel, who were weeping before the door of the tabernacle of the congregation.
+[25:6] And, behold, one of the children of Israel came and brought unto his brothers a Midianitish woman in the sight of Moses, and in the sight of all the congregation of the children of Israel, who were weeping before the door of the tabernacle of the congregation.
 [25:7] And when Phinehas, the son of Eleazar, the son of Aaron the priest, saw it, he rose up from among the congregation, and took a javelin in his hand;
 [25:8] And he went after the man of Israel into the tent, and thrust both of them through, the man of Israel, and the woman through her belly. So the plague was stayed from the children of Israel.
 [25:9] And those that died in the plague were twenty and four thousand.
@@ -952,14 +952,14 @@ Numbers
 [27:1] Then came the daughters of Zelophehad, the son of Hepher, the son of Gilead, the son of Machir, the son of Manasseh, of the families of Manasseh the son of Joseph: and these are the names of his daughters; Mahlah, Noah, and Hoglah, and Milcah, and Tirzah.
 [27:2] And they stood before Moses, and before Eleazar the priest, and before the princes and all the congregation, by the door of the tabernacle of the congregation, saying,
 [27:3] Our father died in the wilderness, and he was not in the company of them that gathered themselves together against the LORD in the company of Korah; but died in his own sin, and had no sons.
-[27:4] Why should the name of our father be done away from among his family, because he hath no son? Give unto us therefore a possession among the brethren of our father.
+[27:4] Why should the name of our father be done away from among his family, because he hath no son? Give unto us therefore a possession among the brothers of our father.
 [27:5] And Moses brought their cause before the LORD.
 [27:6] And the LORD spake unto Moses, saying,
-[27:7] The daughters of Zelophehad speak right: you shalt surely give them a possession of an inheritance among their father's brethren; and you shalt cause the inheritance of their father to pass unto them.
+[27:7] The daughters of Zelophehad speak right: you shalt surely give them a possession of an inheritance among their father's brothers; and you shalt cause the inheritance of their father to pass unto them.
 [27:8] And you shalt speak unto the children of Israel, saying, If a man die, and have no son, then you shall cause his inheritance to pass unto his daughter.
-[27:9] And if he have no daughter, then you shall give his inheritance unto his brethren.
-[27:10] And if he have no brethren, then you shall give his inheritance unto his father's brethren.
-[27:11] And if his father have no brethren, then you shall give his inheritance unto his kinsman that is next to him of his family, and he shall possess it: and it shall be unto the children of Israel a statute of judgment, as the LORD commanded Moses.
+[27:9] And if he have no daughter, then you shall give his inheritance unto his brothers.
+[27:10] And if he have no brothers, then you shall give his inheritance unto his father's brothers.
+[27:11] And if his father have no brothers, then you shall give his inheritance unto his kinsman that is next to him of his family, and he shall possess it: and it shall be unto the children of Israel a statute of judgment, as the LORD commanded Moses.
 [27:12] And the LORD said unto Moses, Get you up into this mount Abarim, and see the land which I have given unto the children of Israel.
 [27:13] And when you have seen it, you also shalt be gathered unto your people, as Aaron your brother was gathered.
 [27:14] For you rebelled against my commandment in the desert of Zin, in the strife of the congregation, to sanctify me at the water before their eyes: that is the water of Meribah in Kadesh in the wilderness of Zin.
@@ -1118,7 +1118,7 @@ Numbers
 [32:3] Ataroth, and Dibon, and Jazer, and Nimrah, and Heshbon, and Elealeh, and Shebam, and Nebo, and Beon,
 [32:4] Even the country which the LORD smote before the congregation of Israel, is a land for cattle, and your servants have cattle:
 [32:5] Wherefore, said they, if we have found grace in your sight, let this land be given unto your servants for a possession, and bring us not over Jordan.
-[32:6] And Moses said unto the children of Gad and to the children of Reuben, Shall your brethren go to war, and shall you sit here?
+[32:6] And Moses said unto the children of Gad and to the children of Reuben, Shall your brothers go to war, and shall you sit here?
 [32:7] And wherefore discourage you the heart of the children of Israel from going over into the land which the LORD hath given them?
 [32:8] Thus did your fathers, when I sent them from Kadeshbarnea to see the land.
 [32:9] For when they went up unto the valley of Eshcol, and saw the land, they discouraged the heart of the children of Israel, that they should not go into the land which the LORD had given them.

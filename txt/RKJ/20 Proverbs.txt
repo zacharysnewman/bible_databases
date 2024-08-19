@@ -157,7 +157,7 @@ Proverbs
 [6:16] These six things doth the LORD hate: yea, seven are an abomination unto him:
 [6:17] A proud look, a lying tongue, and hands that shed innocent blood,
 [6:18] An heart that deviseth wicked imaginations, feet that be swift in running to mischief,
-[6:19] A false witness that speaketh lies, and he that soweth discord among brethren.
+[6:19] A false witness that speaketh lies, and he that soweth discord among brothers.
 [6:20] My son, keep your father's commandment, and forsake not the law of your mother:
 [6:21] Bind them continually upon your heart, and tie them about your neck.
 [6:22] When you goest, it shall lead you; when you sleepest, it shall keep you; and when you awakest, it shall talk with you.
@@ -473,7 +473,7 @@ Proverbs
 [16:32] He that is slow to anger is better than the mighty; and he that ruleth his spirit than he that taketh a city.
 [16:33] The lot is cast into the lap; but the whole disposing thereof is of the LORD.
 [17:1] Better is a dry morsel, and quietness therewith, than an house full of sacrifices with strife.
-[17:2] A wise servant shall have rule over a son that causeth shame, and shall have part of the inheritance among the brethren.
+[17:2] A wise servant shall have rule over a son that causeth shame, and shall have part of the inheritance among the brothers.
 [17:3] The fining pot is for silver, and the furnace for gold: but the LORD trieth the hearts.
 [17:4] A wicked doer giveth heed to false lips; and a liar giveth ear to a naughty tongue.
 [17:5] Whoso mocketh the poor reproacheth his Maker: and he that is glad at calamities shall not be unpunished.
@@ -530,7 +530,7 @@ Proverbs
 [19:4] Wealth maketh many friends; but the poor is separated from his neighbour.
 [19:5] A false witness shall not be unpunished, and he that speaketh lies shall not escape.
 [19:6] Many will intreat the favour of the prince: and every man is a friend to him that giveth gifts.
-[19:7] All the brethren of the poor do hate him: how much more do his friends go far from him? he pursueth them with words, yet they are wanting to him.
+[19:7] All the brothers of the poor do hate him: how much more do his friends go far from him? he pursueth them with words, yet they are wanting to him.
 [19:8] He that getteth wisdom loveth his own soul: he that keepeth understanding shall find good.
 [19:9] A false witness shall not be unpunished, and he that speaketh lies shall perish.
 [19:10] Delight is not seemly for a fool; much less for a servant to have rule over princes.

@@ -369,9 +369,9 @@ Luke
 [8:16] No man, when he hath lighted a candle, covereth it with a vessel, or putteth it under a bed; but setteth it on a candlestick, that they which enter in may see the light.
 [8:17] For nothing is secret, that shall not be made manifest; neither any thing hid, that shall not be known and come abroad.
 [8:18] Take heed therefore how you hear: for whosoever hath, to him shall be given; and whosoever hath not, from him shall be taken even that which he seemeth to have.
-[8:19] Then came to him his mother and his brethren, and could not come at him for the press.
-[8:20] And it was told him by certain which said, Your mother and your brethren stand without, desiring to see you.
-[8:21] And he answered and said unto them, My mother and my brethren are these which hear the word of God, and do it.
+[8:19] Then came to him his mother and his brothers, and could not come at him for the press.
+[8:20] And it was told him by certain which said, Your mother and your brothers stand without, desiring to see you.
+[8:21] And he answered and said unto them, My mother and my brothers are these which hear the word of God, and do it.
 [8:22] Now it came to pass on a certain day, that he went into a ship with his disciples: and he said unto them, Let us go over unto the other side of the lake. And they launched forth.
 [8:23] But as they sailed he fell asleep: and there came down a storm of wind on the lake; and they were filled with water, and were in jeopardy.
 [8:24] And they came to him, and awoke him, saying, Master, master, we perish. Then he arose, and rebuked the wind and the raging of the water: and they ceased, and there was a calm.
@@ -670,7 +670,7 @@ Luke
 [14:9] And he that bade you and him come and say to you, Give this man place; and you begin with shame to take the lowest room.
 [14:10] But when you art bidden, go and sit down in the lowest room; that when he that bade you cometh, he may say unto you, Friend, go up higher: then shalt you have worship in the presence of them that sit at meat with you.
 [14:11] For whosoever exalteth himself shall be abased; and he that humbleth himself shall be exalted.
-[14:12] Then said he also to him that bade him, When you makest a dinner or a supper, call not your friends, nor your brethren, neither your kinsmen, nor your rich neighbours; lest they also bid you again, and a recompence be made you.
+[14:12] Then said he also to him that bade him, When you makest a dinner or a supper, call not your friends, nor your brothers, neither your kinsmen, nor your rich neighbours; lest they also bid you again, and a recompence be made you.
 [14:13] But when you makest a feast, call the poor, the maimed, the lame, the blind:
 [14:14] And you shalt be blessed; for they cannot recompense you: for you shalt be recompensed at the resurrection of the just.
 [14:15] And when one of them that sat at meat with him heard these things, he said unto him, Blessed is he that shall eat bread in the kingdom of God.
@@ -684,7 +684,7 @@ Luke
 [14:23] And the lord said unto the servant, Go out into the highways and hedges, and compel them to come in, that my house may be filled.
 [14:24] For I say unto you, That none of those men which were bidden shall taste of my supper.
 [14:25] And there went great multitudes with him: and he turned, and said unto them,
-[14:26] If any man come to me, and hate not his father, and mother, and wife, and children, and brethren, and sisters, yea, and his own life also, he cannot be my disciple.
+[14:26] If any man come to me, and hate not his father, and mother, and wife, and children, and brothers, and sisters, yea, and his own life also, he cannot be my disciple.
 [14:27] And whosoever doth not bear his cross, and come after me, cannot be my disciple.
 [14:28] For which of you, intending to build a tower, sitteth not down first, and counteth the cost, whether he have sufficient to finish it?
 [14:29] Lest haply, after he hath laid the foundation, and is not able to finish it, all that behold it begin to mock him,
@@ -753,7 +753,7 @@ Luke
 [16:25] But Abraham said, Son, remember that you in your lifetime receivedst your good things, and likewise Lazarus evil things: but now he is comforted, and you art tormented.
 [16:26] And beside all this, between us and you there is a great gulf fixed: so that they which would pass from hence to you cannot; neither can they pass to us, that would come from thence.
 [16:27] Then he said, I pray you therefore, father, that you wouldest send him to my father's house:
-[16:28] For I have five brethren; that he may testify unto them, lest they also come into this place of torment.
+[16:28] For I have five brothers; that he may testify unto them, lest they also come into this place of torment.
 [16:29] Abraham saith unto him, They have Moses and the prophets; let them hear them.
 [16:30] And he said, Nay, father Abraham: but if one went unto them from the dead, they will repent.
 [16:31] And he said unto him, If they hear not Moses and the prophets, neither will they be persuaded, though one rose from the dead.
@@ -822,7 +822,7 @@ Luke
 [18:26] And they that heard it said, Who then can be saved?
 [18:27] And he said, The things which are impossible with men are possible with God.
 [18:28] Then Peter said, Lo, we have left all, and followed you.
-[18:29] And he said unto them, Verily I say unto you, There is no man that hath left house, or parents, or brethren, or wife, or children, for the kingdom of God's sake,
+[18:29] And he said unto them, Verily I say unto you, There is no man that hath left house, or parents, or brothers, or wife, or children, for the kingdom of God's sake,
 [18:30] Who shall not receive manifold more in this present time, and in the world to come life everlasting.
 [18:31] Then he took unto him the twelve, and said unto them, Behold, we go up to Jerusalem, and all things that are written by the prophets concerning the Son of man shall be accomplished.
 [18:32] For he shall be delivered unto the Gentiles, and shall be mocked, and spitefully entreated, and spitted on:
@@ -913,7 +913,7 @@ Luke
 [20:26] And they could not take hold of his words before the people: and they marvelled at his answer, and held their peace.
 [20:27] Then came to him certain of the Sadducees, which deny that there is any resurrection; and they asked him,
 [20:28] Saying, Master, Moses wrote unto us, If any man's brother die, having a wife, and he die without children, that his brother should take his wife, and raise up seed unto his brother.
-[20:29] There were therefore seven brethren: and the first took a wife, and died without children.
+[20:29] There were therefore seven brothers: and the first took a wife, and died without children.
 [20:30] And the second took her to wife, and he died childless.
 [20:31] And the third took her; and in like manner the seven also: and they left no children, and died.
 [20:32] Last of all the woman died also.
@@ -947,7 +947,7 @@ Luke
 [21:13] And it shall turn to you for a testimony.
 [21:14] Settle it therefore in your hearts, not to meditate before what you shall answer:
 [21:15] For I will give you a mouth and wisdom, which all your adversaries shall not be able to gainsay nor resist.
-[21:16] And you shall be betrayed both by parents, and brethren, and kinsfolks, and friends; and some of you shall they cause to be put to death.
+[21:16] And you shall be betrayed both by parents, and brothers, and kinsfolks, and friends; and some of you shall they cause to be put to death.
 [21:17] And you shall be hated of all men for my name's sake.
 [21:18] But there shall not an hair of your head perish.
 [21:19] In your patience possess you your souls.
@@ -1001,7 +1001,7 @@ Luke
 [22:29] And I appoint unto you a kingdom, as my Father hath appointed unto me;
 [22:30] That you may eat and drink at my table in my kingdom, and sit on thrones judging the twelve tribes of Israel.
 [22:31] And the Lord said, Simon, Simon, behold, Satan hath desired to have you, that he may sift you as wheat:
-[22:32] But I have prayed for you, that your faith fail not: and when you art converted, strengthen your brethren.
+[22:32] But I have prayed for you, that your faith fail not: and when you art converted, strengthen your brothers.
 [22:33] And he said unto him, Lord, I am ready to go with you, both into prison, and to death.
 [22:34] And he said, I tell you, Peter, the cock shall not crow this day, before that you shalt thrice deny that you knowest me.
 [22:35] And he said unto them, When I sent you without purse, and scrip, and shoes, lacked you any thing? And they said, Nothing.

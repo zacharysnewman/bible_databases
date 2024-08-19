@@ -12,8 +12,8 @@ Joshua
 [1:11] Pass through the host, and command the people, saying, Prepare you victuals; for within three days you shall pass over this Jordan, to go in to possess the land, which the LORD your God giveth you to possess it.
 [1:12] And to the Reubenites, and to the Gadites, and to half the tribe of Manasseh, spake Joshua, saying,
 [1:13] Remember the word which Moses the servant of the LORD commanded you, saying, The LORD your God hath given you rest, and hath given you this land.
-[1:14] Your wives, your little ones, and your cattle, shall remain in the land which Moses gave you on this side Jordan; but you shall pass before your brethren armed, all the mighty men of valor, and help them;
-[1:15] Until the LORD have given your brethren rest, as he hath given you, and they also have possessed the land which the LORD your God giveth them: then you shall return unto the land of your possession, and enjoy it, which Moses the LORD's servant gave you on this side Jordan toward the sunrising.
+[1:14] Your wives, your little ones, and your cattle, shall remain in the land which Moses gave you on this side Jordan; but you shall pass before your brothers armed, all the mighty men of valor, and help them;
+[1:15] Until the LORD have given your brothers rest, as he hath given you, and they also have possessed the land which the LORD your God giveth them: then you shall return unto the land of your possession, and enjoy it, which Moses the LORD's servant gave you on this side Jordan toward the sunrising.
 [1:16] And they answered Joshua, saying, All that you commandest us we will do, and whithersoever you sendest us, we will go.
 [1:17] According as we hearkened unto Moses in all things, so will we hearken unto you: only the LORD your God be with you, as he was with Moses.
 [1:18] Whosoever he be that doth rebel against your commandment, and will not hearken unto your words in all that you commandest him, he shall be put to death: only be strong and of a good courage.
@@ -29,12 +29,12 @@ Joshua
 [2:10] For we have heard how the LORD dried up the water of the Red sea for you, when you came out of Egypt; and what you did unto the two kings of the Amorites, that were on the other side Jordan, Sihon and Og, whom you utterly destroyed.
 [2:11] And as soon as we had heard these things, our hearts did melt, neither did there remain any more courage in any man, because of you: for the LORD your God, he is God in heaven above, and in earth beneath.
 [2:12] Now therefore, I pray you, swear unto me by the LORD, since I have showed you kindness, that you will also show kindness unto my father's house, and give me a true token:
-[2:13] And that you will save alive my father, and my mother, and my brethren, and my sisters, and all that they have, and deliver our lives from death.
+[2:13] And that you will save alive my father, and my mother, and my brothers, and my sisters, and all that they have, and deliver our lives from death.
 [2:14] And the men answered her, Our life for yours, if you utter not this our business. And it shall be, when the LORD hath given us the land, that we will deal kindly and truly with you.
 [2:15] Then she let them down by a cord through the window: for her house was upon the town wall, and she dwelt upon the wall.
 [2:16] And she said unto them, Get you to the mountain, lest the pursuers meet you; and hide yourselves there three days, until the pursuers be returned: and afterward may you go your way.
 [2:17] And the men said unto her, We will be blameless of this your oath which you have made us swear.
-[2:18] Behold, when we come into the land, you shalt bind this line of scarlet thread in the window which you didst let us down by: and you shalt bring your father, and your mother, and your brethren, and all your father's household, home unto you.
+[2:18] Behold, when we come into the land, you shalt bind this line of scarlet thread in the window which you didst let us down by: and you shalt bring your father, and your mother, and your brothers, and all your father's household, home unto you.
 [2:19] And it shall be, that whosoever shall go out of the doors of your house into the street, his blood shall be upon his head, and we will be guiltless: and whosoever shall be with you in the house, his blood shall be on our head, if any hand be upon him.
 [2:20] And if you utter this our business, then we will be quit of your oath which you have made us to swear.
 [2:21] And she said, According unto your words, so be it. And she sent them away, and they departed: and she bound the scarlet line in the window.
@@ -119,7 +119,7 @@ Joshua
 [6:20] So the people shouted when the priests blew with the trumpets: and it came to pass, when the people heard the sound of the trumpet, and the people shouted with a great shout, that the wall fell down flat, so that the people went up into the city, every man straight before him, and they took the city.
 [6:21] And they utterly destroyed all that was in the city, both man and woman, young and old, and ox, and sheep, and ass, with the edge of the sword.
 [6:22] But Joshua had said unto the two men that had spied out the country, Go into the harlot's house, and bring out thence the woman, and all that she hath, as you sware unto her.
-[6:23] And the young men that were spies went in, and brought out Rahab, and her father, and her mother, and her brethren, and all that she had; and they brought out all her kindred, and left them without the camp of Israel.
+[6:23] And the young men that were spies went in, and brought out Rahab, and her father, and her mother, and her brothers, and all that she had; and they brought out all her kindred, and left them without the camp of Israel.
 [6:24] And they burnt the city with fire, and all that was therein: only the silver, and the gold, and the vessels of brass and of iron, they put into the treasury of the house of the LORD.
 [6:25] And Joshua saved Rahab the harlot alive, and her father's household, and all that she had; and she dwelleth in Israel even unto this day; because she hid the messengers, which Joshua sent to spy out Jericho.
 [6:26] And Joshua adjured them at that time, saying, Cursed be the man before the LORD, that riseth up and buildeth this city Jericho: he shall lay the foundation thereof in his firstborn, and in his youngest son shall he set up the gates of it.
@@ -342,7 +342,7 @@ Joshua
 [14:5] As the LORD commanded Moses, so the children of Israel did, and they divided the land.
 [14:6] Then the children of Judah came unto Joshua in Gilgal: and Caleb the son of Jephunneh the Kenezite said unto him, You knowest the thing that the LORD said unto Moses the man of God concerning me and you in Kadeshbarnea.
 [14:7] Forty years old was I when Moses the servant of the LORD sent me from Kadeshbarnea to espy out the land; and I brought him word again as it was in mine heart.
-[14:8] Nevertheless my brethren that went up with me made the heart of the people melt: but I wholly followed the LORD my God.
+[14:8] Nevertheless my brothers that went up with me made the heart of the people melt: but I wholly followed the LORD my God.
 [14:9] And Moses sware on that day, saying, Surely the land whereon your feet have trodden shall be your inheritance, and your children's for ever, because you have wholly followed the LORD my God.
 [14:10] And now, behold, the LORD hath kept me alive, as he said, these forty and five years, even since the LORD spake this word unto Moses, while the children of Israel wandered in the wilderness: and now, lo, I am this day fourscore and five years old.
 [14:11] As yet I am as strong this day as I was in the day that Moses sent me: as my strength was then, even so is my strength now, for war, both to go out, and to come in.
@@ -426,7 +426,7 @@ Joshua
 [17:1] There was also a lot for the tribe of Manasseh; for he was the firstborn of Joseph; to wit, for Machir the firstborn of Manasseh, the father of Gilead: because he was a man of war, therefore he had Gilead and Bashan.
 [17:2] There was also a lot for the rest of the children of Manasseh by their families; for the children of Abiezer, and for the children of Helek, and for the children of Asriel, and for the children of Shechem, and for the children of Hepher, and for the children of Shemida: these were the male children of Manasseh the son of Joseph by their families.
 [17:3] But Zelophehad, the son of Hepher, the son of Gilead, the son of Machir, the son of Manasseh, had no sons, but daughters: and these are the names of his daughters, Mahlah, and Noah, Hoglah, Milcah, and Tirzah.
-[17:4] And they came near before Eleazar the priest, and before Joshua the son of Nun, and before the princes, saying, The LORD commanded Moses to give us an inheritance among our brethren. Therefore according to the commandment of the LORD he gave them an inheritance among the brethren of their father.
+[17:4] And they came near before Eleazar the priest, and before Joshua the son of Nun, and before the princes, saying, The LORD commanded Moses to give us an inheritance among our brothers. Therefore according to the commandment of the LORD he gave them an inheritance among the brothers of their father.
 [17:5] And there fell ten portions to Manasseh, beside the land of Gilead and Bashan, which were on the other side Jordan;
 [17:6] Because the daughters of Manasseh had an inheritance among his sons: and the rest of Manasseh's sons had the land of Gilead.
 [17:7] And the coast of Manasseh was from Asher to Michmethah, that lieth before Shechem; and the border went along on the right hand unto the inhabitants of Entappuah.
@@ -576,12 +576,12 @@ Joshua
 [21:45] There failed not ought of any good thing which the LORD had spoken unto the house of Israel; all came to pass.
 [22:1] Then Joshua called the Reubenites, and the Gadites, and the half tribe of Manasseh,
 [22:2] And said unto them, You have kept all that Moses the servant of the LORD commanded you, and have obeyed my voice in all that I commanded you:
-[22:3] You have not left your brethren these many days unto this day, but have kept the charge of the commandment of the LORD your God.
-[22:4] And now the LORD your God hath given rest unto your brethren, as he promised them: therefore now return you, and get you unto your tents, and unto the land of your possession, which Moses the servant of the LORD gave you on the other side Jordan.
+[22:3] You have not left your brothers these many days unto this day, but have kept the charge of the commandment of the LORD your God.
+[22:4] And now the LORD your God hath given rest unto your brothers, as he promised them: therefore now return you, and get you unto your tents, and unto the land of your possession, which Moses the servant of the LORD gave you on the other side Jordan.
 [22:5] But take diligent heed to do the commandment and the law, which Moses the servant of the LORD charged you, to love the LORD your God, and to walk in all his ways, and to keep his commandments, and to cleave unto him, and to serve him with all your heart and with all your soul.
 [22:6] So Joshua blessed them, and sent them away: and they went unto their tents.
-[22:7] Now to the one half of the tribe of Manasseh Moses had given possession in Bashan: but unto the other half thereof gave Joshua among their brethren on this side Jordan westward. And when Joshua sent them away also unto their tents, then he blessed them,
-[22:8] And he spake unto them, saying, Return with much riches unto your tents, and with very much cattle, with silver, and with gold, and with brass, and with iron, and with very much raiment: divide the spoil of your enemies with your brethren.
+[22:7] Now to the one half of the tribe of Manasseh Moses had given possession in Bashan: but unto the other half thereof gave Joshua among their brothers on this side Jordan westward. And when Joshua sent them away also unto their tents, then he blessed them,
+[22:8] And he spake unto them, saying, Return with much riches unto your tents, and with very much cattle, with silver, and with gold, and with brass, and with iron, and with very much raiment: divide the spoil of your enemies with your brothers.
 [22:9] And the children of Reuben and the children of Gad and the half tribe of Manasseh returned, and departed from the children of Israel out of Shiloh, which is in the land of Canaan, to go unto the country of Gilead, to the land of their possession, whereof they were possessed, according to the word of the LORD by the hand of Moses.
 [22:10] And when they came unto the borders of Jordan, that are in the land of Canaan, the children of Reuben and the children of Gad and the half tribe of Manasseh built there an altar by Jordan, a great altar to see to.
 [22:11] And the children of Israel heard say, Behold, the children of Reuben and the children of Gad and the half tribe of Manasseh have built an altar over against the land of Canaan, in the borders of Jordan, at the passage of the children of Israel.

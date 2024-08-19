@@ -227,7 +227,7 @@ Judges
 [8:16] And he took the elders of the city, and thorns of the wilderness and briers, and with them he taught the men of Succoth.
 [8:17] And he beat down the tower of Penuel, and slew the men of the city.
 [8:18] Then said he unto Zebah and Zalmunna, What manner of men were they whom you slew at Tabor? And they answered, As you art, so were they; each one resembled the children of a king.
-[8:19] And he said, They were my brethren, even the sons of my mother: as the LORD liveth, if you had saved them alive, I would not slay you.
+[8:19] And he said, They were my brothers, even the sons of my mother: as the LORD liveth, if you had saved them alive, I would not slay you.
 [8:20] And he said unto Jether his firstborn, Up, and slay them. But the youth drew not his sword: for he feared, because he was yet a youth.
 [8:21] Then Zebah and Zalmunna said, Rise you, and fall upon us: for as the man is, so is his strength. And Gideon arose, and slew Zebah and Zalmunna, and took away the ornaments that were on their camels' necks.
 [8:22] Then the men of Israel said unto Gideon, Rule you over us, both you, and your son, and your son's son also: for you have delivered us from the hand of Midian.
@@ -244,11 +244,11 @@ Judges
 [8:33] And it came to pass, as soon as Gideon was dead, that the children of Israel turned again, and went a whoring after Baalim, and made Baalberith their god.
 [8:34] And the children of Israel remembered not the LORD their God, who had delivered them out of the hands of all their enemies on every side:
 [8:35] Neither showed they kindness to the house of Jerubbaal, namely, Gideon, according to all the goodness which he had showed unto Israel.
-[9:1] And Abimelech the son of Jerubbaal went to Shechem unto his mother's brethren, and communed with them, and with all the family of the house of his mother's father, saying,
+[9:1] And Abimelech the son of Jerubbaal went to Shechem unto his mother's brothers, and communed with them, and with all the family of the house of his mother's father, saying,
 [9:2] Speak, I pray you, in the ears of all the men of Shechem, Whether is better for you, either that all the sons of Jerubbaal, which are threescore and ten persons, reign over you, or that one reign over you? remember also that I am your bone and your flesh.
-[9:3] And his mother's brethren spake of him in the ears of all the men of Shechem all these words: and their hearts inclined to follow Abimelech; for they said, He is our brother.
+[9:3] And his mother's brothers spake of him in the ears of all the men of Shechem all these words: and their hearts inclined to follow Abimelech; for they said, He is our brother.
 [9:4] And they gave him threescore and ten pieces of silver out of the house of Baalberith, wherewith Abimelech hired vain and light persons, which followed him.
-[9:5] And he went unto his father's house at Ophrah, and slew his brethren the sons of Jerubbaal, being threescore and ten persons, upon one stone: notwithstanding yet Jotham the youngest son of Jerubbaal was left; for he hid himself.
+[9:5] And he went unto his father's house at Ophrah, and slew his brothers the sons of Jerubbaal, being threescore and ten persons, upon one stone: notwithstanding yet Jotham the youngest son of Jerubbaal was left; for he hid himself.
 [9:6] And all the men of Shechem gathered together, and all the house of Millo, and went, and made Abimelech king, by the plain of the pillar that was in Shechem.
 [9:7] And when they told it to Jotham, he went and stood in the top of mount Gerizim, and lifted up his voice, and cried, and said unto them, Hearken unto me, you men of Shechem, that God may hearken unto you.
 [9:8] The trees went forth on a time to anoint a king over them; and they said unto the olive tree, Reign you over us.
@@ -267,14 +267,14 @@ Judges
 [9:21] And Jotham ran away, and fled, and went to Beer, and dwelt there, for fear of Abimelech his brother.
 [9:22] When Abimelech had reigned three years over Israel,
 [9:23] Then God sent an evil spirit between Abimelech and the men of Shechem; and the men of Shechem dealt treacherously with Abimelech:
-[9:24] That the cruelty done to the threescore and ten sons of Jerubbaal might come, and their blood be laid upon Abimelech their brother, which slew them; and upon the men of Shechem, which aided him in the killing of his brethren.
+[9:24] That the cruelty done to the threescore and ten sons of Jerubbaal might come, and their blood be laid upon Abimelech their brother, which slew them; and upon the men of Shechem, which aided him in the killing of his brothers.
 [9:25] And the men of Shechem set liers in wait for him in the top of the mountains, and they robbed all that came along that way by them: and it was told Abimelech.
-[9:26] And Gaal the son of Ebed came with his brethren, and went over to Shechem: and the men of Shechem put their confidence in him.
+[9:26] And Gaal the son of Ebed came with his brothers, and went over to Shechem: and the men of Shechem put their confidence in him.
 [9:27] And they went out into the fields, and gathered their vineyards, and trode the grapes, and made merry, and went into the house of their god, and did eat and drink, and cursed Abimelech.
 [9:28] And Gaal the son of Ebed said, Who is Abimelech, and who is Shechem, that we should serve him? is not he the son of Jerubbaal? and Zebul his officer? serve the men of Hamor the father of Shechem: for why should we serve him?
 [9:29] And would to God this people were under my hand! then would I remove Abimelech. And he said to Abimelech, Increase your army, and come out.
 [9:30] And when Zebul the ruler of the city heard the words of Gaal the son of Ebed, his anger was kindled.
-[9:31] And he sent messengers unto Abimelech privily, saying, Behold, Gaal the son of Ebed and his brethren be come to Shechem; and, behold, they fortify the city against you.
+[9:31] And he sent messengers unto Abimelech privily, saying, Behold, Gaal the son of Ebed and his brothers be come to Shechem; and, behold, they fortify the city against you.
 [9:32] Now therefore up by night, you and the people that is with you, and lie in wait in the field:
 [9:33] And it shall be, that in the morning, as soon as the sun is up, you shalt rise early, and set upon the city: and, behold, when he and the people that is with him come out against you, then may you do to them as you shalt find occasion.
 [9:34] And Abimelech rose up, and all the people that were with him, by night, and they laid wait against Shechem in four companies.
@@ -284,7 +284,7 @@ Judges
 [9:38] Then said Zebul unto him, Where is now your mouth, wherewith you saidst, Who is Abimelech, that we should serve him? is not this the people that you have despised? go out, I pray now, and fight with them.
 [9:39] And Gaal went out before the men of Shechem, and fought with Abimelech.
 [9:40] And Abimelech chased him, and he fled before him, and many were overthrown and wounded, even unto the entering of the gate.
-[9:41] And Abimelech dwelt at Arumah: and Zebul thrust out Gaal and his brethren, that they should not dwell in Shechem.
+[9:41] And Abimelech dwelt at Arumah: and Zebul thrust out Gaal and his brothers, that they should not dwell in Shechem.
 [9:42] And it came to pass on the morrow, that the people went out into the field; and they told Abimelech.
 [9:43] And he took the people, and divided them into three companies, and laid wait in the field, and looked, and, behold, the people were come forth out of the city; and he rose up against them, and smote them.
 [9:44] And Abimelech, and the company that was with him, rushed forward, and stood in the entering of the gate of the city: and the two other companies ran upon all the people that were in the fields, and slew them.
@@ -299,7 +299,7 @@ Judges
 [9:53] And a certain woman cast a piece of a millstone upon Abimelech's head, and all to brake his skull.
 [9:54] Then he called hastily unto the young man his armourbearer, and said unto him, Draw your sword, and slay me, that men say not of me, A women slew him. And his young man thrust him through, and he died.
 [9:55] And when the men of Israel saw that Abimelech was dead, they departed every man unto his place.
-[9:56] Thus God rendered the wickedness of Abimelech, which he did unto his father, in slaying his seventy brethren:
+[9:56] Thus God rendered the wickedness of Abimelech, which he did unto his father, in slaying his seventy brothers:
 [9:57] And all the evil of the men of Shechem did God render upon their heads: and upon them came the curse of Jotham the son of Jerubbaal.
 [10:1] And after Abimelech there arose to defend Israel Tola the son of Puah, the son of Dodo, a man of Issachar; and he dwelt in Shamir in mount Ephraim.
 [10:2] And he judged Israel twenty and three years, and died, and was buried in Shamir.
@@ -321,7 +321,7 @@ Judges
 [10:18] And the people and princes of Gilead said one to another, What man is he that will begin to fight against the children of Ammon? he shall be head over all the inhabitants of Gilead.
 [11:1] Now Jephthah the Gileadite was a mighty man of valor, and he was the son of an harlot: and Gilead begat Jephthah.
 [11:2] And Gilead's wife bare him sons; and his wife's sons grew up, and they thrust out Jephthah, and said unto him, You shalt not inherit in our father's house; for you art the son of a strange woman.
-[11:3] Then Jephthah fled from his brethren, and dwelt in the land of Tob: and there were gathered vain men to Jephthah, and went out with him.
+[11:3] Then Jephthah fled from his brothers, and dwelt in the land of Tob: and there were gathered vain men to Jephthah, and went out with him.
 [11:4] And it came to pass in process of time, that the children of Ammon made war against Israel.
 [11:5] And it was so, that when the children of Ammon made war against Israel, the elders of Gilead went to fetch Jephthah out of the land of Tob:
 [11:6] And they said unto Jephthah, Come, and be our captain, that we may fight with the children of Ammon.
@@ -401,7 +401,7 @@ Judges
 [13:25] And the Spirit of the LORD began to move him at times in the camp of Dan between Zorah and Eshtaol.
 [14:1] And Samson went down to Timnath, and saw a woman in Timnath of the daughters of the Philistines.
 [14:2] And he came up, and told his father and his mother, and said, I have seen a woman in Timnath of the daughters of the Philistines: now therefore get her for me to wife.
-[14:3] Then his father and his mother said unto him, Is there never a woman among the daughters of your brethren, or among all my people, that you goest to take a wife of the uncircumcised Philistines? And Samson said unto his father, Get her for me; for she pleaseth me well.
+[14:3] Then his father and his mother said unto him, Is there never a woman among the daughters of your brothers, or among all my people, that you goest to take a wife of the uncircumcised Philistines? And Samson said unto his father, Get her for me; for she pleaseth me well.
 [14:4] But his father and his mother knew not that it was of the LORD, that he sought an occasion against the Philistines: for at that time the Philistines had dominion over Israel.
 [14:5] Then went Samson down, and his father and his mother, to Timnath, and came to the vineyards of Timnath: and, behold, a young lion roared against him.
 [14:6] And the Spirit of the LORD came mightily upon him, and he rent him as he would have rent a kid, and he had nothing in his hand: but he told not his father or his mother what he had done.
@@ -469,7 +469,7 @@ Judges
 [16:28] And Samson called unto the LORD, and said, O Lord God, remember me, I pray you, and strengthen me, I pray you, only this once, O God, that I may be at once avenged of the Philistines for my two eyes.
 [16:29] And Samson took hold of the two middle pillars upon which the house stood, and on which it was borne up, of the one with his right hand, and of the other with his left.
 [16:30] And Samson said, Let me die with the Philistines. And he bowed himself with all his might; and the house fell upon the lords, and upon all the people that were therein. So the dead which he slew at his death were more than they which he slew in his life.
-[16:31] Then his brethren and all the house of his father came down, and took him, and brought him up, and buried him between Zorah and Eshtaol in the buryingplace of Manoah his father. And he judged Israel twenty years.
+[16:31] Then his brothers and all the house of his father came down, and took him, and brought him up, and buried him between Zorah and Eshtaol in the buryingplace of Manoah his father. And he judged Israel twenty years.
 [17:1] And there was a man of mount Ephraim, whose name was Micah.
 [17:2] And he said unto his mother, The eleven hundred shekels of silver that were taken from you, about which you cursedst, and spakest of also in mine ears, behold, the silver is with me; I took it. And his mother said, Blessed be you of the LORD, my son.
 [17:3] And when he had restored the eleven hundred shekels of silver to his mother, his mother said, I had wholly dedicated the silver unto the LORD from my hand for my son, to make a graven image and a molten image: now therefore I will restore it unto you.
@@ -490,13 +490,13 @@ Judges
 [18:5] And they said unto him, Ask counsel, we pray you, of God, that we may know whether our way which we go shall be prosperous.
 [18:6] And the priest said unto them, Go in peace: before the LORD is your way wherein you go.
 [18:7] Then the five men departed, and came to Laish, and saw the people that were therein, how they dwelt careless, after the manner of the Zidonians, quiet and secure; and there was no magistrate in the land, that might put them to shame in any thing; and they were far from the Zidonians, and had no business with any man.
-[18:8] And they came unto their brethren to Zorah and Eshtaol: and their brethren said unto them, What say you?
+[18:8] And they came unto their brothers to Zorah and Eshtaol: and their brothers said unto them, What say you?
 [18:9] And they said, Arise, that we may go up against them: for we have seen the land, and, behold, it is very good: and are you still? be not slothful to go, and to enter to possess the land.
 [18:10] When you go, you shall come unto a people secure, and to a large land: for God hath given it into your hands; a place where there is no want of any thing that is in the earth.
 [18:11] And there went from thence of the family of the Danites, out of Zorah and out of Eshtaol, six hundred men appointed with weapons of war.
 [18:12] And they went up, and pitched in Kirjathjearim, in Judah: wherefore they called that place Mahanehdan unto this day: behold, it is behind Kirjathjearim.
 [18:13] And they passed thence unto mount Ephraim, and came unto the house of Micah.
-[18:14] Then answered the five men that went to spy out the country of Laish, and said unto their brethren, Do you know that there is in these houses an ephod, and teraphim, and a graven image, and a molten image? now therefore consider what you have to do.
+[18:14] Then answered the five men that went to spy out the country of Laish, and said unto their brothers, Do you know that there is in these houses an ephod, and teraphim, and a graven image, and a molten image? now therefore consider what you have to do.
 [18:15] And they turned thitherward, and came to the house of the young man the Levite, even unto the house of Micah, and saluted him.
 [18:16] And the six hundred men appointed with their weapons of war, which were of the children of Dan, stood by the entering of the gate.
 [18:17] And the five men that went to spy out the land went up, and came in thither, and took the graven image, and the ephod, and the teraphim, and the molten image: and the priest stood in the entering of the gate with the six hundred men that were appointed with weapons of war.
@@ -536,7 +536,7 @@ Judges
 [19:20] And the old man said, Peace be with you; howsoever let all your wants lie upon me; only lodge not in the street.
 [19:21] So he brought him into his house, and gave provender unto the asses: and they washed their feet, and did eat and drink.
 [19:22] Now as they were making their hearts merry, behold, the men of the city, certain sons of Belial, beset the house round about, and beat at the door, and spake to the master of the house, the old man, saying, Bring forth the man that came into your house, that we may know him.
-[19:23] And the man, the master of the house, went out unto them, and said unto them, Nay, my brethren, nay, I pray you, do not so wickedly; seeing that this man is come into mine house, do not this folly.
+[19:23] And the man, the master of the house, went out unto them, and said unto them, Nay, my brothers, nay, I pray you, do not so wickedly; seeing that this man is come into mine house, do not this folly.
 [19:24] Behold, here is my daughter a maiden, and his concubine; them I will bring out now, and humble you them, and do with them what seemeth good unto you: but unto this man do not so vile a thing.
 [19:25] But the men would not hearken to him: so the man took his concubine, and brought her forth unto them; and they knew her, and abused her all the night until the morning: and when the day began to spring, they let her go.
 [19:26] Then came the woman in the dawning of the day, and fell down at the door of the man's house where her lord was, till it was light.
@@ -556,7 +556,7 @@ Judges
 [20:10] And we will take ten men of an hundred throughout all the tribes of Israel, and an hundred of a thousand, and a thousand out of ten thousand, to fetch victual for the people, that they may do, when they come to Gibeah of Benjamin, according to all the folly that they have wrought in Israel.
 [20:11] So all the men of Israel were gathered against the city, knit together as one man.
 [20:12] And the tribes of Israel sent men through all the tribe of Benjamin, saying, What wickedness is this that is done among you?
-[20:13] Now therefore deliver us the men, the children of Belial, which are in Gibeah, that we may put them to death, and put away evil from Israel. But the children of Benjamin would not hearken to the voice of their brethren the children of Israel.
+[20:13] Now therefore deliver us the men, the children of Belial, which are in Gibeah, that we may put them to death, and put away evil from Israel. But the children of Benjamin would not hearken to the voice of their brothers the children of Israel.
 [20:14] But the children of Benjamin gathered themselves together out of the cities unto Gibeah, to go out to battle against the children of Israel.
 [20:15] And the children of Benjamin were numbered at that time out of the cities twenty and six thousand men that drew sword, beside the inhabitants of Gibeah, which were numbered seven hundred chosen men.
 [20:16] Among all this people there were seven hundred chosen men lefthanded; every one could sling stones at an hair breadth, and not miss.
@@ -613,7 +613,7 @@ Judges
 [21:19] Then they said, Behold, there is a feast of the LORD in Shiloh yearly in a place which is on the north side of Bethel, on the east side of the highway that goeth up from Bethel to Shechem, and on the south of Lebonah.
 [21:20] Therefore they commanded the children of Benjamin, saying, Go and lie in wait in the vineyards;
 [21:21] And see, and, behold, if the daughters of Shiloh come out to dance in dances, then come you out of the vineyards, and catch you every man his wife of the daughters of Shiloh, and go to the land of Benjamin.
-[21:22] And it shall be, when their fathers or their brethren come unto us to complain, that we will say unto them, Be favorable unto them for our sakes: because we reserved not to each man his wife in the war: for you did not give unto them at this time, that you should be guilty.
+[21:22] And it shall be, when their fathers or their brothers come unto us to complain, that we will say unto them, Be favorable unto them for our sakes: because we reserved not to each man his wife in the war: for you did not give unto them at this time, that you should be guilty.
 [21:23] And the children of Benjamin did so, and took them wives, according to their number, of them that danced, whom they caught: and they went and returned unto their inheritance, and repaired the cities, and dwelt in them.
 [21:24] And the children of Israel departed thence at that time, every man to his tribe and to his family, and they went out from thence every man to his inheritance.
 [21:25] In those days there was no king in Israel: every man did that which was right in his own eyes.

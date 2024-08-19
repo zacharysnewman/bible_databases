@@ -61,7 +61,7 @@ John
 [2:9] When the ruler of the feast had tasted the water that was made wine, and knew not whence it was: (but the servants which drew the water knew;) the governor of the feast called the bridegroom,
 [2:10] And saith unto him, Every man at the beginning doth set forth good wine; and when men have well drunk, then that which is worse: but you have kept the good wine until now.
 [2:11] This beginning of miracles did Jesus in Cana of Galilee, and manifested forth his glory; and his disciples believed on him.
-[2:12] After this he went down to Capernaum, he, and his mother, and his brethren, and his disciples: and they continued there not many days.
+[2:12] After this he went down to Capernaum, he, and his mother, and his brothers, and his disciples: and they continued there not many days.
 [2:13] And the Jews' passover was at hand, and Jesus went up to Jerusalem.
 [2:14] And found in the temple those that sold oxen and sheep and doves, and the changers of money sitting:
 [2:15] And when he had made a scourge of small cords, he drove them all out of the temple, and the sheep, and the oxen; and poured out the changers' money, and overthrew the tables;
@@ -285,14 +285,14 @@ John
 [6:71] He spake of Judas Iscariot the son of Simon: for he it was that should betray him, being one of the twelve.
 [7:1] After these things Jesus walked in Galilee: for he would not walk in Jewry, because the Jews sought to kill him.
 [7:2] Now the Jew's feast of tabernacles was at hand.
-[7:3] His brethren therefore said unto him, Depart hence, and go into Judaea, that your disciples also may see the works that you do.
+[7:3] His brothers therefore said unto him, Depart hence, and go into Judaea, that your disciples also may see the works that you do.
 [7:4] For there is no man that doeth any thing in secret, and he himself seeketh to be known openly. If you do these things, shew thyself to the world.
-[7:5] For neither did his brethren believe in him.
+[7:5] For neither did his brothers believe in him.
 [7:6] Then Jesus said unto them, My time is not yet come: but your time is alway ready.
 [7:7] The world cannot hate you; but me it hateth, because I testify of it, that the works thereof are evil.
 [7:8] Go you up unto this feast: I go not up yet unto this feast: for my time is not yet full come.
 [7:9] When he had said these words unto them, he abode still in Galilee.
-[7:10] But when his brethren were gone up, then went he also up unto the feast, not openly, but as it were in secret.
+[7:10] But when his brothers were gone up, then went he also up unto the feast, not openly, but as it were in secret.
 [7:11] Then the Jews sought him at the feast, and said, Where is he?
 [7:12] And there was much murmuring among the people concerning him: for some said, He is a good man: others said, Nay; but he deceiveth the people.
 [7:13] Howbeit no man spake openly of him for fear of the Jews.
@@ -838,7 +838,7 @@ John
 [20:14] And when she had thus said, she turned herself back, and saw Jesus standing, and knew not that it was Jesus.
 [20:15] Jesus saith unto her, Woman, why weepest you? whom seekest you? She, supposing him to be the gardener, saith unto him, Sir, if you have borne him hence, tell me where you have laid him, and I will take him away.
 [20:16] Jesus saith unto her, Mary. She turned herself, and saith unto him, Rabboni; which is to say, Master.
-[20:17] Jesus saith unto her, Touch me not; for I am not yet ascended to my Father: but go to my brethren, and say unto them, I ascend unto my Father, and your Father; and to my God, and your God.
+[20:17] Jesus saith unto her, Touch me not; for I am not yet ascended to my Father: but go to my brothers, and say unto them, I ascend unto my Father, and your Father; and to my God, and your God.
 [20:18] Mary Magdalene came and told the disciples that she had seen the LORD, and that he had spoken these things unto her.
 [20:19] Then the same day at evening, being the first day of the week, when the doors were shut where the disciples were assembled for fear of the Jews, came Jesus and stood in the midst, and saith unto them, Peace be unto you.
 [20:20] And when he had so said, he shewed unto them his hands and his side. Then were the disciples glad, when they saw the LORD.
@@ -875,6 +875,6 @@ John
 [21:20] Then Peter, turning about, seeth the disciple whom Jesus loved following; which also leaned on his breast at supper, and said, Lord, which is he that betrayeth you?
 [21:21] Peter seeing him saith to Jesus, Lord, and what shall this man do?
 [21:22] Jesus saith unto him, If I will that he tarry till I come, what is that to you? follow you me.
-[21:23] Then went this saying abroad among the brethren, that that disciple should not die: yet Jesus said not unto him, He shall not die; but, If I will that he tarry till I come, what is that to you?
+[21:23] Then went this saying abroad among the brothers, that that disciple should not die: yet Jesus said not unto him, He shall not die; but, If I will that he tarry till I come, what is that to you?
 [21:24] This is the disciple which testifieth of these things, and wrote these things: and we know that his testimony is true.
 [21:25] And there are also many other things which Jesus did, the which, if they should be written every one, I suppose that even the world itself could not contain the books that should be written. Amen.

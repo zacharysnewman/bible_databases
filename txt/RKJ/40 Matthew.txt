@@ -1,6 +1,6 @@
 Matthew
 [1:1] The book of the generation of Jesus Christ, the son of David, the son of Abraham.
-[1:2] Abraham begat Isaac; and Isaac begat Jacob; and Jacob begat Judas and his brethren;
+[1:2] Abraham begat Isaac; and Isaac begat Jacob; and Jacob begat Judas and his brothers;
 [1:3] And Judas begat Phares and Zara of Thamar; and Phares begat Esrom; and Esrom begat Aram;
 [1:4] And Aram begat Aminadab; and Aminadab begat Naasson; and Naasson begat Salmon;
 [1:5] And Salmon begat Booz of Rachab; and Booz begat Obed of Ruth; and Obed begat Jesse;
@@ -9,7 +9,7 @@ Matthew
 [1:8] And Asa begat Josaphat; and Josaphat begat Joram; and Joram begat Ozias;
 [1:9] And Ozias begat Joatham; and Joatham begat Achaz; and Achaz begat Ezekias;
 [1:10] And Ezekias begat Manasses; and Manasses begat Amon; and Amon begat Josias;
-[1:11] And Josias begat Jechonias and his brethren, about the time they were carried away to Babylon:
+[1:11] And Josias begat Jechonias and his brothers, about the time they were carried away to Babylon:
 [1:12] And after they were brought to Babylon, Jechonias begat Salathiel; and Salathiel begat Zorobabel;
 [1:13] And Zorobabel begat Abiud; and Abiud begat Eliakim; and Eliakim begat Azor;
 [1:14] And Azor begat Sadoc; and Sadoc begat Achim; and Achim begat Eliud;
@@ -81,10 +81,10 @@ Matthew
 [4:15] The land of Zabulon, and the land of Nephthalim, by the way of the sea, beyond Jordan, Galilee of the Gentiles;
 [4:16] The people which sat in darkness saw great light; and to them which sat in the region and shadow of death light is sprung up.
 [4:17] From that time Jesus began to preach, and to say, Repent: for the kingdom of heaven is at hand.
-[4:18] And Jesus, walking by the sea of Galilee, saw two brethren, Simon called Peter, and Andrew his brother, casting a net into the sea: for they were fishers.
+[4:18] And Jesus, walking by the sea of Galilee, saw two brothers, Simon called Peter, and Andrew his brother, casting a net into the sea: for they were fishers.
 [4:19] And he saith unto them, Follow me, and I will make you fishers of men.
 [4:20] And they straightway left their nets, and followed him.
-[4:21] And going on from thence, he saw other two brethren, James the son of Zebedee, and John his brother, in a ship with Zebedee their father, mending their nets; and he called them.
+[4:21] And going on from thence, he saw other two brothers, James the son of Zebedee, and John his brother, in a ship with Zebedee their father, mending their nets; and he called them.
 [4:22] And they immediately left the ship and their father, and followed him.
 [4:23] And Jesus went about all Galilee, teaching in their synagogues, and preaching the gospel of the kingdom, and healing all manner of sickness and all manner of disease among the people.
 [4:24] And his fame went throughout all Syria: and they brought unto him all sick people that were taken with divers diseases and torments, and those which were possessed with devils, and those which were lunatick, and those that had the palsy; and he healed them.
@@ -135,7 +135,7 @@ Matthew
 [5:44] But I say unto you, Love your enemies, bless them that curse you, do good to them that hate you, and pray for them which despitefully use you, and persecute you;
 [5:45] That you may be the children of your Father which is in heaven: for he maketh his sun to rise on the evil and on the good, and sendeth rain on the just and on the unjust.
 [5:46] For if you love them which love you, what reward have you? do not even the publicans the same?
-[5:47] And if you salute your brethren only, what do you more than others? do not even the publicans so?
+[5:47] And if you salute your brothers only, what do you more than others? do not even the publicans so?
 [5:48] Be you therefore perfect, even as your Father which is in heaven is perfect.
 [6:1] Take heed that you do not your alms before men, to be seen of them: otherwise you have no reward of your Father which is in heaven.
 [6:2] Therefore when you do your alms, do not sound a trumpet before you, as the hypocrites do in the synagogues and in the streets, that they may have glory of men. Verily I say unto you, They have their reward.
@@ -389,10 +389,10 @@ Matthew
 [12:43] When the unclean spirit is gone out of a man, he walketh through dry places, seeking rest, and findeth none.
 [12:44] Then he saith, I will return into my house from whence I came out; and when he is come, he findeth it empty, swept, and garnished.
 [12:45] Then goeth he, and taketh with himself seven other spirits more wicked than himself, and they enter in and dwell there: and the last state of that man is worse than the first. Even so shall it be also unto this wicked generation.
-[12:46] While he yet talked to the people, behold, his mother and his brethren stood without, desiring to speak with him.
-[12:47] Then one said unto him, Behold, your mother and your brethren stand without, desiring to speak with you.
-[12:48] But he answered and said unto him that told him, Who is my mother? and who are my brethren?
-[12:49] And he stretched forth his hand toward his disciples, and said, Behold my mother and my brethren!
+[12:46] While he yet talked to the people, behold, his mother and his brothers stood without, desiring to speak with him.
+[12:47] Then one said unto him, Behold, your mother and your brothers stand without, desiring to speak with you.
+[12:48] But he answered and said unto him that told him, Who is my mother? and who are my brothers?
+[12:49] And he stretched forth his hand toward his disciples, and said, Behold my mother and my brothers!
 [12:50] For whosoever shall do the will of my Father which is in heaven, the same is my brother, and sister, and mother.
 [13:1] The same day went Jesus out of the house, and sat by the sea side.
 [13:2] And great multitudes were gathered together unto him, so that he went into a ship, and sat; and the whole multitude stood on the shore.
@@ -448,7 +448,7 @@ Matthew
 [13:52] Then said he unto them, Therefore every scribe which is instructed unto the kingdom of heaven is like unto a man that is an householder, which bringeth forth out of his treasure things new and old.
 [13:53] And it came to pass, that when Jesus had finished these parables, he departed thence.
 [13:54] And when he was come into his own country, he taught them in their synagogue, insomuch that they were astonished, and said, Whence hath this man this wisdom, and these mighty works?
-[13:55] Is not this the carpenter's son? is not his mother called Mary? and his brethren, James, and Joses, and Simon, and Judas?
+[13:55] Is not this the carpenter's son? is not his mother called Mary? and his brothers, James, and Joses, and Simon, and Judas?
 [13:56] And his sisters, are they not all with us? Whence then hath this man all these things?
 [13:57] And they were offended in him. But Jesus said unto them, A prophet is not without honour, save in his own country, and in his own house.
 [13:58] And he did not many mighty works there because of their unbelief.
@@ -645,7 +645,7 @@ Matthew
 [19:26] But Jesus beheld them, and said unto them, With men this is impossible; but with God all things are possible.
 [19:27] Then answered Peter and said unto him, Behold, we have forsaken all, and followed you; what shall we have therefore?
 [19:28] And Jesus said unto them, Verily I say unto you, That you which have followed me, in the regeneration when the Son of man shall sit in the throne of his glory, you also shall sit upon twelve thrones, judging the twelve tribes of Israel.
-[19:29] And every one that hath forsaken houses, or brethren, or sisters, or father, or mother, or wife, or children, or lands, for my name's sake, shall receive an hundredfold, and shall inherit everlasting life.
+[19:29] And every one that hath forsaken houses, or brothers, or sisters, or father, or mother, or wife, or children, or lands, for my name's sake, shall receive an hundredfold, and shall inherit everlasting life.
 [19:30] But many that are first shall be last; and the last shall be first.
 [20:1] For the kingdom of heaven is like unto a man that is an householder, which went out early in the morning to hire labourers into his vineyard.
 [20:2] And when he had agreed with the labourers for a penny a day, he sent them into his vineyard.
@@ -670,7 +670,7 @@ Matthew
 [20:21] And he said unto her, What wilt you? She saith unto him, Grant that these my two sons may sit, the one on your right hand, and the other on the left, in your kingdom.
 [20:22] But Jesus answered and said, You know not what you ask. Are you able to drink of the cup that I shall drink of, and to be baptized with the baptism that I am baptized with? They say unto him, We are able.
 [20:23] And he saith unto them, You shall drink indeed of my cup, and be baptized with the baptism that I am baptized with: but to sit on my right hand, and on my left, is not mine to give, but it shall be given to them for whom it is prepared of my Father.
-[20:24] And when the ten heard it, they were moved with indignation against the two brethren.
+[20:24] And when the ten heard it, they were moved with indignation against the two brothers.
 [20:25] But Jesus called them unto him, and said, You know that the princes of the Gentiles exercise dominion over them, and they that are great exercise authority upon them.
 [20:26] But it shall not be so among you: but whosoever will be great among you, let him be your minister;
 [20:27] And whosoever will be chief among you, let him be your servant:
@@ -751,7 +751,7 @@ Matthew
 [22:22] When they had heard these words, they marvelled, and left him, and went their way.
 [22:23] The same day came to him the Sadducees, which say that there is no resurrection, and asked him,
 [22:24] Saying, Master, Moses said, If a man die, having no children, his brother shall marry his wife, and raise up seed unto his brother.
-[22:25] Now there were with us seven brethren: and the first, when he had married a wife, deceased, and, having no issue, left his wife unto his brother:
+[22:25] Now there were with us seven brothers: and the first, when he had married a wife, deceased, and, having no issue, left his wife unto his brother:
 [22:26] Likewise the second also, and the third, unto the seventh.
 [22:27] And last of all the woman died also.
 [22:28] Therefore in the resurrection whose wife shall she be of the seven? for they all had her.
@@ -780,7 +780,7 @@ Matthew
 [23:5] But all their works they do for to be seen of men: they make broad their phylacteries, and enlarge the borders of their garments,
 [23:6] And love the uppermost rooms at feasts, and the chief seats in the synagogues,
 [23:7] And greetings in the markets, and to be called of men, Rabbi, Rabbi.
-[23:8] But be not you called Rabbi: for one is your Master, even Christ; and all you are brethren.
+[23:8] But be not you called Rabbi: for one is your Master, even Christ; and all you are brothers.
 [23:9] And call no man your father upon the earth: for one is your Father, which is in heaven.
 [23:10] Neither be you called masters: for one is your Master, even Christ.
 [23:11] But he that is greatest among you shall be your servant.
@@ -902,7 +902,7 @@ Matthew
 [25:37] Then shall the righteous answer him, saying, Lord, when saw we you an hungred, and fed you? or thirsty, and gave you drink?
 [25:38] When saw we you a stranger, and took you in? or naked, and clothed you?
 [25:39] Or when saw we you sick, or in prison, and came unto you?
-[25:40] And the King shall answer and say unto them, Verily I say unto you, Inasmuch as you have done it unto one of the least of these my brethren, you have done it unto me.
+[25:40] And the King shall answer and say unto them, Verily I say unto you, Inasmuch as you have done it unto one of the least of these my brothers, you have done it unto me.
 [25:41] Then shall he say also unto them on the left hand, Depart from me, you cursed, into everlasting fire, prepared for the devil and his angels:
 [25:42] For I was an hungred, and you gave me no meat: I was thirsty, and you gave me no drink:
 [25:43] I was a stranger, and you took me not in: naked, and you clothed me not: sick, and in prison, and you visited me not.
@@ -1059,7 +1059,7 @@ Matthew
 [28:7] And go quickly, and tell his disciples that he is risen from the dead; and, behold, he goeth before you into Galilee; there shall you see him: lo, I have told you.
 [28:8] And they departed quickly from the sepulchre with fear and great joy; and did run to bring his disciples word.
 [28:9] And as they went to tell his disciples, behold, Jesus met them, saying, All hail. And they came and held him by the feet, and worshipped him.
-[28:10] Then said Jesus unto them, Be not afraid: go tell my brethren that they go into Galilee, and there shall they see me.
+[28:10] Then said Jesus unto them, Be not afraid: go tell my brothers that they go into Galilee, and there shall they see me.
 [28:11] Now when they were going, behold, some of the watch came into the city, and shewed unto the chief priests all the things that were done.
 [28:12] And when they were assembled with the elders, and had taken counsel, they gave large money unto the soldiers,
 [28:13] Saying, Say you, His disciples came by night, and stole him away while we slept.

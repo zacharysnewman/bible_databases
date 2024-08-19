@@ -14,7 +14,7 @@ Deuteronomy
 [1:13] Take you wise men, and understanding, and known among your tribes, and I will make them rulers over you.
 [1:14] And you answered me, and said, The thing which you have spoken is good for us to do.
 [1:15] So I took the chief of your tribes, wise men, and known, and made them heads over you, captains over thousands, and captains over hundreds, and captains over fifties, and captains over tens, and officers among your tribes.
-[1:16] And I charged your judges at that time, saying, Hear the causes between your brethren, and judge righteously between every man and his brother, and the stranger that is with him.
+[1:16] And I charged your judges at that time, saying, Hear the causes between your brothers, and judge righteously between every man and his brother, and the stranger that is with him.
 [1:17] You shall not respect persons in judgment; but you shall hear the small as well as the great; you shall not be afraid of the face of man; for the judgment is God's: and the cause that is too hard for you, bring it unto me, and I will hear it.
 [1:18] And I commanded you at that time all the things which you should do.
 [1:19] And when we departed from Horeb, we went through all that great and terrible wilderness, which you saw by the way of the mountain of the Amorites, as the LORD our God commanded us; and we came to Kadeshbarnea.
@@ -26,7 +26,7 @@ Deuteronomy
 [1:25] And they took of the fruit of the land in their hands, and brought it down unto us, and brought us word again, and said, It is a good land which the LORD our God doth give us.
 [1:26] Notwithstanding you would not go up, but rebelled against the commandment of the LORD your God:
 [1:27] And you murmured in your tents, and said, Because the LORD hated us, he hath brought us forth out of the land of Egypt, to deliver us into the hand of the Amorites, to destroy us.
-[1:28] Whither shall we go up? our brethren have discouraged our heart, saying, The people is greater and taller than we; the cities are great and walled up to heaven; and moreover we have seen the sons of the Anakims there.
+[1:28] Whither shall we go up? our brothers have discouraged our heart, saying, The people is greater and taller than we; the cities are great and walled up to heaven; and moreover we have seen the sons of the Anakims there.
 [1:29] Then I said unto you, Dread not, neither be afraid of them.
 [1:30] The LORD your God which goeth before you, he shall fight for you, according to all that he did for you in Egypt before your eyes;
 [1:31] And in the wilderness, where you have seen how that the LORD your God bare you, as a man doth bear his son, in all the way that you went, until you came into this place.
@@ -48,11 +48,11 @@ Deuteronomy
 [2:1] Then we turned, and took our journey into the wilderness by the way of the Red sea, as the LORD spake unto me: and we compassed mount Seir many days.
 [2:2] And the LORD spake unto me, saying,
 [2:3] You have compassed this mountain long enough: turn you northward.
-[2:4] And command you the people, saying, You are to pass through the coast of your brethren the children of Esau, which dwell in Seir; and they shall be afraid of you: take you good heed unto yourselves therefore:
+[2:4] And command you the people, saying, You are to pass through the coast of your brothers the children of Esau, which dwell in Seir; and they shall be afraid of you: take you good heed unto yourselves therefore:
 [2:5] Meddle not with them; for I will not give you of their land, no, not so much as a foot breadth; because I have given mount Seir unto Esau for a possession.
 [2:6] You shall buy meat of them for money, that you may eat; and you shall also buy water of them for money, that you may drink.
 [2:7] For the LORD your God hath blessed you in all the works of your hand: he knoweth your walking through this great wilderness: these forty years the LORD your God hath been with you; you have lacked nothing.
-[2:8] And when we passed by from our brethren the children of Esau, which dwelt in Seir, through the way of the plain from Elath, and from Eziongaber, we turned and passed by the way of the wilderness of Moab.
+[2:8] And when we passed by from our brothers the children of Esau, which dwelt in Seir, through the way of the plain from Elath, and from Eziongaber, we turned and passed by the way of the wilderness of Moab.
 [2:9] And the LORD said unto me, Distress not the Moabites, neither contend with them in battle: for I will not give you of their land for a possession; because I have given Ar unto the children of Lot for a possession.
 [2:10] The Emims dwelt therein in times past, a people great, and many, and tall, as the Anakims;
 [2:11] Which also were accounted giants, as the Anakims; but the Moabites called them Emims.
@@ -99,9 +99,9 @@ Deuteronomy
 [3:15] And I gave Gilead unto Machir.
 [3:16] And unto the Reubenites and unto the Gadites I gave from Gilead even unto the river Arnon half the valley, and the border even unto the river Jabbok, which is the border of the children of Ammon;
 [3:17] The plain also, and Jordan, and the coast thereof, from Chinnereth even unto the sea of the plain, even the salt sea, under Ashdothpisgah eastward.
-[3:18] And I commanded you at that time, saying, The LORD your God hath given you this land to possess it: you shall pass over armed before your brethren the children of Israel, all that are meet for the war.
+[3:18] And I commanded you at that time, saying, The LORD your God hath given you this land to possess it: you shall pass over armed before your brothers the children of Israel, all that are meet for the war.
 [3:19] But your wives, and your little ones, and your cattle, (for I know that you have much cattle,) shall abide in your cities which I have given you;
-[3:20] Until the LORD have given rest unto your brethren, as well as unto you, and until they also possess the land which the LORD your God hath given them beyond Jordan: and then shall you return every man unto his possession, which I have given you.
+[3:20] Until the LORD have given rest unto your brothers, as well as unto you, and until they also possess the land which the LORD your God hath given them beyond Jordan: and then shall you return every man unto his possession, which I have given you.
 [3:21] And I commanded Joshua at that time, saying, Your eyes have seen all that the LORD your God hath done unto these two kings: so shall the LORD do unto all the kingdoms whither you passest.
 [3:22] You shall not fear them: for the LORD your God he shall fight for you.
 [3:23] And I besought the LORD at that time, saying,
@@ -301,7 +301,7 @@ Deuteronomy
 [10:6] And the children of Israel took their journey from Beeroth of the children of Jaakan to Mosera: there Aaron died, and there he was buried; and Eleazar his son ministered in the priest's office in his stead.
 [10:7] From thence they journeyed unto Gudgodah; and from Gudgodah to Jotbath, a land of rivers of waters.
 [10:8] At that time the LORD separated the tribe of Levi, to bear the ark of the covenant of the LORD, to stand before the LORD to minister unto him, and to bless in his name, unto this day.
-[10:9] Wherefore Levi hath no part nor inheritance with his brethren; the LORD is his inheritance, according as the LORD your God promised him.
+[10:9] Wherefore Levi hath no part nor inheritance with his brothers; the LORD is his inheritance, according as the LORD your God promised him.
 [10:10] And I stayed in the mount, according to the first time, forty days and forty nights; and the LORD hearkened unto me at that time also, and the LORD would not destroy you.
 [10:11] And the LORD said unto me, Arise, take your journey before the people, that they may go in and possess the land, which I sware unto their fathers to give unto them.
 [10:12] And now, Israel, what doth the LORD your God require of you, but to fear the LORD your God, to walk in all his ways, and to love him, and to serve the LORD your God with all your heart and with all your soul,
@@ -432,7 +432,7 @@ Deuteronomy
 [15:4] Save when there shall be no poor among you; for the LORD shall greatly bless you in the land which the LORD your God giveth you for an inheritance to possess it:
 [15:5] Only if you carefully hearken unto the voice of the LORD your God, to observe to do all these commandments which I command you this day.
 [15:6] For the LORD your God blesseth you, as he promised you: and you shalt lend unto many nations, but you shalt not borrow; and you shalt reign over many nations, but they shall not reign over you.
-[15:7] If there be among you a poor man of one of your brethren within any of your gates in your land which the LORD your God giveth you, you shalt not harden your heart, nor shut your hand from your poor brother:
+[15:7] If there be among you a poor man of one of your brothers within any of your gates in your land which the LORD your God giveth you, you shalt not harden your heart, nor shut your hand from your poor brother:
 [15:8] But you shalt open your hand wide unto him, and shalt surely lend him sufficient for his need, in that which he wanteth.
 [15:9] Beware that there be not a thought in your wicked heart, saying, The seventh year, the year of release, is at hand; and your eye be evil against your poor brother, and you givest him nought; and he cry unto the LORD against you, and it be sin unto you.
 [15:10] You shalt surely give him, and your heart shall not be grieved when you givest unto him: because that for this thing the LORD your God shall bless you in all your works, and in all that you puttest your hand unto.
@@ -485,19 +485,19 @@ Deuteronomy
 [17:12] And the man that will do presumptuously, and will not hearken unto the priest that standeth to minister there before the LORD your God, or unto the judge, even that man shall die: and you shalt put away the evil from Israel.
 [17:13] And all the people shall hear, and fear, and do no more presumptuously.
 [17:14] When you art come unto the land which the LORD your God giveth you, and shalt possess it, and shalt dwell therein, and shalt say, I will set a king over me, like as all the nations that are about me;
-[17:15] You shalt in any wise set him king over you, whom the LORD your God shall choose: one from among your brethren shalt you set king over you: you may not set a stranger over you, which is not your brother.
+[17:15] You shalt in any wise set him king over you, whom the LORD your God shall choose: one from among your brothers shalt you set king over you: you may not set a stranger over you, which is not your brother.
 [17:16] But he shall not multiply horses to himself, nor cause the people to return to Egypt, to the end that he should multiply horses: forasmuch as the LORD hath said unto you, You shall henceforth return no more that way.
 [17:17] Neither shall he multiply wives to himself, that his heart turn not away: neither shall he greatly multiply to himself silver and gold.
 [17:18] And it shall be, when he sitteth upon the throne of his kingdom, that he shall write him a copy of this law in a book out of that which is before the priests the Levites:
 [17:19] And it shall be with him, and he shall read therein all the days of his life: that he may learn to fear the LORD his God, to keep all the words of this law and these statutes, to do them:
-[17:20] That his heart be not lifted up above his brethren, and that he turn not aside from the commandment, to the right hand, or to the left: to the end that he may prolong his days in his kingdom, he, and his children, in the midst of Israel.
+[17:20] That his heart be not lifted up above his brothers, and that he turn not aside from the commandment, to the right hand, or to the left: to the end that he may prolong his days in his kingdom, he, and his children, in the midst of Israel.
 [18:1] The priests the Levites, and all the tribe of Levi, shall have no part nor inheritance with Israel: they shall eat the offerings of the LORD made by fire, and his inheritance.
-[18:2] Therefore shall they have no inheritance among their brethren: the LORD is their inheritance, as he hath said unto them.
+[18:2] Therefore shall they have no inheritance among their brothers: the LORD is their inheritance, as he hath said unto them.
 [18:3] And this shall be the priest's due from the people, from them that offer a sacrifice, whether it be ox or sheep; and they shall give unto the priest the shoulder, and the two cheeks, and the maw.
 [18:4] The firstfruit also of your corn, of your wine, and of your oil, and the first of the fleece of your sheep, shalt you give him.
 [18:5] For the LORD your God hath chosen him out of all your tribes, to stand to minister in the name of the LORD, him and his sons for ever.
 [18:6] And if a Levite come from any of your gates out of all Israel, where he sojourned, and come with all the desire of his mind unto the place which the LORD shall choose;
-[18:7] Then he shall minister in the name of the LORD his God, as all his brethren the Levites do, which stand there before the LORD.
+[18:7] Then he shall minister in the name of the LORD his God, as all his brothers the Levites do, which stand there before the LORD.
 [18:8] They shall have like portions to eat, beside that which cometh of the sale of his patrimony.
 [18:9] When you art come into the land which the LORD your God giveth you, you shalt not learn to do after the abominations of those nations.
 [18:10] There shall not be found among you any one that maketh his son or his daughter to pass through the fire, or that useth divination, or an observer of times, or an enchanter, or a witch.
@@ -505,10 +505,10 @@ Deuteronomy
 [18:12] For all that do these things are an abomination unto the LORD: and because of these abominations the LORD your God doth drive them out from before you.
 [18:13] You shalt be perfect with the LORD your God.
 [18:14] For these nations, which you shalt possess, hearkened unto observers of times, and unto diviners: but as for you, the LORD your God hath not suffered you so to do.
-[18:15] The LORD your God will raise up unto you a Prophet from the midst of you, of your brethren, like unto me; unto him you shall hearken;
+[18:15] The LORD your God will raise up unto you a Prophet from the midst of you, of your brothers, like unto me; unto him you shall hearken;
 [18:16] According to all that you desiredst of the LORD your God in Horeb in the day of the assembly, saying, Let me not hear again the voice of the LORD my God, neither let me see this great fire any more, that I die not.
 [18:17] And the LORD said unto me, They have well spoken that which they have spoken.
-[18:18] I will raise them up a Prophet from among their brethren, like unto you, and will put my words in his mouth; and he shall speak unto them all that I shall command him.
+[18:18] I will raise them up a Prophet from among their brothers, like unto you, and will put my words in his mouth; and he shall speak unto them all that I shall command him.
 [18:19] And it shall come to pass, that whosoever will not hearken unto my words which he shall speak in my name, I will require it of him.
 [18:20] But the prophet, which shall presume to speak a word in my name, which I have not commanded him to speak, or that shall speak in the name of other gods, even that prophet shall die.
 [18:21] And if you say in your heart, How shall we know the word which the LORD hath not spoken?
@@ -541,7 +541,7 @@ Deuteronomy
 [20:5] And the officers shall speak unto the people, saying, What man is there that hath built a new house, and hath not dedicated it? let him go and return to his house, lest he die in the battle, and another man dedicate it.
 [20:6] And what man is he that hath planted a vineyard, and hath not yet eaten of it? let him also go and return unto his house, lest he die in the battle, and another man eat of it.
 [20:7] And what man is there that hath betrothed a wife, and hath not taken her? let him go and return unto his house, lest he die in the battle, and another man take her.
-[20:8] And the officers shall speak further unto the people, and they shall say, What man is there that is fearful and fainthearted? let him go and return unto his house, lest his brethren's heart faint as well as his heart.
+[20:8] And the officers shall speak further unto the people, and they shall say, What man is there that is fearful and fainthearted? let him go and return unto his house, lest his brothers's heart faint as well as his heart.
 [20:9] And it shall be, when the officers have made an end of speaking unto the people that they shall make captains of the armies to lead the people.
 [20:10] When you come nigh unto a city to fight against it, then proclaim peace unto it.
 [20:11] And it shall be, if it make you answer of peace, and open unto you, then it shall be, that all the people that is found therein shall be tributaries unto you, and they shall serve you.
@@ -638,14 +638,14 @@ Deuteronomy
 [24:4] Her former husband, which sent her away, may not take her again to be his wife, after that she is defiled; for that is abomination before the LORD: and you shalt not cause the land to sin, which the LORD your God giveth you for an inheritance.
 [24:5] When a man hath taken a new wife, he shall not go out to war, neither shall he be charged with any business: but he shall be free at home one year, and shall cheer up his wife which he hath taken.
 [24:6] No man shall take the nether or the upper millstone to pledge: for he taketh a man's life to pledge.
-[24:7] If a man be found stealing any of his brethren of the children of Israel, and maketh merchandise of him, or selleth him; then that thief shall die; and you shalt put evil away from among you.
+[24:7] If a man be found stealing any of his brothers of the children of Israel, and maketh merchandise of him, or selleth him; then that thief shall die; and you shalt put evil away from among you.
 [24:8] Take heed in the plague of leprosy, that you observe diligently, and do according to all that the priests the Levites shall teach you: as I commanded them, so you shall observe to do.
 [24:9] Remember what the LORD your God did unto Miriam by the way, after that you were come forth out of Egypt.
 [24:10] When you dost lend your brother any thing, you shalt not go into his house to fetch his pledge.
 [24:11] You shalt stand abroad, and the man to whom you dost lend shall bring out the pledge abroad unto you.
 [24:12] And if the man be poor, you shalt not sleep with his pledge:
 [24:13] In any case you shalt deliver him the pledge again when the sun goeth down, that he may sleep in his own raiment, and bless you: and it shall be righteousness unto you before the LORD your God.
-[24:14] You shalt not oppress an hired servant that is poor and needy, whether he be of your brethren, or of your strangers that are in your land within your gates:
+[24:14] You shalt not oppress an hired servant that is poor and needy, whether he be of your brothers, or of your strangers that are in your land within your gates:
 [24:15] At his day you shalt give him his hire, neither shall the sun go down upon it; for he is poor, and setteth his heart upon it: lest he cry against you unto the LORD, and it be sin unto you.
 [24:16] The fathers shall not be put to death for the children, neither shall the children be put to death for the fathers: every man shall be put to death for his own sin.
 [24:17] You shalt not pervert the judgment of the stranger, nor of the fatherless; nor take a widow's raiment to pledge:
@@ -658,7 +658,7 @@ Deuteronomy
 [25:2] And it shall be, if the wicked man be worthy to be beaten, that the judge shall cause him to lie down, and to be beaten before his face, according to his fault, by a certain number.
 [25:3] Forty stripes he may give him, and not exceed: lest, if he should exceed, and beat him above these with many stripes, then your brother should seem vile unto you.
 [25:4] You shalt not muzzle the ox when he treadeth out the corn.
-[25:5] If brethren dwell together, and one of them die, and have no child, the wife of the dead shall not marry without unto a stranger: her husband's brother shall go in unto her, and take her to him to wife, and perform the duty of an husband's brother unto her.
+[25:5] If brothers dwell together, and one of them die, and have no child, the wife of the dead shall not marry without unto a stranger: her husband's brother shall go in unto her, and take her to him to wife, and perform the duty of an husband's brother unto her.
 [25:6] And it shall be, that the firstborn which she beareth shall succeed in the name of his brother which is dead, that his name be not put out of Israel.
 [25:7] And if the man like not to take his brother's wife, then let his brother's wife go up to the gate unto the elders, and say, My husband's brother refuseth to raise up unto his brother a name in Israel, he will not perform the duty of my husband's brother.
 [25:8] Then the elders of his city shall call him, and speak unto him: and if he stand to it, and say, I like not to take her;
@@ -925,14 +925,14 @@ Deuteronomy
 [33:6] Let Reuben live, and not die; and let not his men be few.
 [33:7] And this is the blessing of Judah: and he said, Hear, LORD, the voice of Judah, and bring him unto his people: let his hands be sufficient for him; and be you an help to him from his enemies.
 [33:8] And of Levi he said, Let your Thummim and your Urim be with your holy one, whom you didst prove at Massah, and with whom you didst strive at the waters of Meribah;
-[33:9] Who said unto his father and to his mother, I have not seen him; neither did he acknowledge his brethren, nor knew his own children: for they have observed your word, and kept your covenant.
+[33:9] Who said unto his father and to his mother, I have not seen him; neither did he acknowledge his brothers, nor knew his own children: for they have observed your word, and kept your covenant.
 [33:10] They shall teach Jacob your judgments, and Israel your law: they shall put incense before you, and whole burnt sacrifice upon your altar.
 [33:11] Bless, LORD, his substance, and accept the work of his hands; smite through the loins of them that rise against him, and of them that hate him, that they rise not again.
 [33:12] And of Benjamin he said, The beloved of the LORD shall dwell in safety by him; and the Lord shall cover him all the day long, and he shall dwell between his shoulders.
 [33:13] And of Joseph he said, Blessed of the LORD be his land, for the precious things of heaven, for the dew, and for the deep that coucheth beneath,
 [33:14] And for the precious fruits brought forth by the sun, and for the precious things put forth by the moon,
 [33:15] And for the chief things of the ancient mountains, and for the precious things of the lasting hills,
-[33:16] And for the precious things of the earth and fulness thereof, and for the good will of him that dwelt in the bush: let the blessing come upon the head of Joseph, and upon the top of the head of him that was separated from his brethren.
+[33:16] And for the precious things of the earth and fulness thereof, and for the good will of him that dwelt in the bush: let the blessing come upon the head of Joseph, and upon the top of the head of him that was separated from his brothers.
 [33:17] His glory is like the firstling of his bullock, and his horns are like the horns of unicorns: with them he shall push the people together to the ends of the earth: and they are the ten thousands of Ephraim, and they are the thousands of Manasseh.
 [33:18] And of Zebulun he said, Rejoice, Zebulun, in your going out; and, Issachar, in your tents.
 [33:19] They shall call the people unto the mountain; there they shall offer sacrifices of righteousness: for they shall suck of the abundance of the seas, and of treasures hid in the sand.
@@ -940,7 +940,7 @@ Deuteronomy
 [33:21] And he provided the first part for himself, because there, in a portion of the lawgiver, was he seated; and he came with the heads of the people, he executed the justice of the LORD, and his judgments with Israel.
 [33:22] And of Dan he said, Dan is a lion's whelp: he shall leap from Bashan.
 [33:23] And of Naphtali he said, O Naphtali, satisfied with favor, and full with the blessing of the LORD: possess you the west and the south.
-[33:24] And of Asher he said, Let Asher be blessed with children; let him be acceptable to his brethren, and let him dip his foot in oil.
+[33:24] And of Asher he said, Let Asher be blessed with children; let him be acceptable to his brothers, and let him dip his foot in oil.
 [33:25] Your shoes shall be iron and brass; and as your days, so shall your strength be.
 [33:26] There is none like unto the God of Jeshurun, who rideth upon the heaven in your help, and in his excellency on the sky.
 [33:27] The eternal God is your refuge, and underneath are the everlasting arms: and he shall thrust out the enemy from before you; and shall say, Destroy them.
