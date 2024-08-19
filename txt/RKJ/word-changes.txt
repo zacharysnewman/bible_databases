@@ -14,3 +14,4 @@ fearest -> fear
 standest -> stand
 sayest -> say
 brethren -> brothers
+weepest -> weep
