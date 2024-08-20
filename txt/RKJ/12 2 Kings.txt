@@ -37,11 +37,11 @@
 [2:18] And when they came again to him, (for he tarried at Jericho,) he said unto them, Did I not say unto you, Go not?
 [2:19] And the men of the city said unto Elisha, Behold, I pray you, the situation of this city is pleasant, as my lord seeth: but the water is naught, and the ground barren.
 [2:20] And he said, Bring me a new cruse, and put salt therein. And they brought it to him.
-[2:21] And he went forth unto the spring of the waters, and cast the salt in there, and said, Thus says the LORD, I have healed these waters; there shall not be from thence any more death or barren land.
+[2:21] And he went forth unto the spring of the waters, and cast the salt in there, and said, Thus says the LORD, I have healed these waters; there shall not be from there any more death or barren land.
 [2:22] So the waters were healed unto this day, according to the saying of Elisha which he spake.
-[2:23] And he went up from thence unto Bethel: and as he was going up by the way, there came forth little children out of the city, and mocked him, and said unto him, Go up, you bald head; go up, you bald head.
+[2:23] And he went up from there unto Bethel: and as he was going up by the way, there came forth little children out of the city, and mocked him, and said unto him, Go up, you bald head; go up, you bald head.
 [2:24] And he turned back, and looked on them, and cursed them in the name of the LORD. And there came forth two she bears out of the wood, and tare forty and two children of them.
-[2:25] And he went from thence to mount Carmel, and from thence he returned to Samaria.
+[2:25] And he went from there to mount Carmel, and from there he returned to Samaria.
 [3:1] Now Jehoram the son of Ahab began to reign over Israel in Samaria the eighteenth year of Jehoshaphat king of Judah, and reigned twelve years.
 [3:2] And he wrought evil in the sight of the LORD; but not like his father, and like his mother: for he put away the image of Baal that his father had made.
 [3:3] Nevertheless he cleaved unto the sins of Jeroboam the son of Nebat, which made Israel to sin; he departed not therefrom.
@@ -141,7 +141,7 @@
 [5:26] And he said unto him, Went not mine heart with you, when the man turned again from his chariot to meet you? Is it a time to receive money, and to receive garments, and oliveyards, and vineyards, and sheep, and oxen, and menservants, and maidservants?
 [5:27] The leprosy therefore of Naaman shall cleave unto you, and unto your seed for ever. And he went out from his presence a leper as white as snow.
 [6:1] And the sons of the prophets said unto Elisha, Behold now, the place where we dwell with you is too strait for us.
-[6:2] Let us go, we pray you, unto Jordan, and take thence every man a beam, and let us make us a place there, where we may dwell. And he answered, Go you.
+[6:2] Let us go, we pray you, unto Jordan, and take there every man a beam, and let us make us a place there, where we may dwell. And he answered, Go you.
 [6:3] And one said, Be content, I pray you, and go with your servants. And he answered, I will go.
 [6:4] So he went with them. And when they came to Jordan, they cut down wood.
 [6:5] But as one was felling a beam, the axe head fell into the water: and he cried, and said, Alas, master! for it was borrowed.
@@ -180,7 +180,7 @@
 [7:5] And they rose up in the twilight, to go unto the camp of the Syrians: and when they were come to the uttermost part of the camp of Syria, behold, there was no man there.
 [7:6] For the LORD had made the host of the Syrians to hear a noise of chariots, and a noise of horses, even the noise of a great host: and they said one to another, Lo, the king of Israel hath hired against us the kings of the Hittites, and the kings of the Egyptians, to come upon us.
 [7:7] Wherefore they arose and fled in the twilight, and left their tents, and their horses, and their asses, even the camp as it was, and fled for their life.
-[7:8] And when these lepers came to the uttermost part of the camp, they went into one tent, and did eat and drink, and carried thence silver, and gold, and raiment, and went and hid it; and came again, and entered into another tent, and carried thence also, and went and hid it.
+[7:8] And when these lepers came to the uttermost part of the camp, they went into one tent, and did eat and drink, and carried there silver, and gold, and raiment, and went and hid it; and came again, and entered into another tent, and carried there also, and went and hid it.
 [7:9] Then they said one to another, We do not well: this day is a day of good tidings, and we hold our peace: if we tarry till the morning light, some mischief will come upon us: now therefore come, that we may go and tell the king's household.
 [7:10] So they came and called unto the porter of the city: and they told them, saying, We came to the camp of the Syrians, and, behold, there was no man there, neither voice of man, but horses tied, and asses tied, and the tents as they were.
 [7:11] And he called the porters; and they told it to the king's house within.
@@ -273,7 +273,7 @@
 [10:12] And he arose and departed, and came to Samaria. And as he was at the shearing house in the way,
 [10:13] Jehu met with the brothers of Ahaziah king of Judah, and said, Who are you? And they answered, We are the brothers of Ahaziah; and we go down to salute the children of the king and the children of the queen.
 [10:14] And he said, Take them alive. And they took them alive, and slew them at the pit of the shearing house, even two and forty men; neither left he any of them.
-[10:15] And when he was departed thence, he lighted on Jehonadab the son of Rechab coming to meet him: and he saluted him, and said to him, Is your heart right, as my heart is with your heart? And Jehonadab answered, It is. If it be, give me your hand. And he gave him his hand; and he took him up to him into the chariot.
+[10:15] And when he was departed there, he lighted on Jehonadab the son of Rechab coming to meet him: and he saluted him, and said to him, Is your heart right, as my heart is with your heart? And Jehonadab answered, It is. If it be, give me your hand. And he gave him his hand; and he took him up to him into the chariot.
 [10:16] And he said, Come with me, and see my zeal for the LORD. So they made him ride in his chariot.
 [10:17] And when he came to Samaria, he slew all that remained unto Ahab in Samaria, till he had destroyed him, according to the saying of the LORD, which he spake to Elijah.
 [10:18] And Jehu gathered all the people together, and said unto them, Ahab served Baal a little; but Jehu shall serve him much.
@@ -475,13 +475,13 @@
 [17:24] And the king of Assyria brought men from Babylon, and from Cuthah, and from Ava, and from Hamath, and from Sepharvaim, and placed them in the cities of Samaria instead of the children of Israel: and they possessed Samaria, and dwelt in the cities thereof.
 [17:25] And so it was at the beginning of their dwelling there, that they feared not the LORD: therefore the LORD sent lions among them, which slew some of them.
 [17:26] Wherefore they spake to the king of Assyria, saying, The nations which you have removed, and placed in the cities of Samaria, know not the manner of the God of the land: therefore he hath sent lions among them, and, behold, they slay them, because they know not the manner of the God of the land.
-[17:27] Then the king of Assyria commanded, saying, Carry thither one of the priests whom you brought from thence; and let them go and dwell there, and let him teach them the manner of the God of the land.
+[17:27] Then the king of Assyria commanded, saying, Carry thither one of the priests whom you brought from there; and let them go and dwell there, and let him teach them the manner of the God of the land.
 [17:28] Then one of the priests whom they had carried away from Samaria came and dwelt in Bethel, and taught them how they should fear the LORD.
 [17:29] Howbeit every nation made gods of their own, and put them in the houses of the high places which the Samaritans had made, every nation in their cities wherein they dwelt.
 [17:30] And the men of Babylon made Succothbenoth, and the men of Cuth made Nergal, and the men of Hamath made Ashima,
 [17:31] And the Avites made Nibhaz and Tartak, and the Sepharvites burnt their children in fire to Adrammelech and Anammelech, the gods of Sepharvaim.
 [17:32] So they feared the LORD, and made unto themselves of the lowest of them priests of the high places, which sacrificed for them in the houses of the high places.
-[17:33] They feared the LORD, and served their own gods, after the manner of the nations whom they carried away from thence.
+[17:33] They feared the LORD, and served their own gods, after the manner of the nations whom they carried away from there.
 [17:34] Unto this day they do after the former manners: they fear not the LORD, neither do they after their statutes, or after their ordinances, or after the law and commandment which the LORD commanded the children of Jacob, whom he named Israel;
 [17:35] With whom the LORD had made a covenant, and charged them, saying, You shall not fear other gods, nor bow yourselves to them, nor serve them, nor sacrifice to them:
 [17:36] But the LORD, who brought you up out of the land of Egypt with great power and a stretched out arm, him shall you fear, and him shall you worship, and to him shall you do sacrifice.
@@ -642,7 +642,7 @@
 [23:9] Nevertheless the priests of the high places came not up to the altar of the LORD in Jerusalem, but they did eat of the unleavened bread among their brothers.
 [23:10] And he defiled Topheth, which is in the valley of the children of Hinnom, that no man might make his son or his daughter to pass through the fire to Molech.
 [23:11] And he took away the horses that the kings of Judah had given to the sun, at the entering in of the house of the LORD, by the chamber of Nathanmelech the chamberlain, which was in the suburbs, and burned the chariots of the sun with fire.
-[23:12] And the altars that were on the top of the upper chamber of Ahaz, which the kings of Judah had made, and the altars which Manasseh had made in the two courts of the house of the LORD, did the king beat down, and brake them down from thence, and cast the dust of them into the brook Kidron.
+[23:12] And the altars that were on the top of the upper chamber of Ahaz, which the kings of Judah had made, and the altars which Manasseh had made in the two courts of the house of the LORD, did the king beat down, and brake them down from there, and cast the dust of them into the brook Kidron.
 [23:13] And the high places that were before Jerusalem, which were on the right hand of the mount of corruption, which Solomon the king of Israel had builded for Ashtoreth the abomination of the Zidonians, and for Chemosh the abomination of the Moabites, and for Milcom the abomination of the children of Ammon, did the king defile.
 [23:14] And he brake in pieces the images, and cut down the groves, and filled their places with the bones of men.
 [23:15] Moreover the altar that was at Bethel, and the high place which Jeroboam the son of Nebat, who made Israel to sin, had made, both that altar and the high place he brake down, and burned the high place, and stamped it small to powder, and burned the grove.
@@ -680,7 +680,7 @@
 [24:10] At that time the servants of Nebuchadnezzar king of Babylon came up against Jerusalem, and the city was besieged.
 [24:11] And Nebuchadnezzar king of Babylon came against the city, and his servants did besiege it.
 [24:12] And Jehoiachin the king of Judah went out to the king of Babylon, he, and his mother, and his servants, and his princes, and his officers: and the king of Babylon took him in the eighth year of his reign.
-[24:13] And he carried out thence all the treasures of the house of the LORD, and the treasures of the king's house, and cut in pieces all the vessels of gold which Solomon king of Israel had made in the temple of the LORD, as the LORD had said.
+[24:13] And he carried out there all the treasures of the house of the LORD, and the treasures of the king's house, and cut in pieces all the vessels of gold which Solomon king of Israel had made in the temple of the LORD, as the LORD had said.
 [24:14] And he carried away all Jerusalem, and all the princes, and all the mighty men of valor, even ten thousand captives, and all the craftsmen and smiths: none remained, save the poorest sort of the people of the land.
 [24:15] And he carried away Jehoiachin to Babylon, and the king's mother, and the king's wives, and his officers, and the mighty of the land, those carried he into captivity from Jerusalem to Babylon.
 [24:16] And all the men of might, even seven thousand, and craftsmen and smiths a thousand, all that were strong and apt for war, even them the king of Babylon brought captive to Babylon.

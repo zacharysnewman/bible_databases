@@ -153,7 +153,7 @@ John - King James Version (KJV)
 [4:40] So when the Samaritans were come unto him, they besought him that he would tarry with them: and he abode there two days.
 [4:41] And many more believed because of his own word;
 [4:42] And said unto the woman, Now we believe, not because of thy saying: for we have heard him ourselves, and know that this is indeed the Christ, the Saviour of the world.
-[4:43] Now after two days he departed thence, and went into Galilee.
+[4:43] Now after two days he departed there, and went into Galilee.
 [4:44] For Jesus himself testified, that a prophet hath no honour in his own country.
 [4:45] Then when he was come into Galilee, the Galilaeans received him, having seen all the things that he did at Jerusalem at the feast: for they also went unto the feast.
 [4:46] So Jesus came again into Cana of Galilee, where he made the water wine. And there was a certain nobleman, whose son was sick at Capernaum.
@@ -531,7 +531,7 @@ John - King James Version (KJV)
 [11:51] And this spake he not of himself: but being high priest that year, he prophesied that Jesus should die for that nation;
 [11:52] And not for that nation only, but that also he should gather together in one the children of God that were scattered abroad.
 [11:53] Then from that day forth they took counsel together for to put him to death.
-[11:54] Jesus therefore walked no more openly among the Jews; but went thence unto a country near to the wilderness, into a city called Ephraim, and there continued with his disciples.
+[11:54] Jesus therefore walked no more openly among the Jews; but went there unto a country near to the wilderness, into a city called Ephraim, and there continued with his disciples.
 [11:55] And the Jews' passover was nigh at hand: and many went out of the country up to Jerusalem before the passover, to purify themselves.
 [11:56] Then sought they for Jesus, and spake among themselves, as they stood in the temple, What think ye, that he will not come to the feast?
 [11:57] Now both the chief priests and the Pharisees had given a commandment, that, if any man knew where he were, he should shew it, that they might take him.

@@ -118,7 +118,7 @@ Joshua - King James Version (KJV)
 [6:19] But all the silver, and gold, and vessels of brass and iron, are consecrated unto the LORD: they shall come into the treasury of the LORD.
 [6:20] So the people shouted when the priests blew with the trumpets: and it came to pass, when the people heard the sound of the trumpet, and the people shouted with a great shout, that the wall fell down flat, so that the people went up into the city, every man straight before him, and they took the city.
 [6:21] And they utterly destroyed all that was in the city, both man and woman, young and old, and ox, and sheep, and ass, with the edge of the sword.
-[6:22] But Joshua had said unto the two men that had spied out the country, Go into the harlot's house, and bring out thence the woman, and all that she hath, as ye sware unto her.
+[6:22] But Joshua had said unto the two men that had spied out the country, Go into the harlot's house, and bring out there the woman, and all that she hath, as ye sware unto her.
 [6:23] And the young men that were spies went in, and brought out Rahab, and her father, and her mother, and her brethren, and all that she had; and they brought out all her kindred, and left them without the camp of Israel.
 [6:24] And they burnt the city with fire, and all that was therein: only the silver, and the gold, and the vessels of brass and of iron, they put into the treasury of the house of the LORD.
 [6:25] And Joshua saved Rahab the harlot alive, and her father's household, and all that she had; and she dwelleth in Israel even unto this day; because she hid the messengers, which Joshua sent to spy out Jericho.
@@ -353,7 +353,7 @@ Joshua - King James Version (KJV)
 [15:1] This then was the lot of the tribe of the children of Judah by their families; even to the border of Edom the wilderness of Zin southward was the uttermost part of the south coast.
 [15:2] And their south border was from the shore of the salt sea, from the bay that looketh southward:
 [15:3] And it went out to the south side to Maalehacrabbim, and passed along to Zin, and ascended up on the south side unto Kadeshbarnea, and passed along to Hezron, and went up to Adar, and fetched a compass to Karkaa:
-[15:4] From thence it passed toward Azmon, and went out unto the river of Egypt; and the goings out of that coast were at the sea: this shall be your south coast.
+[15:4] From there it passed toward Azmon, and went out unto the river of Egypt; and the goings out of that coast were at the sea: this shall be your south coast.
 [15:5] And the east border was the salt sea, even unto the end of Jordan. And their border in the north quarter was from the bay of the sea at the uttermost part of Jordan:
 [15:6] And the border went up to Bethhogla, and passed along by the north of Betharabah; and the border went up to the stone of Bohan the son of Reuben:
 [15:7] And the border went up toward Debir from the valley of Achor, and so northward, looking toward Gilgal, that is before the going up to Adummim, which is on the south side of the river: and the border passed toward the waters of Enshemesh, and the goings out thereof were at Enrogel:
@@ -363,8 +363,8 @@ Joshua - King James Version (KJV)
 [15:11] And the border went out unto the side of Ekron northward: and the border was drawn to Shicron, and passed along to mount Baalah, and went out unto Jabneel; and the goings out of the border were at the sea.
 [15:12] And the west border was to the great sea, and the coast thereof. This is the coast of the children of Judah round about according to their families.
 [15:13] And unto Caleb the son of Jephunneh he gave a part among the children of Judah, according to the commandment of the LORD to Joshua, even the city of Arba the father of Anak, which city is Hebron.
-[15:14] And Caleb drove thence the three sons of Anak, Sheshai, and Ahiman, and Talmai, the children of Anak.
-[15:15] And he went up thence to the inhabitants of Debir: and the name of Debir before was Kirjathsepher.
+[15:14] And Caleb drove there the three sons of Anak, Sheshai, and Ahiman, and Talmai, the children of Anak.
+[15:15] And he went up there to the inhabitants of Debir: and the name of Debir before was Kirjathsepher.
 [15:16] And Caleb said, He that smiteth Kirjathsepher, and taketh it, to him will I give Achsah my daughter to wife.
 [15:17] And Othniel the son of Kenaz, the brother of Caleb, took it: and he gave him Achsah his daughter to wife.
 [15:18] And it came to pass, as she came unto him, that she moved him to ask of her father a field: and she lighted off her ass; and Caleb said unto her, What wouldest thou?
@@ -453,8 +453,8 @@ Joshua - King James Version (KJV)
 [18:10] And Joshua cast lots for them in Shiloh before the LORD: and there Joshua divided the land unto the children of Israel according to their divisions.
 [18:11] And the lot of the tribe of the children of Benjamin came up according to their families: and the coast of their lot came forth between the children of Judah and the children of Joseph.
 [18:12] And their border on the north side was from Jordan; and the border went up to the side of Jericho on the north side, and went up through the mountains westward; and the goings out thereof were at the wilderness of Bethaven.
-[18:13] And the border went over from thence toward Luz, to the side of Luz, which is Bethel, southward; and the border descended to Atarothadar, near the hill that lieth on the south side of the nether Bethhoron.
-[18:14] And the border was drawn thence, and compassed the corner of the sea southward, from the hill that lieth before Bethhoron southward; and the goings out thereof were at Kirjathbaal, which is Kirjathjearim, a city of the children of Judah: this was the west quarter.
+[18:13] And the border went over from there toward Luz, to the side of Luz, which is Bethel, southward; and the border descended to Atarothadar, near the hill that lieth on the south side of the nether Bethhoron.
+[18:14] And the border was drawn there, and compassed the corner of the sea southward, from the hill that lieth before Bethhoron southward; and the goings out thereof were at Kirjathbaal, which is Kirjathjearim, a city of the children of Judah: this was the west quarter.
 [18:15] And the south quarter was from the end of Kirjathjearim, and the border went out on the west, and went out to the well of waters of Nephtoah:
 [18:16] And the border came down to the end of the mountain that lieth before the valley of the son of Hinnom, and which is in the valley of the giants on the north, and descended to the valley of Hinnom, to the side of Jebusi on the south, and descended to Enrogel,
 [18:17] And was drawn from the north, and went forth to Enshemesh, and went forth toward Geliloth, which is over against the going up of Adummim, and descended to the stone of Bohan the son of Reuben,
@@ -481,7 +481,7 @@ Joshua - King James Version (KJV)
 [19:10] And the third lot came up for the children of Zebulun according to their families: and the border of their inheritance was unto Sarid:
 [19:11] And their border went up toward the sea, and Maralah, and reached to Dabbasheth, and reached to the river that is before Jokneam;
 [19:12] And turned from Sarid eastward toward the sunrising unto the border of Chislothtabor, and then goeth out to Daberath, and goeth up to Japhia,
-[19:13] And from thence passeth on along on the east to Gittahhepher, to Ittahkazin, and goeth out to Remmonmethoar to Neah;
+[19:13] And from there passeth on along on the east to Gittahhepher, to Ittahkazin, and goeth out to Remmonmethoar to Neah;
 [19:14] And the border compasseth it on the north side to Hannathon: and the outgoings thereof are in the valley of Jiphthahel:
 [19:15] And Kattath, and Nahallal, and Shimron, and Idalah, and Bethlehem: twelve cities with their villages.
 [19:16] This is the inheritance of the children of Zebulun according to their families, these cities with their villages.
@@ -502,7 +502,7 @@ Joshua - King James Version (KJV)
 [19:31] This is the inheritance of the tribe of the children of Asher according to their families, these cities with their villages.
 [19:32] The sixth lot came out to the children of Naphtali, even for the children of Naphtali according to their families.
 [19:33] And their coast was from Heleph, from Allon to Zaanannim, and Adami, Nekeb, and Jabneel, unto Lakum; and the outgoings thereof were at Jordan:
-[19:34] And then the coast turneth westward to Aznothtabor, and goeth out from thence to Hukkok, and reacheth to Zebulun on the south side, and reacheth to Asher on the west side, and to Judah upon Jordan toward the sunrising.
+[19:34] And then the coast turneth westward to Aznothtabor, and goeth out from there to Hukkok, and reacheth to Zebulun on the south side, and reacheth to Asher on the west side, and to Judah upon Jordan toward the sunrising.
 [19:35] And the fenced cities are Ziddim, Zer, and Hammath, Rakkath, and Chinnereth,
 [19:36] And Adamah, and Ramah, and Hazor,
 [19:37] And Kedesh, and Edrei, and Enhazor,

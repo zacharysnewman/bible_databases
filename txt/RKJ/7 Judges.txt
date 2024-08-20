@@ -9,7 +9,7 @@ Judges
 [1:8] Now the children of Judah had fought against Jerusalem, and had taken it, and smitten it with the edge of the sword, and set the city on fire.
 [1:9] And afterward the children of Judah went down to fight against the Canaanites, that dwelt in the mountain, and in the south, and in the valley.
 [1:10] And Judah went against the Canaanites that dwelt in Hebron: (now the name of Hebron before was Kirjatharba:) and they slew Sheshai, and Ahiman, and Talmai.
-[1:11] And from thence he went against the inhabitants of Debir: and the name of Debir before was Kirjathsepher:
+[1:11] And from there he went against the inhabitants of Debir: and the name of Debir before was Kirjathsepher:
 [1:12] And Caleb said, He that smiteth Kirjathsepher, and taketh it, to him will I give Achsah my daughter to wife.
 [1:13] And Othniel the son of Kenaz, Caleb's younger brother, took it: and he gave him Achsah his daughter to wife.
 [1:14] And it came to pass, when she came to him, that she moved him to ask of her father a field: and she lighted from off her ass; and Caleb said unto her, What will you?
@@ -18,7 +18,7 @@ Judges
 [1:17] And Judah went with Simeon his brother, and they slew the Canaanites that inhabited Zephath, and utterly destroyed it. And the name of the city was called Hormah.
 [1:18] Also Judah took Gaza with the coast thereof, and Askelon with the coast thereof, and Ekron with the coast thereof.
 [1:19] And the LORD was with Judah; and he drave out the inhabitants of the mountain; but could not drive out the inhabitants of the valley, because they had chariots of iron.
-[1:20] And they gave Hebron unto Caleb, as Moses said: and he expelled thence the three sons of Anak.
+[1:20] And they gave Hebron unto Caleb, as Moses said: and he expelled there the three sons of Anak.
 [1:21] And the children of Benjamin did not drive out the Jebusites that inhabited Jerusalem; but the Jebusites dwell with the children of Benjamin in Jerusalem unto this day.
 [1:22] And the house of Joseph, they also went up against Bethel: and the LORD was with them.
 [1:23] And the house of Joseph sent to descry Bethel. (Now the name of the city before was Luz.)
@@ -216,7 +216,7 @@ Judges
 [8:5] And he said unto the men of Succoth, Give, I pray you, loaves of bread unto the people that follow me; for they be faint, and I am pursuing after Zebah and Zalmunna, kings of Midian.
 [8:6] And the princes of Succoth said, Are the hands of Zebah and Zalmunna now in your hand, that we should give bread unto your army?
 [8:7] And Gideon said, Therefore when the LORD hath delivered Zebah and Zalmunna into mine hand, then I will tear your flesh with the thorns of the wilderness and with briers.
-[8:8] And he went up thence to Penuel, and spake unto them likewise: and the men of Penuel answered him as the men of Succoth had answered him.
+[8:8] And he went up there to Penuel, and spake unto them likewise: and the men of Penuel answered him as the men of Succoth had answered him.
 [8:9] And he spake also unto the men of Penuel, saying, When I come again in peace, I will break down this tower.
 [8:10] Now Zebah and Zalmunna were in Karkor, and their hosts with them, about fifteen thousand men, all that were left of all the hosts of the children of the east: for there fell an hundred and twenty thousand men that drew sword.
 [8:11] And Gideon went up by the way of them that dwelt in tents on the east of Nobah and Jogbehah, and smote the host; for the host was secure.
@@ -493,9 +493,9 @@ Judges
 [18:8] And they came unto their brothers to Zorah and Eshtaol: and their brothers said unto them, What say you?
 [18:9] And they said, Arise, that we may go up against them: for we have seen the land, and, behold, it is very good: and are you still? be not slothful to go, and to enter to possess the land.
 [18:10] When you go, you shall come unto a people secure, and to a large land: for God hath given it into your hands; a place where there is no want of any thing that is in the earth.
-[18:11] And there went from thence of the family of the Danites, out of Zorah and out of Eshtaol, six hundred men appointed with weapons of war.
+[18:11] And there went from there of the family of the Danites, out of Zorah and out of Eshtaol, six hundred men appointed with weapons of war.
 [18:12] And they went up, and pitched in Kirjathjearim, in Judah: wherefore they called that place Mahanehdan unto this day: behold, it is behind Kirjathjearim.
-[18:13] And they passed thence unto mount Ephraim, and came unto the house of Micah.
+[18:13] And they passed there unto mount Ephraim, and came unto the house of Micah.
 [18:14] Then answered the five men that went to spy out the country of Laish, and said unto their brothers, Do you know that there is in these houses an ephod, and teraphim, and a graven image, and a molten image? now therefore consider what you have to do.
 [18:15] And they turned thitherward, and came to the house of the young man the Levite, even unto the house of Micah, and saluted him.
 [18:16] And the six hundred men appointed with their weapons of war, which were of the children of Dan, stood by the entering of the gate.
@@ -531,7 +531,7 @@ Judges
 [19:15] And they turned aside thither, to go in and to lodge in Gibeah: and when he went in, he sat him down in a street of the city: for there was no man that took them into his house to lodging.
 [19:16] And, behold, there came an old man from his work out of the field at even, which was also of mount Ephraim; and he sojourned in Gibeah: but the men of the place were Benjamites.
 [19:17] And when he had lifted up his eyes, he saw a wayfaring man in the street of the city: and the old man said, Where goest you? and where come you?
-[19:18] And he said unto him, We are passing from Bethlehemjudah toward the side of mount Ephraim; from thence am I: and I went to Bethlehemjudah, but I am now going to the house of the LORD; and there is no man that receiveth me to house.
+[19:18] And he said unto him, We are passing from Bethlehemjudah toward the side of mount Ephraim; from there am I: and I went to Bethlehemjudah, but I am now going to the house of the LORD; and there is no man that receiveth me to house.
 [19:19] Yet there is both straw and provender for our asses; and there is bread and wine also for me, and for your handmaid, and for the young man which is with your servants: there is no want of any thing.
 [19:20] And the old man said, Peace be with you; howsoever let all your wants lie upon me; only lodge not in the street.
 [19:21] So he brought him into his house, and gave provender unto the asses: and they washed their feet, and did eat and drink.
@@ -615,5 +615,5 @@ Judges
 [21:21] And see, and, behold, if the daughters of Shiloh come out to dance in dances, then come you out of the vineyards, and catch you every man his wife of the daughters of Shiloh, and go to the land of Benjamin.
 [21:22] And it shall be, when their fathers or their brothers come unto us to complain, that we will say unto them, Be favorable unto them for our sakes: because we reserved not to each man his wife in the war: for you did not give unto them at this time, that you should be guilty.
 [21:23] And the children of Benjamin did so, and took them wives, according to their number, of them that danced, whom they caught: and they went and returned unto their inheritance, and repaired the cities, and dwelt in them.
-[21:24] And the children of Israel departed thence at that time, every man to his tribe and to his family, and they went out from thence every man to his inheritance.
+[21:24] And the children of Israel departed there at that time, every man to his tribe and to his family, and they went out from there every man to his inheritance.
 [21:25] In those days there was no king in Israel: every man did that which was right in his own eyes.

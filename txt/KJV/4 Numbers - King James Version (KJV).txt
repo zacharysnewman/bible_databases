@@ -492,8 +492,8 @@ Numbers - King James Version (KJV)
 [13:20] And what the land is, whether it be fat or lean, whether there be wood therein, or not. And be ye of good courage, and bring of the fruit of the land. Now the time was the time of the first ripe grapes.
 [13:21] So they went up, and searched the land from the wilderness of Zin unto Rehob, as men come to Hamath.
 [13:22] And they ascended by the south, and came unto Hebron; where Ahiman, Sheshai, and Talmai, the children of Anak, were. (Now Hebron was built seven years before Zoan in Egypt.)
-[13:23] And they came unto the brook of Eshcol, and cut down from thence a branch with one cluster of grapes, and they bare it between two upon a staff; and they brought of the pomegranates, and of the figs.
-[13:24] The place was called the brook Eshcol, because of the cluster of grapes which the children of Israel cut down from thence.
+[13:23] And they came unto the brook of Eshcol, and cut down from there a branch with one cluster of grapes, and they bare it between two upon a staff; and they brought of the pomegranates, and of the figs.
+[13:24] The place was called the brook Eshcol, because of the cluster of grapes which the children of Israel cut down from there.
 [13:25] And they returned from searching of the land after forty days.
 [13:26] And they went and came to Moses, and to Aaron, and to all the congregation of the children of Israel, unto the wilderness of Paran, to Kadesh; and brought back word unto them, and unto all the congregation, and showed them the fruit of the land.
 [13:27] And they told him, and said, We came unto the land whither thou sentest us, and surely it floweth with milk and honey; and this is the fruit of it.
@@ -746,11 +746,11 @@ Numbers - King James Version (KJV)
 [21:9] And Moses made a serpent of brass, and put it upon a pole, and it came to pass, that if a serpent had bitten any man, when he beheld the serpent of brass, he lived.
 [21:10] And the children of Israel set forward, and pitched in Oboth.
 [21:11] And they journeyed from Oboth, and pitched at Ijeabarim, in the wilderness which is before Moab, toward the sunrising.
-[21:12] From thence they removed, and pitched in the valley of Zared.
-[21:13] From thence they removed, and pitched on the other side of Arnon, which is in the wilderness that cometh out of the coasts of the Amorites: for Arnon is the border of Moab, between Moab and the Amorites.
+[21:12] From there they removed, and pitched in the valley of Zared.
+[21:13] From there they removed, and pitched on the other side of Arnon, which is in the wilderness that cometh out of the coasts of the Amorites: for Arnon is the border of Moab, between Moab and the Amorites.
 [21:14] Wherefore it is said in the book of the wars of the LORD, What he did in the Red sea, and in the brooks of Arnon,
 [21:15] And at the stream of the brooks that goeth down to the dwelling of Ar, and lieth upon the border of Moab.
-[21:16] And from thence they went to Beer: that is the well whereof the LORD spake unto Moses, Gather the people together, and I will give them water.
+[21:16] And from there they went to Beer: that is the well whereof the LORD spake unto Moses, Gather the people together, and I will give them water.
 [21:17] Then Israel sang this song, Spring up, O well; sing ye unto it:
 [21:18] The princes digged the well, the nobles of the people digged it, by the direction of the lawgiver, with their staves. And from the wilderness they went to Mattanah:
 [21:19] And from Mattanah to Nahaliel: and from Nahaliel to Bamoth:
@@ -810,7 +810,7 @@ Numbers - King James Version (KJV)
 [22:38] And Balaam said unto Balak, Lo, I am come unto thee: have I now any power at all to say any thing? the word that God putteth in my mouth, that shall I speak.
 [22:39] And Balaam went with Balak, and they came unto Kirjathhuzoth.
 [22:40] And Balak offered oxen and sheep, and sent to Balaam, and to the princes that were with him.
-[22:41] And it came to pass on the morrow, that Balak took Balaam, and brought him up into the high places of Baal, that thence he might see the utmost part of the people.
+[22:41] And it came to pass on the morrow, that Balak took Balaam, and brought him up into the high places of Baal, that there he might see the utmost part of the people.
 [23:1] And Balaam said unto Balak, Build me here seven altars, and prepare me here seven oxen and seven rams.
 [23:2] And Balak did as Balaam had spoken; and Balak and Balaam offered on every altar a bullock and a ram.
 [23:3] And Balaam said unto Balak, Stand by thy burnt offering, and I will go: peradventure the LORD will come to meet me: and whatsoever he showeth me I will tell thee. And he went to an high place.
@@ -823,7 +823,7 @@ Numbers - King James Version (KJV)
 [23:10] Who can count the dust of Jacob, and the number of the fourth part of Israel? Let me die the death of the righteous, and let my last end be like his!
 [23:11] And Balak said unto Balaam, What hast thou done unto me? I took thee to curse mine enemies, and, behold, thou hast blessed them altogether.
 [23:12] And he answered and said, Must I not take heed to speak that which the LORD hath put in my mouth?
-[23:13] And Balak said unto him, Come, I pray thee, with me unto another place, from whence thou mayest see them: thou shalt see but the utmost part of them, and shalt not see them all: and curse me them from thence.
+[23:13] And Balak said unto him, Come, I pray thee, with me unto another place, from whence thou mayest see them: thou shalt see but the utmost part of them, and shalt not see them all: and curse me them from there.
 [23:14] And he brought him into the field of Zophim, to the top of Pisgah, and built seven altars, and offered a bullock and a ram on every altar.
 [23:15] And he said unto Balak, Stand here by thy burnt offering, while I meet the LORD yonder.
 [23:16] And the LORD met Balaam, and put a word in his mouth, and said, Go again unto Balak, and say thus.
@@ -837,7 +837,7 @@ Numbers - King James Version (KJV)
 [23:24] Behold, the people shall rise up as a great lion, and lift up himself as a young lion: he shall not lie down until he eat of the prey, and drink the blood of the slain.
 [23:25] And Balak said unto Balaam, Neither curse them at all, nor bless them at all.
 [23:26] But Balaam answered and said unto Balak, Told not I thee, saying, All that the LORD speaketh, that I must do?
-[23:27] And Balak said unto Balaam, Come, I pray thee, I will bring thee unto another place; peradventure it will please God that thou mayest curse me them from thence.
+[23:27] And Balak said unto Balaam, Come, I pray thee, I will bring thee unto another place; peradventure it will please God that thou mayest curse me them from there.
 [23:28] And Balak brought Balaam unto the top of Peor, that looketh toward Jeshimon.
 [23:29] And Balaam said unto Balak, Build me here seven altars, and prepare me here seven bullocks and seven rams.
 [23:30] And Balak did as Balaam had said, and offered a bullock and a ram on every altar.

@@ -43,7 +43,7 @@
 [1:42] And while he yet spake, behold, Jonathan the son of Abiathar the priest came; and Adonijah said unto him, Come in; for you art a valiant man, and bringest good tidings.
 [1:43] And Jonathan answered and said to Adonijah, Verily our lord king David hath made Solomon king.
 [1:44] And the king hath sent with him Zadok the priest, and Nathan the prophet, and Benaiah the son of Jehoiada, and the Cherethites, and the Pelethites, and they have caused him to ride upon the king's mule:
-[1:45] And Zadok the priest and Nathan the prophet have anointed him king in Gihon: and they are come up from thence rejoicing, so that the city rang again. This is the noise that you have heard.
+[1:45] And Zadok the priest and Nathan the prophet have anointed him king in Gihon: and they are come up from there rejoicing, so that the city rang again. This is the noise that you have heard.
 [1:46] And also Solomon sitteth on the throne of the kingdom.
 [1:47] And moreover the king's servants came to bless our lord king David, saying, God make the name of Solomon better than your name, and make his throne greater than your throne. And the king bowed himself upon the bed.
 [1:48] And also thus said the king, Blessed be the LORD God of Israel, which hath given one to sit on my throne this day, mine eyes even seeing it.
@@ -87,7 +87,7 @@
 [2:33] Their blood shall therefore return upon the head of Joab, and upon the head of his seed for ever: but upon David, and upon his seed, and upon his house, and upon his throne, shall there be peace for ever from the LORD.
 [2:34] So Benaiah the son of Jehoiada went up, and fell upon him, and slew him: and he was buried in his own house in the wilderness.
 [2:35] And the king put Benaiah the son of Jehoiada in his room over the host: and Zadok the priest did the king put in the room of Abiathar.
-[2:36] And the king sent and called for Shimei, and said unto him, Build you an house in Jerusalem, and dwell there, and go not forth thence any where.
+[2:36] And the king sent and called for Shimei, and said unto him, Build you an house in Jerusalem, and dwell there, and go not forth there any where.
 [2:37] For it shall be, that on the day you goest out, and passest over the brook Kidron, you shalt know for certain that you shalt surely die: your blood shall be upon your own head.
 [2:38] And Shimei said unto the king, The saying is good: as my lord the king hath said, so will your servant do. And Shimei dwelt in Jerusalem many days.
 [2:39] And it came to pass at the end of three years, that two of the servants of Shimei ran away unto Achish son of Maachah king of Gath. And they told Shimei, saying, Behold, your servants be in Gath.
@@ -360,7 +360,7 @@
 [9:25] And three times in a year did Solomon offer burnt offerings and peace offerings upon the altar which he built unto the LORD, and he burnt incense upon the altar that was before the LORD. So he finished the house.
 [9:26] And king Solomon made a navy of ships in Eziongeber, which is beside Eloth, on the shore of the Red sea, in the land of Edom.
 [9:27] And Hiram sent in the navy his servants, shipmen that had knowledge of the sea, with the servants of Solomon.
-[9:28] And they came to Ophir, and fetched from thence gold, four hundred and twenty talents, and brought it to king Solomon.
+[9:28] And they came to Ophir, and fetched from there gold, four hundred and twenty talents, and brought it to king Solomon.
 [10:1] And when the queen of Sheba heard of the fame of Solomon concerning the name of the LORD, she came to prove him with hard questions.
 [10:2] And she came to Jerusalem with a very great train, with camels that bare spices, and very much gold, and precious stones: and when she was come to Solomon, she communed with him of all that was in her heart.
 [10:3] And Solomon told her all her questions: there was not any thing hid from the king, which he told her not.
@@ -457,7 +457,7 @@
 [12:22] But the word of God came unto Shemaiah the man of God, saying,
 [12:23] Speak unto Rehoboam, the son of Solomon, king of Judah, and unto all the house of Judah and Benjamin, and to the remnant of the people, saying,
 [12:24] Thus says the LORD, You shall not go up, nor fight against your brothers the children of Israel: return every man to his house; for this thing is from me. They hearkened therefore to the word of the LORD, and returned to depart, according to the word of the LORD.
-[12:25] Then Jeroboam built Shechem in mount Ephraim, and dwelt therein; and went out from thence, and built Penuel.
+[12:25] Then Jeroboam built Shechem in mount Ephraim, and dwelt therein; and went out from there, and built Penuel.
 [12:26] And Jeroboam said in his heart, Now shall the kingdom return to the house of David:
 [12:27] If this people go up to do sacrifice in the house of the LORD at Jerusalem, then shall the heart of this people turn again unto their lord, even unto Rehoboam king of Judah, and they shall kill me, and go again to Rehoboam king of Judah.
 [12:28] Whereupon the king took counsel, and made two calves of gold, and said unto them, It is too much for you to go up to Jerusalem: behold your gods, O Israel, which brought you up out of the land of Egypt.
@@ -687,7 +687,7 @@
 [19:16] And Jehu the son of Nimshi shalt you anoint to be king over Israel: and Elisha the son of Shaphat of Abelmeholah shalt you anoint to be prophet in your room.
 [19:17] And it shall come to pass, that him that escapeth the sword of Hazael shall Jehu slay: and him that escapeth from the sword of Jehu shall Elisha slay.
 [19:18] Yet I have left me seven thousand in Israel, all the knees which have not bowed unto Baal, and every mouth which hath not kissed him.
-[19:19] So he departed thence, and found Elisha the son of Shaphat, who was plowing with twelve yoke of oxen before him, and he with the twelfth: and Elijah passed by him, and cast his mantle upon him.
+[19:19] So he departed there, and found Elisha the son of Shaphat, who was plowing with twelve yoke of oxen before him, and he with the twelfth: and Elijah passed by him, and cast his mantle upon him.
 [19:20] And he left the oxen, and ran after Elijah, and said, Let me, I pray you, kiss my father and my mother, and then I will follow you. And he said unto him, Go back again: for what have I done to you?
 [19:21] And he returned back from him, and took a yoke of oxen, and slew them, and boiled their flesh with the instruments of the oxen, and gave unto the people, and they did eat. Then he arose, and went after Elijah, and ministered unto him.
 [20:1] And Benhadad the king of Syria gathered all his host together: and there were thirty and two kings with him, and horses, and chariots; and he went up and besieged Samaria, and warred against it.

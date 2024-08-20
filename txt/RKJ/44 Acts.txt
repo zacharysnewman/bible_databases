@@ -195,7 +195,7 @@ Acts
 [7:1] Then said the high priest, Are these things so?
 [7:2] And he said, Men, brothers, and fathers, hearken; The God of glory appeared unto our father Abraham, when he was in Mesopotamia, before he dwelt in Charran,
 [7:3] And said unto him, Get you out of your country, and from your kindred, and come into the land which I shall shew you.
-[7:4] Then came he out of the land of the Chaldaeans, and dwelt in Charran: and from thence, when his father was dead, he removed him into this land, wherein you now dwell.
+[7:4] Then came he out of the land of the Chaldaeans, and dwelt in Charran: and from there, when his father was dead, he removed him into this land, wherein you now dwell.
 [7:5] And he gave him none inheritance in it, no, not so much as to set his foot on: yet he promised that he would give it to him for a possession, and to his seed after him, when as yet he had no child.
 [7:6] And God spake on this wise, That his seed should sojourn in a strange land; and that they should bring them into bondage, and entreat them evil four hundred years.
 [7:7] And the nation to whom they shall be in bondage will I judge, said God: and after that shall they come forth, and serve me in this place.
@@ -441,7 +441,7 @@ Acts
 [13:1] Now there were in the church that was at Antioch certain prophets and teachers; as Barnabas, and Simeon that was called Niger, and Lucius of Cyrene, and Manaen, which had been brought up with Herod the tetrarch, and Saul.
 [13:2] As they ministered to the Lord, and fasted, the Holy Ghost said, Separate me Barnabas and Saul for the work whereunto I have called them.
 [13:3] And when they had fasted and prayed, and laid their hands on them, they sent them away.
-[13:4] So they, being sent forth by the Holy Ghost, departed unto Seleucia; and from thence they sailed to Cyprus.
+[13:4] So they, being sent forth by the Holy Ghost, departed unto Seleucia; and from there they sailed to Cyprus.
 [13:5] And when they were at Salamis, they preached the word of God in the synagogues of the Jews: and they had also John to their minister.
 [13:6] And when they had gone through the isle unto Paphos, they found a certain sorcerer, a false prophet, a Jew, whose name was Barjesus:
 [13:7] Which was with the deputy of the country, Sergius Paulus, a prudent man; who called for Barnabas and Saul, and desired to hear the word of God.
@@ -515,7 +515,7 @@ Acts
 [14:23] And when they had ordained them elders in every church, and had prayed with fasting, they commended them to the Lord, on whom they believed.
 [14:24] And after they had passed throughout Pisidia, they came to Pamphylia.
 [14:25] And when they had preached the word in Perga, they went down into Attalia:
-[14:26] And thence sailed to Antioch, from where they had been recommended to the grace of God for the work which they fulfilled.
+[14:26] And there sailed to Antioch, from where they had been recommended to the grace of God for the work which they fulfilled.
 [14:27] And when they were come, and had gathered the church together, they rehearsed all that God had done with them, and how he had opened the door of faith unto the Gentiles.
 [14:28] And there they abode long time with the disciples.
 [15:1] And certain men which came down from Judaea taught the brothers, and said, Except you be circumcised after the manner of Moses, you cannot be saved.
@@ -570,7 +570,7 @@ Acts
 [16:9] And a vision appeared to Paul in the night; There stood a man of Macedonia, and prayed him, saying, Come over into Macedonia, and help us.
 [16:10] And after he had seen the vision, immediately we endeavoured to go into Macedonia, assuredly gathering that the Lord had called us for to preach the gospel unto them.
 [16:11] Therefore loosing from Troas, we came with a straight course to Samothracia, and the next day to Neapolis;
-[16:12] And from thence to Philippi, which is the chief city of that part of Macedonia, and a colony: and we were in that city abiding certain days.
+[16:12] And from there to Philippi, which is the chief city of that part of Macedonia, and a colony: and we were in that city abiding certain days.
 [16:13] And on the sabbath we went out of the city by a river side, where prayer was wont to be made; and we sat down, and spake unto the women which resorted thither.
 [16:14] And a certain woman named Lydia, a seller of purple, of the city of Thyatira, which worshipped God, heard us: whose heart the Lord opened, that she attended unto the things which were spoken of Paul.
 [16:15] And when she was baptized, and her household, she besought us, saying, If you have judged me to be faithful to the Lord, come into my house, and abide there. And she constrained us.
@@ -639,7 +639,7 @@ Acts
 [18:4] And he reasoned in the synagogue every sabbath, and persuaded the Jews and the Greeks.
 [18:5] And when Silas and Timotheus were come from Macedonia, Paul was pressed in the spirit, and testified to the Jews that Jesus was Christ.
 [18:6] And when they opposed themselves, and blasphemed, he shook his raiment, and said unto them, Your blood be upon your own heads; I am clean; from henceforth I will go unto the Gentiles.
-[18:7] And he departed thence, and entered into a certain man's house, named Justus, one that worshipped God, whose house joined hard to the synagogue.
+[18:7] And he departed there, and entered into a certain man's house, named Justus, one that worshipped God, whose house joined hard to the synagogue.
 [18:8] And Crispus, the chief ruler of the synagogue, believed on the Lord with all his house; and many of the Corinthians hearing believed, and were baptized.
 [18:9] Then spake the Lord to Paul in the night by a vision, Be not afraid, but speak, and hold not your peace:
 [18:10] For I am with you, and no man shall set on you to hurt you: for I have much people in this city.
@@ -650,7 +650,7 @@ Acts
 [18:15] But if it be a question of words and names, and of your law, look you to it; for I will be no judge of such matters.
 [18:16] And he drave them from the judgment seat.
 [18:17] Then all the Greeks took Sosthenes, the chief ruler of the synagogue, and beat him before the judgment seat. And Gallio cared for none of those things.
-[18:18] And Paul after this tarried there yet a good while, and then took his leave of the brothers, and sailed thence into Syria, and with him Priscilla and Aquila; having shorn his head in Cenchrea: for he had a vow.
+[18:18] And Paul after this tarried there yet a good while, and then took his leave of the brothers, and sailed there into Syria, and with him Priscilla and Aquila; having shorn his head in Cenchrea: for he had a vow.
 [18:19] And he came to Ephesus, and left them there: but he himself entered into the synagogue, and reasoned with the Jews.
 [18:20] When they desired him to tarry longer time with them, he consented not;
 [18:21] But bade them farewell, saying, I must by all means keep this feast that cometh in Jerusalem: but I will return again unto you, if God will. And he sailed from Ephesus.
@@ -716,7 +716,7 @@ Acts
 [20:12] And they brought the young man alive, and were not a little comforted.
 [20:13] And we went before to ship, and sailed unto Assos, there intending to take in Paul: for so had he appointed, minding himself to go afoot.
 [20:14] And when he met with us at Assos, we took him in, and came to Mitylene.
-[20:15] And we sailed thence, and came the next day over against Chios; and the next day we arrived at Samos, and tarried at Trogyllium; and the next day we came to Miletus.
+[20:15] And we sailed there, and came the next day over against Chios; and the next day we arrived at Samos, and tarried at Trogyllium; and the next day we came to Miletus.
 [20:16] For Paul had determined to sail by Ephesus, because he would not spend the time in Asia: for he hasted, if it were possible for him, to be at Jerusalem the day of Pentecost.
 [20:17] And from Miletus he sent to Ephesus, and called the elders of the church.
 [20:18] And when they were come to him, he said unto them, You know, from the first day that I came into Asia, after what manner I have been with you at all seasons,
@@ -740,7 +740,7 @@ Acts
 [20:36] And when he had thus spoken, he kneeled down, and prayed with them all.
 [20:37] And they all wept sore, and fell on Paul's neck, and kissed him,
 [20:38] Sorrowing most of all for the words which he spake, that they should see his face no more. And they accompanied him unto the ship.
-[21:1] And it came to pass, that after we were gotten from them, and had launched, we came with a straight course unto Coos, and the day following unto Rhodes, and from thence unto Patara:
+[21:1] And it came to pass, that after we were gotten from them, and had launched, we came with a straight course unto Coos, and the day following unto Rhodes, and from there unto Patara:
 [21:2] And finding a ship sailing over unto Phenicia, we went aboard, and set forth.
 [21:3] Now when we had discovered Cyprus, we left it on the left hand, and sailed into Syria, and landed at Tyre: for there the ship was to unlade her burden.
 [21:4] And finding disciples, we tarried there seven days: who said to Paul through the Spirit, that he should not go up to Jerusalem.
@@ -934,7 +934,7 @@ Acts
 [27:1] And when it was determined that we should sail into Italy, they delivered Paul and certain other prisoners unto one named Julius, a centurion of Augustus' band.
 [27:2] And entering into a ship of Adramyttium, we launched, meaning to sail by the coasts of Asia; one Aristarchus, a Macedonian of Thessalonica, being with us.
 [27:3] And the next day we touched at Sidon. And Julius courteously entreated Paul, and gave him liberty to go unto his friends to refresh himself.
-[27:4] And when we had launched from thence, we sailed under Cyprus, because the winds were contrary.
+[27:4] And when we had launched from there, we sailed under Cyprus, because the winds were contrary.
 [27:5] And when we had sailed over the sea of Cilicia and Pamphylia, we came to Myra, a city of Lycia.
 [27:6] And there the centurion found a ship of Alexandria sailing into Italy; and he put us therein.
 [27:7] And when we had sailed slowly many days, and scarce were come over against Cnidus, the wind not suffering us, we sailed under Crete, over against Salmone;
@@ -942,8 +942,8 @@ Acts
 [27:9] Now when much time was spent, and when sailing was now dangerous, because the fast was now already past, Paul admonished them,
 [27:10] And said unto them, Sirs, I perceive that this voyage will be with hurt and much damage, not only of the lading and ship, but also of our lives.
 [27:11] Nevertheless the centurion believed the master and the owner of the ship, more than those things which were spoken by Paul.
-[27:12] And because the haven was not commodious to winter in, the more part advised to depart thence also, if by any means they might attain to Phenice, and there to winter; which is an haven of Crete, and lieth toward the south west and north west.
-[27:13] And when the south wind blew softly, supposing that they had obtained their purpose, loosing thence, they sailed close by Crete.
+[27:12] And because the haven was not commodious to winter in, the more part advised to depart there also, if by any means they might attain to Phenice, and there to winter; which is an haven of Crete, and lieth toward the south west and north west.
+[27:13] And when the south wind blew softly, supposing that they had obtained their purpose, loosing there, they sailed close by Crete.
 [27:14] But not long after there arose against it a tempestuous wind, called Euroclydon.
 [27:15] And when the ship was caught, and could not bear up into the wind, we let her drive.
 [27:16] And running under a certain island which is called Clauda, we had much work to come by the boat:
@@ -987,9 +987,9 @@ Acts
 [28:10] Who also honoured us with many honours; and when we departed, they laded us with such things as were necessary.
 [28:11] And after three months we departed in a ship of Alexandria, which had wintered in the isle, whose sign was Castor and Pollux.
 [28:12] And landing at Syracuse, we tarried there three days.
-[28:13] And from thence we fetched a compass, and came to Rhegium: and after one day the south wind blew, and we came the next day to Puteoli:
+[28:13] And from there we fetched a compass, and came to Rhegium: and after one day the south wind blew, and we came the next day to Puteoli:
 [28:14] Where we found brothers, and were desired to tarry with them seven days: and so we went toward Rome.
-[28:15] And from thence, when the brothers heard of us, they came to meet us as far as Appii forum, and The three taverns: whom when Paul saw, he thanked God, and took courage.
+[28:15] And from there, when the brothers heard of us, they came to meet us as far as Appii forum, and The three taverns: whom when Paul saw, he thanked God, and took courage.
 [28:16] And when we came to Rome, the centurion delivered the prisoners to the captain of the guard: but Paul was suffered to dwell by himself with a soldier that kept him.
 [28:17] And it came to pass, that after three days Paul called the chief of the Jews together: and when they were come together, he said unto them, Men and brothers, though I have committed nothing against the people, or customs of our fathers, yet was I delivered prisoner from Jerusalem into the hands of the Romans.
 [28:18] Who, when they had examined me, would have let me go, because there was no cause of death in me.

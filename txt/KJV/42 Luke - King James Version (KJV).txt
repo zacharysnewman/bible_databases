@@ -410,7 +410,7 @@ Luke - King James Version (KJV)
 [9:1] Then he called his twelve disciples together, and gave them power and authority over all devils, and to cure diseases.
 [9:2] And he sent them to preach the kingdom of God, and to heal the sick.
 [9:3] And he said unto them, Take nothing for your journey, neither staves, nor scrip, neither bread, neither money; neither have two coats apiece.
-[9:4] And whatsoever house ye enter into, there abide, and thence depart.
+[9:4] And whatsoever house ye enter into, there abide, and there depart.
 [9:5] And whosoever will not receive you, when ye go out of that city, shake off the very dust from your feet for a testimony against them.
 [9:6] And they departed, and went through the towns, preaching the gospel, and healing every where.
 [9:7] Now Herod the tetrarch heard of all that was done by him: and he was perplexed, because that it was said of some, that John was risen from the dead;
@@ -623,7 +623,7 @@ Luke - King James Version (KJV)
 [12:56] Ye hypocrites, ye can discern the face of the sky and of the earth; but how is it that ye do not discern this time?
 [12:57] Yea, and why even of yourselves judge ye not what is right?
 [12:58] When thou goest with thine adversary to the magistrate, as thou art in the way, give diligence that thou mayest be delivered from him; lest he hale thee to the judge, and the judge deliver thee to the officer, and the officer cast thee into prison.
-[12:59] I tell thee, thou shalt not depart thence, till thou hast paid the very last mite.
+[12:59] I tell thee, thou shalt not depart there, till thou hast paid the very last mite.
 [13:1] There were present at that season some that told him of the Galilaeans, whose blood Pilate had mingled with their sacrifices.
 [13:2] And Jesus answering said unto them, Suppose ye that these Galilaeans were sinners above all the Galilaeans, because they suffered such things?
 [13:3] I tell you, Nay: but, except ye repent, ye shall all likewise perish.
@@ -751,7 +751,7 @@ Luke - King James Version (KJV)
 [16:23] And in hell he lift up his eyes, being in torments, and seeth Abraham afar off, and Lazarus in his bosom.
 [16:24] And he cried and said, Father Abraham, have mercy on me, and send Lazarus, that he may dip the tip of his finger in water, and cool my tongue; for I am tormented in this flame.
 [16:25] But Abraham said, Son, remember that thou in thy lifetime receivedst thy good things, and likewise Lazarus evil things: but now he is comforted, and thou art tormented.
-[16:26] And beside all this, between us and you there is a great gulf fixed: so that they which would pass from hence to you cannot; neither can they pass to us, that would come from thence.
+[16:26] And beside all this, between us and you there is a great gulf fixed: so that they which would pass from hence to you cannot; neither can they pass to us, that would come from there.
 [16:27] Then he said, I pray thee therefore, father, that thou wouldest send him to my father's house:
 [16:28] For I have five brethren; that he may testify unto them, lest they also come into this place of torment.
 [16:29] Abraham saith unto him, They have Moses and the prophets; let them hear them.

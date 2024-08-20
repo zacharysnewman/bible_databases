@@ -139,7 +139,7 @@ Deuteronomy - King James Version (KJV)
 [4:26] I call heaven and earth to witness against you this day, that ye shall soon utterly perish from off the land whereunto ye go over Jordan to possess it; ye shall not prolong your days upon it, but shall utterly be destroyed.
 [4:27] And the LORD shall scatter you among the nations, and ye shall be left few in number among the heathen, whither the LORD shall lead you.
 [4:28] And there ye shall serve gods, the work of men's hands, wood and stone, which neither see, nor hear, nor eat, nor smell.
-[4:29] But if from thence thou shalt seek the LORD thy God, thou shalt find him, if thou seek him with all thy heart and with all thy soul.
+[4:29] But if from there thou shalt seek the LORD thy God, thou shalt find him, if thou seek him with all thy heart and with all thy soul.
 [4:30] When thou art in tribulation, and all these things are come upon thee, even in the latter days, if thou turn to the LORD thy God, and shalt be obedient unto his voice;
 [4:31] (For the LORD thy God is a merciful God;) he will not forsake thee, neither destroy thee, nor forget the covenant of thy fathers which he sware unto them.
 [4:32] For ask now of the days that are past, which were before thee, since the day that God created man upon the earth, and ask from the one side of heaven unto the other, whether there hath been any such thing as this great thing is, or hath been heard like it?
@@ -174,7 +174,7 @@ Deuteronomy - King James Version (KJV)
 [5:12] Keep the sabbath day to sanctify it, as the LORD thy God hath commanded thee.
 [5:13] Six days thou shalt labor, and do all thy work:
 [5:14] But the seventh day is the sabbath of the LORD thy God: in it thou shalt not do any work, thou, nor thy son, nor thy daughter, nor thy manservant, nor thy maidservant, nor thine ox, nor thine ass, nor any of thy cattle, nor thy stranger that is within thy gates; that thy manservant and thy maidservant may rest as well as thou.
-[5:15] And remember that thou wast a servant in the land of Egypt, and that the LORD thy God brought thee out thence through a mighty hand and by a stretched out arm: therefore the LORD thy God commanded thee to keep the sabbath day.
+[5:15] And remember that thou wast a servant in the land of Egypt, and that the LORD thy God brought thee out there through a mighty hand and by a stretched out arm: therefore the LORD thy God commanded thee to keep the sabbath day.
 [5:16] Honor thy father and thy mother, as the LORD thy God hath commanded thee; that thy days may be prolonged, and that it may go well with thee, in the land which the LORD thy God giveth thee.
 [5:17] Thou shalt not kill.
 [5:18] Neither shalt thou commit adultery.
@@ -215,7 +215,7 @@ Deuteronomy - King James Version (KJV)
 [6:20] And when thy son asketh thee in time to come, saying, What mean the testimonies, and the statutes, and the judgments, which the LORD our God hath commanded you?
 [6:21] Then thou shalt say unto thy son, We were Pharaoh's bondmen in Egypt; and the LORD brought us out of Egypt with a mighty hand:
 [6:22] And the LORD showed signs and wonders, great and sore, upon Egypt, upon Pharaoh, and upon all his household, before our eyes:
-[6:23] And he brought us out from thence, that he might bring us in, to give us the land which he sware unto our fathers.
+[6:23] And he brought us out from there, that he might bring us in, to give us the land which he sware unto our fathers.
 [6:24] And the LORD commanded us to do all these statutes, to fear the LORD our God, for our good always, that he might preserve us alive, as it is at this day.
 [6:25] And it shall be our righteousness, if we observe to do all these commandments before the LORD our God, as he hath commanded us.
 [7:1] When the LORD thy God shall bring thee into the land whither thou goest to possess it, and hath cast out many nations before thee, the Hittites, and the Girgashites, and the Amorites, and the Canaanites, and the Perizzites, and the Hivites, and the Jebusites, seven nations greater and mightier than thou;
@@ -299,7 +299,7 @@ Deuteronomy - King James Version (KJV)
 [10:4] And he wrote on the tables, according to the first writing, the ten commandments, which the LORD spake unto you in the mount out of the midst of the fire in the day of the assembly: and the LORD gave them unto me.
 [10:5] And I turned myself and came down from the mount, and put the tables in the ark which I had made; and there they be, as the LORD commanded me.
 [10:6] And the children of Israel took their journey from Beeroth of the children of Jaakan to Mosera: there Aaron died, and there he was buried; and Eleazar his son ministered in the priest's office in his stead.
-[10:7] From thence they journeyed unto Gudgodah; and from Gudgodah to Jotbath, a land of rivers of waters.
+[10:7] From there they journeyed unto Gudgodah; and from Gudgodah to Jotbath, a land of rivers of waters.
 [10:8] At that time the LORD separated the tribe of Levi, to bear the ark of the covenant of the LORD, to stand before the LORD to minister unto him, and to bless in his name, unto this day.
 [10:9] Wherefore Levi hath no part nor inheritance with his brethren; the LORD is his inheritance, according as the LORD thy God promised him.
 [10:10] And I stayed in the mount, according to the first time, forty days and forty nights; and the LORD hearkened unto me at that time also, and the LORD would not destroy thee.
@@ -524,7 +524,7 @@ Deuteronomy - King James Version (KJV)
 [19:9] If thou shalt keep all these commandments to do them, which I command thee this day, to love the LORD thy God, and to walk ever in his ways; then shalt thou add three cities more for thee, beside these three:
 [19:10] That innocent blood be not shed in thy land, which the LORD thy God giveth thee for an inheritance, and so blood be upon thee.
 [19:11] But if any man hate his neighbor, and lie in wait for him, and rise up against him, and smite him mortally that he die, and fleeth into one of these cities:
-[19:12] Then the elders of his city shall send and fetch him thence, and deliver him into the hand of the avenger of blood, that he may die.
+[19:12] Then the elders of his city shall send and fetch him there, and deliver him into the hand of the avenger of blood, that he may die.
 [19:13] Thine eye shall not pity him, but thou shalt put away the guilt of innocent blood from Israel, that it may go well with thee.
 [19:14] Thou shalt not remove thy  neighbor's landmark, which they of old time have set in thine inheritance, which thou shalt inherit in the land that the LORD thy God giveth thee to possess it.
 [19:15] One witness shall not rise up against a man for any iniquity, or for any sin, in any sin that he sinneth: at the mouth of two witnesses, or at the mouth of three witnesses, shall the matter be established.
@@ -584,7 +584,7 @@ Deuteronomy - King James Version (KJV)
 [22:5] The woman shall not wear that which pertaineth unto a man, neither shall a man put on a woman's garment: for all that do so are abomination unto the LORD thy God.
 [22:6] If a bird's nest chance to be before thee in the way in any tree, or on the ground, whether they be young ones, or eggs, and the dam sitting upon the young, or upon the eggs, thou shalt not take the dam with the young:
 [22:7] But thou shalt in any wise let the dam go, and take the young to thee; that it may be well with thee, and that thou mayest prolong thy days.
-[22:8] When thou buildest a new house, then thou shalt make a battlement for thy roof, that thou bring not blood upon thine house, if any man fall from thence.
+[22:8] When thou buildest a new house, then thou shalt make a battlement for thy roof, that thou bring not blood upon thine house, if any man fall from there.
 [22:9] Thou shalt not sow thy vineyard with divers seeds: lest the fruit of thy seed which thou hast sown, and the fruit of thy vineyard, be defiled.
 [22:10] Thou shalt not plow with an ox and an ass together.
 [22:11] Thou shalt not wear a garment of divers sorts, as of woolen and linen together.
@@ -649,7 +649,7 @@ Deuteronomy - King James Version (KJV)
 [24:15] At his day thou shalt give him his hire, neither shall the sun go down upon it; for he is poor, and setteth his heart upon it: lest he cry against thee unto the LORD, and it be sin unto thee.
 [24:16] The fathers shall not be put to death for the children, neither shall the children be put to death for the fathers: every man shall be put to death for his own sin.
 [24:17] Thou shalt not pervert the judgment of the stranger, nor of the fatherless; nor take a widow's raiment to pledge:
-[24:18] But thou shalt remember that thou wast a bondman in Egypt, and the LORD thy God redeemed thee thence: therefore I command thee to do this thing.
+[24:18] But thou shalt remember that thou wast a bondman in Egypt, and the LORD thy God redeemed thee there: therefore I command thee to do this thing.
 [24:19] When thou cuttest down thine harvest in thy field, and hast forgot a sheaf in the field, thou shalt not go again to fetch it: it shall be for the stranger, for the fatherless, and for the widow: that the LORD thy God may bless thee in all the work of thine hands.
 [24:20] When thou beatest thine olive tree, thou shalt not go over the boughs again: it shall be for the stranger, for the fatherless, and for the widow.
 [24:21] When thou gatherest the grapes of thy vineyard, thou shalt not glean it afterward: it shall be for the stranger, for the fatherless, and for the widow.
@@ -818,7 +818,7 @@ Deuteronomy - King James Version (KJV)
 [30:1] And it shall come to pass, when all these things are come upon thee, the blessing and the curse, which I have set before thee, and thou shalt call them to mind among all the nations, whither the LORD thy God hath driven thee,
 [30:2] And shalt return unto the LORD thy God, and shalt obey his voice according to all that I command thee this day, thou and thy children, with all thine heart, and with all thy soul;
 [30:3] That then the LORD thy God will turn thy captivity, and have compassion upon thee, and will return and gather thee from all the nations, whither the LORD thy God hath scattered thee.
-[30:4] If any of thine be driven out unto the outmost parts of heaven, from thence will the LORD thy God gather thee, and from thence will he fetch thee:
+[30:4] If any of thine be driven out unto the outmost parts of heaven, from there will the LORD thy God gather thee, and from there will he fetch thee:
 [30:5] And the LORD thy God will bring thee into the land which thy fathers possessed, and thou shalt possess it; and he will do thee good, and multiply thee above thy fathers.
 [30:6] And the LORD thy God will circumcise thine heart, and the heart of thy seed, to love the LORD thy God with all thine heart, and with all thy soul, that thou mayest live.
 [30:7] And the LORD thy God will put all these curses upon thine enemies, and on them that hate thee, which persecuted thee.

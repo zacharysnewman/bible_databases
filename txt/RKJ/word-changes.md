@@ -19,3 +19,4 @@
 - wilt -> will
 - saith -> says
 - whosoever -> whoever
+- thence -> there

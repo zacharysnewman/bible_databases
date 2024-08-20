@@ -17,7 +17,7 @@ Mark
 [1:16] Now as he walked by the sea of Galilee, he saw Simon and Andrew his brother casting a net into the sea: for they were fishers.
 [1:17] And Jesus said unto them, Come you after me, and I will make you to become fishers of men.
 [1:18] And straightway they forsook their nets, and followed him.
-[1:19] And when he had gone a little farther thence, he saw James the son of Zebedee, and John his brother, who also were in the ship mending their nets.
+[1:19] And when he had gone a little farther there, he saw James the son of Zebedee, and John his brother, who also were in the ship mending their nets.
 [1:20] And straightway he called them: and they left their father Zebedee in the ship with the hired servants, and went after him.
 [1:21] And they went into Capernaum; and straightway on the sabbath day he entered into the synagogue, and taught.
 [1:22] And they were astonished at his doctrine: for he taught them as one that had authority, and not as the scribes.
@@ -191,7 +191,7 @@ Mark
 [5:41] And he took the damsel by the hand, and said unto her, Talitha cumi; which is, being interpreted, Damsel, I say unto you, arise.
 [5:42] And straightway the damsel arose, and walked; for she was of the age of twelve years. And they were astonished with a great astonishment.
 [5:43] And he charged them straitly that no man should know it; and commanded that something should be given her to eat.
-[6:1] And he went out from thence, and came into his own country; and his disciples follow him.
+[6:1] And he went out from there, and came into his own country; and his disciples follow him.
 [6:2] And when the sabbath day was come, he began to teach in the synagogue: and many hearing him were astonished, saying, From where hath this man these things? and what wisdom is this which is given unto him, that even such mighty works are wrought by his hands?
 [6:3] Is not this the carpenter, the son of Mary, the brother of James, and Joses, and of Juda, and Simon? and are not his sisters here with us? And they were offended at him.
 [6:4] But Jesus, said unto them, A prophet is not without honour, but in his own country, and among his own kin, and in his own house.
@@ -201,7 +201,7 @@ Mark
 [6:8] And commanded them that they should take nothing for their journey, save a staff only; no scrip, no bread, no money in their purse:
 [6:9] But be shod with sandals; and not put on two coats.
 [6:10] And he said unto them, In what place soever you enter into an house, there abide till you depart from that place.
-[6:11] And whoever shall not receive you, nor hear you, when you depart thence, shake off the dust under your feet for a testimony against them. Verily I say unto you, It shall be more tolerable for Sodom and Gomorrha in the day of judgment, than for that city.
+[6:11] And whoever shall not receive you, nor hear you, when you depart there, shake off the dust under your feet for a testimony against them. Verily I say unto you, It shall be more tolerable for Sodom and Gomorrha in the day of judgment, than for that city.
 [6:12] And they went out, and preached that men should repent.
 [6:13] And they cast out many devils, and anointed with oil many that were sick, and healed them.
 [6:14] And king Herod heard of him; (for his name was spread abroad:) and he said, That John the Baptist was risen from the dead, and therefore mighty works do shew forth themselves in him.
@@ -270,7 +270,7 @@ Mark
 [7:21] For from within, out of the heart of men, proceed evil thoughts, adulteries, fornications, murders,
 [7:22] Thefts, covetousness, wickedness, deceit, lasciviousness, an evil eye, blasphemy, pride, foolishness:
 [7:23] All these evil things come from within, and defile the man.
-[7:24] And from thence he arose, and went into the borders of Tyre and Sidon, and entered into an house, and would have no man know it: but he could not be hid.
+[7:24] And from there he arose, and went into the borders of Tyre and Sidon, and entered into an house, and would have no man know it: but he could not be hid.
 [7:25] For a certain woman, whose young daughter had an unclean spirit, heard of him, and came and fell at his feet:
 [7:26] The woman was a Greek, a Syrophenician by nation; and she besought him that he would cast forth the devil out of her daughter.
 [7:27] But Jesus said unto her, Let the children first be filled: for it is not meet to take the children's bread, and to cast it unto the dogs.
@@ -351,7 +351,7 @@ Mark
 [9:27] But Jesus took him by the hand, and lifted him up; and he arose.
 [9:28] And when he was come into the house, his disciples asked him privately, Why could not we cast him out?
 [9:29] And he said unto them, This kind can come forth by nothing, but by prayer and fasting.
-[9:30] And they departed thence, and passed through Galilee; and he would not that any man should know it.
+[9:30] And they departed there, and passed through Galilee; and he would not that any man should know it.
 [9:31] For he taught his disciples, and said unto them, The Son of man is delivered into the hands of men, and they shall kill him; and after that he is killed, he shall rise the third day.
 [9:32] But they understood not that saying, and were afraid to ask him.
 [9:33] And he came to Capernaum: and being in the house he asked them, What was it that you disputed among yourselves by the way?
@@ -372,7 +372,7 @@ Mark
 [9:48] Where their worm dieth not, and the fire is not quenched.
 [9:49] For every one shall be salted with fire, and every sacrifice shall be salted with salt.
 [9:50] Salt is good: but if the salt have lost his saltness, wherewith will you season it? Have salt in yourselves, and have peace one with another.
-[10:1] And he arose from thence, and cometh into the coasts of Judaea by the farther side of Jordan: and the people resort unto him again; and, as he was wont, he taught them again.
+[10:1] And he arose from there, and cometh into the coasts of Judaea by the farther side of Jordan: and the people resort unto him again; and, as he was wont, he taught them again.
 [10:2] And the Pharisees came to him, and asked him, Is it lawful for a man to put away his wife? tempting him.
 [10:3] And he answered and said unto them, What did Moses command you?
 [10:4] And they said, Moses suffered to write a bill of divorcement, and to put her away.
